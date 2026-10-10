@@ -12,6 +12,15 @@ async function fetchJSON<T>(path: string): Promise<T> {
   return res.json() as Promise<T>;
 }
 
+/** The build packs all own lessons into lessons.json; in development they are read one by one. */
+async function loadOwnLessons(): Promise<Lesson[]> {
+  try {
+    return (await fetchJSON<{ lessons: Lesson[] }>('lessons.json')).lessons;
+  } catch {
+    return loadFromIndex('');
+  }
+}
+
 async function loadFromIndex(dir: string): Promise<Lesson[]> {
   const index = await fetchJSON<{ lessons: string[] }>(`${dir}index.json`);
   return Promise.all(index.lessons.map((file) => fetchJSON<Lesson>(dir + file)));
@@ -19,13 +28,16 @@ async function loadFromIndex(dir: string): Promise<Lesson[]> {
 
 /**
  * Lessons built from the book's own exercises: in plain form they exist only on the owner's machine
- * (data/book is not in git); the published site has them only encrypted and needs the password.
+ * (data/book is not in git) and are read by the dev server; built sites have them only encrypted
+ * and need the password.
  */
 async function loadBookLessons(): Promise<Lesson[] | null> {
-  try {
-    return await loadFromIndex('book/');
-  } catch {
-    // not on the owner's machine
+  if (import.meta.env.DEV) {
+    try {
+      return await loadFromIndex('book/');
+    } catch {
+      // no local copy of the book
+    }
   }
   const password = getBookPassword();
   if (!password) return null;
@@ -45,7 +57,7 @@ export async function checkBookPassword(password: string): Promise<number> {
 export function loadLessons(): Promise<Lesson[]> {
   if (!cache) {
     cache = loadBookLessons()
-      .then((book) => book ?? loadFromIndex(''))
+      .then((book) => book ?? loadOwnLessons())
       .then((lessons) => lessons.sort((a, b) => a.id - b.id));
     cache.catch(() => {
       cache = null;
