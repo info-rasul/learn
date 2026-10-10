@@ -97,7 +97,9 @@
         "The shop closes at eight o'clock.",
         "The shop closes at eight.",
         "The shop closes at 8 o'clock.",
-        "The store closes at eight o'clock."
+        "The store closes at eight o'clock.",
+        "The shop closes at 8.",
+        "The store closes at eight."
       ]
     },
     {
@@ -106,7 +108,9 @@
         "We don't live in the city centre.",
         "We don't live in the town centre.",
         "We don't live in the centre of town.",
-        "We don't live in the center of the city."
+        "We don't live in the center of the city.",
+        "We don't live in the centre of the city.",
+        "We don't live in the city center."
       ]
     },
     {
@@ -199,7 +203,8 @@
       "en": [
         "I promise I won't be late again.",
         "I promise I'll never be late again.",
-        "I promise that I won't be late again."
+        "I promise that I won't be late again.",
+        "I promise not to be late again."
       ]
     },
     {

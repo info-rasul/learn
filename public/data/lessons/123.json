@@ -59,7 +59,8 @@
       "en": [
         "There's nobody in the room.",
         "There's no one in the room.",
-        "There isn't anybody in the room."
+        "There isn't anybody in the room.",
+        "There isn't anyone in the room."
       ]
     },
     {
@@ -144,7 +145,8 @@
     {
       "ru": "На двери написано его имя.",
       "en": [
-        "His name is on the door."
+        "His name is on the door.",
+        "His name is written on the door."
       ]
     },
     {
@@ -187,7 +189,8 @@
       "ru": "Сядь сзади в машине.",
       "en": [
         "Sit in the back of the car.",
-        "Sit in the back seat of the car."
+        "Sit in the back seat of the car.",
+        "Sit in the back."
       ]
     },
     {

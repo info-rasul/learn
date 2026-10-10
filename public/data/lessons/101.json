@@ -36,9 +36,9 @@
     }
   ],
   "items": [
-    { "ru": "Она хорошо говорит по-французски.", "en": ["She speaks French well."] },
+    { "ru": "Она хорошо говорит по-французски.", "en": ["She speaks French well.", "She speaks good French."] },
     { "ru": "Ты хорошо спал?", "en": ["Did you sleep well?"] },
-    { "ru": "Он хорошо готовит.", "en": ["He cooks well."] },
+    { "ru": "Он хорошо готовит.", "en": ["He cooks well.", "He's a good cook."] },
     { "ru": "Это хорошо оплачиваемая работа.", "en": ["It's a well-paid job.", "This is a well-paid job."] },
     { "ru": "Этот писатель хорошо известен во Франции.", "en": ["This writer is well known in France."] },
     { "ru": "Она всегда хорошо одета.", "en": ["She is always well dressed."] },
@@ -52,7 +52,7 @@
     { "ru": "Я поздно лёг спать.", "en": ["I went to bed late."] },
     { "ru": "Поезд пришёл поздно.", "en": ["The train arrived late.", "The train came late."] },
     { "ru": "Ты видел Тома в последнее время?", "en": ["Have you seen Tom lately?", "Have you seen Tom recently?"] },
-    { "ru": "В последнее время я очень устаю.", "en": ["I've been very tired lately.", "I've been very tired recently.", "Lately I've been very tired."] },
+    { "ru": "В последнее время я очень устаю.", "en": ["I've been very tired lately.", "I've been very tired recently.", "Lately I've been very tired.", "I've been getting very tired lately."] },
     { "ru": "Я почти не знаю её.", "en": ["I hardly know her."] },
     { "ru": "Он почти ничего не сказал.", "en": ["He hardly said anything.", "He said hardly anything."] },
     { "ru": "У нас почти нет денег.", "en": ["We have hardly any money.", "We've got hardly any money.", "We hardly have any money."] },

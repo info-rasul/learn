@@ -115,6 +115,9 @@
     {
       "ru": "Ты уже заплатил за аренду в этом месяце?",
       "en": [
+        "Have you already paid this month's rent?",
+        "Have you already paid the rent this month?",
+        "Have you paid this month's rent yet?",
         "Have you paid the rent this month?",
         "Did you pay the rent this month?"
       ]
@@ -130,7 +133,8 @@
       "en": [
         "Thank you for helping with the move.",
         "Thanks for helping with the move.",
-        "Thank you for your help with the move."
+        "Thank you for your help with the move.",
+        "Thanks for your help with the move."
       ]
     },
     {
@@ -159,7 +163,8 @@
       "en": [
         "The boss blamed the mistake on me.",
         "My boss blamed the mistake on me.",
-        "The boss blamed me for the mistake."
+        "The boss blamed me for the mistake.",
+        "My boss blamed me for the mistake."
       ]
     },
     {
@@ -208,7 +213,9 @@
       "ru": "Все хвалили Пола за его торт.",
       "en": [
         "Everyone complimented Paul on his cake.",
-        "Everybody complimented Paul on his cake."
+        "Everybody complimented Paul on his cake.",
+        "Everyone praised Paul for his cake.",
+        "Everybody praised Paul for his cake."
       ]
     },
     {

@@ -75,7 +75,7 @@
       ]
     },
     {
-      "ru": "Сегодня ощущение, будто уже весна.",
+      "ru": "Сегодня ощущение, будто весна.",
       "en": [
         "It feels like spring today.",
         "Today it feels like spring."
@@ -112,7 +112,9 @@
         "It looks as if nobody is at home.",
         "It looks like nobody is at home.",
         "It looks as though nobody is at home.",
-        "It looks as if nobody is home."
+        "It looks as if nobody is home.",
+        "It looks like nobody is home.",
+        "It looks as if there's nobody at home."
       ]
     },
     {
@@ -120,7 +122,9 @@
       "en": [
         "She looks as if she hasn't slept all night.",
         "She looks as though she hasn't slept all night.",
-        "She looks like she hasn't slept all night."
+        "She looks like she hasn't slept all night.",
+        "She looks as if she didn't sleep all night.",
+        "She looks like she didn't sleep all night."
       ]
     },
     {
@@ -163,7 +167,9 @@
         "You sound as if you don't want to go.",
         "It sounds as if you don't want to go.",
         "You sound as though you don't want to go.",
-        "You sound like you don't want to go."
+        "You sound like you don't want to go.",
+        "It sounds like you don't want to go.",
+        "It sounds as though you don't want to go."
       ]
     },
     {
@@ -200,7 +206,10 @@
         "He acts as if he was the boss.",
         "He acts as if he were the boss.",
         "He behaves as though he was the boss.",
-        "He acts like he's the boss."
+        "He acts like he's the boss.",
+        "He behaves as if he's the boss.",
+        "He acts as if he's the boss.",
+        "He behaves like he's the boss."
       ]
     },
     {
@@ -209,7 +218,8 @@
         "She talks to me as if I was a child.",
         "She talks to me as if I were a child.",
         "She talks to me as though I was a child.",
-        "She talks to me like I'm a child."
+        "She talks to me like I'm a child.",
+        "She talks to me as if I'm a child."
       ]
     },
     {
@@ -218,7 +228,8 @@
         "He speaks English as if he was English.",
         "He speaks English as if he were English.",
         "He speaks English as though he was English.",
-        "He speaks English like he's English."
+        "He speaks English like he's English.",
+        "He speaks English as if he's English."
       ]
     },
     {

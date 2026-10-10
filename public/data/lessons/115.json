@@ -51,7 +51,8 @@
       "ru": "Я не пойду, если ты не пойдёшь со мной.",
       "en": [
         "I won't go unless you come with me.",
-        "I won't go if you don't come with me."
+        "I won't go if you don't come with me.",
+        "I won't go unless you go with me."
       ]
     },
     {
@@ -148,7 +149,7 @@
       ]
     },
     {
-      "ru": "Можешь взять мою машину, если будешь ехать осторожно.",
+      "ru": "Можешь взять мою машину при условии, что будешь ехать осторожно.",
       "en": [
         "You can borrow my car as long as you drive carefully.",
         "You can borrow my car provided you drive carefully.",
@@ -158,7 +159,7 @@
       ]
     },
     {
-      "ru": "Можешь остаться, если будешь вести себя тихо.",
+      "ru": "Можешь остаться при условии, что будешь вести себя тихо.",
       "en": [
         "You can stay as long as you're quiet.",
         "You can stay provided you're quiet.",
@@ -182,7 +183,8 @@
         "We'll have a picnic as long as the weather is good.",
         "We'll have a picnic provided the weather is good.",
         "We'll have a picnic providing the weather is good.",
-        "We'll have a picnic so long as the weather is good."
+        "We'll have a picnic so long as the weather is good.",
+        "We'll have a picnic only if the weather is good."
       ]
     },
     {
@@ -205,7 +207,7 @@
       ]
     },
     {
-      "ru": "Можно мне пойти, если я вернусь до десяти?",
+      "ru": "Можно мне пойти при условии, что я вернусь до десяти?",
       "en": [
         "Can I go as long as I'm back before ten?",
         "Can I go provided I'm back before ten?",
@@ -219,11 +221,13 @@
         "I'll go as long as we go by train.",
         "I'll go provided we go by train.",
         "I'll go providing we go by train.",
-        "I'll go so long as we go by train."
+        "I'll go so long as we go by train.",
+        "I'll go only if we go by train.",
+        "I'll only go if we go by train."
       ]
     },
     {
-      "ru": "Всё будет хорошо, если мы будем держаться вместе.",
+      "ru": "Всё будет хорошо, пока мы держимся вместе.",
       "en": [
         "Everything will be fine as long as we stay together.",
         "Everything will be fine provided we stay together.",
@@ -241,7 +245,7 @@
       ]
     },
     {
-      "ru": "Можно взять твой ноутбук, если я буду с ним аккуратен?",
+      "ru": "Можно взять твой ноутбук при условии, что я буду с ним аккуратен?",
       "en": [
         "Can I borrow your laptop as long as I'm careful with it?",
         "Can I borrow your laptop provided I'm careful with it?",

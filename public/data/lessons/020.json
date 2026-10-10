@@ -175,8 +175,10 @@
     {
       "ru": "Мы собирались поехать на поезде, но потом решили лететь.",
       "en": [
+        "We were going to take the train, but then we decided to fly.",
         "We were going to take the train, but we decided to fly.",
         "We were going to go by train, but then we decided to fly.",
+        "We were going to go by train, but we decided to fly.",
         "We were going to travel by train, but then we decided to fly."
       ]
     },
@@ -190,7 +192,9 @@
       "ru": "Я думал, что фильм будет скучным (но ошибся).",
       "en": [
         "I thought the film was going to be boring.",
-        "I thought the movie was going to be boring."
+        "I thought the movie was going to be boring.",
+        "I thought that the film was going to be boring.",
+        "I thought that the movie was going to be boring."
       ]
     },
     {

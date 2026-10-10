@@ -187,7 +187,8 @@
       "ru": "Я пытаюсь меньше есть сладкого.",
       "en": [
         "I'm trying to cut down on sweets.",
-        "I'm trying to cut down on sweet things."
+        "I'm trying to cut down on sweet things.",
+        "I'm trying to cut down on sweet food."
       ]
     },
     {
@@ -216,14 +217,17 @@
       "ru": "Я на тебя рассчитывал, а ты меня подвёл.",
       "en": [
         "I was counting on you, and you let me down.",
-        "I relied on you, but you let me down."
+        "I relied on you, but you let me down.",
+        "I was counting on you, but you let me down.",
+        "I was relying on you, but you let me down."
       ]
     },
     {
       "ru": "Ей предложили работу в Риме, но она отказалась.",
       "en": [
         "She was offered a job in Rome, but she turned it down.",
-        "She was offered a job in Rome, but she turned the offer down."
+        "She was offered a job in Rome, but she turned the offer down.",
+        "She was offered a job in Rome, but she turned down the offer."
       ]
     },
     {

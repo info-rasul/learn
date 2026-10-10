@@ -33,17 +33,17 @@
     { "ru": "Лучше не покупай её, она очень дорогая.", "en": ["You'd better not buy it, it's very expensive.", "You'd better not buy it because it's very expensive."] },
     { "ru": "Нам лучше уйти, правда?", "en": ["We'd better go, hadn't we?", "We'd better leave, hadn't we?"] },
     { "ru": "Фильм начинается в восемь, так что тебе лучше выйти сейчас.", "en": ["The film starts at eight, so you'd better leave now.", "The film starts at eight, so you'd better go now.", "The movie starts at eight, so you'd better leave now."] },
-    { "ru": "(общий совет) Тебе стоит больше читать.", "en": ["You should read more."] },
-    { "ru": "(в целом) Всем стоит учить иностранный язык.", "en": ["Everyone should learn a foreign language.", "Everybody should learn a foreign language."] },
+    { "ru": "(общий совет) Тебе стоит больше читать.", "en": ["You should read more.", "You ought to read more."] },
+    { "ru": "(в целом) Всем стоит учить иностранный язык.", "en": ["Everyone should learn a foreign language.", "Everybody should learn a foreign language.", "Everyone ought to learn a foreign language.", "Everybody ought to learn a foreign language."] },
     { "ru": "Это отличная книга, тебе стоит её прочитать.", "en": ["It's a great book, you should read it.", "It's a great book, so you should read it."] },
-    { "ru": "Пора ложиться спать.", "en": ["It's time to go to bed.", "It's time for bed."] },
-    { "ru": "Нам пора начинать.", "en": ["It's time for us to start.", "It's time we started."] },
+    { "ru": "Пора ложиться спать.", "en": ["It's time to go to bed.", "It's time for bed.", "It's bedtime."] },
+    { "ru": "Нам пора начинать.", "en": ["It's time for us to start.", "It's time we started.", "It's time to start."] },
     { "ru": "Уже поздно, нам пора уходить.", "en": ["It's late, it's time we left.", "It's late, it's time for us to leave.", "It's late, it's time we went.", "It's late, it's time for us to go."] },
-    { "ru": "Детям уже пора быть в постели.", "en": ["It's time the children were in bed."] },
-    { "ru": "Тебе давно пора найти работу.", "en": ["It's about time you found a job.", "It's time you found a job.", "It's high time you found a job."] },
+    { "ru": "Детям уже пора быть в постели.", "en": ["It's time the children were in bed.", "It's time for the children to be in bed.", "It's time the kids were in bed."] },
+    { "ru": "Тебе давно пора найти работу.", "en": ["It's about time you found a job.", "It's time you found a job.", "It's high time you found a job.", "It's about time you got a job.", "It's high time you got a job."] },
     { "ru": "Ему пора понять, что он не всегда прав.", "en": ["It's time he realised that he isn't always right.", "It's time he realized that he isn't always right.", "It's time he realised he isn't always right.", "It's time he realized he isn't always right."] },
-    { "ru": "Давно пора тебе что-то сделать со своей машиной.", "en": ["It's about time you did something about your car.", "It's time you did something about your car."] },
+    { "ru": "Давно пора тебе что-то сделать со своей машиной.", "en": ["It's about time you did something about your car.", "It's time you did something about your car.", "It's high time you did something about your car."] },
     { "ru": "Мне пора в отпуск.", "en": ["It's time I had a holiday.", "It's time I went on holiday.", "It's time I took a holiday.", "It's time for me to have a holiday.", "It's time I had a vacation."] },
-    { "ru": "Тебе пора перестать жаловаться.", "en": ["It's time you stopped complaining.", "It's about time you stopped complaining."] }
+    { "ru": "Тебе пора перестать жаловаться.", "en": ["It's time you stopped complaining.", "It's about time you stopped complaining.", "It's time for you to stop complaining."] }
   ]
 }

@@ -103,7 +103,9 @@
         "The hotel we stayed at was cheap.",
         "The hotel where we stayed was cheap.",
         "The hotel that we stayed at was cheap.",
-        "The hotel which we stayed at was cheap."
+        "The hotel which we stayed at was cheap.",
+        "The hotel we stayed in was cheap.",
+        "The hotel that we stayed in was cheap."
       ]
     },
     {
@@ -131,7 +133,9 @@
         "Please turn on the light.",
         "Turn the light on, please.",
         "Switch on the light, please.",
-        "Please switch on the light."
+        "Please switch on the light.",
+        "Please turn the light on.",
+        "Switch the light on, please."
       ]
     },
     {
@@ -155,7 +159,8 @@
       "ru": "Мне нужно сходить в банк.",
       "en": [
         "I need to go to the bank.",
-        "I have to go to the bank."
+        "I have to go to the bank.",
+        "I must go to the bank."
       ]
     },
     {
@@ -173,7 +178,9 @@
         "Anna isn't well. She's gone to the doctor.",
         "Anna isn't well. She went to the doctor.",
         "Anna is ill. She's gone to the doctor.",
-        "Anna is ill. She went to the doctor."
+        "Anna is ill. She went to the doctor.",
+        "Anna isn't feeling well. She's gone to the doctor.",
+        "Anna isn't feeling well. She went to the doctor."
       ]
     },
     {
@@ -208,7 +215,8 @@
         "Apples are two euros a kilo.",
         "Apples cost two euros a kilo.",
         "The apples are two euros a kilo.",
-        "The apples cost two euros a kilo."
+        "The apples cost two euros a kilo.",
+        "Apples are two euros per kilo."
       ]
     },
     {

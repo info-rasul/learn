@@ -76,7 +76,8 @@
         "It's a good TV programme.",
         "It's a good television programme.",
         "It's a good TV program.",
-        "This is a good TV programme."
+        "This is a good TV programme.",
+        "It's a good TV show."
       ]
     },
     {
@@ -155,7 +156,8 @@
     {
       "ru": "Она несла сумку, полную покупок.",
       "en": [
-        "She was carrying a bag of shopping."
+        "She was carrying a bag of shopping.",
+        "She was carrying a bag full of shopping."
       ]
     },
     {
@@ -218,7 +220,8 @@
       "ru": "Я прохожу четырёхнедельный курс английского.",
       "en": [
         "I'm doing a four-week English course.",
-        "I'm taking a four-week English course."
+        "I'm taking a four-week English course.",
+        "I'm on a four-week English course."
       ]
     }
   ]

@@ -21,8 +21,8 @@
   ],
   "items": [
     { "ru": "Я бы написал Эмме, если бы знал её адрес.", "en": ["I'd write to Emma if I knew her address.", "If I knew Emma's address, I'd write to her.", "I'd write to Emma if I knew her email address."] },
-    { "ru": "Если бы у меня было больше времени, я бы занимался спортом.", "en": ["If I had more time, I'd do more sport.", "If I had more time, I'd do sport.", "If I had more time, I'd play sport.", "If I had more time, I'd do more exercise."] },
-    { "ru": "Если бы ты был на моём месте, что бы ты сделал?", "en": ["If you were me, what would you do?", "What would you do if you were me?", "If you were in my place, what would you do?"] },
+    { "ru": "Если бы у меня было больше времени, я бы больше занимался спортом.", "en": ["If I had more time, I'd do more sport.", "If I had more time, I'd play more sport.", "If I had more time, I'd do more exercise.", "If I had more time, I'd exercise more."] },
+    { "ru": "Если бы ты был на моём месте, что бы ты сделал?", "en": ["If you were me, what would you do?", "What would you do if you were me?", "If you were in my place, what would you do?", "If you were in my position, what would you do?"] },
     { "ru": "На твоём месте я бы не покупал эту машину.", "en": ["If I were you, I wouldn't buy this car.", "If I was you, I wouldn't buy this car.", "I wouldn't buy this car if I were you.", "If I were you, I wouldn't buy that car.", "I wouldn't buy that car if I were you."] },
     { "ru": "Если бы я был выше, я бы играл в баскетбол.", "en": ["If I were taller, I'd play basketball.", "If I was taller, I'd play basketball."] },
     { "ru": "Мы бы сели на улице, если бы не было так ветрено.", "en": ["We'd sit outside if it weren't so windy.", "We'd sit outside if it wasn't so windy."] },
@@ -43,6 +43,6 @@
     { "ru": "Жаль, что сегодня не суббота.", "en": ["I wish it were Saturday today.", "I wish it was Saturday today.", "I wish today were Saturday.", "I wish today was Saturday."] },
     { "ru": "Жаль, что моей сестры сейчас здесь нет.", "en": ["I wish my sister were here now.", "I wish my sister was here now."] },
     { "ru": "Жаль, что я не могу пойти с тобой.", "en": ["I wish I could go with you.", "I wish I could come with you."] },
-    { "ru": "Тебе никогда не хочется жить у моря?", "en": ["Do you ever wish you lived by the sea?", "Do you ever wish you lived near the sea?"] }
+    { "ru": "Тебе никогда не хочется жить у моря?", "en": ["Do you ever wish you lived by the sea?", "Do you ever wish you lived near the sea?", "Don't you ever wish you lived by the sea?", "Don't you ever wish you lived near the sea?"] }
   ]
 }

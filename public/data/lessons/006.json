@@ -87,7 +87,9 @@
       "en": [
         "What were you doing at six yesterday evening?",
         "What were you doing at 6 pm yesterday?",
-        "What were you doing at six o'clock yesterday evening?"
+        "What were you doing at six o'clock yesterday evening?",
+        "What were you doing yesterday at six in the evening?",
+        "What were you doing at six in the evening yesterday?"
       ]
     },
     {
@@ -169,7 +171,8 @@
     {
       "ru": "Она не слушала, поэтому ничего не поняла.",
       "en": [
-        "She wasn't listening, so she didn't understand anything."
+        "She wasn't listening, so she didn't understand anything.",
+        "She wasn't listening, so she understood nothing."
       ]
     },
     {

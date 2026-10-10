@@ -99,7 +99,9 @@
         "I liked the film, although it was too long.",
         "I enjoyed the film, though it was too long.",
         "I enjoyed the film, even though it was too long.",
-        "I enjoyed the movie, although it was too long."
+        "I enjoyed the movie, although it was too long.",
+        "I liked the movie, although it was too long.",
+        "I liked the film, though it was too long."
       ]
     },
     {
@@ -227,7 +229,8 @@
       "ru": "(о плохой погоде на отдыхе) Мы всё-таки хорошо провели время.",
       "en": [
         "We had a good time, though.",
-        "We had a nice time, though."
+        "We had a nice time, though.",
+        "We still had a good time."
       ]
     },
     {

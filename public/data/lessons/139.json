@@ -94,7 +94,9 @@
         "Turn out the light before you go to sleep.",
         "Turn the light out before you go to sleep.",
         "Turn out the light before going to bed.",
-        "Turn off the light before you go to sleep."
+        "Turn off the light before you go to sleep.",
+        "Turn the light off before you go to sleep.",
+        "Turn out the light before you go to bed."
       ]
     },
     {
@@ -130,7 +132,8 @@
       "en": [
         "That works out at twenty euros each.",
         "It works out at twenty euros per person.",
-        "That works out at twenty euros per person."
+        "That works out at twenty euros per person.",
+        "It works out at twenty euros each."
       ]
     },
     {
@@ -240,7 +243,8 @@
       "ru": "У меня почти кончилось время.",
       "en": [
         "I'm running out of time.",
-        "I've almost run out of time."
+        "I've almost run out of time.",
+        "I've nearly run out of time."
       ]
     },
     {

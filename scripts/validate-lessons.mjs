@@ -5,14 +5,19 @@ import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 
 const args = process.argv.slice(2);
-const bookIdx = args.indexOf('--book');
-const bookPath = bookIdx >= 0 ? args.splice(bookIdx, 2)[1] : null;
+const option = (name) => {
+  const i = args.indexOf(name);
+  return i >= 0 ? args.splice(i, 2)[1] : null;
+};
+const bookPath = option('--book');
+// --local checks the owner-only lessons built from the book's exercises (public/data/book).
+const local = args.includes('--local') && args.splice(args.indexOf('--local'), 1);
 const [first = 1, last = 145] = args.map(Number);
 
-const dir = join(import.meta.dirname, '..', 'public', 'data', 'lessons');
-const MIN_ITEMS = 20;
-const MAX_ITEMS = 30;
-const MAX_WORDS = 14;
+const dir = join(import.meta.dirname, '..', 'public', 'data', ...(local ? ['book'] : []), 'lessons');
+const MIN_ITEMS = local ? 5 : 20;
+const MAX_ITEMS = local ? 80 : 30;
+const MAX_WORDS = local ? 24 : 14;
 const BLOCK_TYPES = new Set(['p', 'h', 'tip', 'list', 'table']);
 
 const norm = (s) =>

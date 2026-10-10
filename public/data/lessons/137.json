@@ -54,7 +54,8 @@
       "ru": "Автобус был переполнен, и я не смог сесть.",
       "en": [
         "The bus was full and I couldn't get on.",
-        "The bus was full, so I couldn't get on."
+        "The bus was full, so I couldn't get on.",
+        "The bus was crowded and I couldn't get on."
       ]
     },
     {
@@ -159,7 +160,8 @@
       "en": [
         "It's dark here, turn it on.",
         "It's dark in here, turn it on.",
-        "It's dark here, switch it on."
+        "It's dark here, switch it on.",
+        "It's dark in here, switch it on."
       ]
     },
     {
@@ -198,7 +200,9 @@
       "ru": "Можно выбросить эти старые журналы?",
       "en": [
         "Can I throw away these old magazines?",
-        "Can I throw these old magazines away?"
+        "Can I throw these old magazines away?",
+        "Can I throw out these old magazines?",
+        "Can I throw these old magazines out?"
       ]
     },
     {

@@ -48,7 +48,9 @@
       "en": [
         "We waved to them as they left.",
         "We waved to them as they were leaving.",
-        "We waved at them as they left."
+        "We waved at them as they left.",
+        "We waved to them when they left.",
+        "We waved to them when they were leaving."
       ]
     },
     {
@@ -56,7 +58,8 @@
       "en": [
         "She smiled as she came into the room.",
         "She smiled as she entered the room.",
-        "She smiled as she walked into the room."
+        "She smiled as she walked into the room.",
+        "She smiled when she came into the room."
       ]
     },
     {
@@ -64,7 +67,8 @@
       "en": [
         "I cut my finger as I was cutting the bread.",
         "I cut my finger while I was cutting the bread.",
-        "I cut my finger when I was cutting the bread."
+        "I cut my finger when I was cutting the bread.",
+        "I cut my finger while cutting the bread."
       ]
     },
     {
@@ -209,7 +213,9 @@
       "ru": "(в детстве) Когда я был ребёнком, я жил в Риме.",
       "en": [
         "When I was a child, I lived in Rome.",
-        "I lived in Rome when I was a child."
+        "I lived in Rome when I was a child.",
+        "As a child, I lived in Rome.",
+        "I lived in Rome as a child."
       ]
     },
     {
@@ -217,7 +223,8 @@
       "en": [
         "When we were young, we played outside a lot.",
         "When we were little, we played outside a lot.",
-        "When we were children, we played outside a lot."
+        "When we were children, we played outside a lot.",
+        "As children, we played outside a lot."
       ]
     },
     {

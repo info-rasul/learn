@@ -132,7 +132,8 @@
     {
       "ru": "(заранее, на всякий случай) Я дам тебе свой номер на случай, если опоздаю.",
       "en": [
-        "I'll give you my number in case I'm late."
+        "I'll give you my number in case I'm late.",
+        "I'll give you my phone number in case I'm late."
       ]
     },
     {
@@ -167,13 +168,15 @@
     {
       "ru": "В случае пожара пользуйтесь лестницей.",
       "en": [
-        "In case of fire, use the stairs."
+        "In case of fire, use the stairs.",
+        "Use the stairs in case of fire."
       ]
     },
     {
       "ru": "В случае опасности нажмите эту кнопку.",
       "en": [
-        "In case of danger, press this button."
+        "In case of danger, press this button.",
+        "Press this button in case of danger."
       ]
     },
     {
@@ -181,7 +184,8 @@
       "en": [
         "In case of any problems, call me.",
         "In case of any problems, phone me.",
-        "In case of problems, call me."
+        "In case of problems, call me.",
+        "Call me in case of any problems."
       ]
     },
     {
@@ -195,7 +199,8 @@
       "ru": "Она сфотографировала расписание на случай, если забудет его.",
       "en": [
         "She took a photo of the timetable in case she forgot it.",
-        "She took a picture of the timetable in case she forgot it."
+        "She took a picture of the timetable in case she forgot it.",
+        "She took a photo of the timetable in case she forgot."
       ]
     },
     {

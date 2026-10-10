@@ -27,9 +27,9 @@
     { "ru": "Я бы не хотел жить в большом городе.", "en": ["I wouldn't like to live in a big city.", "I wouldn't want to live in a big city."] },
     { "ru": "Ты бы хотел жить за границей?", "en": ["Would you like to live abroad?"] },
     { "ru": "(на твоём месте) Я бы ничего ему не говорил.", "en": ["I wouldn't tell him anything.", "I wouldn't say anything to him."] },
-    { "ru": "Что бы ты сделал на моём месте?", "en": ["What would you do in my position?", "What would you do in my place?", "What would you do if you were me?"] },
+    { "ru": "Что бы ты сделал на моём месте?", "en": ["What would you do in my position?", "What would you do in my place?", "What would you do if you were me?", "What would you do if you were in my position?", "What would you do if you were in my place?"] },
     { "ru": "Не знаю, что бы я делал без тебя.", "en": ["I don't know what I would do without you."] },
-    { "ru": "Без твоей помощи мы бы пропали.", "en": ["We would have been lost without your help."] },
+    { "ru": "(в тот раз) Без твоей помощи мы бы пропали.", "en": ["We would have been lost without your help."] },
     { "ru": "(жаль, ты не пошёл) Тебе бы понравился концерт.", "en": ["You would have loved the concert.", "You would have liked the concert.", "You would have enjoyed the concert."] },
     { "ru": "(мы полетели самолётом) Было бы дешевле поехать поездом.", "en": ["It would have been cheaper to go by train.", "It would have been cheaper to take the train."] },
     { "ru": "Я бы купил этот дом, но у меня нет денег.", "en": ["I'd buy this house, but I don't have the money.", "I'd buy this house, but I haven't got the money.", "I'd buy this house, but I don't have enough money."] },
@@ -39,11 +39,11 @@
     { "ru": "Я бы тебе помог, но я очень занят.", "en": ["I'd help you, but I'm very busy."] },
     { "ru": "Майк сказал, что приедет в восемь.", "en": ["Mike said he would come at eight.", "Mike said that he would come at eight.", "Mike said he would arrive at eight.", "Mike said that he would arrive at eight.", "Mike said he would come at 8."] },
     { "ru": "Она пообещала, что никому не расскажет.", "en": ["She promised she wouldn't tell anyone.", "She promised that she wouldn't tell anyone.", "She promised she wouldn't tell anybody.", "She promised that she wouldn't tell anybody."] },
-    { "ru": "(она отказалась) Я просил её остаться, но она не захотела.", "en": ["I asked her to stay, but she wouldn't."] },
+    { "ru": "(она отказалась) Я просил её остаться, но она не захотела.", "en": ["I asked her to stay, but she wouldn't.", "I asked her to stay, but she wouldn't stay."] },
     { "ru": "(отказывался) Он не хотел говорить мне, что случилось.", "en": ["He wouldn't tell me what had happened.", "He wouldn't tell me what happened."] },
-    { "ru": "Сегодня утром мой ноутбук никак не включался.", "en": ["My laptop wouldn't turn on this morning.", "This morning my laptop wouldn't turn on.", "My laptop wouldn't switch on this morning.", "My laptop wouldn't start this morning."] },
-    { "ru": "(регулярно) В детстве мы каждое лето навещали бабушку.", "en": ["When we were children, we would visit our grandmother every summer.", "When we were children, we used to visit our grandmother every summer.", "When we were kids, we would visit our grandmother every summer.", "As children, we would visit our grandmother every summer."] },
-    { "ru": "Когда дедушка злился, он уходил в сад.", "en": ["Whenever my grandfather was angry, he would go into the garden.", "When my grandfather was angry, he would go into the garden.", "Whenever my grandfather was angry, he used to go into the garden.", "When my grandfather was angry, he used to go into the garden."] },
-    { "ru": "(раньше, регулярно) По воскресеньям папа готовил нам завтрак.", "en": ["On Sundays my dad would make us breakfast.", "On Sundays my dad would make breakfast for us.", "On Sundays my dad used to make us breakfast.", "On Sundays my father would make us breakfast."] }
+    { "ru": "Сегодня утром мой ноутбук никак не включался.", "en": ["My laptop wouldn't turn on this morning.", "This morning my laptop wouldn't turn on.", "My laptop wouldn't switch on this morning.", "My laptop wouldn't start this morning.", "My laptop wouldn't work this morning."] },
+    { "ru": "(регулярно) В детстве мы каждое лето навещали бабушку.", "en": ["When we were children, we would visit our grandmother every summer.", "When we were children, we used to visit our grandmother every summer.", "When we were kids, we would visit our grandmother every summer.", "As children, we would visit our grandmother every summer.", "When we were kids, we used to visit our grandmother every summer.", "When we were children, we visited our grandmother every summer."] },
+    { "ru": "Когда дедушка злился, он уходил в сад.", "en": ["Whenever my grandfather was angry, he would go into the garden.", "When my grandfather was angry, he would go into the garden.", "Whenever my grandfather was angry, he used to go into the garden.", "When my grandfather was angry, he used to go into the garden.", "When my grandfather was angry, he went into the garden.", "Whenever my grandfather was angry, he went into the garden.", "When my grandfather got angry, he would go into the garden."] },
+    { "ru": "(раньше, регулярно) По воскресеньям папа готовил нам завтрак.", "en": ["On Sundays my dad would make us breakfast.", "On Sundays my dad would make breakfast for us.", "On Sundays my dad used to make us breakfast.", "On Sundays my father would make us breakfast.", "On Sundays my dad made us breakfast.", "My dad would make us breakfast on Sundays."] }
   ]
 }

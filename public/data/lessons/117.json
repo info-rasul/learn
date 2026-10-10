@@ -78,7 +78,8 @@
     {
       "ru": "Пахнет как кофе.",
       "en": [
-        "It smells like coffee."
+        "It smells like coffee.",
+        "It smells of coffee."
       ]
     },
     {
@@ -93,7 +94,8 @@
       "en": [
         "I like fruit such as apples and bananas.",
         "I like fruit like apples and bananas.",
-        "I love fruit such as apples and bananas."
+        "I love fruit such as apples and bananas.",
+        "I like fruit, for example apples and bananas."
       ]
     },
     {

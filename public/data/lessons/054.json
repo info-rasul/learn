@@ -28,22 +28,22 @@
     { "ru": "Мы не можем позволить себе новую машину.", "en": ["We can't afford to buy a new car.", "We can't afford a new car."] },
     { "ru": "Нам удалось успеть на последний автобус.", "en": ["We managed to catch the last bus."] },
     { "ru": "Том обещал не опаздывать.", "en": ["Tom promised not to be late."] },
-    { "ru": "Я научился плавать в шесть лет.", "en": ["I learned to swim when I was six.", "I learnt to swim when I was six.", "I learned how to swim when I was six.", "I learnt how to swim when I was six.", "I learned to swim at the age of six."] },
+    { "ru": "Я научился плавать в шесть лет.", "en": ["I learned to swim when I was six.", "I learnt to swim when I was six.", "I learned how to swim when I was six.", "I learnt how to swim when I was six.", "I learned to swim at the age of six.", "I learnt to swim at the age of six."] },
     { "ru": "Она склонна слишком много говорить.", "en": ["She tends to talk too much."] },
     { "ru": "Мы решили не выходить из-за дождя.", "en": ["We decided not to go out because of the rain."] },
     { "ru": "Ты думаешь о покупке квартиры?", "en": ["Are you thinking of buying a flat?", "Are you thinking about buying a flat?", "Are you thinking of buying an apartment?"] },
     { "ru": "Я не осмелился сказать ей правду.", "en": ["I didn't dare to tell her the truth.", "I didn't dare tell her the truth."] },
-    { "ru": "Я не смею её спросить.", "en": ["I daren't ask her."] },
+    { "ru": "Я не смею её спросить.", "en": ["I daren't ask her.", "I don't dare ask her.", "I don't dare to ask her."] },
     { "ru": "Кажется, они очень счастливы.", "en": ["They seem to be very happy.", "They seem very happy."] },
-    { "ru": "Кажется, я потерял телефон.", "en": ["I seem to have lost my phone."] },
+    { "ru": "Кажется, я потерял телефон.", "en": ["I seem to have lost my phone.", "It seems that I've lost my phone.", "It seems I've lost my phone."] },
     { "ru": "Она сделала вид, что не узнала меня.", "en": ["She pretended not to recognise me.", "She pretended not to recognize me.", "She pretended not to know me."] },
     { "ru": "Он притворялся, что спит.", "en": ["He pretended to be sleeping.", "He pretended to be asleep."] },
-    { "ru": "Она утверждает, что видела привидение.", "en": ["She claims to have seen a ghost.", "She claims that she saw a ghost.", "She claims she has seen a ghost."] },
+    { "ru": "Она утверждает, что видела привидение.", "en": ["She claims to have seen a ghost.", "She claims that she saw a ghost.", "She claims she has seen a ghost.", "She claims that she has seen a ghost.", "She claims she saw a ghost."] },
     { "ru": "Похоже, Ник чем-то обеспокоен.", "en": ["Nick appears to be worried about something.", "Nick seems to be worried about something.", "Nick seems worried about something."] },
-    { "ru": "Ты знаешь, как добраться до вокзала?", "en": ["Do you know how to get to the station?"] },
+    { "ru": "Ты знаешь, как добраться до вокзала?", "en": ["Do you know how to get to the station?", "Do you know how to get to the train station?"] },
     { "ru": "Я не знаю, что сказать.", "en": ["I don't know what to say."] },
     { "ru": "Ты решил, куда поехать летом?", "en": ["Have you decided where to go this summer?", "Have you decided where to go in the summer?"] },
     { "ru": "Покажи мне, как пользоваться этим приложением.", "en": ["Show me how to use this app.", "Can you show me how to use this app?"] },
-    { "ru": "Я не знаю, соглашаться ли на эту работу.", "en": ["I don't know whether to take this job.", "I don't know whether to accept this job.", "I don't know whether to take the job."] }
+    { "ru": "Я не знаю, соглашаться ли на эту работу.", "en": ["I don't know whether to take this job.", "I don't know whether to accept this job.", "I don't know whether to take the job.", "I don't know whether to accept the job."] }
   ]
 }

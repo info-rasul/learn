@@ -195,7 +195,8 @@
         "Tomorrow's lesson has been cancelled.",
         "Tomorrow's lesson was cancelled.",
         "Tomorrow's class has been cancelled.",
-        "Tomorrow's lesson has been canceled."
+        "Tomorrow's lesson has been canceled.",
+        "Tomorrow's class was cancelled."
       ]
     },
     {
@@ -211,7 +212,9 @@
       "en": [
         "Paul has two weeks' holiday.",
         "Paul has got two weeks' holiday.",
-        "Paul has two weeks' vacation."
+        "Paul has two weeks' vacation.",
+        "Paul has a two-week holiday.",
+        "Paul has got a two-week holiday."
       ]
     },
     {
@@ -219,7 +222,8 @@
       "en": [
         "My office is five minutes' walk from my house.",
         "My office is five minutes' walk from home.",
-        "My office is a five-minute walk from my house."
+        "My office is a five-minute walk from my house.",
+        "My office is a five-minute walk from home."
       ]
     },
     {
@@ -227,7 +231,9 @@
       "en": [
         "I'll have a week's holiday in June.",
         "I'm going to have a week's holiday in June.",
-        "I'll have a week's vacation in June."
+        "I'll have a week's vacation in June.",
+        "I'm having a week's holiday in June.",
+        "I'll have a one-week holiday in June."
       ]
     }
   ]

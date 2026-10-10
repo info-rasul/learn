@@ -71,7 +71,8 @@
       "ru": "Тише, пожалуйста! Ребёнок спит.",
       "en": [
         "Please be quiet! The baby is sleeping.",
-        "Quiet, please! The baby is sleeping."
+        "Quiet, please! The baby is sleeping.",
+        "Be quiet, please! The baby is sleeping."
       ]
     },
     {
@@ -79,7 +80,8 @@
       "en": [
         "I'm not watching TV, so you can turn it off.",
         "I'm not watching TV, so you can switch it off.",
-        "I'm not watching the TV, so you can turn it off."
+        "I'm not watching the TV, so you can turn it off.",
+        "I'm not watching the TV, so you can switch it off."
       ]
     },
     {
@@ -107,7 +109,10 @@
         "Tom is talking on the phone at the moment.",
         "Tom is speaking on the phone right now.",
         "Tom is speaking on the phone at the moment.",
-        "Tom is talking on the phone now."
+        "Tom is talking on the phone now.",
+        "Tom is speaking on the phone now.",
+        "Tom is now talking on the phone.",
+        "Tom is on the phone right now."
       ]
     },
     {
@@ -150,7 +155,8 @@
       "en": [
         "My friends are building a house in the country.",
         "My friends are building a house outside the city.",
-        "My friends are building a house outside town."
+        "My friends are building a house outside town.",
+        "My friends are building a house in the countryside."
       ]
     },
     {
@@ -231,7 +237,10 @@
         "They aren't speaking to each other now.",
         "They aren't talking to each other now.",
         "They aren't speaking to one another now.",
-        "They aren't talking to each other at the moment."
+        "They aren't talking to each other at the moment.",
+        "They aren't speaking to each other at the moment.",
+        "They aren't talking to each other right now.",
+        "They aren't speaking to each other right now."
       ]
     }
   ]

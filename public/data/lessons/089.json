@@ -23,14 +23,14 @@
     { "ru": "(о двух кафе) Оба кафе хорошие.", "en": ["Both cafes are good.", "Both of the cafes are good."] },
     { "ru": "(из двух отелей) Ни один отель не дорогой.", "en": ["Neither hotel is expensive.", "Neither of the hotels is expensive.", "Neither of the hotels are expensive."] },
     { "ru": "Ты можешь поехать по любой из двух дорог.", "en": ["You can take either road.", "You can take either of the roads.", "You can take either of the two roads.", "You can go either way."] },
-    { "ru": "Я не был ни в одном из этих двух музеев.", "en": ["I haven't been to either of these museums.", "I haven't been to either museum.", "I haven't been to either of these two museums.", "I've been to neither museum."] },
+    { "ru": "Я не был ни в одном из этих двух музеев.", "en": ["I haven't been to either of these museums.", "I haven't been to either museum.", "I haven't been to either of these two museums.", "I've been to neither museum.", "I've been to neither of these museums."] },
     { "ru": "(Чай или кофе?) Что угодно, мне всё равно.", "en": ["Either, I don't mind.", "Either, I don't care."] },
     { "ru": "(Ты француз или испанец?) Ни то, ни другое, я итальянец.", "en": ["Neither, I'm Italian."] },
     { "ru": "(Теннис или футбол?) Мне нравится и то, и другое.", "en": ["I like both.", "I like both of them.", "I like them both."] },
     { "ru": "Оба моих брата живут в Канаде.", "en": ["Both my brothers live in Canada.", "Both of my brothers live in Canada.", "My brothers both live in Canada."] },
     { "ru": "Ни один из моих родителей не говорит по-английски.", "en": ["Neither of my parents speaks English.", "Neither of my parents speak English."] },
     { "ru": "(говорю двоим) Кто-нибудь из вас умеет водить?", "en": ["Can either of you drive?"] },
-    { "ru": "Я спросил двух человек, но никто из них не знал дорогу.", "en": ["I asked two people, but neither of them knew the way."] },
+    { "ru": "Я спросил двух человек, но никто из них не знал дорогу.", "en": ["I asked two people, but neither of them knew the way.", "I asked two people, but neither knew the way."] },
     { "ru": "Мы оба были голодны.", "en": ["Both of us were hungry.", "We were both hungry."] },
     { "ru": "(у неё две сестры) Ни одна из сестёр не замужем.", "en": ["Neither of the sisters is married.", "Neither of the sisters are married.", "Neither sister is married."] },
     { "ru": "И Том, и Анна учатся в Риме.", "en": ["Both Tom and Anna study in Rome.", "Tom and Anna both study in Rome."] },
@@ -43,6 +43,6 @@
     { "ru": "Мы попробовали два отеля, но ни в одном не было мест.", "en": ["We tried two hotels, but neither of them had a room.", "We tried two hotels, but neither had a room.", "We tried two hotels, but neither of them had any rooms."] },
     { "ru": "Мы попробовали пять отелей, но ни в одном не было мест.", "en": ["We tried five hotels, but none of them had a room.", "We tried five hotels, but none had a room.", "We tried five hotels, but none of them had any rooms."] },
     { "ru": "У меня две машины, можешь взять любую.", "en": ["I have two cars, you can take either.", "I have two cars, you can take either of them.", "I've got two cars, you can take either.", "I've got two cars, you can take either of them."] },
-    { "ru": "На полке много книг, бери любую из них.", "en": ["There are many books on the shelf, take any of them.", "There are a lot of books on the shelf, take any of them."] }
+    { "ru": "На полке много книг, бери любую из них.", "en": ["There are many books on the shelf, take any of them.", "There are a lot of books on the shelf, take any of them.", "There are lots of books on the shelf, take any of them."] }
   ]
 }

@@ -84,7 +84,8 @@
       "ru": "Тебе нужно оплатить счёт до конца месяца.",
       "en": [
         "You need to pay the bill by the end of the month.",
-        "You have to pay the bill by the end of the month."
+        "You have to pay the bill by the end of the month.",
+        "You need to pay the bill before the end of the month."
       ]
     },
     {
@@ -171,7 +172,9 @@
         "He didn't call until ten o'clock.",
         "He didn't call until ten.",
         "He didn't phone until ten o'clock.",
-        "He didn't call till ten."
+        "He didn't call till ten.",
+        "He only called at ten o'clock.",
+        "He only called at ten."
       ]
     },
     {
@@ -210,14 +213,18 @@
       "en": [
         "By then I'll have had dinner.",
         "I'll have had dinner by then.",
-        "By then I'll have eaten."
+        "By then I'll have eaten.",
+        "By then I'll already have had dinner.",
+        "I'll have already had dinner by then.",
+        "By that time I'll have had dinner."
       ]
     },
     {
       "ru": "Поезд опоздал, и к тому времени собрание закончилось.",
       "en": [
         "The train was late, and by then the meeting had finished.",
-        "The train was late, and by then the meeting had ended."
+        "The train was late, and by then the meeting had ended.",
+        "The train was late, and by that time the meeting had finished."
       ]
     },
     {
@@ -225,7 +232,8 @@
       "en": [
         "Call me by lunchtime, OK?",
         "Phone me by lunchtime, OK?",
-        "Call me by lunch, OK?"
+        "Call me by lunch, OK?",
+        "Call me before lunch, OK?"
       ]
     }
   ]

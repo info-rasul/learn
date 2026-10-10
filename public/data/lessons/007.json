@@ -88,13 +88,15 @@
         "Petrol prices have gone up.",
         "The price of petrol has gone up.",
         "Petrol prices have risen.",
-        "The price of petrol has risen."
+        "The price of petrol has risen.",
+        "Petrol prices have increased."
       ]
     },
     {
       "ru": "Он сказал мне свой адрес, но я его забыл.",
       "en": [
-        "He told me his address, but I've forgotten it."
+        "He told me his address, but I've forgotten it.",
+        "He gave me his address, but I've forgotten it."
       ]
     },
     {
@@ -106,7 +108,8 @@
     {
       "ru": "(она ещё здесь) Кейт не ушла домой.",
       "en": [
-        "Kate hasn't gone home."
+        "Kate hasn't gone home.",
+        "Kate hasn't gone home yet."
       ]
     },
     {

@@ -88,7 +88,8 @@
       "en": [
         "My brother has set up his own company.",
         "My brother set up his own company.",
-        "My brother has set up his own business."
+        "My brother has set up his own business.",
+        "My brother set up his own business."
       ]
     },
     {
@@ -126,7 +127,8 @@
       "en": [
         "I cooked dinner, so you wash up.",
         "I've cooked dinner, so you can wash up.",
-        "I made dinner, so you wash up."
+        "I made dinner, so you wash up.",
+        "I cooked dinner, now you wash up."
       ]
     },
     {
@@ -153,7 +155,9 @@
     {
       "ru": "Дорога занимает почти весь мой день.",
       "en": [
+        "The journey takes up almost all of my day.",
         "The journey takes up almost all my day.",
+        "The journey takes up almost my whole day.",
         "The journey takes up most of my day."
       ]
     },
@@ -182,13 +186,15 @@
       "en": [
         "Go ahead, I'll catch up with you.",
         "Go on, I'll catch up with you.",
-        "Go ahead, I'll catch you up."
+        "Go ahead, I'll catch you up.",
+        "Go on ahead, I'll catch up with you."
       ]
     },
     {
-      "ru": "Он пропустил неделю занятий и теперь пытается догнать класс.",
+      "ru": "Он пропустил неделю занятий и пытается догнать класс.",
       "en": [
-        "He missed a week of classes and is trying to catch up."
+        "He missed a week of classes and is trying to catch up.",
+        "He missed a week of classes and is trying to catch up with the class."
       ]
     },
     {

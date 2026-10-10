@@ -64,7 +64,7 @@
   ],
   "items": [
     {
-      "ru": "Поезд пришёл точно по расписанию.",
+      "ru": "Поезд прибыл по расписанию.",
       "en": [
         "The train arrived on time.",
         "The train came on time."
@@ -88,7 +88,9 @@
       "ru": "Автобусы здесь редко приходят вовремя.",
       "en": [
         "The buses here are rarely on time.",
-        "The buses are rarely on time here."
+        "The buses are rarely on time here.",
+        "The buses here rarely come on time.",
+        "The buses here rarely arrive on time."
       ]
     },
     {
@@ -116,7 +118,8 @@
       "ru": "Ты успеешь на поезд?",
       "en": [
         "Will you be in time for the train?",
-        "Will you be in time to catch the train?"
+        "Will you be in time to catch the train?",
+        "Will you make it in time for the train?"
       ]
     },
     {
@@ -127,13 +130,13 @@
       ]
     },
     {
-      "ru": "Я не успел туда, чтобы попрощаться.",
+      "ru": "Я не успел приехать туда вовремя, чтобы попрощаться.",
       "en": [
         "I didn't get there in time to say goodbye."
       ]
     },
     {
-      "ru": "Мы добрались до аэропорта в последний момент.",
+      "ru": "Мы добрались до аэропорта как раз вовремя, в последний момент.",
       "en": [
         "We got to the airport just in time.",
         "We arrived at the airport just in time."

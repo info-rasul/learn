@@ -76,7 +76,8 @@
       "ru": "Птица улетела, когда я подошёл.",
       "en": [
         "The bird flew away when I came closer.",
-        "The bird flew away when I got closer."
+        "The bird flew away when I got closer.",
+        "The bird flew away when I approached."
       ]
     },
     {
@@ -227,7 +228,9 @@
       "en": [
         "When will you pay me back?",
         "When are you going to pay me back?",
-        "When will you pay the money back?"
+        "When will you pay the money back?",
+        "When will you give me the money back?",
+        "When are you going to give me the money back?"
       ]
     }
   ]

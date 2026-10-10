@@ -72,7 +72,9 @@
         "I haven't seen this film.",
         "I haven't seen that film.",
         "I haven't seen this movie.",
-        "I haven't watched this film."
+        "I haven't watched this film.",
+        "I haven't seen that movie.",
+        "I haven't watched this movie."
       ]
     },
     {
@@ -89,7 +91,10 @@
         "This is the most delicious cake I've ever eaten.",
         "It's the best cake I've ever eaten.",
         "This is the best cake I've ever had.",
-        "It's the most delicious cake I've ever had."
+        "It's the most delicious cake I've ever had.",
+        "This is the best cake I've ever eaten.",
+        "It's the best cake I've ever had.",
+        "This is the most delicious cake I've ever had."
       ]
     },
     {
@@ -104,14 +109,17 @@
         "Have you heard anything from Nick recently?",
         "Have you heard anything about Nick recently?",
         "Have you heard anything from Nick lately?",
-        "Have you heard from Nick recently?"
+        "Have you heard from Nick recently?",
+        "Have you heard anything about Nick lately?"
       ]
     },
     {
       "ru": "В последнее время я мало спал.",
       "en": [
         "I haven't slept much recently.",
-        "I haven't slept much lately."
+        "I haven't slept much lately.",
+        "I haven't been sleeping much recently.",
+        "I haven't been sleeping much lately."
       ]
     },
     {
@@ -120,7 +128,9 @@
         "I've learnt twenty new words so far.",
         "I've learned twenty new words so far.",
         "So far I've learnt twenty new words.",
-        "I've learnt 20 new words so far."
+        "I've learnt 20 new words so far.",
+        "I've learned 20 new words so far.",
+        "So far I've learned twenty new words."
       ]
     },
     {
@@ -182,7 +192,8 @@
         "It's the first time Kate has flown.",
         "This is the first time Kate has flown.",
         "It's the first time Kate has been on a plane.",
-        "It's the first time Kate has flown on a plane."
+        "It's the first time Kate has flown on a plane.",
+        "This is the first time Kate has been on a plane."
       ]
     },
     {

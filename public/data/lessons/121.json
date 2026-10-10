@@ -96,14 +96,16 @@
     {
       "ru": "У меня день рождения в пятницу.",
       "en": [
-        "My birthday is on Friday."
+        "My birthday is on Friday.",
+        "It's my birthday on Friday."
       ]
     },
     {
       "ru": "Мы встретимся в понедельник утром.",
       "en": [
         "We'll meet on Monday morning.",
-        "We're meeting on Monday morning."
+        "We're meeting on Monday morning.",
+        "We're going to meet on Monday morning."
       ]
     },
     {
@@ -125,9 +127,12 @@
     {
       "ru": "Двадцать пятого декабря магазины закрыты.",
       "en": [
-        "The shops are closed on Christmas Day.",
-        "The shops are shut on Christmas Day.",
-        "The shops are closed on 25 December."
+        "The shops are closed on 25 December.",
+        "The shops are closed on December 25.",
+        "The shops are closed on 25th December.",
+        "The shops are closed on the twenty-fifth of December.",
+        "The shops are shut on 25 December.",
+        "The shops are closed on Christmas Day."
       ]
     },
     {

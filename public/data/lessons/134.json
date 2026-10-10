@@ -91,7 +91,9 @@
       "ru": "Ты слышал о новом кафе на нашей улице?",
       "en": [
         "Have you heard about the new cafe on our street?",
-        "Did you hear about the new cafe on our street?"
+        "Did you hear about the new cafe on our street?",
+        "Have you heard about the new cafe in our street?",
+        "Did you hear about the new cafe in our street?"
       ]
     },
     {
@@ -112,7 +114,8 @@
       "ru": "Я не получал вестей от брата целый месяц.",
       "en": [
         "I haven't heard from my brother for a month.",
-        "I haven't heard from my brother for a whole month."
+        "I haven't heard from my brother for a whole month.",
+        "I haven't heard from my brother in a month."
       ]
     },
     {
@@ -156,7 +159,9 @@
       "en": [
         "I didn't think much of the film.",
         "I didn't think much of the movie.",
-        "I didn't like the film much."
+        "I didn't like the film much.",
+        "I didn't like the movie much.",
+        "I didn't really like the film."
       ]
     },
     {
@@ -170,7 +175,8 @@
       "ru": "Я часто вспоминаю наш отпуск в Испании.",
       "en": [
         "I often think about our holiday in Spain.",
-        "I often think of our holiday in Spain."
+        "I often think of our holiday in Spain.",
+        "I often remember our holiday in Spain."
       ]
     },
     {

@@ -45,7 +45,7 @@
         ],
         [
           "is = такой по характеру / состояние",
-          "<b>Anna is a very kind person.</b> <b>Sam is ill.</b>"
+          "<b>Anna is a very kind person.</b> <b>Ben is ill.</b>"
         ]
       ]
     },
@@ -108,7 +108,8 @@
     {
       "ru": "Кейт сегодня кажется уставшей.",
       "en": [
-        "Kate seems tired today."
+        "Kate seems tired today.",
+        "Kate seems to be tired today."
       ]
     },
     {

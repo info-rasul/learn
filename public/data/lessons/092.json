@@ -28,7 +28,7 @@
     { "ru": "Компьютер, который сломался, снова работает.", "en": ["The computer that broke down is working again.", "The computer which broke down is working again.", "The computer that broke is working again."] },
     { "ru": "Я познакомился с девушкой, которая учится в Париже.", "en": ["I met a girl who studies in Paris.", "I met a girl that studies in Paris.", "I met a girl who is studying in Paris."] },
     { "ru": "Это книга, которая изменила мою жизнь.", "en": ["This is the book that changed my life.", "This is the book which changed my life."] },
-    { "ru": "Человек, который нашёл мою сумку, был очень добр.", "en": ["The man who found my bag was very kind.", "The person who found my bag was very kind.", "The man that found my bag was very kind."] },
+    { "ru": "Человек, который нашёл мою сумку, был очень добр.", "en": ["The man who found my bag was very kind.", "The person who found my bag was very kind.", "The man that found my bag was very kind.", "The person that found my bag was very kind."] },
     { "ru": "Ресторан, который открылся на нашей улице, очень хороший.", "en": ["The restaurant that opened in our street is very good.", "The restaurant which opened in our street is very good.", "The restaurant that opened on our street is very good."] },
     { "ru": "Студенты, которые сдали экзамен, получат сертификат.", "en": ["The students who passed the exam will get a certificate.", "The students that passed the exam will get a certificate.", "The students who passed the exam will receive a certificate."] },
     { "ru": "Мне нужен телефон, который хорошо фотографирует.", "en": ["I need a phone that takes good photos.", "I need a phone which takes good photos.", "I need a phone that takes good pictures."] },
@@ -38,6 +38,6 @@
     { "ru": "То, что случилось вчера, — не твоя вина.", "en": ["What happened yesterday wasn't your fault.", "What happened yesterday isn't your fault."] },
     { "ru": "Всё, что случилось, было ошибкой.", "en": ["Everything that happened was a mistake."] },
     { "ru": "Мне не понравилось то, что она приготовила.", "en": ["I didn't like what she cooked.", "I didn't like what she made."] },
-    { "ru": "Как называется магазин, который продаёт велосипеды?", "en": ["What's the name of the shop that sells bikes?", "What's the name of the shop which sells bikes?", "What's the name of the shop that sells bicycles?", "What's the name of the shop which sells bicycles?"] }
+    { "ru": "Как называется магазин, который продаёт велосипеды?", "en": ["What's the name of the shop that sells bikes?", "What's the name of the shop which sells bikes?", "What's the name of the shop that sells bicycles?", "What's the name of the shop which sells bicycles?", "What's the name of the store that sells bikes?", "What's the name of the store that sells bicycles?"] }
   ]
 }

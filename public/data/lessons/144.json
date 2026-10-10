@@ -85,7 +85,8 @@
       "en": [
         "Please don't bring this up at dinner.",
         "Please don't bring up this topic at dinner.",
-        "Please don't bring that up at dinner."
+        "Please don't bring that up at dinner.",
+        "Please don't bring up this subject at dinner."
       ]
     },
     {
@@ -139,9 +140,11 @@
     {
       "ru": "Он порвал фотографию на мелкие кусочки.",
       "en": [
+        "He tore the photo up into small pieces.",
+        "He tore up the photo into small pieces.",
+        "He tore the photo into small pieces.",
         "He tore up the photo.",
-        "He tore the photo up.",
-        "He tore the photo into small pieces."
+        "He tore the photo up."
       ]
     },
     {
@@ -182,7 +185,8 @@
       "ru": "Я посмотрю расписание поездов в интернете.",
       "en": [
         "I'll look up the train times online.",
-        "I'll look the train times up online."
+        "I'll look the train times up online.",
+        "I'll look up the train timetable online."
       ]
     },
     {

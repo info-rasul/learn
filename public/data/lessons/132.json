@@ -66,7 +66,8 @@
       "ru": "С кем ты разговаривал по телефону?",
       "en": [
         "Who were you talking to on the phone?",
-        "Who were you speaking to on the phone?"
+        "Who were you speaking to on the phone?",
+        "Who were you talking with on the phone?"
       ]
     },
     {
@@ -81,7 +82,9 @@
       "ru": "Я люблю слушать музыку в машине.",
       "en": [
         "I like listening to music in the car.",
-        "I like to listen to music in the car."
+        "I like to listen to music in the car.",
+        "I love listening to music in the car.",
+        "I love to listen to music in the car."
       ]
     },
     {
@@ -159,7 +162,8 @@
       "en": [
         "Text me when you get there.",
         "Send me a message when you get there.",
-        "Text me when you arrive."
+        "Text me when you arrive.",
+        "Send me a text when you get there."
       ]
     },
     {
@@ -211,7 +215,8 @@
       "ru": "(чтобы он услышал) Я крикнул Майку с другого конца поля.",
       "en": [
         "I shouted to Mike from the other end of the field.",
-        "I shouted to Mike from across the field."
+        "I shouted to Mike from across the field.",
+        "I shouted to Mike from the other side of the field."
       ]
     },
     {

@@ -69,7 +69,8 @@
     {
       "ru": "Мы ужинали с нашими друзьями (с некоторыми из них).",
       "en": [
-        "We had dinner with some friends of ours."
+        "We had dinner with some friends of ours.",
+        "We had dinner with some of our friends."
       ]
     },
     {
@@ -85,7 +86,8 @@
       "en": [
         "Lisa had an argument with a neighbour of hers.",
         "Lisa had an argument with a neighbor of hers.",
-        "Lisa argued with a neighbour of hers."
+        "Lisa argued with a neighbour of hers.",
+        "Lisa argued with a neighbor of hers."
       ]
     },
     {
@@ -93,7 +95,8 @@
       "en": [
         "He's a neighbour of my brother's.",
         "He's a neighbor of my brother's.",
-        "He's one of my brother's neighbours."
+        "He's one of my brother's neighbours.",
+        "He's one of my brother's neighbors."
       ]
     },
     {
@@ -171,7 +174,8 @@
     {
       "ru": "Она сама шьёт себе одежду.",
       "en": [
-        "She makes her own clothes."
+        "She makes her own clothes.",
+        "She sews her own clothes."
       ]
     },
     {
@@ -180,7 +184,9 @@
         "My grandmother lives on her own.",
         "My grandmother lives by herself.",
         "My grandmother lives alone.",
-        "My grandma lives on her own."
+        "My grandma lives on her own.",
+        "My grandma lives by herself.",
+        "My grandma lives alone."
       ]
     },
     {

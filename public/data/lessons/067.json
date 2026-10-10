@@ -30,7 +30,7 @@
     { "ru": "Я слышал, как соседи ссорились ночью.", "en": ["I heard the neighbours arguing last night.", "I heard the neighbours arguing at night.", "I heard the neighbors arguing last night."] },
     { "ru": "Она смотрела, как дети играют в саду.", "en": ["She watched the children playing in the garden.", "She watched the children play in the garden."] },
     { "ru": "Я почувствовал, как что-то ползёт по моей руке.", "en": ["I felt something crawling up my arm.", "I felt something crawling on my arm."] },
-    { "ru": "Я видел, как Эмма ехала на велосипеде по улице.", "en": ["I saw Emma riding her bike along the street.", "I saw Emma riding her bike down the street.", "I saw Emma riding a bike along the street."] },
+    { "ru": "Я видел, как Эмма ехала на велосипеде по улице.", "en": ["I saw Emma riding her bike along the street.", "I saw Emma riding her bike down the street.", "I saw Emma riding a bike along the street.", "I saw Emma cycling along the street.", "I saw Emma cycling down the street."] },
     { "ru": "(всё действие целиком) Я видел, как он перепрыгнул через забор.", "en": ["I saw him jump over the fence."] },
     { "ru": "(в процессе) Я видел, как он перелезал через забор.", "en": ["I saw him climbing over the fence."] },
     { "ru": "(целиком) Я слышал, как они ушли.", "en": ["I heard them leave.", "I heard them go out.", "I heard them go."] },

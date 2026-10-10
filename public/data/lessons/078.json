@@ -99,7 +99,8 @@
       "en": [
         "Anna studies at Oxford University.",
         "Anna is a student at Oxford University.",
-        "Anna studies at the University of Oxford."
+        "Anna studies at the University of Oxford.",
+        "Anna is studying at Oxford University."
       ]
     },
     {
@@ -132,7 +133,8 @@
     {
       "ru": "Что идёт в кинотеатре «Одеон»?",
       "en": [
-        "What's on at the Odeon?"
+        "What's on at the Odeon?",
+        "What's showing at the Odeon?"
       ]
     },
     {
@@ -162,7 +164,8 @@
       "en": [
         "The US president lives in the White House.",
         "The American president lives in the White House.",
-        "The president of the USA lives in the White House."
+        "The president of the USA lives in the White House.",
+        "The president of the United States lives in the White House."
       ]
     },
     {

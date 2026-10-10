@@ -120,7 +120,8 @@
       "ru": "Я спросил у прохожего дорогу до вокзала.",
       "en": [
         "I asked a passer-by the way to the station.",
-        "I asked someone the way to the station."
+        "I asked someone the way to the station.",
+        "I asked a passerby the way to the station."
       ]
     },
     {
@@ -189,7 +190,9 @@
       "en": [
         "Please look after my laptop.",
         "Look after my laptop, please.",
-        "Please take care of my laptop."
+        "Please take care of my laptop.",
+        "Please take good care of my laptop.",
+        "Take care of my laptop, please."
       ]
     },
     {

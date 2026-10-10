@@ -122,7 +122,8 @@
       "en": [
         "I usually walk to work, but today I'm taking the bus.",
         "I usually walk to work, but today I'm going by bus.",
-        "I usually walk to work, but I'm taking the bus today."
+        "I usually walk to work, but I'm taking the bus today.",
+        "I usually go to work on foot, but today I'm taking the bus."
       ]
     },
     {
@@ -211,7 +212,8 @@
     {
       "ru": "Они вечно спорят из-за денег.",
       "en": [
-        "They're always arguing about money."
+        "They're always arguing about money.",
+        "They're always arguing over money."
       ]
     },
     {

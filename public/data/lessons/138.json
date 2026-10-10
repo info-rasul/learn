@@ -48,7 +48,8 @@
     {
       "ru": "Как ты попал внутрь?",
       "en": [
-        "How did you get in?"
+        "How did you get in?",
+        "How did you get inside?"
       ]
     },
     {
@@ -110,14 +111,16 @@
       "en": [
         "What time do we have to check out?",
         "What time do we need to check out?",
-        "What time do we have to check out of the hotel?"
+        "What time do we have to check out of the hotel?",
+        "What time do we need to check out of the hotel?"
       ]
     },
     {
       "ru": "Кошка хочет на улицу, выпусти её.",
       "en": [
         "The cat wants to go out, let it out.",
-        "The cat wants to go outside, let it out."
+        "The cat wants to go outside, let it out.",
+        "The cat wants to go out, let her out."
       ]
     },
     {
@@ -140,7 +143,8 @@
       "ru": "Заходи к нам, когда будешь рядом.",
       "en": [
         "Drop in when you're nearby.",
-        "Drop in when you're in the area."
+        "Drop in when you're in the area.",
+        "Drop in on us when you're nearby."
       ]
     },
     {
@@ -167,14 +171,17 @@
       "ru": "Не пропускай ни одного слова.",
       "en": [
         "Don't leave out any words.",
-        "Don't leave any words out."
+        "Don't leave any words out.",
+        "Don't leave out a single word."
       ]
     },
     {
       "ru": "Почему меня не включили в список?",
       "en": [
         "Why was I left out of the list?",
-        "Why did they leave me out of the list?"
+        "Why did they leave me out of the list?",
+        "Why was I left off the list?",
+        "Why did they leave me off the list?"
       ]
     },
     {

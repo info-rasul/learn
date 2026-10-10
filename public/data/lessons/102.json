@@ -121,7 +121,8 @@
       "ru": "Это такие дорогие туфли!",
       "en": [
         "These are such expensive shoes!",
-        "They are such expensive shoes!"
+        "They are such expensive shoes!",
+        "Those are such expensive shoes!"
       ]
     },
     {
@@ -193,14 +194,16 @@
       "ru": "Я не видел тебя так долго!",
       "en": [
         "I haven't seen you for so long!",
-        "I haven't seen you for such a long time!"
+        "I haven't seen you for such a long time!",
+        "I haven't seen you in so long!"
       ]
     },
     {
       "ru": "Я не думал, что это так далеко.",
       "en": [
         "I didn't think it was so far.",
-        "I didn't think it was such a long way."
+        "I didn't think it was such a long way.",
+        "I didn't think that it was so far."
       ]
     },
     {

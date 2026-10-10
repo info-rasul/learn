@@ -77,7 +77,8 @@
       "en": [
         "It's very nice of you to come.",
         "It was very nice of you to come.",
-        "It's very kind of you to come."
+        "It's very kind of you to come.",
+        "It was very kind of you to come."
       ]
     },
     {
@@ -120,7 +121,9 @@
     {
       "ru": "Мы были разочарованы гостиницей.",
       "en": [
-        "We were disappointed with the hotel."
+        "We were disappointed with the hotel.",
+        "We were disappointed by the hotel.",
+        "We were disappointed in the hotel."
       ]
     },
     {
@@ -143,7 +146,9 @@
       "ru": "Извините за беспорядок на кухне.",
       "en": [
         "Sorry about the mess in the kitchen.",
-        "I'm sorry about the mess in the kitchen."
+        "I'm sorry about the mess in the kitchen.",
+        "Sorry for the mess in the kitchen.",
+        "I'm sorry for the mess in the kitchen."
       ]
     },
     {
@@ -194,7 +199,7 @@
       ]
     },
     {
-      "ru": "Дети в восторге от поездки.",
+      "ru": "Дети в восторге от предстоящей поездки.",
       "en": [
         "The children are excited about the trip.",
         "The kids are excited about the trip."

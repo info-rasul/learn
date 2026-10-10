@@ -17,7 +17,7 @@
     { "ru": "Анна на кухне, готовит ужин.", "en": ["Anna is in the kitchen cooking dinner.", "Anna is in the kitchen making dinner."] },
     { "ru": "Мальчик выбежал из комнаты с криком.", "en": ["The boy ran out of the room shouting.", "The boy ran out of the room screaming."] },
     { "ru": "Не сиди просто так, ничего не делая!", "en": ["Don't just sit there doing nothing!"] },
-    { "ru": "Он сидел в кресле и читал газету.", "en": ["He was sitting in an armchair reading a newspaper.", "He was sitting in an armchair reading the newspaper.", "He sat in an armchair reading a newspaper."] },
+    { "ru": "Он сидел в кресле и читал газету.", "en": ["He was sitting in an armchair reading a newspaper.", "He was sitting in an armchair reading the newspaper.", "He sat in an armchair reading a newspaper.", "He sat in an armchair reading the newspaper."] },
     { "ru": "Она весь вечер пролежала на диване, смотря телевизор.", "en": ["She lay on the sofa all evening watching TV.", "She lay on the sofa all evening watching television."] },
     { "ru": "Будь осторожен, выходя из автобуса.", "en": ["Be careful getting off the bus.", "Be careful when getting off the bus."] },
     { "ru": "Бен сломал руку, играя в футбол.", "en": ["Ben broke his arm playing football.", "Ben broke his arm while playing football."] },
@@ -25,18 +25,18 @@
     { "ru": "Она порезала палец, делая салат.", "en": ["She cut her finger making a salad.", "She cut her finger while making a salad."] },
     { "ru": "Я потерял ключи, когда бегал в парке.", "en": ["I lost my keys jogging in the park.", "I lost my keys while jogging in the park.", "I lost my keys running in the park.", "I lost my keys while running in the park."] },
     { "ru": "Он повредил спину, поднимая тяжёлую коробку.", "en": ["He hurt his back lifting a heavy box.", "He hurt his back while lifting a heavy box."] },
-    { "ru": "Купив билеты, мы вошли в кинотеатр.", "en": ["Having bought the tickets, we went into the cinema.", "After buying the tickets, we went into the cinema.", "Having bought our tickets, we went into the cinema."] },
+    { "ru": "Купив билеты, мы вошли в кинотеатр.", "en": ["Having bought the tickets, we went into the cinema.", "After buying the tickets, we went into the cinema.", "Having bought our tickets, we went into the cinema.", "After buying our tickets, we went into the cinema."] },
     { "ru": "Закончив домашнее задание, Алекс включил телевизор.", "en": ["Having finished his homework, Alex turned on the TV.", "Having finished his homework, Alex switched on the TV.", "After finishing his homework, Alex turned on the TV.", "After finishing his homework, Alex switched on the TV."] },
     { "ru": "Позавтракав, мы отправились в путь.", "en": ["Having had breakfast, we set off.", "After having breakfast, we set off.", "After eating breakfast, we set off."] },
-    { "ru": "После обеда она вернулась в офис.", "en": ["After having lunch, she went back to the office.", "Having had lunch, she went back to the office.", "After eating lunch, she went back to the office.", "After having lunch, she returned to the office."] },
+    { "ru": "Пообедав, она вернулась в офис.", "en": ["After having lunch, she went back to the office.", "Having had lunch, she went back to the office.", "After eating lunch, she went back to the office.", "After having lunch, she returned to the office."] },
     { "ru": "Почувствовав голод, мы зашли в кафе.", "en": ["Feeling hungry, we went into a cafe.", "Being hungry, we went into a cafe."] },
     { "ru": "Будучи студентом, он не имеет много денег.", "en": ["Being a student, he doesn't have much money.", "Being a student, he hasn't got much money."] },
     { "ru": "Не имея машины, она везде ездит на автобусе.", "en": ["Not having a car, she goes everywhere by bus.", "Not having a car, she travels everywhere by bus."] },
     { "ru": "Не зная, что сказать, я промолчал.", "en": ["Not knowing what to say, I said nothing.", "Not knowing what to say, I didn't say anything.", "Not knowing what to say, I kept quiet."] },
     { "ru": "Будучи вегетарианкой, Лора не ест мясо.", "en": ["Being a vegetarian, Laura doesn't eat meat."] },
-    { "ru": "Так как я уже видел этот фильм, я не хотел идти.", "en": ["Having seen the film before, I didn't want to go.", "Having already seen the film, I didn't want to go.", "Having seen the movie before, I didn't want to go."] },
+    { "ru": "(оборот с having) Так как я уже видел этот фильм, я не хотел идти.", "en": ["Having seen the film before, I didn't want to go.", "Having already seen the film, I didn't want to go.", "Having seen the movie before, I didn't want to go.", "Having already seen the movie, I didn't want to go."] },
     { "ru": "Прожив в Испании десять лет, Дэвид хорошо говорит по-испански.", "en": ["Having lived in Spain for ten years, David speaks good Spanish.", "Having lived in Spain for ten years, David speaks Spanish well."] },
     { "ru": "Потратив все деньги, мы не могли позволить себе такси.", "en": ["Having spent all our money, we couldn't afford a taxi."] },
-    { "ru": "Думая, что они голодны, я сварил суп.", "en": ["Thinking they were hungry, I made some soup.", "Thinking that they were hungry, I made some soup.", "Thinking they were hungry, I made soup."] }
+    { "ru": "Думая, что они голодны, я сварил суп.", "en": ["Thinking they were hungry, I made some soup.", "Thinking that they were hungry, I made some soup.", "Thinking they were hungry, I made soup.", "Thinking they were hungry, I cooked some soup."] }
   ]
 }

@@ -118,6 +118,7 @@
       "en": [
         "I've made a lot of calls today.",
         "I've made a lot of phone calls today.",
+        "I've made lots of calls today.",
         "Today I've made a lot of calls."
       ]
     },
@@ -219,7 +220,8 @@
       "en": [
         "It's been a great holiday.",
         "It's been a wonderful holiday.",
-        "It's been a great vacation."
+        "It's been a great vacation.",
+        "The holiday has been great."
       ]
     },
     {
@@ -227,7 +229,8 @@
       "en": [
         "It was a great holiday.",
         "It was a wonderful holiday.",
-        "It was a great vacation."
+        "It was a great vacation.",
+        "The holiday was great."
       ]
     }
   ]

@@ -101,7 +101,11 @@
         "I've repaired the TV, and it works now.",
         "I repaired the TV, and it works now.",
         "I've fixed the TV, and it works now.",
-        "I fixed the TV, and now it works."
+        "I fixed the TV, and now it works.",
+        "I've repaired the TV, and now it works.",
+        "I've fixed the TV, and now it works.",
+        "I repaired the TV, and now it works.",
+        "I fixed the TV, and it works now."
       ]
     },
     {
@@ -195,7 +199,8 @@
         "I studied French at school, but I've forgotten almost everything.",
         "I learnt French at school, but I've forgotten almost everything.",
         "I learned French at school, but I've forgotten almost everything.",
-        "I studied French at school, but I've forgotten most of it."
+        "I studied French at school, but I've forgotten most of it.",
+        "I studied French at school, but I've forgotten nearly everything."
       ]
     },
     {

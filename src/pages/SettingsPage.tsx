@@ -3,6 +3,67 @@ import { useAuth } from '../lib/auth';
 import { useUserData } from '../lib/userData';
 import { AiError, getAiConfig, MODEL_SUGGESTIONS, saveAiConfig, testConnection } from '../lib/deepseek';
 import { speak, speechSupported } from '../lib/speech';
+import { getBookPassword, saveBookPassword, WrongPasswordError } from '../lib/bookCrypto';
+import { checkBookPassword } from '../lib/content';
+
+function BookPanel() {
+  const saved = getBookPassword();
+  const [password, setPassword] = useState(saved);
+  const [status, setStatus] = useState<{ ok: boolean; text: string } | null>(null);
+  const [busy, setBusy] = useState(false);
+
+  async function apply() {
+    setBusy(true);
+    try {
+      const count = await checkBookPassword(password.trim());
+      saveBookPassword(password);
+      setStatus({ ok: true, text: `Пароль подошёл: ${count} уроков из книги. Перезагружаю…` });
+      setTimeout(() => window.location.reload(), 800);
+    } catch (err) {
+      setStatus({
+        ok: false,
+        text: err instanceof WrongPasswordError ? err.message : 'Не удалось загрузить уроки из книги.',
+      });
+    } finally {
+      setBusy(false);
+    }
+  }
+
+  function forget() {
+    saveBookPassword('');
+    window.location.reload();
+  }
+
+  return (
+    <section className="panel">
+      <h2>Уроки из книги</h2>
+      <p className="muted small">
+        С паролем вместо обычных фраз открываются упражнения из книги с ответами из ключа. Пароль хранится только в этом
+        браузере.
+      </p>
+      <label className="field">
+        <span>Пароль</span>
+        <input
+          type="password"
+          autoComplete="off"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+        />
+      </label>
+      <div className="row">
+        <button type="button" className="btn" onClick={apply} disabled={busy || !password.trim()}>
+          {busy ? 'Проверяю…' : 'Открыть уроки из книги'}
+        </button>
+        {saved && (
+          <button type="button" className="btn-ghost" onClick={forget}>
+            Забыть пароль
+          </button>
+        )}
+      </div>
+      {status && <div className={status.ok ? 'status ok' : 'status error'}>{status.text}</div>}
+    </section>
+  );
+}
 
 export default function SettingsPage() {
   const { user, logout } = useAuth();
@@ -152,6 +213,8 @@ export default function SettingsPage() {
         </div>
         {aiStatus && <div className={aiStatus.ok ? 'status ok' : 'status error'}>{aiStatus.text}</div>}
       </section>
+
+      <BookPanel />
 
       <section className="panel">
         <h2>Данные</h2>

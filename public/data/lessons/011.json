@@ -28,7 +28,7 @@
           "<b>How long have they had this dog?</b>"
         ],
         [
-          "<b>She's waiting.</b>",
+          "<b>We're waiting.</b>",
           "<b>We haven't been waiting long.</b>"
         ]
       ]
@@ -158,7 +158,8 @@
     {
       "ru": "Он всегда хотел поехать в Японию.",
       "en": [
-        "He's always wanted to go to Japan."
+        "He's always wanted to go to Japan.",
+        "He's always wanted to visit Japan."
       ]
     },
     {
@@ -202,7 +203,9 @@
       "ru": "С тех пор как мы приехали, погода ужасная.",
       "en": [
         "The weather has been awful since we arrived.",
-        "The weather has been terrible since we arrived."
+        "The weather has been terrible since we arrived.",
+        "Since we arrived, the weather has been awful.",
+        "Since we arrived, the weather has been terrible."
       ]
     },
     {

@@ -154,16 +154,19 @@
       "en": [
         "She was sad to hear that he had left.",
         "She was sad to hear he had left.",
-        "She was sad to learn that he had left."
+        "She was sad to learn that he had left.",
+        "She was sad to learn he had left."
       ]
     },
     {
-      "ru": "Я с облегчением узнал, что все в порядке.",
+      "ru": "Я с облегчением узнал, что у всех всё в порядке.",
       "en": [
         "I was relieved to hear that everyone was OK.",
         "I was relieved to hear everyone was OK.",
         "I was relieved to hear that everybody was OK.",
-        "I was relieved to hear that everyone was all right."
+        "I was relieved to hear that everyone was all right.",
+        "I was relieved to hear that everybody was all right.",
+        "I was relieved to learn that everyone was OK."
       ]
     },
     {
@@ -201,7 +204,8 @@
       "ru": "Он обязательно опоздает.",
       "en": [
         "He's bound to be late.",
-        "He's sure to be late."
+        "He's sure to be late.",
+        "He's certain to be late."
       ]
     },
     {

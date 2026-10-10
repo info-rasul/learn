@@ -38,7 +38,7 @@
     { "ru": "Он медленно ехал.", "en": ["He drove slowly.", "He was driving slowly."] },
     { "ru": "Он медленный водитель.", "en": ["He is a slow driver."] },
     { "ru": "Пожалуйста, говори тихо.", "en": ["Please speak quietly.", "Please talk quietly.", "Speak quietly, please."] },
-    { "ru": "Она тихо вошла в комнату.", "en": ["She came into the room quietly.", "She quietly came into the room.", "She entered the room quietly.", "She quietly entered the room."] },
+    { "ru": "Она тихо вошла в комнату.", "en": ["She came into the room quietly.", "She quietly came into the room.", "She entered the room quietly.", "She quietly entered the room.", "She walked into the room quietly."] },
     { "ru": "Анна — осторожный человек.", "en": ["Anna is a careful person."] },
     { "ru": "Веди машину осторожно!", "en": ["Drive carefully!"] },
     { "ru": "Я легко нашёл их дом.", "en": ["I found their house easily.", "I easily found their house."] },

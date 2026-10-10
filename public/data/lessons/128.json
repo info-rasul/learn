@@ -16,7 +16,7 @@
       "type": "list",
       "items": [
         "<b>by chance</b> (случайно, по стечению обстоятельств), <b>by accident</b> (нечаянно), <b>by mistake</b> (по ошибке). Но нарочно — <b>on purpose</b>.",
-        "Автор и исполнитель действия: <b>a song by a French singer</b>, <b>The bridge was built by Romans.</b>",
+        "Автор и исполнитель действия: <b>a song by a French singer</b>, <b>The bridge was built by the Romans.</b>",
         "<b>by myself / by herself</b> = «сам, один»: <b>I fixed it by myself.</b>",
         "<b>by</b> = «рядом, у»: <b>by the window</b>, <b>by the sea</b>.",
         "Разница: <b>Prices went up by 5 percent.</b> <b>We lost by one goal.</b> <b>I missed the bus by a minute.</b>",
@@ -191,7 +191,8 @@
       "ru": "Сядь у окна.",
       "en": [
         "Sit by the window.",
-        "Sit next to the window."
+        "Sit next to the window.",
+        "Sit near the window."
       ]
     },
     {
@@ -201,7 +202,8 @@
         "Prices have gone up by ten per cent.",
         "Prices have risen by ten percent.",
         "Prices went up by ten percent.",
-        "Prices have increased by ten percent."
+        "Prices have increased by ten percent.",
+        "Prices rose by ten percent."
       ]
     },
     {

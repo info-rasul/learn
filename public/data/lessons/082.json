@@ -70,7 +70,8 @@
     {
       "ru": "Ты разговариваешь сам с собой?",
       "en": [
-        "Do you talk to yourself?"
+        "Do you talk to yourself?",
+        "Are you talking to yourself?"
       ]
     },
     {
@@ -84,7 +85,8 @@
       "en": [
         "We enjoyed ourselves at the party.",
         "We really enjoyed ourselves at the party.",
-        "We had a great time at the party."
+        "We had a great time at the party.",
+        "We had a lot of fun at the party."
       ]
     },
     {
@@ -99,7 +101,8 @@
       "en": [
         "He fell over, but he didn't hurt himself.",
         "He fell, but he didn't hurt himself.",
-        "He fell down, but he didn't hurt himself."
+        "He fell down, but he didn't hurt himself.",
+        "He fell over, but didn't hurt himself."
       ]
     },
     {
@@ -209,7 +212,9 @@
       "ru": "Мне это сказала сама Эмма.",
       "en": [
         "Emma told me herself.",
-        "Emma herself told me."
+        "Emma herself told me.",
+        "Emma told me this herself.",
+        "Emma told me that herself."
       ]
     },
     {
@@ -224,7 +229,8 @@
       "en": [
         "The children can take care of themselves.",
         "The children can look after themselves.",
-        "The kids can take care of themselves."
+        "The kids can take care of themselves.",
+        "The kids can look after themselves."
       ]
     }
   ]

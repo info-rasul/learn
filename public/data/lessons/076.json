@@ -33,7 +33,7 @@
       "rows": [
         [
           "the French, the English, the Spanish",
-          "a French woman, an English man"
+          "a French woman, an Englishman"
         ],
         [
           "the Swiss, the Chinese, the Japanese",
@@ -184,7 +184,8 @@
         "The English love talking about the weather.",
         "The English like talking about the weather.",
         "The English love to talk about the weather.",
-        "English people love talking about the weather."
+        "English people love talking about the weather.",
+        "English people like talking about the weather."
       ]
     },
     {
@@ -229,7 +230,8 @@
       "ru": "(человечество) Человек впервые высадился на Луне в 1969 году.",
       "en": [
         "Man first landed on the moon in 1969.",
-        "Man first walked on the moon in 1969."
+        "Man first walked on the moon in 1969.",
+        "Man landed on the moon for the first time in 1969."
       ]
     }
   ]

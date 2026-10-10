@@ -86,14 +86,16 @@
     {
       "ru": "Какой смысл покупать машину, если ты не водишь?",
       "en": [
-        "What's the point of buying a car if you don't drive?"
+        "What's the point of buying a car if you don't drive?",
+        "What's the point in buying a car if you don't drive?"
       ]
     },
     {
       "ru": "Нет смысла учиться, если ты устал.",
       "en": [
         "There's no point in studying if you're tired.",
-        "It's no use studying if you're tired."
+        "It's no use studying if you're tired.",
+        "It's no good studying if you're tired."
       ]
     },
     {
@@ -115,7 +117,9 @@
       "en": [
         "It's not worth taking a taxi to the station.",
         "It isn't worth taking a taxi to the station.",
-        "It's not worth getting a taxi to the station."
+        "It's not worth getting a taxi to the station.",
+        "It's not worth taking a taxi.",
+        "It's not worth getting a taxi."
       ]
     },
     {
@@ -150,7 +154,8 @@
         "Did you have difficulty getting a visa?",
         "Did you have any trouble getting a visa?",
         "Did you have any problems getting a visa?",
-        "Did you have a problem getting a visa?"
+        "Did you have a problem getting a visa?",
+        "Did you have trouble getting a visa?"
       ]
     },
     {
@@ -188,7 +193,9 @@
       "en": [
         "How much time do you spend travelling to work?",
         "How much time do you spend getting to work?",
-        "How much time do you spend traveling to work?"
+        "How much time do you spend traveling to work?",
+        "How long do you spend travelling to work?",
+        "How long do you spend getting to work?"
       ]
     },
     {

@@ -29,7 +29,7 @@
     },
     {
       "type": "tip",
-      "text": "«Ещё холоднее» — это <b>even colder</b>, а не more colder или still colder. И «даже не» по-английски: <b>didn't even</b>, <b>can't even</b> — even стоит после отрицания, а не перед ним."
+      "text": "«Ещё холоднее» — это <b>even colder</b>, а не more colder. И «даже не» по-английски: <b>didn't even</b>, <b>can't even</b> — even стоит после отрицания, а не перед ним."
     }
   ],
   "items": [
@@ -52,7 +52,7 @@
     { "ru": "Этот ресторан даже лучше, чем тот.", "en": ["This restaurant is even better than that one."] },
     { "ru": "Новый телефон ещё дороже.", "en": ["The new phone is even more expensive."] },
     { "ru": "Сегодня я устал ещё больше, чем вчера.", "en": ["I'm even more tired today than yesterday.", "I'm even more tired today than I was yesterday.", "Today I'm even more tired than yesterday."] },
-    { "ru": "Хотя было поздно, мы продолжали работать.", "en": ["Even though it was late, we kept working.", "Even though it was late, we continued working.", "We kept working even though it was late."] },
+    { "ru": "Хотя было поздно, мы продолжали работать.", "en": ["Even though it was late, we kept working.", "Even though it was late, we continued working.", "We kept working even though it was late.", "Even though it was late, we went on working."] },
     { "ru": "Он пришёл на работу, хотя был болен.", "en": ["He came to work even though he was ill.", "He came to work even though he was sick."] },
     { "ru": "Даже если пойдёт дождь, мы пойдём гулять.", "en": ["Even if it rains, we'll go for a walk.", "We'll go for a walk even if it rains."] },
     { "ru": "Я не поеду туда, даже если ты попросишь.", "en": ["I won't go there even if you ask me.", "I won't go there even if you ask.", "Even if you ask me, I won't go there."] },

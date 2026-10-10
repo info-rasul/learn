@@ -98,7 +98,8 @@
       "ru": "Ты хорошо играешь в шахматы?",
       "en": [
         "Are you good at chess?",
-        "Are you good at playing chess?"
+        "Are you good at playing chess?",
+        "Do you play chess well?"
       ]
     },
     {
@@ -131,7 +132,8 @@
     {
       "ru": "Охранник отнёсся к нам с подозрением.",
       "en": [
-        "The guard was suspicious of us."
+        "The guard was suspicious of us.",
+        "The security guard was suspicious of us."
       ]
     },
     {
@@ -153,19 +155,22 @@
       "en": [
         "She's late again, that's so typical of her.",
         "She's late again, it's so typical of her.",
-        "She was late again, that's so typical of her."
+        "She was late again, that's so typical of her.",
+        "She was late again, it's so typical of her."
       ]
     },
     {
       "ru": "Твоя сумка похожа на мою.",
       "en": [
-        "Your bag is similar to mine."
+        "Your bag is similar to mine.",
+        "Your bag looks like mine."
       ]
     },
     {
       "ru": "Алекс всё ещё зависит от родителей.",
       "en": [
-        "Alex is still dependent on his parents."
+        "Alex is still dependent on his parents.",
+        "Alex still depends on his parents."
       ]
     },
     {
@@ -200,7 +205,8 @@
       "en": [
         "The new office is very different from the old one.",
         "The new office is very different to the old one.",
-        "The new office is very different from the old office."
+        "The new office is very different from the old office.",
+        "The new office is very different to the old office."
       ]
     },
     {
@@ -222,7 +228,8 @@
       "ru": "Ник не очень любит футбол.",
       "en": [
         "Nick isn't very keen on football.",
-        "Nick isn't very fond of football."
+        "Nick isn't very fond of football.",
+        "Nick doesn't really like football."
       ]
     },
     {
@@ -236,7 +243,9 @@
       "en": [
         "I'm a bit short of time now.",
         "I'm short of time now.",
-        "I'm short of time at the moment."
+        "I'm short of time at the moment.",
+        "I'm short of time right now.",
+        "I don't have much time now."
       ]
     },
     {

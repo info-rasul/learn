@@ -56,8 +56,8 @@
           "<b>We've been waiting for an hour.</b>"
         ],
         [
-          "<b>Be quiet, I'm on the phone.</b>",
-          "<b>I've been working a lot, and now I want to rest.</b>"
+          "<b>Be quiet, I'm talking on the phone.</b>",
+          "<b>I've been talking on the phone all morning.</b>"
         ]
       ]
     },
@@ -129,7 +129,8 @@
       "en": [
         "We've been waiting for twenty minutes.",
         "We've been waiting for 20 minutes.",
-        "We've been waiting twenty minutes."
+        "We've been waiting twenty minutes.",
+        "We've been waiting 20 minutes."
       ]
     },
     {
@@ -195,7 +196,8 @@
       "en": [
         "Be quiet, I'm on the phone.",
         "Be quiet, I'm talking on the phone.",
-        "Quiet, I'm on the phone."
+        "Quiet, I'm on the phone.",
+        "Quiet, I'm talking on the phone."
       ]
     },
     {
@@ -203,7 +205,9 @@
       "en": [
         "I've been working a lot, and now I want to rest.",
         "I've been working hard, and now I want to have a rest.",
-        "I've been working a lot, and now I want to have a break."
+        "I've been working a lot, and now I want to have a break.",
+        "I've been working hard, and now I want to rest.",
+        "I've been working a lot, and now I want to have a rest."
       ]
     },
     {

@@ -79,7 +79,9 @@
         "Yesterday I worked until nine in the evening.",
         "I worked until nine in the evening yesterday.",
         "Yesterday I worked till nine in the evening.",
-        "Yesterday I worked until 9 pm."
+        "Yesterday I worked until 9 pm.",
+        "I worked till nine in the evening yesterday.",
+        "I worked until 9 pm yesterday."
       ]
     },
     {
@@ -131,7 +133,9 @@
       "en": [
         "I saw Paul in the shop on Monday.",
         "I saw Paul at the shop on Monday.",
-        "On Monday I saw Paul in the shop."
+        "On Monday I saw Paul in the shop.",
+        "On Monday I saw Paul at the shop.",
+        "I saw Paul in the store on Monday."
       ]
     },
     {

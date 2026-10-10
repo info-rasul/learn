@@ -36,14 +36,14 @@
     { "ru": "У меня не было зонта, и я промок.", "en": ["I didn't have an umbrella, so I got wet.", "I didn't have an umbrella and I got wet."] },
     { "ru": "Я обычно завтракаю в семь.", "en": ["I usually have breakfast at seven.", "I usually have breakfast at 7."] },
     { "ru": "Я обычно не обедаю.", "en": ["I don't usually have lunch.", "I usually don't have lunch."] },
-    { "ru": "Алекс сейчас принимает душ.", "en": ["Alex is having a shower now.", "Alex is taking a shower now.", "Alex is having a shower at the moment."] },
+    { "ru": "Алекс сейчас принимает душ.", "en": ["Alex is having a shower now.", "Alex is taking a shower now.", "Alex is having a shower at the moment.", "Alex is taking a shower at the moment."] },
     { "ru": "Мы отлично проводим время в Испании.", "en": ["We're having a great time in Spain.", "We are having a wonderful time in Spain."] },
     { "ru": "Давай сделаем перерыв.", "en": ["Let's have a break.", "Let's take a break."] },
     { "ru": "Ты хорошо провёл время на вечеринке?", "en": ["Did you have a good time at the party?", "Did you have fun at the party?"] },
     { "ru": "У нас были проблемы с поиском отеля.", "en": ["We had trouble finding a hotel.", "We had problems finding a hotel.", "We had difficulty finding a hotel."] },
-    { "ru": "Можно я взгляну на твои фотографии?", "en": ["Can I have a look at your photos?", "Can I have a look at your pictures?", "Could I have a look at your photos?"] },
+    { "ru": "Можно я взгляну на твои фотографии?", "en": ["Can I have a look at your photos?", "Can I have a look at your pictures?", "Could I have a look at your photos?", "Could I have a look at your pictures?", "May I have a look at your photos?"] },
     { "ru": "Когда вы обычно ужинаете?", "en": ["When do you usually have dinner?", "What time do you usually have dinner?"] },
     { "ru": "Прошлой ночью мне приснился странный сон.", "en": ["I had a strange dream last night.", "Last night I had a strange dream."] },
-    { "ru": "В субботу Сара устраивает вечеринку.", "en": ["Sarah is having a party on Saturday."] }
+    { "ru": "В субботу Сара устраивает вечеринку.", "en": ["Sarah is having a party on Saturday.", "On Saturday Sarah is having a party.", "Sarah is throwing a party on Saturday."] }
   ]
 }

@@ -19,7 +19,7 @@
         [
           "for",
           "a demand, a need, a reason",
-          "<b>There's no need for help.</b>"
+          "<b>the reason for the delay</b>"
         ],
         [
           "of",
@@ -74,7 +74,8 @@
       "ru": "Сейчас большой спрос на электромобили.",
       "en": [
         "There is a big demand for electric cars now.",
-        "Now there is a big demand for electric cars."
+        "Now there is a big demand for electric cars.",
+        "There's a great demand for electric cars now."
       ]
     },
     {
@@ -82,11 +83,12 @@
       "en": [
         "There's no need for a taxi, I'll walk.",
         "There's no need for a taxi, I'm going to walk.",
-        "I don't need a taxi, I'll walk."
+        "I don't need a taxi, I'll walk.",
+        "I don't need a taxi, I'm going to walk."
       ]
     },
     {
-      "ru": "Какая причина твоего решения?",
+      "ru": "Какова причина твоего решения?",
       "en": [
         "What is the reason for your decision?"
       ]
@@ -120,7 +122,8 @@
       "en": [
         "There was a fall in the number of tourists.",
         "There has been a fall in the number of tourists.",
-        "There was a decrease in the number of tourists."
+        "There was a decrease in the number of tourists.",
+        "There has been a decrease in the number of tourists."
       ]
     },
     {
@@ -133,7 +136,11 @@
       "ru": "Ты поддерживаешь связь со своими школьными друзьями?",
       "en": [
         "Do you have contact with your school friends?",
-        "Are you in contact with your school friends?"
+        "Are you in contact with your school friends?",
+        "Do you keep in contact with your school friends?",
+        "Do you stay in contact with your school friends?",
+        "Do you keep in touch with your school friends?",
+        "Are you in touch with your school friends?"
       ]
     },
     {
@@ -150,7 +157,7 @@
       ]
     },
     {
-      "ru": "Какое преимущество работы дома?",
+      "ru": "В чём преимущество работы из дома?",
       "en": [
         "What is the advantage of working at home?",
         "What is the advantage of working from home?"
@@ -177,7 +184,8 @@
       "en": [
         "We haven't found a solution to this problem yet.",
         "We haven't found a solution to the problem yet.",
-        "We haven't yet found a solution to this problem."
+        "We haven't yet found a solution to this problem.",
+        "We haven't yet found a solution to the problem."
       ]
     },
     {
@@ -197,7 +205,9 @@
       "en": [
         "She never got a reply to her letter.",
         "She never received a reply to her letter.",
-        "She didn't get a reply to her letter."
+        "She didn't get a reply to her letter.",
+        "She never got an answer to her letter.",
+        "She never received an answer to her letter."
       ]
     },
     {
@@ -225,7 +235,8 @@
       "en": [
         "Did you get an invitation to Kate's party?",
         "Have you got an invitation to Kate's party?",
-        "Did you receive an invitation to Kate's party?"
+        "Did you receive an invitation to Kate's party?",
+        "Have you received an invitation to Kate's party?"
       ]
     },
     {
@@ -243,7 +254,9 @@
         "Why do you have this attitude to teachers?",
         "Why do you have this attitude towards teachers?",
         "Why do you have such an attitude to teachers?",
-        "Why do you have such an attitude towards teachers?"
+        "Why do you have such an attitude towards teachers?",
+        "Why do you have that attitude to teachers?",
+        "Why do you have that attitude towards teachers?"
       ]
     }
   ]

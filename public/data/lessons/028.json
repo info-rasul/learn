@@ -28,7 +28,7 @@
     { "ru": "(он только что приехал в город) Он не может знать дорогу.", "en": ["He can't know the way."] },
     { "ru": "(он бегает каждый день) Джек, должно быть, в отличной форме.", "en": ["Jack must be very fit.", "Jack must be in great shape.", "Jack must be in very good shape."] },
     { "ru": "(в кабинете горит свет) Дэвид, должно быть, ещё работает.", "en": ["David must still be working.", "David must be still working."] },
-    { "ru": "(телефон выключен) Лиза, должно быть, спит.", "en": ["Lisa must be sleeping.", "Lisa must be asleep."] },
+    { "ru": "(телефон выключен) Лиза, должно быть, спит.", "en": ["Lisa must be sleeping.", "Lisa must be asleep.", "Lisa must be sleeping now."] },
     { "ru": "Эта цена не может быть правильной.", "en": ["This price can't be right.", "This price can't be correct.", "That price can't be right."] },
     { "ru": "Вы, должно быть, Анна.", "en": ["You must be Anna."] },
     { "ru": "Ты, должно быть, очень гордишься сыном.", "en": ["You must be very proud of your son."] },
@@ -40,9 +40,9 @@
     { "ru": "Она не могла забыть: я напомнил ей утром.", "en": ["She can't have forgotten because I reminded her this morning.", "She couldn't have forgotten because I reminded her this morning.", "She can't have forgotten, I reminded her this morning."] },
     { "ru": "Они не могли уйти далеко.", "en": ["They can't have gone far.", "They couldn't have gone far."] },
     { "ru": "(у неё мокрые волосы) Она, должно быть, плавала.", "en": ["She must have been swimming."] },
-    { "ru": "(ты ничего не понял) Ты, должно быть, слушал невнимательно.", "en": ["You can't have been listening carefully.", "You couldn't have been listening carefully.", "You can't have been listening."] },
+    { "ru": "(ты ничего не понял) Не может быть, что ты слушал внимательно.", "en": ["You can't have been listening carefully.", "You couldn't have been listening carefully.", "You can't have been listening."] },
     { "ru": "Я, должно быть, где-то уронил очки.", "en": ["I must have dropped my glasses somewhere."] },
     { "ru": "Джон не мог этого сделать: его там не было.", "en": ["John can't have done it because he wasn't there.", "John couldn't have done it because he wasn't there.", "John can't have done it, he wasn't there."] },
-    { "ru": "Наверное, было здорово жить в Италии.", "en": ["It must have been great to live in Italy.", "It must have been great living in Italy.", "It must have been wonderful to live in Italy."] }
+    { "ru": "Должно быть, было здорово жить в Италии.", "en": ["It must have been great to live in Italy.", "It must have been great living in Italy.", "It must have been wonderful to live in Italy."] }
   ]
 }

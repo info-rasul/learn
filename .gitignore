@@ -6,3 +6,4 @@ dist
 .lessons-old
 .playwright-mcp
 *.pdf
+public/data/book/

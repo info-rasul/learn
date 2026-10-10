@@ -20,14 +20,14 @@
     { "type": "tip", "text": "«Не надо было волноваться!» — это <b>You needn't have worried.</b> (вы волновались зря). Частая ошибка — «You didn't need worry» или «You needn't to worry». Запомните: <b>needn't</b> без to, <b>didn't need to</b> с to." }
   ],
   "items": [
-    { "ru": "Надо спешить, поезд скоро уходит.", "en": ["We must hurry because the train leaves soon.", "We must hurry, the train leaves soon.", "We have to hurry because the train leaves soon.", "We must hurry because the train is leaving soon."] },
+    { "ru": "Надо спешить, поезд скоро уходит.", "en": ["We must hurry because the train leaves soon.", "We must hurry, the train leaves soon.", "We have to hurry because the train leaves soon.", "We must hurry because the train is leaving soon.", "We have to hurry, the train leaves soon.", "We must hurry, the train is leaving soon.", "We need to hurry, the train leaves soon."] },
     { "ru": "Ты должен запомнить этот номер.", "en": ["You must remember this number.", "You have to remember this number."] },
     { "ru": "Мы должны быть на вокзале в восемь.", "en": ["We must be at the station at eight.", "We have to be at the station at eight.", "We must be at the station at 8.", "We have to be at the station at 8."] },
     { "ru": "Здесь нельзя курить.", "en": ["You mustn't smoke here.", "You mustn't smoke in here."] },
     { "ru": "Нам нельзя шуметь, потому что малыш спит.", "en": ["We mustn't make any noise because the baby is asleep.", "We mustn't make any noise because the baby is sleeping.", "We mustn't make a noise because the baby is asleep.", "We mustn't make a noise because the baby is sleeping."] },
     { "ru": "Тебе нельзя забывать ключи.", "en": ["You mustn't forget your keys.", "You mustn't forget the keys."] },
     { "ru": "Нам не нужно спешить, у нас много времени.", "en": ["We needn't hurry because we have plenty of time.", "We don't need to hurry because we have plenty of time.", "We needn't hurry, we have plenty of time.", "We don't need to hurry, we have plenty of time.", "We needn't hurry because we've got plenty of time."] },
-    { "ru": "Тебе не нужно идти со мной.", "en": ["You needn't come with me.", "You don't need to come with me.", "You don't have to come with me.", "You needn't go with me.", "You don't need to go with me."] },
+    { "ru": "Тебе не нужно идти со мной.", "en": ["You needn't come with me.", "You don't need to come with me.", "You don't have to come with me.", "You needn't go with me.", "You don't need to go with me.", "You don't have to go with me."] },
     { "ru": "Ему не нужно приходить завтра.", "en": ["He needn't come tomorrow.", "He doesn't need to come tomorrow.", "He doesn't have to come tomorrow."] },
     { "ru": "Тебе не нужно говорить Тому, я сам ему скажу.", "en": ["You needn't tell Tom, I'll tell him myself.", "You don't need to tell Tom, I'll tell him myself.", "You don't have to tell Tom, I'll tell him myself."] },
     { "ru": "Тебе нельзя говорить Тому, я не хочу, чтобы он знал.", "en": ["You mustn't tell Tom, I don't want him to know."] },

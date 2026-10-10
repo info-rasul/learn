@@ -113,7 +113,8 @@
       "en": [
         "The meeting has been put off until next week.",
         "The meeting was put off until next week.",
-        "The meeting has been put off till next week."
+        "The meeting has been put off till next week.",
+        "The meeting has been postponed until next week."
       ]
     },
     {
@@ -141,7 +142,9 @@
       "ru": "Я поправился на три килограмма.",
       "en": [
         "I've put on three kilos.",
-        "I put on three kilos."
+        "I put on three kilos.",
+        "I've put on three kilograms.",
+        "I put on three kilograms."
       ]
     },
     {
@@ -194,7 +197,9 @@
       "ru": "Он развернулся и ушёл, не сказав ни слова.",
       "en": [
         "He turned and walked off without a word.",
-        "He turned round and walked off without saying a word."
+        "He turned round and walked off without saying a word.",
+        "He turned round and walked off without a word.",
+        "He turned around and walked off without a word."
       ]
     },
     {

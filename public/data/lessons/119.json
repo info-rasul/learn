@@ -80,7 +80,9 @@
       "en": [
         "Somebody called during the night.",
         "Someone called during the night.",
-        "Somebody phoned during the night."
+        "Somebody phoned during the night.",
+        "Somebody called in the night.",
+        "Someone called in the night."
       ]
     },
     {
@@ -157,7 +159,8 @@
       "en": [
         "I read a book while I was waiting for the train.",
         "I was reading a book while I was waiting for the train.",
-        "I read a book while waiting for the train."
+        "I read a book while waiting for the train.",
+        "I read a book while I waited for the train."
       ]
     },
     {

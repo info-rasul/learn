@@ -97,7 +97,9 @@
       "ru": "После аварии его отвезли в больницу.",
       "en": [
         "He was taken to hospital after the accident.",
-        "After the accident he was taken to hospital."
+        "After the accident he was taken to hospital.",
+        "They took him to hospital after the accident.",
+        "After the accident they took him to hospital."
       ]
     },
     {
@@ -188,7 +190,8 @@
     {
       "ru": "Уже полночь. Пойдём домой.",
       "en": [
-        "It's midnight. Let's go home."
+        "It's midnight. Let's go home.",
+        "It's already midnight. Let's go home."
       ]
     },
     {

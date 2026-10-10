@@ -38,7 +38,7 @@
       "items": [
         "<b>a/an</b> отвечает на вопрос «что это / кто это такой»: <b>It's a bird. She's a nurse.</b>",
         "Профессия — всегда с артиклем: <b>My brother is a teacher</b> (не is teacher).",
-        "Внешность: <b>a long nose, a small mouth</b>, но <b>blue eyes, long legs</b> — без the."
+        "Внешность: <b>a long nose, a small mouth</b>, но во множественном числе — без артикля: <b>blue eyes, long legs</b>."
       ]
     },
     {
@@ -93,7 +93,8 @@
       "ru": "Её родители оба врачи.",
       "en": [
         "Her parents are both doctors.",
-        "Both her parents are doctors."
+        "Both her parents are doctors.",
+        "Both of her parents are doctors."
       ]
     },
     {
@@ -163,7 +164,8 @@
       "en": [
         "I bought some books yesterday.",
         "Yesterday I bought some books.",
-        "I bought a few books yesterday."
+        "I bought a few books yesterday.",
+        "Yesterday I bought a few books."
       ]
     },
     {
@@ -193,7 +195,8 @@
     {
       "ru": "Она художница. Она рисует картины.",
       "en": [
-        "She's an artist. She paints pictures."
+        "She's an artist. She paints pictures.",
+        "She's a painter. She paints pictures."
       ]
     },
     {
@@ -207,7 +210,8 @@
       "en": [
         "There will be snow in some places tomorrow.",
         "Tomorrow there will be snow in some places.",
-        "It will snow in some places tomorrow."
+        "It will snow in some places tomorrow.",
+        "Tomorrow it will snow in some places."
       ]
     },
     {
@@ -222,7 +226,8 @@
       "en": [
         "When I was a child, I read a lot.",
         "I read a lot when I was a child.",
-        "When I was a child, I used to read a lot."
+        "When I was a child, I used to read a lot.",
+        "I used to read a lot when I was a child."
       ]
     },
     {
@@ -230,7 +235,8 @@
       "en": [
         "All my neighbours are students.",
         "All my neighbors are students.",
-        "All of my neighbours are students."
+        "All of my neighbours are students.",
+        "All of my neighbors are students."
       ]
     }
   ]

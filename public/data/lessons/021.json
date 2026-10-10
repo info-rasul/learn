@@ -19,11 +19,11 @@
     { "type": "tip", "text": "Русскоговорящие говорят «I help you» или «I open the door» для мгновенного решения. Present simple тут не работает: <b>I'll help you</b>, <b>I'll open the door</b>." }
   ],
   "items": [
-    { "ru": "(решил только что) Пойду закрою окно.", "en": ["I'll go and close the window.", "I'll go and shut the window.", "I'll close the window."] },
+    { "ru": "(решил только что) Пойду закрою окно.", "en": ["I'll go and close the window.", "I'll go and shut the window.", "I'll close the window.", "I'll shut the window."] },
     { "ru": "(в кафе, решил сейчас) Я возьму чай, пожалуйста.", "en": ["I'll have tea, please.", "I'll have a tea, please.", "I'll have some tea, please."] },
     { "ru": "(только что вспомнил) Позвоню Дэну прямо сейчас.", "en": ["I'll call Dan right now.", "I'll phone Dan right now.", "I'll ring Dan right now."] },
     { "ru": "Я, пожалуй, съем бутерброд.", "en": ["I think I'll have a sandwich.", "I think I'll eat a sandwich."] },
-    { "ru": "Думаю, я не буду смотреть этот фильм.", "en": ["I don't think I'll watch this film.", "I don't think I'll watch that film.", "I don't think I'll watch this movie."] },
+    { "ru": "Думаю, я не буду смотреть этот фильм.", "en": ["I don't think I'll watch this film.", "I don't think I'll watch that film.", "I don't think I'll watch this movie.", "I don't think I'll watch that movie."] },
     { "ru": "Не волнуйся, я не опоздаю.", "en": ["Don't worry, I won't be late."] },
     { "ru": "Я помогу тебе с чемоданом.", "en": ["I'll help you with your suitcase.", "I'll help you with the suitcase."] },
     { "ru": "(звонят в дверь) Я открою.", "en": ["I'll get it.", "I'll open the door.", "I'll answer the door.", "I'll get the door."] },
