@@ -33,6 +33,7 @@ function Shell() {
           <Route path="/lesson/:id" element={<LessonPage />} />
           <Route path="/lesson/:id/theory" element={<LessonPage view="theory" />} />
           <Route path="/lesson/:id/practice" element={<LessonPage view="practice" />} />
+          <Route path="/lesson/:id/ask" element={<LessonPage view="ask" />} />
           <Route path="/table" element={<VerbTablePage />} />
           <Route path="/exam" element={<ExamPage />} />
           <Route path="/stats" element={<StatsPage />} />

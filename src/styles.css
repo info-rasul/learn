@@ -1377,7 +1377,7 @@ body.task-open {
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 640px;
+  max-width: 720px;
   height: 100%;
   background: var(--card);
   box-shadow: 0 0 30px rgba(20, 24, 40, 0.08);
@@ -1401,7 +1401,7 @@ body.task-open {
   border: 0;
   background: none;
   color: #fff;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   text-decoration: none;
   white-space: nowrap;
   cursor: pointer;
@@ -1423,7 +1423,7 @@ body.task-open {
   justify-content: flex-end;
   gap: 0.75rem;
   flex: 1;
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   font-variant-numeric: tabular-nums;
 }
 
@@ -1509,8 +1509,8 @@ body.task-open {
 }
 
 .task-phrase {
-  padding: 0.9rem 1rem;
-  font-size: 1.2rem;
+  padding: 1.1rem 1.1rem;
+  font-size: 1.45rem;
   font-weight: 500;
   border-bottom: 1px solid var(--line);
 }
@@ -1518,10 +1518,10 @@ body.task-open {
 .task-answer {
   display: flex;
   align-items: center;
-  min-height: 56px;
+  min-height: 64px;
   padding: 0.5rem 1rem;
   background: var(--answer-bg);
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: var(--ink);
   transition: background 0.2s;
 }
@@ -1552,7 +1552,7 @@ body.task-open {
   border: 0;
   border-bottom: 2px solid var(--bar);
   background: transparent;
-  font-size: 1.15rem;
+  font-size: 1.35rem;
   outline: none;
 }
 
@@ -1575,14 +1575,14 @@ body.task-open {
   flex: 1;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-auto-rows: minmax(56px, 1fr);
+  grid-auto-rows: minmax(64px, 1fr);
 }
 
 .word-option {
   border: 0;
   background: none;
   color: #444a57;
-  font-size: 1.2rem;
+  font-size: 1.45rem;
   cursor: pointer;
   transition: background 0.1s;
 }
@@ -1649,7 +1649,7 @@ body.task-open {
 }
 
 .task-result-title {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   font-weight: 800;
 }
 
@@ -1666,16 +1666,34 @@ body.task-open {
 }
 
 .result-strip {
-  display: grid;
-  grid-template-columns: repeat(100, minmax(0, 1fr));
-  gap: 1px;
-  height: 12px;
-  padding: 0 6px 6px;
+  padding: 0.4rem 0.75rem 0.6rem;
   background: var(--card);
+  border-top: 1px solid var(--line);
+}
+
+.result-strip-label {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.3rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.result-strip-label b {
+  color: var(--ink);
+}
+
+.result-strip-cells {
+  display: grid;
+  grid-template-columns: repeat(50, minmax(0, 1fr));
+  grid-auto-rows: 9px;
+  gap: 2px;
 }
 
 .result-strip .cell {
-  border-radius: 1px;
+  border-radius: 2px;
   background: var(--line);
 }
 
@@ -1718,7 +1736,7 @@ body.task-open {
   border: 0;
   background: none;
   color: #fff;
-  font-size: 0.72rem;
+  font-size: 0.82rem;
   cursor: pointer;
 }
 
@@ -1732,8 +1750,8 @@ body.task-open {
 }
 
 .task-tools svg {
-  width: 24px;
-  height: 24px;
+  width: 26px;
+  height: 26px;
   fill: none;
   stroke: currentColor;
   stroke-width: 1.8;
@@ -1758,6 +1776,112 @@ body.task-open {
   padding-right: 2rem;
 }
 
+/* ---------- Questions to DeepSeek ---------- */
+
+.ask {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.ask-intro {
+  margin: 0;
+}
+
+.ask-log {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.ask-msg {
+  max-width: 90%;
+  padding: 0.6rem 0.85rem;
+  border-radius: 14px;
+  font-size: 1rem;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.ask-msg.user {
+  align-self: flex-end;
+  background: var(--accent);
+  color: #fff;
+  border-bottom-right-radius: 4px;
+  white-space: pre-wrap;
+}
+
+.ask-msg.assistant {
+  align-self: flex-start;
+  background: var(--ai-soft);
+  border: 1px solid #d6dafc;
+  border-bottom-left-radius: 4px;
+}
+
+.ask-msg.assistant.loading {
+  color: var(--ai);
+}
+
+.ask-msg p,
+.ask-msg ul {
+  margin: 0 0 0.5rem;
+}
+
+.ask-msg > :last-child {
+  margin-bottom: 0;
+}
+
+.ask-msg ul {
+  padding-left: 1.2rem;
+}
+
+.ask-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.ask-form {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.5rem;
+}
+
+.ask-form textarea {
+  flex: 1;
+  min-width: 0;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font: inherit;
+  font-size: 1rem;
+  resize: vertical;
+}
+
+.ask-form textarea:focus {
+  outline: 2px solid var(--ai-soft);
+  border-color: var(--ai);
+}
+
+.ask-clear {
+  align-self: flex-start;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.ask-card {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.ask-card h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.15rem;
+}
+
 /* ---------- Bottom sheet (hint / rules) ---------- */
 
 .sheet-backdrop {
@@ -1775,7 +1899,7 @@ body.task-open {
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 640px;
+  max-width: 720px;
   max-height: 85vh;
   background: var(--card);
   border-radius: 16px 16px 0 0;

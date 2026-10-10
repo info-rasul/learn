@@ -6,7 +6,7 @@ import { isPassing, pushResult } from './scoring';
 const HISTORY_LIMIT = 5000;
 
 /** Progress of the Murphy course is kept apart from the old 16-lesson course: lesson ids overlap. */
-const courseKey = (email: string, name: string) => userKey(email, `murphy:${name}`);
+export const courseKey = (email: string, name: string) => userKey(email, `murphy:${name}`);
 
 export const DEFAULT_SETTINGS: UserSettings = { mode: 'tiles', autoSpeak: true, speechRate: 0.9 };
 

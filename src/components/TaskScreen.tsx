@@ -10,11 +10,14 @@ import { listen, listenAvailable } from '../lib/listen';
 import SpeakButton from './SpeakButton';
 import DiffView from './DiffView';
 import AiExplain from './AiExplain';
+import AskTutor from './AskTutor';
 import Theory from './Theory';
 import VerbHint, { findVerb } from './VerbHint';
 
 type Status = 'answer' | 'correct' | 'wrong';
-type Sheet = 'hint' | 'help' | null;
+type Sheet = 'hint' | 'help' | 'ask' | null;
+
+const SHEET_TITLES: Record<'hint' | 'ask', string> = { hint: 'Подсказка', ask: 'Вопрос DeepSeek' };
 
 const PRAISE = ['Правильно!', 'Отлично!', 'Молодец!', 'Верно!', 'Так держать!', 'Превосходно!'];
 /** A correct answer moves on by itself after this delay (time to hear it). */
@@ -39,13 +42,16 @@ interface Props {
   /** Shown above the bottom toolbar, e.g. the strip of the last 100 answers. */
   footer?: ReactNode;
   notice?: ReactNode;
+  /** Free questions to DeepSeek; off in the exam, where they would give answers away. */
+  allowAsk?: boolean;
   onChecked: (correct: boolean, answer: string) => void;
   onNext: () => void;
 }
 
 /** Full-screen task as in the original app. Remount it (via `key`) for the next phrase. */
 export default function TaskScreen(props: Props) {
-  const { title, backTo, onBack, stats, menu = [], lesson, index, footer, notice, onChecked, onNext } = props;
+  const { title, backTo, onBack, stats, menu = [], lesson, index, footer, notice, allowAsk = true, onChecked, onNext } =
+    props;
   const { settings, updateSettings } = useUserData();
   const item = lesson.items[index];
   const mode = settings.mode;
@@ -135,7 +141,14 @@ export default function TaskScreen(props: Props) {
         setMenuOpen(false);
         return;
       }
-      if (sheet || e.target instanceof HTMLInputElement || e.target instanceof HTMLButtonElement) return;
+      if (
+        sheet ||
+        e.target instanceof HTMLInputElement ||
+        e.target instanceof HTMLTextAreaElement ||
+        e.target instanceof HTMLButtonElement
+      ) {
+        return;
+      }
       if (e.key === 'Enter' && status !== 'answer') {
         e.preventDefault();
         next();
@@ -283,6 +296,11 @@ export default function TaskScreen(props: Props) {
                 Правильно: <b>{closest}</b> <SpeakButton text={closest} />
               </div>
               <AiExplain lessonTitle={`Урок ${lesson.id}. ${lesson.title}`} ru={item.ru} expected={item.en} answer={answer} />
+              {allowAsk && (
+                <button type="button" className="btn-ai" onClick={() => setSheet('ask')}>
+                  Задать свой вопрос по фразе
+                </button>
+              )}
               <button type="button" className="btn wide" onClick={next}>
                 Дальше
               </button>
@@ -313,6 +331,16 @@ export default function TaskScreen(props: Props) {
             </svg>
             Правила
           </button>
+          {allowAsk && (
+            <button type="button" onClick={() => setSheet('ask')}>
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="12" cy="12" r="9.5" />
+                <path d="M9.3 9.2a2.8 2.8 0 0 1 5.4 1c0 1.9-2.7 2.4-2.7 4" />
+                <path d="M12 17.6v.1" />
+              </svg>
+              Вопрос
+            </button>
+          )}
           {listenAvailable() && (
             <button type="button" onClick={voice} disabled={status !== 'answer'} className={listening ? 'active' : undefined}>
               <MicIcon />
@@ -326,13 +354,24 @@ export default function TaskScreen(props: Props) {
         <div className="sheet-backdrop" onClick={() => setSheet(null)}>
           <div className="sheet" role="dialog" aria-modal="true" onClick={(e) => e.stopPropagation()}>
             <div className="sheet-head">
-              <b>{sheet === 'hint' ? 'Подсказка' : `Урок ${lesson.id}. ${lesson.title}`}</b>
+              <b>{sheet === 'help' ? `Урок ${lesson.id}. ${lesson.title}` : SHEET_TITLES[sheet]}</b>
               <button type="button" className="sheet-close" aria-label="Закрыть" onClick={() => setSheet(null)}>
                 ×
               </button>
             </div>
             <div className="sheet-body">
-              {sheet === 'hint' ? (
+              {sheet === 'ask' ? (
+                <AskTutor
+                  context={{
+                    lesson,
+                    task: {
+                      ru: item.ru,
+                      expected: status === 'answer' ? item.en[0] : closest,
+                      ...(status !== 'answer' && { answer, correct: status === 'correct' }),
+                    },
+                  }}
+                />
+              ) : sheet === 'hint' ? (
                 hint ? (
                   <VerbHint verb={hint.verb} pronoun={hint.pronoun} />
                 ) : (

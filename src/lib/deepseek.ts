@@ -54,7 +54,26 @@ const NETWORK_RETRIES = 2;
 
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
+export interface ChatMessage {
+  role: 'system' | 'user' | 'assistant';
+  content: string;
+}
+
 async function chatJSON<T>(system: string, user: unknown, maxTokens: number): Promise<T> {
+  const content = await complete(
+    [
+      { role: 'system', content: system },
+      { role: 'user', content: typeof user === 'string' ? user : JSON.stringify(user) },
+    ],
+    { maxTokens, temperature: 0.3, json: true },
+  );
+  return parseJSONContent<T>(content);
+}
+
+async function complete(
+  messages: ChatMessage[],
+  options: { maxTokens: number; temperature: number; json?: boolean },
+): Promise<string> {
   const { model, baseUrl } = getAiConfig();
   const apiKey = getAiConfig().apiKey.replace(/\s+/g, '');
   if (!apiKey) throw new AiError('Добавьте ключ DeepSeek в настройках.');
@@ -70,14 +89,11 @@ async function chatJSON<T>(system: string, user: unknown, maxTokens: number): Pr
       headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${apiKey}` },
       body: JSON.stringify({
         model,
-        messages: [
-          { role: 'system', content: system },
-          { role: 'user', content: typeof user === 'string' ? user : JSON.stringify(user) },
-        ],
+        messages,
         stream: false,
-        temperature: 0.3,
-        max_tokens: maxTokens,
-        response_format: { type: 'json_object' },
+        temperature: options.temperature,
+        max_tokens: options.maxTokens,
+        ...(options.json ? { response_format: { type: 'json_object' } } : {}),
         thinking: { type: 'disabled' },
       }),
     });
@@ -102,7 +118,55 @@ async function chatJSON<T>(system: string, user: unknown, maxTokens: number): Pr
   const data = (await res.json()) as { choices?: { message?: { content?: string } }[] };
   const content = data.choices?.[0]?.message?.content;
   if (!content) throw new AiError('DeepSeek вернул пустой ответ.');
-  return parseJSONContent<T>(content);
+  return content;
+}
+
+const ASK_PROMPT = `Ты — преподаватель английского для русскоговорящего ученика. Курс идёт по разделам English Grammar in Use Рэймонда Мёрфи, тренировка — по методике «Полиглот» Дмитрия Петрова: ученик переводит фразы с русского на английский.
+Ниже — урок, который ученик сейчас проходит, и, если есть, фраза, над которой он работает. Отвечай на его вопросы по-русски, простыми словами, коротко (обычно до 150 слов), с 1–3 английскими примерами и их переводом.
+Если вопрос про фразу — объясни именно её. Если ученик просит придумать упражнения — дай 3–5 фраз на русском и ответы на английском.
+На вопросы, не связанные с английским языком, вежливо отвечай, что помогаешь только с английским.
+Оформление: обычный текст, абзацы через пустую строку, списки строками с «- », английские слова и примеры выделяй **жирным**. Без заголовков и таблиц.`;
+
+export interface AskContext {
+  lesson: Lesson;
+  /** The phrase on screen, with the learner's answer once it was checked. */
+  task?: { ru: string; expected: string; answer?: string; correct?: boolean };
+}
+
+const MAX_THEORY_CHARS = 4000;
+/** Earlier turns sent along with a question; older ones are dropped to keep requests small. */
+const MAX_TURNS_SENT = 12;
+
+function theoryText(lesson: Lesson): string {
+  const lines = lesson.theory.map((b) => {
+    if (b.type === 'list') return b.items.map((i) => `- ${i}`).join('\n');
+    if (b.type === 'table') return [b.head, ...b.rows].map((r) => r.join(' | ')).join('\n');
+    return b.text;
+  });
+  return lines.join('\n').slice(0, MAX_THEORY_CHARS);
+}
+
+function contextText({ lesson, task }: AskContext): string {
+  const parts = [`Урок ${lesson.id}. ${lesson.title} — ${lesson.subtitle}`, `Теория урока:\n${theoryText(lesson)}`];
+  if (task) {
+    const lines = [`Фраза на экране: «${task.ru}»`, `Эталонный перевод: ${task.expected}`];
+    if (task.answer) lines.push(`Ответ ученика: ${task.answer} (${task.correct ? 'засчитан' : 'ошибка'})`);
+    else lines.push('Ученик ещё не ответил — не раскрывай перевод целиком, если он прямо не просит.');
+    parts.push(lines.join('\n'));
+  }
+  return parts.join('\n\n');
+}
+
+/** Free-form question about the lesson; `history` holds earlier turns of this lesson's dialog. */
+export function askTutor(context: AskContext, history: ChatMessage[], question: string): Promise<string> {
+  return complete(
+    [
+      { role: 'system', content: `${ASK_PROMPT}\n\n${contextText(context)}` },
+      ...history.slice(-MAX_TURNS_SENT),
+      { role: 'user', content: question },
+    ],
+    { maxTokens: 1200, temperature: 0.5 },
+  ).then((text) => text.trim());
 }
 
 const EXPLAIN_PROMPT = `Ты — преподаватель английского для русскоговорящих. Курс идёт по разделам English Grammar in Use Рэймонда Мёрфи, тренировка — по методике «Полиглот» Дмитрия Петрова.

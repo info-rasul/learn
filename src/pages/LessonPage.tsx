@@ -4,8 +4,9 @@ import { useUserData } from '../lib/userData';
 import { formatScore, isUnlocked, lessonScore, PASS_SCORE } from '../lib/scoring';
 import Theory from '../components/Theory';
 import Practice from '../components/Practice';
+import AskTutor from '../components/AskTutor';
 
-type View = 'menu' | 'theory' | 'practice';
+type View = 'menu' | 'theory' | 'practice' | 'ask';
 
 export default function LessonPage({ view = 'menu' }: { view?: View }) {
   const { id } = useParams();
@@ -55,11 +56,32 @@ export default function LessonPage({ view = 'menu' }: { view?: View }) {
         <h1>{lesson.title}</h1>
         <p className="muted">{lesson.subtitle}</p>
         <Theory blocks={lesson.theory} />
+        <section className="ask-card">
+          <h2>Вопрос по теме</h2>
+          <AskTutor context={{ lesson }} />
+        </section>
         <div className="lesson-footer">
           <Link className="btn wide" to={`/lesson/${lesson.id}/practice`}>
             К заданиям
           </Link>
         </div>
+      </div>
+    );
+  }
+
+  if (view === 'ask') {
+    return (
+      <div className="lesson">
+        <Link to={`/lesson/${lesson.id}`} className="back-link">
+          ← Урок {lesson.id}
+        </Link>
+        <h1>Вопрос DeepSeek</h1>
+        <p className="muted">
+          {lesson.title} — {lesson.subtitle}
+        </p>
+        <section className="ask-card">
+          <AskTutor context={{ lesson }} />
+        </section>
       </div>
     );
   }
@@ -94,6 +116,16 @@ export default function LessonPage({ view = 'menu' }: { view?: View }) {
           <Link to={`/lesson/${lesson.id}/theory`}>
             <span className="menu-badge plain">≡?</span>
             <span className="menu-label">Описание урока</span>
+            <span className="menu-arrow">›</span>
+          </Link>
+        </li>
+        <li>
+          <Link to={`/lesson/${lesson.id}/ask`}>
+            <span className="menu-badge plain">?</span>
+            <span className="menu-label">
+              Спросить DeepSeek
+              <span className="muted small">вопрос по теме урока</span>
+            </span>
             <span className="menu-arrow">›</span>
           </Link>
         </li>

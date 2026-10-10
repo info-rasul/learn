@@ -105,6 +105,7 @@ export default function ExamPage() {
         key={pos}
         title="Экзамен"
         onBack={abort}
+        allowAsk={false}
         stats={
           <>
             <span title="Задание">
