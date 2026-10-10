@@ -517,6 +517,7 @@ button:disabled {
 
 .lesson-grid {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 0.75rem;
 }
 
@@ -562,9 +563,18 @@ button:disabled {
   padding: 0 0.75rem 0.75rem;
 }
 
+.home-section .lesson-card {
+  box-shadow: none;
+  border-color: var(--line);
+}
+
+.home-section .lesson-card:hover {
+  border-color: var(--accent);
+}
+
 @media (min-width: 600px) {
   .lesson-grid {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -1577,8 +1587,10 @@ body.task-open {
   transition: background 0.1s;
 }
 
-.word-option:hover {
-  background: var(--bg);
+@media (hover: hover) {
+  .word-option:hover {
+    background: var(--bg);
+  }
 }
 
 .word-option:active {
@@ -1946,13 +1958,15 @@ body.task-open {
 
 .lesson-card.locked {
   cursor: default;
-  background: #f0f1f5;
+  background: var(--card);
   box-shadow: none;
+  border-color: var(--line);
   color: var(--muted);
+  opacity: 0.75;
 }
 
 .lesson-card.locked:hover {
-  border-color: transparent;
+  border-color: var(--line);
 }
 
 .lesson-card.locked:active {
@@ -2067,6 +2081,10 @@ body.task-open {
 .score-chart.dense .score-chart-plot,
 .score-chart.dense .score-chart-axis {
   gap: 1px;
+}
+
+.score-chart.dense .score-col {
+  background: none;
 }
 
 /* ---------- Exam ---------- */
