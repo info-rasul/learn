@@ -52,13 +52,18 @@
       "en": [
         "We were at the cinema last night.",
         "We were at the cinema yesterday evening.",
-        "Last night we were at the cinema."
+        "Last night we were at the cinema.",
+        "Yesterday evening we were at the cinema.",
+        "We were at the movies last night.",
+        "Last night we were at the movies."
       ]
     },
     {
       "ru": "(внутри здания) В кинотеатре было холодно.",
       "en": [
-        "It was cold in the cinema."
+        "It was cold in the cinema.",
+        "It was cold inside the cinema.",
+        "It was cold in the movie theater."
       ]
     },
     {
@@ -71,7 +76,10 @@
       "ru": "(внутри здания) В аэропорту много магазинов.",
       "en": [
         "There are a lot of shops in the airport.",
-        "There are many shops in the airport."
+        "There are many shops in the airport.",
+        "There are lots of shops in the airport.",
+        "There are a lot of stores in the airport.",
+        "There are many stores in the airport."
       ]
     },
     {
@@ -79,7 +87,8 @@
       "en": [
         "We stayed at a nice hotel.",
         "We stayed in a nice hotel.",
-        "We stayed at a good hotel."
+        "We stayed at a good hotel.",
+        "We stayed in a good hotel."
       ]
     },
     {
@@ -87,7 +96,9 @@
       "en": [
         "I was at the doctor's.",
         "I've been at the doctor's.",
-        "I've been to the doctor's."
+        "I've been to the doctor's.",
+        "I was at the doctor.",
+        "I've been to the doctor."
       ]
     },
     {
@@ -95,7 +106,9 @@
       "en": [
         "I was at Anna's yesterday.",
         "I was at Anna's house yesterday.",
-        "Yesterday I was at Anna's."
+        "Yesterday I was at Anna's.",
+        "Yesterday I was at Anna's house.",
+        "I was at Anna's place yesterday."
       ]
     },
     {
@@ -103,7 +116,11 @@
       "en": [
         "I stayed at my sister's.",
         "I stayed at my sister's house.",
-        "I stayed at my sister's place."
+        "I stayed at my sister's place.",
+        "I stayed the night at my sister's.",
+        "I spent the night at my sister's.",
+        "I spent the night at my sister's place.",
+        "I slept at my sister's."
       ]
     },
     {
@@ -111,7 +128,8 @@
       "en": [
         "Mum is at the hospital visiting Dad.",
         "My mum is at the hospital visiting Dad.",
-        "Mom is at the hospital visiting Dad."
+        "Mom is at the hospital visiting Dad.",
+        "My mom is at the hospital visiting Dad."
       ]
     },
     {
@@ -125,14 +143,18 @@
       "ru": "Я весь день был на конференции.",
       "en": [
         "I was at a conference all day.",
-        "I was at the conference all day."
+        "I was at the conference all day.",
+        "I've been at a conference all day.",
+        "I was at a conference the whole day."
       ]
     },
     {
       "ru": "Мы были на футбольном матче.",
       "en": [
         "We were at a football match.",
-        "We were at the football match."
+        "We were at the football match.",
+        "We were at a football game.",
+        "We were at the football game."
       ]
     },
     {
@@ -173,7 +195,10 @@
       "ru": "Мы прибыли в Лондон рано утром.",
       "en": [
         "We arrived in London early in the morning.",
-        "We arrived in London early this morning."
+        "We arrived in London early this morning.",
+        "Early in the morning we arrived in London.",
+        "We got to London early in the morning.",
+        "We got to London early this morning."
       ]
     },
     {
@@ -187,27 +212,38 @@
       "ru": "Мы приехали в аэропорт в шесть.",
       "en": [
         "We arrived at the airport at six.",
-        "We got to the airport at six."
+        "We got to the airport at six.",
+        "We arrived at the airport at six o'clock.",
+        "We got to the airport at six o'clock.",
+        "We arrived at the airport at 6.",
+        "We got to the airport at 6."
       ]
     },
     {
       "ru": "Во сколько ты пришёл на вечеринку?",
       "en": [
         "What time did you arrive at the party?",
-        "What time did you get to the party?"
+        "What time did you get to the party?",
+        "When did you arrive at the party?",
+        "When did you get to the party?"
       ]
     },
     {
       "ru": "Я добрался до отеля поздно вечером.",
       "en": [
         "I got to the hotel late in the evening.",
-        "I arrived at the hotel late in the evening."
+        "I arrived at the hotel late in the evening.",
+        "I reached the hotel late in the evening.",
+        "I got to the hotel late at night.",
+        "I arrived at the hotel late at night."
       ]
     },
     {
       "ru": "Как ты добрался до вокзала?",
       "en": [
-        "How did you get to the station?"
+        "How did you get to the station?",
+        "How did you get to the railway station?",
+        "How did you get to the train station?"
       ]
     },
     {
@@ -215,7 +251,12 @@
       "en": [
         "I bought it at the shop on the corner.",
         "I bought it in the shop on the corner.",
-        "I bought it from the shop on the corner."
+        "I bought it from the shop on the corner.",
+        "I bought it at the corner shop.",
+        "I bought it in the corner shop.",
+        "I bought it at the store on the corner.",
+        "I bought this at the shop on the corner.",
+        "I bought this in the shop on the corner."
       ]
     }
   ]

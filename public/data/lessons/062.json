@@ -13,14 +13,14 @@
     { "type": "tip", "text": "Не переводите буквально «мне удалось найти» как <b>I succeeded to find</b> — правильно <b>I succeeded in finding</b> (или <b>I managed to find</b>). И не <b>apologised him</b>, а <b>apologised to him</b>." }
   ],
   "items": [
-    { "ru": "Мы говорили о переезде в Испанию.", "en": ["We talked about moving to Spain."] },
+    { "ru": "Мы говорили о переезде в Испанию.", "en": ["We talked about moving to Spain.", "We were talking about moving to Spain."] },
     { "ru": "Он извинился за опоздание.", "en": ["He apologised for being late.", "He apologized for being late."] },
-    { "ru": "Я не одобряю, когда люди курят в кафе.", "en": ["I don't approve of people smoking in cafes."] },
+    { "ru": "Я не одобряю, когда люди курят в кафе.", "en": ["I don't approve of people smoking in cafes.", "I disapprove of people smoking in cafes."] },
     { "ru": "Мы решили не покупать новую машину.", "en": ["We decided against buying a new car.", "We decided not to buy a new car."] },
-    { "ru": "Она мечтает жить у моря.", "en": ["She dreams of living by the sea.", "She dreams about living by the sea."] },
+    { "ru": "Она мечтает жить у моря.", "en": ["She dreams of living by the sea.", "She dreams about living by the sea.", "She dreams of living near the sea.", "She dreams about living near the sea.", "She dreams of living at the seaside."] },
     { "ru": "Мне сегодня не хочется готовить.", "en": ["I don't feel like cooking today.", "I don't feel like cooking tonight."] },
     { "ru": "Он настоял на том, чтобы заплатить за ужин.", "en": ["He insisted on paying for dinner.", "He insisted on paying for the dinner."] },
-    { "ru": "Я с нетерпением жду, когда Бен вернётся домой.", "en": ["I'm looking forward to Ben coming home.", "I'm looking forward to Ben coming back home."] },
+    { "ru": "Я с нетерпением жду, когда Бен вернётся домой.", "en": ["I'm looking forward to Ben coming home.", "I'm looking forward to Ben coming back home.", "I can't wait for Ben to come home."] },
     { "ru": "Тебе удалось найти квартиру?", "en": ["Did you succeed in finding a flat?", "Have you succeeded in finding a flat?", "Did you succeed in finding an apartment?", "Have you succeeded in finding an apartment?", "Did you manage to find a flat?", "Have you managed to find a flat?", "Did you manage to find an apartment?", "Have you managed to find an apartment?"] },
     { "ru": "Я подумываю о том, чтобы сменить работу.", "en": ["I'm thinking of changing my job.", "I'm thinking about changing my job.", "I'm thinking of changing jobs.", "I'm thinking about changing jobs."] },
     { "ru": "Я бы ни за что не стал брать его машину.", "en": ["I wouldn't dream of borrowing his car.", "I wouldn't dream of taking his car."] },
@@ -34,7 +34,7 @@
     { "ru": "Она обвинила его в том, что он её не слушает.", "en": ["She accused him of not listening to her."] },
     { "ru": "Его обвинили в краже денег.", "en": ["He was accused of stealing the money.", "He was accused of stealing money."] },
     { "ru": "Их подозревали во лжи.", "en": ["They were suspected of lying.", "They were suspected of telling lies."] },
-    { "ru": "Я извинился перед Эммой за то, что заставил её ждать.", "en": ["I apologised to Emma for keeping her waiting.", "I apologized to Emma for keeping her waiting."] },
+    { "ru": "Я извинился перед Эммой за то, что заставил её ждать.", "en": ["I apologised to Emma for keeping her waiting.", "I apologized to Emma for keeping her waiting.", "I apologised to Emma for making her wait.", "I apologized to Emma for making her wait."] },
     { "ru": "Тебе следует извиниться перед ней за грубость.", "en": ["You should apologise to her for being rude.", "You should apologize to her for being rude."] },
     { "ru": "Что помешало тебе прийти?", "en": ["What stopped you from coming?", "What prevented you from coming?", "What stopped you coming?"] }
   ]

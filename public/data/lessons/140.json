@@ -54,7 +54,8 @@
       "en": [
         "Shall I leave the light on or turn it off?",
         "Should I leave the light on or turn it off?",
-        "Shall I leave the light on or switch it off?"
+        "Shall I leave the light on or switch it off?",
+        "Should I leave the light on or switch it off?"
       ]
     },
     {
@@ -79,13 +80,15 @@
       "en": [
         "Let's put on some quiet music.",
         "Let's put some quiet music on.",
-        "Let's put on some calm music."
+        "Let's put on some calm music.",
+        "Let's put some calm music on."
       ]
     },
     {
       "ru": "Я поставлю чайник.",
       "en": [
-        "I'll put the kettle on."
+        "I'll put the kettle on.",
+        "I'll put on the kettle."
       ]
     },
     {
@@ -98,7 +101,9 @@
       "ru": "Концерт отменили из-за дождя.",
       "en": [
         "The concert was called off because of the rain.",
-        "They called off the concert because of the rain."
+        "They called off the concert because of the rain.",
+        "They called the concert off because of the rain.",
+        "The concert was called off because of rain."
       ]
     },
     {
@@ -114,28 +119,37 @@
         "The meeting has been put off until next week.",
         "The meeting was put off until next week.",
         "The meeting has been put off till next week.",
-        "The meeting has been postponed until next week."
+        "The meeting has been postponed until next week.",
+        "The meeting was put off till next week.",
+        "The meeting was postponed until next week."
       ]
     },
     {
       "ru": "Перестань откладывать визит к врачу.",
       "en": [
         "Stop putting off going to the doctor.",
-        "Stop putting off your visit to the doctor."
+        "Stop putting off your visit to the doctor.",
+        "Stop putting off going to the doctor's."
       ]
     },
     {
       "ru": "На улице холодно, надень шапку.",
       "en": [
         "It's cold outside, put on your hat.",
-        "It's cold outside, put your hat on."
+        "It's cold outside, put your hat on.",
+        "It's cold outside, put on a hat.",
+        "It's cold outside, put a hat on."
       ]
     },
     {
       "ru": "Пристегни ремень безопасности.",
       "en": [
         "Put on your seat belt.",
-        "Put your seat belt on."
+        "Put your seat belt on.",
+        "Put on your seatbelt.",
+        "Put your seatbelt on.",
+        "Fasten your seat belt.",
+        "Fasten your seatbelt."
       ]
     },
     {
@@ -152,7 +166,10 @@
       "en": [
         "Can I try on these jeans?",
         "Can I try these jeans on?",
-        "Could I try on these jeans?"
+        "Could I try on these jeans?",
+        "Could I try these jeans on?",
+        "May I try on these jeans?",
+        "May I try these jeans on?"
       ]
     },
     {
@@ -171,14 +188,14 @@
       ]
     },
     {
-      "ru": "Завтра я уезжаю в Берлин.",
+      "ru": "(оборот с off) Завтра я уезжаю в Берлин.",
       "en": [
         "I'm off to Berlin tomorrow.",
         "Tomorrow I'm off to Berlin."
       ]
     },
     {
-      "ru": "Ну всё, я пошёл.",
+      "ru": "(оборот с off) Ну всё, я пошёл.",
       "en": [
         "Well, I'm off now.",
         "Right, I'm off now.",

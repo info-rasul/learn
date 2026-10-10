@@ -111,7 +111,8 @@
         "We were walking home when it started to rain.",
         "We were walking home when it started raining.",
         "We were walking home when it began to rain.",
-        "We were going home when it started to rain."
+        "We were going home when it started to rain.",
+        "We were walking home when it began raining."
       ]
     },
     {
@@ -120,7 +121,8 @@
         "Mike called while we were watching a film.",
         "Mike phoned while we were watching a film.",
         "Mike called while we were watching a movie.",
-        "Mike rang while we were watching a film."
+        "Mike rang while we were watching a film.",
+        "Mike phoned while we were watching a movie."
       ]
     },
     {
@@ -128,7 +130,9 @@
       "en": [
         "Anna cut her finger while she was cooking dinner.",
         "Anna cut her finger when she was cooking dinner.",
-        "Anna cut her finger while she was making dinner."
+        "Anna cut her finger while she was making dinner.",
+        "Anna cut her finger when she was making dinner.",
+        "Anna cut her finger while cooking dinner."
       ]
     },
     {
@@ -149,7 +153,9 @@
       "ru": "Пока я ждал автобус, я встретил старого друга.",
       "en": [
         "While I was waiting for the bus, I met an old friend.",
-        "I met an old friend while I was waiting for the bus."
+        "I met an old friend while I was waiting for the bus.",
+        "I met an old friend while waiting for the bus.",
+        "While waiting for the bus, I met an old friend."
       ]
     },
     {
@@ -178,7 +184,8 @@
     {
       "ru": "Шёл снег, и было очень холодно.",
       "en": [
-        "It was snowing and it was very cold."
+        "It was snowing and it was very cold.",
+        "It was snowing and very cold."
       ]
     },
     {
@@ -214,7 +221,9 @@
       "en": [
         "At that time I didn't know her name.",
         "I didn't know her name then.",
-        "I didn't know her name at that time."
+        "I didn't know her name at that time.",
+        "I didn't know her name at the time.",
+        "At the time I didn't know her name."
       ]
     },
     {
@@ -243,7 +252,8 @@
         "I dropped a cup while I was washing the dishes.",
         "I dropped a cup when I was washing the dishes.",
         "I dropped a cup while I was washing up.",
-        "I dropped a cup while I was doing the washing up."
+        "I dropped a cup while I was doing the washing up.",
+        "I dropped a cup while I was doing the dishes."
       ]
     }
   ]

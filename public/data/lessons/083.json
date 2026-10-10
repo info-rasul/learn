@@ -78,7 +78,8 @@
       "en": [
         "He's a colleague of my father's.",
         "He's a colleague of my dad's.",
-        "He's one of my father's colleagues."
+        "He's one of my father's colleagues.",
+        "He's one of my dad's colleagues."
       ]
     },
     {
@@ -87,7 +88,9 @@
         "Lisa had an argument with a neighbour of hers.",
         "Lisa had an argument with a neighbor of hers.",
         "Lisa argued with a neighbour of hers.",
-        "Lisa argued with a neighbor of hers."
+        "Lisa argued with a neighbor of hers.",
+        "Lisa quarrelled with a neighbour of hers.",
+        "Lisa quarreled with a neighbor of hers."
       ]
     },
     {
@@ -110,15 +113,16 @@
       "ru": "У них свой дом.",
       "en": [
         "They have their own house.",
-        "They've got their own house."
+        "They've got their own house.",
+        "They have a house of their own.",
+        "They've got a house of their own."
       ]
     },
     {
-      "ru": "Почему он не берёт свой ноутбук?",
+      "ru": "Почему он не берёт свой собственный ноутбук?",
       "en": [
-        "Why doesn't he use his own laptop?",
         "Why doesn't he take his own laptop?",
-        "Why doesn't he use his own?"
+        "Why doesn't he bring his own laptop?"
       ]
     },
     {
@@ -154,14 +158,16 @@
       "ru": "Кейт хочет открыть своё дело.",
       "en": [
         "Kate wants to start her own business.",
-        "Kate wants to open her own business."
+        "Kate wants to open her own business.",
+        "Kate wants to set up her own business."
       ]
     },
     {
       "ru": "Мой дедушка сам выращивает овощи.",
       "en": [
         "My grandfather grows his own vegetables.",
-        "My granddad grows his own vegetables."
+        "My granddad grows his own vegetables.",
+        "My grandpa grows his own vegetables."
       ]
     },
     {
@@ -194,7 +200,10 @@
       "en": [
         "Did you go to Italy on your own?",
         "Did you go to Italy by yourself?",
-        "Did you go to Italy alone?"
+        "Did you go to Italy alone?",
+        "Did you travel to Italy on your own?",
+        "Did you travel to Italy by yourself?",
+        "Did you travel to Italy alone?"
       ]
     },
     {
@@ -202,7 +211,10 @@
       "en": [
         "He was sitting on his own in the corner.",
         "He was sitting by himself in the corner.",
-        "He was sitting alone in the corner."
+        "He was sitting alone in the corner.",
+        "He sat on his own in the corner.",
+        "He sat by himself in the corner.",
+        "He sat alone in the corner."
       ]
     },
     {
@@ -211,7 +223,9 @@
         "We did everything on our own.",
         "We did everything by ourselves.",
         "We did it all on our own.",
-        "We did it all by ourselves."
+        "We did it all by ourselves.",
+        "We did everything ourselves.",
+        "We did it all ourselves."
       ]
     },
     {
@@ -219,7 +233,15 @@
       "en": [
         "Young children shouldn't go out on their own.",
         "Young children shouldn't go out by themselves.",
-        "Young children shouldn't go out alone."
+        "Young children shouldn't go out alone.",
+        "Young children mustn't go out on their own.",
+        "Young children mustn't go out by themselves.",
+        "Young children mustn't go out alone.",
+        "Young children can't go out on their own.",
+        "Young children can't go out by themselves.",
+        "Young children aren't allowed to go out on their own.",
+        "Young children aren't allowed to go out by themselves.",
+        "Young children aren't allowed to go out alone."
       ]
     },
     {
@@ -243,7 +265,9 @@
         "Do you prefer working on your own or in a team?",
         "Do you prefer to work on your own or in a team?",
         "Do you prefer working by yourself or in a team?",
-        "Do you prefer working alone or in a team?"
+        "Do you prefer working alone or in a team?",
+        "Do you prefer to work by yourself or in a team?",
+        "Do you prefer to work alone or in a team?"
       ]
     }
   ]

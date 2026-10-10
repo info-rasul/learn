@@ -54,27 +54,37 @@
       "ru": "Я езжу на работу на автобусе.",
       "en": [
         "I go to work by bus.",
-        "I get to work by bus."
+        "I get to work by bus.",
+        "I travel to work by bus.",
+        "I go to work on the bus.",
+        "I take the bus to work."
       ]
     },
     {
       "ru": "Мы поехали в Париж на поезде.",
       "en": [
         "We went to Paris by train.",
-        "We travelled to Paris by train."
+        "We travelled to Paris by train.",
+        "We traveled to Paris by train.",
+        "We went to Paris on the train.",
+        "We took the train to Paris."
       ]
     },
     {
       "ru": "Ты приехал на машине?",
       "en": [
-        "Did you come by car?"
+        "Did you come by car?",
+        "Did you come here by car?",
+        "Did you come in your car?",
+        "Did you drive here?"
       ]
     },
     {
       "ru": "Они путешествуют самолётом.",
       "en": [
         "They travel by plane.",
-        "They travel by air."
+        "They travel by air.",
+        "They travel by airplane."
       ]
     },
     {
@@ -82,7 +92,10 @@
       "en": [
         "Are you going by taxi or by bus?",
         "Will you go by taxi or by bus?",
-        "Are you going by taxi or bus?"
+        "Are you going by taxi or bus?",
+        "Will you go by taxi or bus?",
+        "Are you going to go by taxi or by bus?",
+        "Are you taking a taxi or the bus?"
       ]
     },
     {
@@ -96,7 +109,8 @@
       "ru": "Мы поехали в аэропорт на моей машине.",
       "en": [
         "We went to the airport in my car.",
-        "We drove to the airport in my car."
+        "We drove to the airport in my car.",
+        "We took my car to the airport."
       ]
     },
     {
@@ -104,7 +118,8 @@
       "en": [
         "I'll go on the morning train.",
         "I'm going on the morning train.",
-        "I'll take the morning train."
+        "I'll take the morning train.",
+        "I'm taking the morning train."
       ]
     },
     {
@@ -112,21 +127,31 @@
       "en": [
         "Send it to me by email.",
         "Send me it by email.",
-        "Email it to me."
+        "Email it to me.",
+        "Send it to me by e-mail.",
+        "Send this to me by email.",
+        "Send me this by email."
       ]
     },
     {
       "ru": "Я отправлю документы по почте.",
       "en": [
         "I'll send the documents by post.",
-        "I'll send the documents by mail."
+        "I'll send the documents by mail.",
+        "I'll post the documents.",
+        "I'll mail the documents."
       ]
     },
     {
       "ru": "Можно оплатить картой?",
       "en": [
         "Can I pay by card?",
-        "Can I pay by credit card?"
+        "Can I pay by credit card?",
+        "Could I pay by card?",
+        "May I pay by card?",
+        "Can we pay by card?",
+        "Can I pay with a card?",
+        "Can I pay with my card?"
       ]
     },
     {
@@ -134,7 +159,8 @@
       "en": [
         "I broke the cup by accident.",
         "I accidentally broke the cup.",
-        "I broke the cup by mistake."
+        "I broke the cup by mistake.",
+        "I broke the cup accidentally."
       ]
     },
     {
@@ -147,14 +173,19 @@
       "ru": "Мы встретились в Риме случайно.",
       "en": [
         "We met in Rome by chance.",
-        "We met by chance in Rome."
+        "We met by chance in Rome.",
+        "We met in Rome by accident.",
+        "We happened to meet in Rome."
       ]
     },
     {
       "ru": "Эту картину нарисовала моя бабушка.",
       "en": [
         "This picture was painted by my grandmother.",
-        "My grandmother painted this picture."
+        "My grandmother painted this picture.",
+        "This picture was painted by my grandma.",
+        "My grandma painted this picture.",
+        "This painting was done by my grandmother."
       ]
     },
     {
@@ -184,7 +215,11 @@
       "en": [
         "I did it by myself.",
         "I did it myself.",
-        "I did it on my own."
+        "I did it on my own.",
+        "I did this by myself.",
+        "I did this myself.",
+        "I made it by myself.",
+        "I made it myself."
       ]
     },
     {
@@ -192,7 +227,8 @@
       "en": [
         "Sit by the window.",
         "Sit next to the window.",
-        "Sit near the window."
+        "Sit near the window.",
+        "Sit beside the window."
       ]
     },
     {
@@ -203,19 +239,24 @@
         "Prices have risen by ten percent.",
         "Prices went up by ten percent.",
         "Prices have increased by ten percent.",
-        "Prices rose by ten percent."
+        "Prices rose by ten percent.",
+        "Prices have gone up by 10 percent.",
+        "Prices have gone up by 10 per cent.",
+        "Prices have risen by ten per cent."
       ]
     },
     {
       "ru": "Мы выиграли с разницей в два очка.",
       "en": [
-        "We won by two points."
+        "We won by two points.",
+        "We won by 2 points."
       ]
     },
     {
       "ru": "Я опоздал на поезд на пять минут.",
       "en": [
-        "I missed the train by five minutes."
+        "I missed the train by five minutes.",
+        "I missed the train by 5 minutes."
       ]
     },
     {

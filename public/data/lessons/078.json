@@ -63,7 +63,9 @@
       "ru": "Мы гуляли по Оксфорд-стрит.",
       "en": [
         "We walked along Oxford Street.",
-        "We walked down Oxford Street."
+        "We walked down Oxford Street.",
+        "We walked around Oxford Street.",
+        "We walked up Oxford Street."
       ]
     },
     {
@@ -84,7 +86,8 @@
       "en": [
         "My flight arrives at Heathrow Airport.",
         "My flight lands at Heathrow Airport.",
-        "My flight arrives at Heathrow."
+        "My flight arrives at Heathrow.",
+        "My flight lands at Heathrow."
       ]
     },
     {
@@ -100,7 +103,9 @@
         "Anna studies at Oxford University.",
         "Anna is a student at Oxford University.",
         "Anna studies at the University of Oxford.",
-        "Anna is studying at Oxford University."
+        "Anna is studying at Oxford University.",
+        "Anna is studying at the University of Oxford.",
+        "Anna is a student at the University of Oxford."
       ]
     },
     {
@@ -113,13 +118,18 @@
     {
       "ru": "Ты видел Букингемский дворец?",
       "en": [
-        "Have you seen Buckingham Palace?"
+        "Have you seen Buckingham Palace?",
+        "Have you ever seen Buckingham Palace?",
+        "Did you see Buckingham Palace?"
       ]
     },
     {
       "ru": "Мы осмотрели Королевский дворец.",
       "en": [
-        "We visited the Royal Palace."
+        "We visited the Royal Palace.",
+        "We saw the Royal Palace.",
+        "We looked around the Royal Palace.",
+        "We toured the Royal Palace."
       ]
     },
     {
@@ -127,18 +137,20 @@
       "en": [
         "We stayed at the Hilton Hotel.",
         "We stayed at the Hilton.",
-        "We stayed in the Hilton."
+        "We stayed in the Hilton.",
+        "We stayed in the Hilton Hotel."
       ]
     },
     {
       "ru": "Что идёт в кинотеатре «Одеон»?",
       "en": [
         "What's on at the Odeon?",
-        "What's showing at the Odeon?"
+        "What's showing at the Odeon?",
+        "What's playing at the Odeon?"
       ]
     },
     {
-      "ru": "Ты был в Британском музее?",
+      "ru": "(когда-нибудь) Ты был в Британском музее?",
       "en": [
         "Have you been to the British Museum?",
         "Have you ever been to the British Museum?"
@@ -156,7 +168,10 @@
       "en": [
         "The Kremlin is in the centre of Moscow.",
         "The Kremlin is in the center of Moscow.",
-        "The Kremlin is in central Moscow."
+        "The Kremlin is in central Moscow.",
+        "The Kremlin is located in the centre of Moscow.",
+        "The Kremlin is located in the center of Moscow.",
+        "The Kremlin is located in central Moscow."
       ]
     },
     {
@@ -165,7 +180,8 @@
         "The US president lives in the White House.",
         "The American president lives in the White House.",
         "The president of the USA lives in the White House.",
-        "The president of the United States lives in the White House."
+        "The president of the United States lives in the White House.",
+        "The president of the US lives in the White House."
       ]
     },
     {
@@ -186,14 +202,16 @@
       "en": [
         "My father works at the Bank of England.",
         "My father works for the Bank of England.",
-        "My dad works at the Bank of England."
+        "My dad works at the Bank of England.",
+        "My dad works for the Bank of England."
       ]
     },
     {
       "ru": "Давай пообедаем в Макдоналдсе.",
       "en": [
         "Let's have lunch at McDonald's.",
-        "Let's have lunch in McDonald's."
+        "Let's have lunch in McDonald's.",
+        "Let's go to McDonald's for lunch."
       ]
     },
     {
@@ -208,7 +226,9 @@
       "en": [
         "Dad reads the Times every morning.",
         "My dad reads the Times every morning.",
-        "My father reads the Times every morning."
+        "My father reads the Times every morning.",
+        "Every morning Dad reads the Times.",
+        "Every morning my dad reads the Times."
       ]
     },
     {
@@ -222,7 +242,9 @@
       "ru": "Франция и Германия — члены Евросоюза.",
       "en": [
         "France and Germany are members of the European Union.",
-        "France and Germany are members of the EU."
+        "France and Germany are members of the EU.",
+        "France and Germany are EU members.",
+        "France and Germany are member states of the European Union."
       ]
     },
     {

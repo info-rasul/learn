@@ -26,23 +26,23 @@
     { "ru": "Она не хочет, чтобы кто-нибудь знал.", "en": ["She doesn't want anybody to know.", "She doesn't want anyone to know."] },
     { "ru": "Помоги мне найти ключи.", "en": ["Help me find my keys.", "Help me to find my keys.", "Help me find the keys.", "Help me to find the keys."] },
     { "ru": "Я бы хотел, чтобы вы прочитали это письмо.", "en": ["I'd like you to read this letter."] },
-    { "ru": "Напомни мне позвонить маме.", "en": ["Remind me to call my mum.", "Remind me to phone my mum.", "Remind me to call my mother.", "Remind me to call Mum.", "Remind me to call my mom."] },
+    { "ru": "Напомни мне позвонить маме.", "en": ["Remind me to call my mum.", "Remind me to phone my mum.", "Remind me to call my mother.", "Remind me to call Mum.", "Remind me to call my mom.", "Remind me to phone my mother.", "Remind me to ring my mum.", "Remind me to phone Mum.", "Remind me to call Mom."] },
     { "ru": "Врач посоветовал ему больше ходить пешком.", "en": ["The doctor advised him to walk more."] },
     { "ru": "Она предупредила нас не трогать собаку.", "en": ["She warned us not to touch the dog."] },
     { "ru": "Они пригласили меня остаться на ужин.", "en": ["They invited me to stay for dinner."] },
     { "ru": "Родители всегда поощряли меня читать.", "en": ["My parents always encouraged me to read."] },
     { "ru": "Кейт уговорила меня пойти на концерт.", "en": ["Kate persuaded me to go to the concert."] },
     { "ru": "Кто научил тебя играть в шахматы?", "en": ["Who taught you to play chess?", "Who taught you how to play chess?"] },
-    { "ru": "Здесь нельзя фотографировать (не разрешено).", "en": ["You aren't allowed to take photos here.", "You aren't allowed to take pictures here."] },
+    { "ru": "Здесь нельзя фотографировать (не разрешено).", "en": ["You aren't allowed to take photos here.", "You aren't allowed to take pictures here.", "You aren't allowed to take photographs here."] },
     { "ru": "Нам разрешили уйти пораньше.", "en": ["We were allowed to leave early."] },
     { "ru": "Меня предупредили не ходить туда ночью.", "en": ["I was warned not to go there at night."] },
     { "ru": "Джейн предложила, чтобы я спросил учителя.", "en": ["Jane suggested that I ask the teacher.", "Jane suggested I ask the teacher.", "Jane suggested that I should ask the teacher."] },
     { "ru": "Этот фильм заставил меня плакать.", "en": ["This film made me cry.", "The film made me cry.", "This movie made me cry.", "The movie made me cry."] },
     { "ru": "Дождь всегда навевает на меня грусть.", "en": ["Rain always makes me feel sad.", "The rain always makes me feel sad.", "Rain always makes me sad."] },
-    { "ru": "Мама не разрешает мне гулять допоздна.", "en": ["My mum doesn't let me stay out late.", "Mum doesn't let me stay out late.", "My mother doesn't let me stay out late.", "My mom doesn't let me stay out late.", "My mum doesn't allow me to stay out late."] },
+    { "ru": "Мама не разрешает мне гулять допоздна.", "en": ["My mum doesn't let me stay out late.", "Mum doesn't let me stay out late.", "My mother doesn't let me stay out late.", "My mom doesn't let me stay out late.", "My mum doesn't allow me to stay out late.", "Mom doesn't let me stay out late.", "My mother doesn't allow me to stay out late.", "My mom doesn't allow me to stay out late."] },
     { "ru": "Дай мне закончить!", "en": ["Let me finish!"] },
     { "ru": "Учитель заставил нас переписать сочинение.", "en": ["The teacher made us rewrite the essay.", "The teacher made us write the essay again."] },
     { "ru": "Его заставили извиниться.", "en": ["He was made to apologise.", "He was made to apologize."] },
-    { "ru": "Я попрошу Тома тебе позвонить.", "en": ["I'll get Tom to call you.", "I'll ask Tom to call you.", "I'll get Tom to phone you.", "I'll ask Tom to phone you."] }
+    { "ru": "Я попрошу Тома тебе позвонить.", "en": ["I'll get Tom to call you.", "I'll ask Tom to call you.", "I'll get Tom to phone you.", "I'll ask Tom to phone you.", "I'll have Tom call you.", "I'll ask Tom to ring you.", "I'll get Tom to ring you."] }
   ]
 }

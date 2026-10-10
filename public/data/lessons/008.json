@@ -70,10 +70,8 @@
       "ru": "Я не смотрел этот фильм.",
       "en": [
         "I haven't seen this film.",
-        "I haven't seen that film.",
         "I haven't seen this movie.",
         "I haven't watched this film.",
-        "I haven't seen that movie.",
         "I haven't watched this movie."
       ]
     },
@@ -81,7 +79,7 @@
       "ru": "Анна прочитала эту книгу три раза.",
       "en": [
         "Anna has read this book three times.",
-        "Anna has read that book three times."
+        "Anna has read this book 3 times."
       ]
     },
     {
@@ -138,7 +136,8 @@
       "en": [
         "I haven't seen the neighbours since we moved.",
         "I haven't seen our neighbours since we moved.",
-        "I haven't seen the neighbors since we moved."
+        "I haven't seen the neighbors since we moved.",
+        "I haven't seen our neighbors since we moved."
       ]
     },
     {
@@ -154,7 +153,9 @@
       "en": [
         "I've drunk three cups of tea today.",
         "I've had three cups of tea today.",
-        "Today I've drunk three cups of tea."
+        "Today I've drunk three cups of tea.",
+        "Today I've had three cups of tea.",
+        "I've had 3 cups of tea today."
       ]
     },
     {
@@ -176,7 +177,8 @@
       "ru": "На этой неделе Майк опоздал три раза.",
       "en": [
         "Mike has been late three times this week.",
-        "This week Mike has been late three times."
+        "This week Mike has been late three times.",
+        "Mike has been late 3 times this week."
       ]
     },
     {
@@ -215,7 +217,9 @@
       "en": [
         "It's the third time Paul has called today.",
         "This is the third time Paul has called today.",
-        "It's the third time Paul has phoned today."
+        "It's the third time Paul has phoned today.",
+        "This is the third time Paul has phoned today.",
+        "It's the third time today Paul has called."
       ]
     },
     {

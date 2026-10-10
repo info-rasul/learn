@@ -56,7 +56,8 @@
       "ru": "Я не такой высокий, как мой брат.",
       "en": [
         "I'm not as tall as my brother.",
-        "I'm not so tall as my brother."
+        "I'm not so tall as my brother.",
+        "I'm not as tall as my brother is."
       ]
     },
     {
@@ -72,14 +73,20 @@
       "en": [
         "It isn't as cold today as yesterday.",
         "It isn't as cold today as it was yesterday.",
-        "Today isn't as cold as yesterday."
+        "Today isn't as cold as yesterday.",
+        "Today it isn't as cold as yesterday.",
+        "Today it isn't as cold as it was yesterday.",
+        "It isn't so cold today as yesterday."
       ]
     },
     {
       "ru": "Поезд не такой быстрый, как самолёт.",
       "en": [
         "The train isn't as fast as the plane.",
-        "A train isn't as fast as a plane."
+        "A train isn't as fast as a plane.",
+        "Trains aren't as fast as planes.",
+        "The train isn't as fast as the aeroplane.",
+        "The train isn't as fast as the airplane."
       ]
     },
     {
@@ -87,7 +94,9 @@
       "en": [
         "He doesn't work as hard as before.",
         "He doesn't work as hard as he used to.",
-        "He doesn't work as hard as he did before."
+        "He doesn't work as hard as he did before.",
+        "He doesn't work as hard as he did.",
+        "He doesn't work so hard as before."
       ]
     },
     {
@@ -95,14 +104,19 @@
       "en": [
         "It wasn't as difficult as I expected.",
         "It wasn't as hard as I expected.",
-        "It wasn't so difficult as I expected."
+        "It wasn't so difficult as I expected.",
+        "It wasn't as difficult as I had expected.",
+        "It wasn't as hard as I had expected."
       ]
     },
     {
       "ru": "Он не такой умный, как думает.",
       "en": [
         "He isn't as clever as he thinks.",
-        "He isn't as smart as he thinks."
+        "He isn't as smart as he thinks.",
+        "He isn't as clever as he thinks he is.",
+        "He isn't as smart as he thinks he is.",
+        "He isn't so clever as he thinks."
       ]
     },
     {
@@ -127,41 +141,56 @@
       "ru": "Её квартира такая же большая, как наша.",
       "en": [
         "Her flat is as big as ours.",
-        "Her apartment is as big as ours."
+        "Her apartment is as big as ours.",
+        "Her flat is just as big as ours.",
+        "Her flat is the same size as ours.",
+        "Her apartment is the same size as ours."
       ]
     },
     {
       "ru": "Он такого же роста, как я.",
       "en": [
         "He's as tall as me.",
-        "He's as tall as I am."
+        "He's as tall as I am.",
+        "He's the same height as me.",
+        "He's the same height as I am.",
+        "He's just as tall as me."
       ]
     },
     {
       "ru": "Ты бегаешь так же быстро, как Ник?",
       "en": [
         "Can you run as fast as Nick?",
-        "Do you run as fast as Nick?"
+        "Do you run as fast as Nick?",
+        "Can you run as fast as Nick can?",
+        "Do you run as fast as Nick does?"
       ]
     },
     {
       "ru": "Приходи как можно скорее.",
       "en": [
         "Come as soon as possible.",
-        "Come as soon as you can."
+        "Come as soon as you can.",
+        "Come as quickly as possible.",
+        "Come as quickly as you can."
       ]
     },
     {
       "ru": "Наш дом в два раза больше их дома.",
       "en": [
-        "Our house is twice as big as theirs."
+        "Our house is twice as big as theirs.",
+        "Our house is twice as big as their house.",
+        "Our house is twice as large as theirs.",
+        "Our house is twice the size of theirs."
       ]
     },
     {
       "ru": "Билет на поезд стоит в два раза больше, чем на автобус.",
       "en": [
         "A train ticket costs twice as much as a bus ticket.",
-        "The train ticket costs twice as much as the bus ticket."
+        "The train ticket costs twice as much as the bus ticket.",
+        "A train ticket costs twice as much as a bus one.",
+        "A train ticket is twice as expensive as a bus ticket."
       ]
     },
     {
@@ -169,7 +198,8 @@
       "en": [
         "I'm just as tired as you.",
         "I'm just as tired as you are.",
-        "I'm as tired as you."
+        "I'm as tired as you.",
+        "I'm as tired as you are."
       ]
     },
     {
@@ -177,7 +207,8 @@
       "en": [
         "The new film is nearly as good as the first one.",
         "The new film is almost as good as the first one.",
-        "The new movie is nearly as good as the first one."
+        "The new movie is nearly as good as the first one.",
+        "The new movie is almost as good as the first one."
       ]
     },
     {
@@ -190,7 +221,10 @@
     {
       "ru": "Её телефон такой же, как мой.",
       "en": [
-        "Her phone is the same as mine."
+        "Her phone is the same as mine.",
+        "She has the same phone as me.",
+        "She has the same phone as I do.",
+        "She's got the same phone as me."
       ]
     },
     {
@@ -211,7 +245,9 @@
       "ru": "Она водит машину лучше, чем я.",
       "en": [
         "She drives better than me.",
-        "She drives better than I do."
+        "She drives better than I do.",
+        "She's a better driver than me.",
+        "She's a better driver than I am."
       ]
     },
     {
@@ -219,7 +255,8 @@
       "en": [
         "I'm less busy today than yesterday.",
         "I'm less busy today than I was yesterday.",
-        "Today I'm less busy than yesterday."
+        "Today I'm less busy than yesterday.",
+        "Today I'm less busy than I was yesterday."
       ]
     },
     {

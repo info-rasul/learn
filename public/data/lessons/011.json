@@ -94,7 +94,6 @@
       "ru": "Как давно у них эта собака?",
       "en": [
         "How long have they had this dog?",
-        "How long have they had that dog?",
         "How long have they had their dog?"
       ]
     },
@@ -174,7 +173,9 @@
         "Emma hasn't called for weeks.",
         "Emma hasn't called for several weeks.",
         "Emma hasn't phoned for weeks.",
-        "Emma hasn't called for a few weeks."
+        "Emma hasn't called for a few weeks.",
+        "Emma hasn't phoned for several weeks.",
+        "Emma hasn't called in weeks."
       ]
     },
     {
@@ -205,7 +206,8 @@
         "The weather has been awful since we arrived.",
         "The weather has been terrible since we arrived.",
         "Since we arrived, the weather has been awful.",
-        "Since we arrived, the weather has been terrible."
+        "Since we arrived, the weather has been terrible.",
+        "The weather has been horrible since we arrived."
       ]
     },
     {
@@ -226,7 +228,9 @@
       "en": [
         "I've had a headache since this morning.",
         "I've had a headache since the morning.",
-        "I've had a headache all morning."
+        "I've had a headache all morning.",
+        "My head has been hurting since this morning.",
+        "My head has been aching since this morning."
       ]
     }
   ]

@@ -102,7 +102,9 @@
     {
       "ru": "Возле вокзала есть банк?",
       "en": [
-        "Is there a bank near the station?"
+        "Is there a bank near the station?",
+        "Is there a bank near the railway station?",
+        "Is there a bank near the train station?"
       ]
     },
     {
@@ -175,14 +177,16 @@
       "ru": "Мне нужно подышать свежим воздухом.",
       "en": [
         "I need some fresh air.",
-        "I need fresh air."
+        "I need fresh air.",
+        "I need to get some fresh air."
       ]
     },
     {
       "ru": "Можно мне стакан воды?",
       "en": [
         "Can I have a glass of water?",
-        "Could I have a glass of water?"
+        "Could I have a glass of water?",
+        "May I have a glass of water?"
       ]
     },
     {
@@ -205,7 +209,9 @@
       "ru": "Хочешь сока?",
       "en": [
         "Would you like some juice?",
-        "Do you want some juice?"
+        "Do you want some juice?",
+        "Do you want any juice?",
+        "Would you like any juice?"
       ]
     },
     {
@@ -228,7 +234,11 @@
       "ru": "У меня есть несколько вопросов.",
       "en": [
         "I have a few questions.",
-        "I've got a few questions."
+        "I've got a few questions.",
+        "I have some questions.",
+        "I've got some questions.",
+        "I have several questions.",
+        "I've got several questions."
       ]
     }
   ]

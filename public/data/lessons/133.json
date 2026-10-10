@@ -73,7 +73,9 @@
       "en": [
         "I read about this city on the internet.",
         "I read about this town on the internet.",
-        "I've read about this city on the internet."
+        "I've read about this city on the internet.",
+        "I read about this city online.",
+        "I've read about this city online."
       ]
     },
     {
@@ -87,7 +89,10 @@
       "en": [
         "The noise is terrible, we need to do something about it.",
         "The noise is terrible, we must do something about it.",
-        "The noise is awful, we need to do something about it."
+        "The noise is awful, we need to do something about it.",
+        "The noise is terrible, we have to do something about it.",
+        "The noise is terrible, we should do something about it.",
+        "The noise is awful, we have to do something about it."
       ]
     },
     {
@@ -121,7 +126,9 @@
       "en": [
         "I asked a passer-by the way to the station.",
         "I asked someone the way to the station.",
-        "I asked a passerby the way to the station."
+        "I asked a passerby the way to the station.",
+        "I asked a passer-by how to get to the station.",
+        "I asked a passer-by for directions to the station."
       ]
     },
     {
@@ -147,7 +154,8 @@
       "ru": "Завтра мы уезжаем в Рим.",
       "en": [
         "We're leaving for Rome tomorrow.",
-        "We leave for Rome tomorrow."
+        "We leave for Rome tomorrow.",
+        "Tomorrow we're leaving for Rome."
       ]
     },
     {
@@ -161,7 +169,8 @@
       "ru": "Мы ждём, когда закончится дождь.",
       "en": [
         "We're waiting for the rain to stop.",
-        "We are waiting for the rain to end."
+        "We are waiting for the rain to end.",
+        "We're waiting until the rain stops."
       ]
     },
     {
@@ -174,7 +183,8 @@
     {
       "ru": "Я возьму на себя билеты.",
       "en": [
-        "I'll take care of the tickets."
+        "I'll take care of the tickets.",
+        "I'll deal with the tickets."
       ]
     },
     {
@@ -182,7 +192,9 @@
       "en": [
         "Who will look after the cat while we're away?",
         "Who will take care of the cat while we're away?",
-        "Who's going to look after the cat while we're away?"
+        "Who's going to look after the cat while we're away?",
+        "Who's going to take care of the cat while we're away?",
+        "Who will look after the cat when we're away?"
       ]
     },
     {
@@ -192,7 +204,9 @@
         "Look after my laptop, please.",
         "Please take care of my laptop.",
         "Please take good care of my laptop.",
-        "Take care of my laptop, please."
+        "Take care of my laptop, please.",
+        "Please be careful with my laptop.",
+        "Be careful with my laptop, please."
       ]
     },
     {
@@ -209,13 +223,17 @@
       "en": [
         "I don't care for spicy food.",
         "I don't really like spicy food.",
-        "I don't care much for spicy food."
+        "I don't care much for spicy food.",
+        "I don't like spicy food very much.",
+        "I'm not very fond of spicy food.",
+        "I'm not very keen on spicy food."
       ]
     },
     {
       "ru": "Ему не важны деньги.",
       "en": [
-        "He doesn't care about money."
+        "He doesn't care about money.",
+        "Money isn't important to him."
       ]
     },
     {

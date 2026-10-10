@@ -66,7 +66,9 @@
       "ru": "Она боится ходить в темноте.",
       "en": [
         "She's afraid of walking in the dark.",
-        "She's afraid to walk in the dark."
+        "She's afraid to walk in the dark.",
+        "She's scared of walking in the dark.",
+        "She's scared to walk in the dark."
       ]
     },
     {
@@ -74,7 +76,8 @@
       "en": [
         "Write in pen, not in pencil.",
         "Write in pen, not pencil.",
-        "Write with a pen, not a pencil."
+        "Write with a pen, not a pencil.",
+        "Write with a pen, not with a pencil."
       ]
     },
     {
@@ -87,7 +90,11 @@
     {
       "ru": "Можно заплатить наличными?",
       "en": [
-        "Can I pay in cash?"
+        "Can I pay in cash?",
+        "Could I pay in cash?",
+        "May I pay in cash?",
+        "Can I pay cash?",
+        "Can we pay in cash?"
       ]
     },
     {
@@ -101,7 +108,10 @@
       "en": [
         "In my opinion, it's a great idea.",
         "In my opinion, this is a great idea.",
-        "In my opinion, that's a great idea."
+        "In my opinion, that's a great idea.",
+        "In my opinion, it's an excellent idea.",
+        "I think it's a great idea.",
+        "I think this is a great idea."
       ]
     },
     {
@@ -120,7 +130,13 @@
         "We were driving at sixty kilometers an hour.",
         "We were going at sixty kilometres an hour.",
         "We were driving at 60 kilometres an hour.",
-        "We were driving at sixty kilometres per hour."
+        "We were driving at sixty kilometres per hour.",
+        "We were driving at sixty kilometers per hour.",
+        "We were driving at 60 kilometers an hour.",
+        "We were going at sixty kilometers an hour.",
+        "We drove at sixty kilometres an hour.",
+        "We were driving at 60 km an hour.",
+        "We were travelling at sixty kilometres an hour."
       ]
     },
     {
@@ -128,7 +144,11 @@
       "en": [
         "Keep it at a temperature of five degrees.",
         "Store it at a temperature of five degrees.",
-        "Keep it at five degrees."
+        "Keep it at five degrees.",
+        "Store it at five degrees.",
+        "Keep it at a temperature of 5 degrees.",
+        "Keep this at a temperature of five degrees.",
+        "Store this at a temperature of five degrees."
       ]
     },
     {
@@ -142,7 +162,8 @@
       "ru": "Пол в Берлине по работе.",
       "en": [
         "Paul is in Berlin on business.",
-        "Paul is on business in Berlin."
+        "Paul is on business in Berlin.",
+        "Paul is in Berlin for work."
       ]
     },
     {
@@ -155,7 +176,9 @@
       "ru": "Мы поехали на экскурсию по городу.",
       "en": [
         "We went on a tour of the city.",
-        "We went on a city tour."
+        "We went on a city tour.",
+        "We went on a tour around the city.",
+        "We went on a sightseeing tour of the city."
       ]
     },
     {
@@ -163,7 +186,8 @@
       "en": [
         "What's on TV tonight?",
         "What's on television tonight?",
-        "What's on TV this evening?"
+        "What's on TV this evening?",
+        "What's on television this evening?"
       ]
     },
     {
@@ -177,7 +201,8 @@
       "ru": "(не мешай) Я разговариваю по телефону.",
       "en": [
         "I'm on the phone.",
-        "I'm talking on the phone."
+        "I'm talking on the phone.",
+        "I'm speaking on the phone."
       ]
     },
     {
@@ -196,21 +221,25 @@
     {
       "ru": "Смотри, дом горит!",
       "en": [
-        "Look, the house is on fire!"
+        "Look, the house is on fire!",
+        "Look, the house is burning!"
       ]
     },
     {
       "ru": "Ты сделал это нарочно!",
       "en": [
         "You did it on purpose!",
-        "You did that on purpose!"
+        "You did that on purpose!",
+        "You did this on purpose!"
       ]
     },
     {
       "ru": "В целом мне понравилась поездка.",
       "en": [
         "On the whole, I enjoyed the trip.",
-        "On the whole, I liked the trip."
+        "On the whole, I liked the trip.",
+        "I enjoyed the trip on the whole.",
+        "Overall, I enjoyed the trip."
       ]
     }
   ]

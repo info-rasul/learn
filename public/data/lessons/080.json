@@ -51,7 +51,9 @@
       "ru": "Мой отец — таксист.",
       "en": [
         "My father is a taxi driver.",
-        "My dad is a taxi driver."
+        "My dad is a taxi driver.",
+        "My father is a cab driver.",
+        "My dad is a cab driver."
       ]
     },
     {
@@ -59,7 +61,8 @@
       "en": [
         "We met in the city centre.",
         "We met in the town centre.",
-        "We met in the city center."
+        "We met in the city center.",
+        "We met in the town center."
       ]
     },
     {
@@ -67,7 +70,9 @@
       "en": [
         "There's an apple tree in our garden.",
         "We have an apple tree in our garden.",
-        "We've got an apple tree in our garden."
+        "We've got an apple tree in our garden.",
+        "There's an apple tree growing in our garden.",
+        "An apple tree grows in our garden."
       ]
     },
     {
@@ -77,7 +82,12 @@
         "It's a good television programme.",
         "It's a good TV program.",
         "This is a good TV programme.",
-        "It's a good TV show."
+        "It's a good TV show.",
+        "It's a good television program.",
+        "This is a good TV program.",
+        "This is a good TV show.",
+        "That's a good TV programme.",
+        "That's a good TV program."
       ]
     },
     {
@@ -91,7 +101,9 @@
     {
       "ru": "Где ключи от машины?",
       "en": [
-        "Where are the car keys?"
+        "Where are the car keys?",
+        "Where are my car keys?",
+        "Where are the keys to the car?"
       ]
     },
     {
@@ -129,11 +141,15 @@
       "ru": "Где здесь автостоянка?",
       "en": [
         "Where's the car park?",
-        "Where's the parking lot?"
+        "Where's the parking lot?",
+        "Where's the car park here?",
+        "Is there a car park near here?",
+        "Is there a parking lot near here?",
+        "Where's the nearest car park?"
       ]
     },
     {
-      "ru": "Что ты делаешь в выходные?",
+      "ru": "Что ты делаешь в эти выходные?",
       "en": [
         "What are you doing at the weekend?",
         "What are you doing this weekend?",
@@ -144,7 +160,9 @@
       "ru": "Можно мне чашку кофе?",
       "en": [
         "Can I have a cup of coffee?",
-        "Could I have a cup of coffee?"
+        "Could I have a cup of coffee?",
+        "May I have a cup of coffee?",
+        "Can I get a cup of coffee?"
       ]
     },
     {
@@ -157,7 +175,11 @@
       "ru": "Она несла сумку, полную покупок.",
       "en": [
         "She was carrying a bag of shopping.",
-        "She was carrying a bag full of shopping."
+        "She was carrying a bag full of shopping.",
+        "She was carrying a bag of groceries.",
+        "She was carrying a bag full of groceries.",
+        "She carried a bag of shopping.",
+        "She carried a bag full of shopping."
       ]
     },
     {
@@ -171,13 +193,18 @@
       "ru": "Давай встретимся у стойки регистрации отеля.",
       "en": [
         "Let's meet at the hotel reception desk.",
-        "Let's meet at the hotel reception."
+        "Let's meet at the hotel reception.",
+        "Let's meet at the hotel front desk.",
+        "Let's meet at the front desk of the hotel.",
+        "Let's meet at the reception desk of the hotel."
       ]
     },
     {
       "ru": "Ты умеешь играть в настольный теннис?",
       "en": [
-        "Can you play table tennis?"
+        "Can you play table tennis?",
+        "Do you know how to play table tennis?",
+        "Can you play ping-pong?"
       ]
     },
     {
@@ -199,21 +226,28 @@
       "en": [
         "I only have a fifty-euro note.",
         "I've only got a fifty-euro note.",
-        "I only have a 50-euro note."
+        "I only have a 50-euro note.",
+        "I've only got a 50-euro note.",
+        "I have only a fifty-euro note.",
+        "I only have a fifty-euro bill."
       ]
     },
     {
       "ru": "У Бена десятилетний сын.",
       "en": [
         "Ben has a ten-year-old son.",
-        "Ben has got a ten-year-old son."
+        "Ben has got a ten-year-old son.",
+        "Ben has a 10-year-old son.",
+        "Ben has got a 10-year-old son."
       ]
     },
     {
       "ru": "Его сыну десять лет.",
       "en": [
         "His son is ten years old.",
-        "His son is ten."
+        "His son is ten.",
+        "His son is 10 years old.",
+        "His son is 10."
       ]
     },
     {
@@ -221,7 +255,9 @@
       "en": [
         "I'm doing a four-week English course.",
         "I'm taking a four-week English course.",
-        "I'm on a four-week English course."
+        "I'm on a four-week English course.",
+        "I'm doing a four-week course in English.",
+        "I'm taking a four-week course in English."
       ]
     }
   ]

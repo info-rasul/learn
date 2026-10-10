@@ -100,7 +100,8 @@
       "ru": "Кто придумал эту идею?",
       "en": [
         "Who came up with this idea?",
-        "Who came up with that idea?"
+        "Who came up with that idea?",
+        "Who thought of this idea?"
       ]
     },
     {
@@ -178,7 +179,8 @@
       "ru": "Если не знаешь слово, посмотри его в словаре.",
       "en": [
         "If you don't know a word, look it up in a dictionary.",
-        "If you don't know the word, look it up in a dictionary."
+        "If you don't know the word, look it up in a dictionary.",
+        "If you don't know a word, look it up in the dictionary."
       ]
     },
     {
@@ -217,7 +219,8 @@
       "ru": "Давай купим ей цветы, чтобы её подбодрить.",
       "en": [
         "Let's buy her flowers to cheer her up.",
-        "Let's buy her some flowers to cheer her up."
+        "Let's buy her some flowers to cheer her up.",
+        "Let's get her flowers to cheer her up."
       ]
     },
     {
@@ -253,8 +256,7 @@
       "en": [
         "I always mix up these twins.",
         "I always mix these twins up.",
-        "I always get these twins mixed up.",
-        "I always mix up those twins."
+        "I always get these twins mixed up."
       ]
     }
   ]

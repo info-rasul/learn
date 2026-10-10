@@ -67,7 +67,7 @@
       ]
     },
     {
-      "ru": "Я считаю, что нужно говорить правду.",
+      "ru": "(оборот с believe) Я считаю, что нужно говорить правду.",
       "en": [
         "I believe in telling the truth."
       ]
@@ -83,7 +83,10 @@
       "en": [
         "This clinic specialises in children's diseases.",
         "This clinic specializes in children's diseases.",
-        "This clinic specialises in childhood illnesses."
+        "This clinic specialises in childhood illnesses.",
+        "This clinic specializes in childhood illnesses.",
+        "This clinic specialises in children's illnesses.",
+        "This clinic specializes in children's illnesses."
       ]
     },
     {
@@ -92,7 +95,12 @@
         "She succeeded in finding a flat in the centre.",
         "She succeeded in finding an apartment in the centre.",
         "She succeeded in finding a flat in the center.",
-        "She managed to find a flat in the centre."
+        "She managed to find a flat in the centre.",
+        "She succeeded in finding an apartment in the center.",
+        "She managed to find an apartment in the centre.",
+        "She managed to find a flat in the center.",
+        "She managed to find an apartment in the center.",
+        "She succeeded in finding a flat in the city centre."
       ]
     },
     {
@@ -100,7 +108,11 @@
       "en": [
         "Somebody broke into our garage last night.",
         "Someone broke into our garage last night.",
-        "Somebody broke into our garage at night."
+        "Somebody broke into our garage at night.",
+        "Someone broke into our garage at night.",
+        "Someone broke into our garage during the night.",
+        "Somebody broke into our garage during the night.",
+        "Last night someone broke into our garage."
       ]
     },
     {
@@ -108,14 +120,16 @@
       "en": [
         "The cyclist crashed into a tree.",
         "The cyclist rode into a tree.",
-        "The cyclist ran into a tree."
+        "The cyclist ran into a tree.",
+        "The cyclist hit a tree."
       ]
     },
     {
       "ru": "Я случайно налетел на Анну в коридоре.",
       "en": [
         "I bumped into Anna in the corridor.",
-        "I accidentally bumped into Anna in the corridor."
+        "I accidentally bumped into Anna in the corridor.",
+        "I bumped into Anna in the hallway."
       ]
     },
     {
@@ -130,7 +144,8 @@
       "en": [
         "Can you translate this letter from French into English?",
         "Could you translate this letter from French into English?",
-        "Can you translate this letter from French to English?"
+        "Can you translate this letter from French to English?",
+        "Could you translate this letter from French to English?"
       ]
     },
     {
@@ -138,7 +153,8 @@
       "en": [
         "A lorry collided with a bus.",
         "A truck collided with a bus.",
-        "The lorry collided with the bus."
+        "The lorry collided with the bus.",
+        "The truck collided with the bus."
       ]
     },
     {
@@ -153,7 +169,9 @@
         "The company provides its staff with laptops.",
         "The company provides employees with laptops.",
         "The company supplies its staff with laptops.",
-        "The company provides its employees with laptops."
+        "The company provides its employees with laptops.",
+        "The company supplies its employees with laptops.",
+        "The company provides staff with laptops."
       ]
     },
     {
@@ -169,13 +187,16 @@
       "en": [
         "We invited all the neighbours to the barbecue.",
         "We invited all our neighbours to the barbecue.",
-        "We invited all the neighbors to the barbecue."
+        "We invited all the neighbors to the barbecue.",
+        "We invited all our neighbors to the barbecue."
       ]
     },
     {
       "ru": "Я предпочитаю горы морю.",
       "en": [
-        "I prefer the mountains to the sea."
+        "I prefer the mountains to the sea.",
+        "I prefer mountains to the sea.",
+        "I prefer the mountains to the seaside."
       ]
     },
     {
@@ -188,7 +209,8 @@
       "ru": "Я не могу сосредоточиться на работе.",
       "en": [
         "I can't concentrate on my work.",
-        "I can't concentrate on work."
+        "I can't concentrate on work.",
+        "I can't focus on my work."
       ]
     },
     {
@@ -204,7 +226,8 @@
       "en": [
         "We spent too much money on presents.",
         "We spent too much money on gifts.",
-        "We spent too much on presents."
+        "We spent too much on presents.",
+        "We spent too much on gifts."
       ]
     },
     {
@@ -213,7 +236,8 @@
         "Mum insisted on paying for dinner.",
         "My mother insisted on paying for dinner.",
         "Mom insisted on paying for dinner.",
-        "My mum insisted on paying for dinner."
+        "My mum insisted on paying for dinner.",
+        "My mom insisted on paying for dinner."
       ]
     },
     {
@@ -221,7 +245,10 @@
       "en": [
         "Why do you insist on driving at night?",
         "Why are you insisting on driving at night?",
-        "Why do you insist on travelling at night?"
+        "Why do you insist on travelling at night?",
+        "Why do you insist on going at night?",
+        "Why are you insisting on going at night?",
+        "Why are you insisting on travelling at night?"
       ]
     },
     {
@@ -229,7 +256,10 @@
       "en": [
         "Don't waste time on little things.",
         "Don't spend time on little things.",
-        "Don't waste your time on little things."
+        "Don't waste your time on little things.",
+        "Don't waste time on small things.",
+        "Don't waste your time on small things.",
+        "Don't waste time on trivial things."
       ]
     },
     {

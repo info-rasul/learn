@@ -85,7 +85,8 @@
       "en": [
         "I haven't seen Kate for two weeks.",
         "I haven't seen Kate in two weeks.",
-        "I haven't seen Kate for a fortnight."
+        "I haven't seen Kate for a fortnight.",
+        "I haven't seen Kate for 2 weeks."
       ]
     },
     {
@@ -125,7 +126,9 @@
       "en": [
         "We haven't had a holiday for five years.",
         "We haven't had a holiday in five years.",
-        "We haven't had a vacation for five years."
+        "We haven't had a vacation for five years.",
+        "We haven't had a holiday for 5 years.",
+        "We haven't had a vacation in five years."
       ]
     },
     {
@@ -196,7 +199,8 @@
       "ru": "Мы познакомились десять лет назад.",
       "en": [
         "We met ten years ago.",
-        "We first met ten years ago."
+        "We first met ten years ago.",
+        "We met 10 years ago."
       ]
     },
     {
@@ -204,7 +208,8 @@
       "en": [
         "It's been two years since I last saw Nick.",
         "It's two years since I last saw Nick.",
-        "It's been two years since I saw Nick."
+        "It's been two years since I saw Nick.",
+        "It's been 2 years since I last saw Nick."
       ]
     },
     {
@@ -227,7 +232,8 @@
       "ru": "Прошло три месяца с тех пор, как она уехала.",
       "en": [
         "It's been three months since she left.",
-        "It's three months since she left."
+        "It's three months since she left.",
+        "It's been 3 months since she left."
       ]
     },
     {
@@ -244,7 +250,9 @@
       "en": [
         "It started snowing two hours ago.",
         "It started to snow two hours ago.",
-        "It began snowing two hours ago."
+        "It began snowing two hours ago.",
+        "It started snowing 2 hours ago.",
+        "It began to snow two hours ago."
       ]
     }
   ]

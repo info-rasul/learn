@@ -105,7 +105,8 @@
       "en": [
         "Everyone stood up when she came in.",
         "Everybody stood up when she came in.",
-        "Everyone stood up when she walked in."
+        "Everyone stood up when she walked in.",
+        "Everybody stood up when she walked in."
       ]
     },
     {
@@ -139,7 +140,9 @@
     {
       "ru": "Старую фабрику снесли в прошлом году.",
       "en": [
-        "The old factory was knocked down last year."
+        "The old factory was knocked down last year.",
+        "The old factory was pulled down last year.",
+        "They knocked down the old factory last year."
       ]
     },
     {
@@ -153,8 +156,7 @@
       "ru": "Зачем они срубили эти деревья?",
       "en": [
         "Why did they cut down these trees?",
-        "Why did they cut these trees down?",
-        "Why did they cut down those trees?"
+        "Why did they cut these trees down?"
       ]
     },
     {
@@ -196,7 +198,11 @@
       "en": [
         "The shop on the corner has closed down.",
         "The shop on the corner closed down.",
-        "The shop on the corner has shut down."
+        "The shop on the corner has shut down.",
+        "The corner shop has closed down.",
+        "The corner shop closed down.",
+        "The store on the corner has closed down.",
+        "The store on the corner closed down."
       ]
     },
     {
@@ -204,7 +210,8 @@
       "en": [
         "The lift has broken down again.",
         "The lift broke down again.",
-        "The elevator has broken down again."
+        "The elevator has broken down again.",
+        "The elevator broke down again."
       ]
     },
     {

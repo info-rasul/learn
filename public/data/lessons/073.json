@@ -75,14 +75,17 @@
       "ru": "Я уезжаю в конце недели.",
       "en": [
         "I'm going away at the end of the week.",
-        "I'm leaving at the end of the week."
+        "I'm leaving at the end of the week.",
+        "I leave at the end of the week."
       ]
     },
     {
       "ru": "Какая самая высокая гора в Японии?",
       "en": [
         "What's the highest mountain in Japan?",
-        "Which is the highest mountain in Japan?"
+        "Which is the highest mountain in Japan?",
+        "What's the tallest mountain in Japan?",
+        "Which is the tallest mountain in Japan?"
       ]
     },
     {
@@ -96,7 +99,9 @@
       "ru": "У меня такой же телефон, как у тебя.",
       "en": [
         "I have the same phone as you.",
-        "I've got the same phone as you."
+        "I've got the same phone as you.",
+        "I have the same phone as yours.",
+        "I've got the same phone as yours."
       ]
     },
     {
@@ -116,7 +121,11 @@
       "ru": "Мы хотим жить за городом.",
       "en": [
         "We want to live in the country.",
-        "We'd like to live in the country."
+        "We'd like to live in the country.",
+        "We want to live in the countryside.",
+        "We'd like to live in the countryside.",
+        "We want to live outside the city.",
+        "We want to live out of town."
       ]
     },
     {
@@ -126,7 +135,13 @@
         "The earth goes round the sun.",
         "The earth moves around the sun.",
         "The earth orbits the sun.",
-        "The earth revolves around the sun."
+        "The earth revolves around the sun.",
+        "Earth goes around the sun.",
+        "Earth goes round the sun.",
+        "Earth moves around the sun.",
+        "Earth orbits the sun.",
+        "Earth revolves around the sun.",
+        "The earth rotates around the sun."
       ]
     },
     {
@@ -149,7 +164,8 @@
     {
       "ru": "(о месте для парковки) Место было слишком маленьким для нашей машины.",
       "en": [
-        "The space was too small for our car."
+        "The space was too small for our car.",
+        "The parking space was too small for our car."
       ]
     },
     {
@@ -166,7 +182,10 @@
         "He hasn't been to the theater for years.",
         "He hasn't been to the theatre for many years.",
         "He hasn't been to the theatre in years.",
-        "He hasn't been to the theater in years."
+        "He hasn't been to the theater in years.",
+        "He hasn't been to the theatre in many years.",
+        "He hasn't been to the theater in many years.",
+        "He hasn't been to the theater for many years."
       ]
     },
     {
@@ -174,13 +193,17 @@
       "en": [
         "I watch TV in the evening.",
         "In the evening I watch TV.",
-        "I watch television in the evening."
+        "I watch television in the evening.",
+        "I watch TV in the evenings.",
+        "In the evenings I watch TV.",
+        "In the evening I watch television."
       ]
     },
     {
       "ru": "Ты слушаешь радио?",
       "en": [
-        "Do you listen to the radio?"
+        "Do you listen to the radio?",
+        "Are you listening to the radio?"
       ]
     },
     {
@@ -190,7 +213,9 @@
         "Please turn off the TV.",
         "Turn the TV off, please.",
         "Switch off the TV, please.",
-        "Turn off the television, please."
+        "Turn off the television, please.",
+        "Please switch off the TV.",
+        "Switch the TV off, please."
       ]
     },
     {
@@ -204,7 +229,8 @@
       "ru": "Ты уже обедал?",
       "en": [
         "Have you had lunch yet?",
-        "Have you had lunch?"
+        "Have you had lunch?",
+        "Have you already had lunch?"
       ]
     },
     {
@@ -212,7 +238,9 @@
       "en": [
         "We had a great dinner yesterday.",
         "We had a wonderful dinner yesterday.",
-        "Yesterday we had a great dinner."
+        "Yesterday we had a great dinner.",
+        "We had an excellent dinner yesterday.",
+        "Yesterday we had a wonderful dinner."
       ]
     },
     {

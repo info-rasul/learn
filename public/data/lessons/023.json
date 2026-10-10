@@ -21,7 +21,7 @@
     { "ru": "(узнал только что) Ладно, я ему перезвоню.", "en": ["OK, I'll call him back.", "OK, I'll phone him back.", "OK, I'll ring him back."] },
     { "ru": "(уже знал и решил) Да, знаю, я собираюсь ему перезвонить.", "en": ["Yes, I know, I'm going to call him back.", "Yes, I know, I'm going to phone him back.", "Yes, I know, I'm going to ring him back."] },
     { "ru": "(только что узнал, что он болен) Я навещу Пола завтра.", "en": ["I'll visit Paul tomorrow.", "I'll go and see Paul tomorrow.", "I'll go and visit Paul tomorrow."] },
-    { "ru": "(решил ещё вчера) Я собираюсь навестить Пола сегодня вечером.", "en": ["I'm going to visit Paul this evening.", "I'm going to visit Paul tonight.", "I'm going to see Paul this evening."] },
+    { "ru": "(решил ещё вчера) Я собираюсь навестить Пола сегодня вечером.", "en": ["I'm going to visit Paul this evening.", "I'm going to visit Paul tonight.", "I'm going to see Paul this evening.", "I'm going to see Paul tonight."] },
     { "ru": "(для этого и включил компьютер) Я собираюсь проверить почту.", "en": ["I'm going to check my email.", "I'm going to check my emails.", "I'm going to check my mail."] },
     { "ru": "(решил сейчас) Не беда, я одолжу тебе немного денег.", "en": ["No problem, I'll lend you some money.", "Don't worry, I'll lend you some money.", "Never mind, I'll lend you some money."] },
     { "ru": "(решил заранее) Я собираюсь покрасить эту комнату в синий цвет.", "en": ["I'm going to paint this room blue."] },
@@ -30,15 +30,15 @@
     { "ru": "(решил вчера) Завтра я собираюсь встать рано.", "en": ["I'm going to get up early tomorrow.", "Tomorrow I'm going to get up early."] },
     { "ru": "(ты не знаешь, как это работает) Не волнуйся, я тебе покажу.", "en": ["Don't worry, I'll show you."] },
     { "ru": "Думаю, завтра будет тепло.", "en": ["I think it will be warm tomorrow.", "I think it's going to be warm tomorrow."] },
-    { "ru": "Эти ботинки прослужат долго.", "en": ["These boots will last a long time.", "These boots are going to last a long time.", "These shoes will last a long time.", "These shoes are going to last a long time."] },
-    { "ru": "(пробка, а встреча через пять минут) Мы не успеем.", "en": ["We're not going to make it.", "We're not going to get there in time."] },
+    { "ru": "Эти ботинки прослужат долго.", "en": ["These boots will last a long time.", "These boots are going to last a long time.", "These shoes will last a long time.", "These shoes are going to last a long time.", "These boots will last for a long time.", "These boots are going to last for a long time."] },
+    { "ru": "(пробка, а встреча через пять минут) Мы не успеем.", "en": ["We're not going to make it.", "We're not going to get there in time.", "We're not going to be on time.", "We're not going to make it in time."] },
     { "ru": "(Ник всегда опаздывает) Ник опоздает.", "en": ["Nick will be late."] },
     { "ru": "(тучи уже на небе) Скоро будет гроза.", "en": ["There's going to be a storm soon.", "There's going to be a thunderstorm soon."] },
     { "ru": "(машина едет прямо на столб) Осторожно, он врежется!", "en": ["Look out, he's going to crash!", "Careful, he's going to crash!", "Watch out, he's going to crash!"] },
     { "ru": "Думаю, тебе понравится этот город.", "en": ["I think you'll like this city.", "I think you're going to like this city.", "I think you'll like this town.", "I think you're going to like this town."] },
     { "ru": "(решил сейчас) Пожалуй, я надену синюю рубашку.", "en": ["I think I'll wear the blue shirt.", "I think I'll wear my blue shirt."] },
     { "ru": "(она давно решила) Анна собирается стать врачом.", "en": ["Anna is going to be a doctor.", "Anna is going to become a doctor."] },
-    { "ru": "(уже решил?) Ты собираешься продавать квартиру?", "en": ["Are you going to sell your flat?", "Are you going to sell your apartment?", "Are you going to sell the flat?"] },
+    { "ru": "(уже решил?) Ты собираешься продавать квартиру?", "en": ["Are you going to sell your flat?", "Are you going to sell your apartment?", "Are you going to sell the flat?", "Are you going to sell the apartment?"] },
     { "ru": "(решил только что) Ладно, я куплю тебе мороженое.", "en": ["OK, I'll buy you an ice cream.", "OK, I'll buy you some ice cream.", "OK, I'll get you an ice cream."] }
   ]
 }

@@ -30,29 +30,29 @@
     }
   ],
   "items": [
-    { "ru": "Сегодня довольно тепло.", "en": ["It's quite warm today.", "It's pretty warm today.", "It's fairly warm today."] },
+    { "ru": "Сегодня довольно тепло.", "en": ["It's quite warm today.", "It's pretty warm today.", "It's fairly warm today.", "Today it's quite warm.", "Today it's pretty warm."] },
     { "ru": "Он довольно хорошо говорит по-английски.", "en": ["He speaks English quite well.", "He speaks English pretty well.", "He speaks English fairly well."] },
-    { "ru": "Это довольно хороший ресторан.", "en": ["It's quite a good restaurant.", "It's a pretty good restaurant.", "It's a fairly good restaurant."] },
+    { "ru": "Это довольно хороший ресторан.", "en": ["It's quite a good restaurant.", "It's a pretty good restaurant.", "It's a fairly good restaurant.", "This is quite a good restaurant.", "That's quite a good restaurant.", "This is a pretty good restaurant.", "That's a pretty good restaurant."] },
     { "ru": "Я вижу его довольно часто.", "en": ["I see him quite often.", "I see him pretty often.", "I see him fairly often."] },
     { "ru": "Я довольно сильно устал.", "en": ["I'm quite tired.", "I'm pretty tired.", "I'm rather tired.", "I'm fairly tired."] },
     { "ru": "Мы довольно хорошо знаем друг друга.", "en": ["We know each other quite well.", "We know each other pretty well.", "We know each other fairly well."] },
     { "ru": "Мне, в общем, нравится эта песня.", "en": ["I quite like this song.", "I quite like that song."] },
     { "ru": "У нас довольно много времени.", "en": ["We have quite a lot of time.", "We've got quite a lot of time."] },
-    { "ru": "Это довольно дорогая машина.", "en": ["It's quite an expensive car.", "It's a pretty expensive car.", "It's rather an expensive car.", "It's a rather expensive car.", "It's a fairly expensive car."] },
-    { "ru": "Это была довольно долгая поездка.", "en": ["It was quite a long journey.", "It was a pretty long journey.", "It was rather a long journey.", "It was a rather long journey.", "It was quite a long trip.", "It was a pretty long trip."] },
+    { "ru": "Это довольно дорогая машина.", "en": ["It's quite an expensive car.", "It's a pretty expensive car.", "It's rather an expensive car.", "It's a rather expensive car.", "It's a fairly expensive car.", "This is quite an expensive car.", "That's quite an expensive car.", "This is a pretty expensive car."] },
+    { "ru": "Это была довольно долгая поездка.", "en": ["It was quite a long journey.", "It was a pretty long journey.", "It was rather a long journey.", "It was a rather long journey.", "It was quite a long trip.", "It was a pretty long trip.", "It was a fairly long journey.", "It was rather a long trip.", "That was quite a long journey.", "That was quite a long trip."] },
     { "ru": "(к сожалению) Фильм был довольно скучным.", "en": ["The film was rather boring.", "The film was quite boring.", "The film was pretty boring.", "The movie was rather boring.", "The movie was quite boring.", "The movie was pretty boring."] },
-    { "ru": "(к моему удивлению) Экзамен оказался довольно лёгким.", "en": ["The exam was rather easy.", "The exam was quite easy.", "The exam was pretty easy."] },
-    { "ru": "Это довольно странная идея.", "en": ["It's rather a strange idea.", "It's a rather strange idea.", "It's quite a strange idea.", "It's a pretty strange idea."] },
+    { "ru": "(к моему удивлению) Экзамен оказался довольно лёгким.", "en": ["The exam was rather easy.", "The exam was quite easy.", "The exam was pretty easy.", "The exam turned out to be rather easy.", "The exam turned out to be quite easy.", "The exam turned out to be pretty easy."] },
+    { "ru": "Это довольно странная идея.", "en": ["It's rather a strange idea.", "It's a rather strange idea.", "It's quite a strange idea.", "It's a pretty strange idea.", "That's rather a strange idea.", "That's a rather strange idea.", "That's quite a strange idea.", "That's a pretty strange idea."] },
     { "ru": "Уже довольно поздно, пойдём домой.", "en": ["It's rather late, let's go home.", "It's quite late, let's go home.", "It's pretty late, let's go home."] },
     { "ru": "Было довольно холодно, поэтому мы не пошли купаться.", "en": ["It was rather cold, so we didn't go swimming.", "It was quite cold, so we didn't go swimming.", "It was pretty cold, so we didn't go swimming."] },
     { "ru": "(в меру) Комната довольно маленькая.", "en": ["The room is fairly small.", "The room is quite small.", "The room is pretty small."] },
-    { "ru": "Ты совершенно прав.", "en": ["You're quite right.", "You're absolutely right.", "You're completely right."] },
+    { "ru": "Ты совершенно прав.", "en": ["You're quite right.", "You're absolutely right.", "You're completely right.", "You're totally right."] },
     { "ru": "Я совершенно уверен.", "en": ["I'm quite sure.", "I'm absolutely sure.", "I'm completely sure."] },
     { "ru": "Это совершенно невозможно.", "en": ["That's quite impossible.", "It's quite impossible.", "That's completely impossible.", "It's completely impossible."] },
     { "ru": "Их дом совершенно другой.", "en": ["Their house is quite different.", "Their house is completely different."] },
     { "ru": "Я не совсем уверен.", "en": ["I'm not quite sure.", "I'm not completely sure."] },
-    { "ru": "Я ещё не совсем закончил.", "en": ["I haven't quite finished.", "I haven't quite finished yet."] },
+    { "ru": "Я ещё не совсем закончил.", "en": ["I haven't quite finished.", "I haven't quite finished yet.", "I'm not quite finished yet."] },
     { "ru": "Ты меня не совсем понял.", "en": ["You didn't quite understand me.", "You haven't quite understood me."] },
-    { "ru": "Это не совсем то, что я хотел.", "en": ["It's not quite what I wanted.", "That's not quite what I wanted."] }
+    { "ru": "Это не совсем то, что я хотел.", "en": ["It's not quite what I wanted.", "That's not quite what I wanted.", "This isn't quite what I wanted."] }
   ]
 }

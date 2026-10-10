@@ -75,7 +75,10 @@
       "en": [
         "There is a big demand for electric cars now.",
         "Now there is a big demand for electric cars.",
-        "There's a great demand for electric cars now."
+        "There's a great demand for electric cars now.",
+        "There's a high demand for electric cars now.",
+        "There's a big demand for electric cars at the moment.",
+        "Now there's a great demand for electric cars."
       ]
     },
     {
@@ -84,7 +87,9 @@
         "There's no need for a taxi, I'll walk.",
         "There's no need for a taxi, I'm going to walk.",
         "I don't need a taxi, I'll walk.",
-        "I don't need a taxi, I'm going to walk."
+        "I don't need a taxi, I'm going to walk.",
+        "No need for a taxi, I'll walk.",
+        "There's no need for a taxi, I'll go on foot."
       ]
     },
     {
@@ -129,7 +134,9 @@
     {
       "ru": "У Тома хорошие отношения с начальником.",
       "en": [
-        "Tom has a good relationship with his boss."
+        "Tom has a good relationship with his boss.",
+        "Tom has a good relationship with his manager.",
+        "Tom has good relations with his boss."
       ]
     },
     {
@@ -153,7 +160,9 @@
       "ru": "Между этими двумя событиями нет связи.",
       "en": [
         "There's no connection between these two events.",
-        "There's no connection between the two events."
+        "There's no connection between the two events.",
+        "There's no link between these two events.",
+        "There isn't any connection between these two events."
       ]
     },
     {
@@ -167,7 +176,9 @@
       "ru": "Главный недостаток этой квартиры — шум.",
       "en": [
         "The main disadvantage of this flat is the noise.",
-        "The main disadvantage of this apartment is the noise."
+        "The main disadvantage of this apartment is the noise.",
+        "The noise is the main disadvantage of this flat.",
+        "The noise is the main disadvantage of this apartment."
       ]
     },
     {
@@ -176,7 +187,9 @@
         "There are many advantages in getting up early.",
         "There are many advantages to getting up early.",
         "There are a lot of advantages in getting up early.",
-        "There are a lot of advantages to getting up early."
+        "There are a lot of advantages to getting up early.",
+        "There are lots of advantages to getting up early.",
+        "There are lots of advantages in getting up early."
       ]
     },
     {
@@ -191,7 +204,8 @@
     {
       "ru": "Где ключ от этой двери?",
       "en": [
-        "Where is the key to this door?"
+        "Where is the key to this door?",
+        "Where is the key for this door?"
       ]
     },
     {
@@ -227,7 +241,9 @@
       "ru": "Буря нанесла серьёзный ущерб нашему дому.",
       "en": [
         "The storm caused serious damage to our house.",
-        "The storm did serious damage to our house."
+        "The storm did serious damage to our house.",
+        "The storm caused serious damage to our home.",
+        "The storm did serious damage to our home."
       ]
     },
     {
@@ -256,7 +272,8 @@
         "Why do you have such an attitude to teachers?",
         "Why do you have such an attitude towards teachers?",
         "Why do you have that attitude to teachers?",
-        "Why do you have that attitude towards teachers?"
+        "Why do you have that attitude towards teachers?",
+        "Why do you have such an attitude toward teachers?"
       ]
     }
   ]

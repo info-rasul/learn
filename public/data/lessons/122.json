@@ -67,7 +67,9 @@
       "ru": "Поезд прибыл по расписанию.",
       "en": [
         "The train arrived on time.",
-        "The train came on time."
+        "The train came on time.",
+        "The train was on time.",
+        "The train arrived on schedule."
       ]
     },
     {
@@ -81,7 +83,10 @@
       "ru": "Пожалуйста, приходи на собрание вовремя.",
       "en": [
         "Please come to the meeting on time.",
-        "Please be on time for the meeting."
+        "Please be on time for the meeting.",
+        "Please be at the meeting on time.",
+        "Please get to the meeting on time.",
+        "Please arrive at the meeting on time."
       ]
     },
     {
@@ -90,7 +95,10 @@
         "The buses here are rarely on time.",
         "The buses are rarely on time here.",
         "The buses here rarely come on time.",
-        "The buses here rarely arrive on time."
+        "The buses here rarely arrive on time.",
+        "Buses here are rarely on time.",
+        "Buses here rarely come on time.",
+        "Buses here rarely arrive on time."
       ]
     },
     {
@@ -98,20 +106,29 @@
       "en": [
         "Mike never gets to work on time.",
         "Mike never arrives at work on time.",
-        "Mike never comes to work on time."
+        "Mike never comes to work on time.",
+        "Mike is never on time for work."
       ]
     },
     {
       "ru": "Мы успели домой к ужину.",
       "en": [
-        "We got home in time for dinner."
+        "We got home in time for dinner.",
+        "We got back home in time for dinner.",
+        "We were home in time for dinner.",
+        "We made it home in time for dinner.",
+        "We got home in time for supper."
       ]
     },
     {
       "ru": "Я хочу успеть к началу фильма.",
       "en": [
         "I want to be in time for the start of the film.",
-        "I want to be in time for the beginning of the film."
+        "I want to be in time for the beginning of the film.",
+        "I want to be in time for the start of the movie.",
+        "I want to be in time for the beginning of the movie.",
+        "I want to get there in time for the start of the film.",
+        "I want to make it in time for the start of the film."
       ]
     },
     {
@@ -119,40 +136,56 @@
       "en": [
         "Will you be in time for the train?",
         "Will you be in time to catch the train?",
-        "Will you make it in time for the train?"
+        "Will you make it in time for the train?",
+        "Will you catch the train in time?",
+        "Will you get to the train in time?",
+        "Will you get there in time for the train?"
       ]
     },
     {
       "ru": "Врач приехал вовремя, чтобы спасти его.",
       "en": [
         "The doctor arrived in time to save him.",
-        "The doctor came in time to save him."
+        "The doctor came in time to save him.",
+        "The doctor got there in time to save him."
       ]
     },
     {
       "ru": "Я не успел приехать туда вовремя, чтобы попрощаться.",
       "en": [
-        "I didn't get there in time to say goodbye."
+        "I didn't get there in time to say goodbye.",
+        "I didn't arrive there in time to say goodbye.",
+        "I didn't make it there in time to say goodbye.",
+        "I couldn't get there in time to say goodbye."
       ]
     },
     {
       "ru": "Мы добрались до аэропорта как раз вовремя, в последний момент.",
       "en": [
         "We got to the airport just in time.",
-        "We arrived at the airport just in time."
+        "We arrived at the airport just in time.",
+        "We reached the airport just in time.",
+        "We made it to the airport just in time."
       ]
     },
     {
       "ru": "(мы как раз начинаем) Ты как раз вовремя.",
       "en": [
-        "You're just in time."
+        "You're just in time.",
+        "You've come just in time.",
+        "You came just in time."
       ]
     },
     {
       "ru": "Я плачу за квартиру в конце месяца.",
       "en": [
         "I pay the rent at the end of the month.",
-        "I pay my rent at the end of the month."
+        "I pay my rent at the end of the month.",
+        "I pay rent at the end of the month.",
+        "I pay for the flat at the end of the month.",
+        "I pay for my flat at the end of the month.",
+        "I pay for the apartment at the end of the month.",
+        "I pay for my apartment at the end of the month."
       ]
     },
     {
@@ -160,7 +193,14 @@
       "en": [
         "At the end of the film, everybody cried.",
         "At the end of the film, everyone cried.",
-        "Everybody cried at the end of the film."
+        "Everybody cried at the end of the film.",
+        "Everyone cried at the end of the film.",
+        "At the end of the movie, everybody cried.",
+        "At the end of the movie, everyone cried.",
+        "Everybody cried at the end of the movie.",
+        "Everyone cried at the end of the movie.",
+        "At the end of the film, everyone was crying.",
+        "Everyone was crying at the end of the film."
       ]
     },
     {
@@ -174,7 +214,10 @@
       "en": [
         "I'm going to Paris at the end of the week.",
         "At the end of the week I'm going to Paris.",
-        "I'll go to Paris at the end of the week."
+        "I'll go to Paris at the end of the week.",
+        "At the end of the week I'll go to Paris.",
+        "I'm going to go to Paris at the end of the week.",
+        "I'm travelling to Paris at the end of the week."
       ]
     },
     {
@@ -188,7 +231,13 @@
       "en": [
         "At the beginning of the lesson, the teacher checked the homework.",
         "At the beginning of the lesson, the teacher checked our homework.",
-        "At the start of the lesson, the teacher checked the homework."
+        "At the start of the lesson, the teacher checked the homework.",
+        "At the start of the lesson, the teacher checked our homework.",
+        "The teacher checked the homework at the beginning of the lesson.",
+        "The teacher checked our homework at the beginning of the lesson.",
+        "The teacher checked the homework at the start of the lesson.",
+        "At the beginning of the class, the teacher checked the homework.",
+        "At the start of the class, the teacher checked the homework."
       ]
     },
     {
@@ -196,21 +245,41 @@
       "en": [
         "In the end, we decided to stay at home.",
         "In the end, we decided to stay home.",
-        "We decided to stay at home in the end."
+        "We decided to stay at home in the end.",
+        "We decided to stay home in the end.",
+        "Eventually, we decided to stay at home.",
+        "Eventually, we decided to stay home.",
+        "We eventually decided to stay at home.",
+        "We eventually decided to stay home.",
+        "Finally, we decided to stay at home.",
+        "We finally decided to stay at home.",
+        "We finally decided to stay home."
       ]
     },
     {
       "ru": "В итоге он согласился прийти.",
       "en": [
         "In the end, he agreed to come.",
-        "He agreed to come in the end."
+        "He agreed to come in the end.",
+        "Eventually, he agreed to come.",
+        "He eventually agreed to come.",
+        "Finally, he agreed to come.",
+        "He finally agreed to come."
       ]
     },
     {
       "ru": "В конце концов мы нашли ключи.",
       "en": [
         "In the end, we found the keys.",
-        "We found the keys in the end."
+        "We found the keys in the end.",
+        "In the end, we found our keys.",
+        "We found our keys in the end.",
+        "Eventually, we found the keys.",
+        "We eventually found the keys.",
+        "Finally, we found the keys.",
+        "We finally found the keys.",
+        "Eventually, we found our keys.",
+        "We finally found our keys."
       ]
     },
     {
@@ -225,14 +294,22 @@
       "en": [
         "In the end, everything was fine.",
         "Everything was fine in the end.",
-        "In the end, everything was OK."
+        "In the end, everything was OK.",
+        "Everything was OK in the end.",
+        "In the end, everything was all right.",
+        "Everything was all right in the end.",
+        "In the end, everything turned out fine.",
+        "Everything turned out fine in the end.",
+        "Eventually, everything was fine.",
+        "Eventually, everything turned out fine."
       ]
     },
     {
       "ru": "В итоге Лондон мне понравился.",
       "en": [
         "In the end, I liked London.",
-        "I liked London in the end."
+        "I liked London in the end.",
+        "I ended up liking London."
       ]
     }
   ]

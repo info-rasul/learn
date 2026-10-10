@@ -6,7 +6,7 @@
   "theory": [
     {
       "type": "p",
-      "text": "<b>the</b> + единственное число может обозначать целый вид животных или тип изобретения, а не одну штуку: <b>The elephant is the largest land animal. When was the computer invented?</b> Так же с музыкальными инструментами: <b>play the piano, play the violin</b>."
+      "text": "<b>the</b> + единственное число может обозначать целый вид животных или тип изобретения, а не одну штуку: <b>The elephant is the largest land animal. When was the computer invented?</b> С музыкальными инструментами обычно тоже ставим the: <b>play the piano, play the violin</b> (в разговорной и американской речи встречается и <b>play piano</b>, но стандартный вариант — с the)."
     },
     {
       "type": "list",
@@ -51,7 +51,7 @@
     },
     {
       "type": "tip",
-      "text": "Нельзя сказать <b>a French</b> или <b>Frenches</b>. Говорите <b>a French woman / a Frenchman</b> и <b>the French / French people</b>. И не забывайте the с инструментами: <b>play the guitar</b>, а не play guitar."
+      "text": "Нельзя сказать <b>a French</b> или <b>Frenches</b>. Говорите <b>a French woman / a Frenchman</b> и <b>the French / French people</b>. И с инструментами привыкайте ставить the: <b>play the guitar</b> — это стандартный вариант (без артикля говорят в основном неформально, особенно в американском английском)."
     }
   ],
   "items": [
@@ -59,7 +59,9 @@
       "ru": "(как вид) Слон — самое большое наземное животное.",
       "en": [
         "The elephant is the largest land animal.",
-        "The elephant is the biggest land animal."
+        "The elephant is the biggest land animal.",
+        "Elephants are the largest land animals.",
+        "Elephants are the biggest land animals."
       ]
     },
     {
@@ -73,17 +75,22 @@
       "en": [
         "The bicycle is a great way to get around the city.",
         "The bike is a great way to get around the city.",
-        "The bicycle is a great way to get around town."
+        "The bicycle is a great way to get around town.",
+        "The bike is a great way to get around town.",
+        "The bicycle is an excellent way to get around the city.",
+        "The bicycle is a great way of getting around the city.",
+        "The bike is a great way of getting around the city."
       ]
     },
     {
       "ru": "Ты умеешь играть на скрипке?",
       "en": [
-        "Can you play the violin?"
+        "Can you play the violin?",
+        "Do you know how to play the violin?"
       ]
     },
     {
-      "ru": "Моя дочь играет на пианино.",
+      "ru": "(умеет, занимается) Моя дочь играет на пианино.",
       "en": [
         "My daughter plays the piano."
       ]
@@ -100,7 +107,9 @@
       "ru": "Мы видели в зоопарке тигра.",
       "en": [
         "We saw a tiger at the zoo.",
-        "We saw a tiger in the zoo."
+        "We saw a tiger in the zoo.",
+        "At the zoo we saw a tiger.",
+        "In the zoo we saw a tiger."
       ]
     },
     {
@@ -113,20 +122,27 @@
     {
       "ru": "Евро — валюта Франции и Германии.",
       "en": [
-        "The euro is the currency of France and Germany."
+        "The euro is the currency of France and Germany.",
+        "The euro is the currency in France and Germany."
       ]
     },
     {
       "ru": "Богатые должны помогать бедным.",
       "en": [
-        "The rich should help the poor."
+        "The rich should help the poor.",
+        "The rich must help the poor.",
+        "The rich have to help the poor.",
+        "The rich ought to help the poor."
       ]
     },
     {
       "ru": "Правительство должно больше помогать безработным.",
       "en": [
         "The government should do more to help the unemployed.",
-        "The government should help the unemployed more."
+        "The government should help the unemployed more.",
+        "The government must do more to help the unemployed.",
+        "The government must help the unemployed more.",
+        "The government should do more for the unemployed."
       ]
     },
     {
@@ -134,7 +150,8 @@
       "en": [
         "The ambulance took the injured to hospital.",
         "An ambulance took the injured to hospital.",
-        "The ambulance took the injured to the hospital."
+        "The ambulance took the injured to the hospital.",
+        "An ambulance took the injured to the hospital."
       ]
     },
     {
@@ -145,6 +162,9 @@
         "We must take care of the elderly.",
         "We must look after the elderly.",
         "We should look after the elderly.",
+        "We should take care of the elderly.",
+        "We have to look after the elderly.",
+        "We have to take care of the elderly.",
         "We need to take care of the old."
       ]
     },
@@ -152,21 +172,30 @@
       "ru": "Он очень богатый человек.",
       "en": [
         "He's a very rich man.",
-        "He's a very rich person."
+        "He's a very rich person.",
+        "He's a very wealthy man.",
+        "He's a very wealthy person."
       ]
     },
     {
       "ru": "Бездомным зимой нужна помощь.",
       "en": [
         "The homeless need help in winter.",
-        "The homeless need help in the winter."
+        "The homeless need help in the winter.",
+        "In winter the homeless need help.",
+        "In the winter the homeless need help."
       ]
     },
     {
       "ru": "У вокзала спал бездомный.",
       "en": [
         "A homeless man was sleeping near the station.",
-        "A homeless person was sleeping near the station."
+        "A homeless person was sleeping near the station.",
+        "A homeless man was sleeping by the station.",
+        "A homeless person was sleeping by the station.",
+        "A homeless man was sleeping outside the station.",
+        "A homeless person was sleeping outside the station.",
+        "A homeless man was sleeping next to the station."
       ]
     },
     {
@@ -185,14 +214,18 @@
         "The English like talking about the weather.",
         "The English love to talk about the weather.",
         "English people love talking about the weather.",
-        "English people like talking about the weather."
+        "English people like talking about the weather.",
+        "The English like to talk about the weather.",
+        "English people love to talk about the weather.",
+        "English people like to talk about the weather."
       ]
     },
     {
       "ru": "Я познакомился с француженкой в Риме.",
       "en": [
         "I met a French woman in Rome.",
-        "I met a Frenchwoman in Rome."
+        "I met a Frenchwoman in Rome.",
+        "I met a French girl in Rome."
       ]
     },
     {
@@ -200,7 +233,8 @@
       "en": [
         "The Spanish have dinner very late.",
         "Spanish people have dinner very late.",
-        "The Spanish eat dinner very late."
+        "The Spanish eat dinner very late.",
+        "Spanish people eat dinner very late."
       ]
     },
     {
@@ -208,14 +242,17 @@
       "en": [
         "The Swiss make excellent watches.",
         "The Swiss make great watches.",
-        "Swiss people make excellent watches."
+        "Swiss people make excellent watches.",
+        "Swiss people make great watches."
       ]
     },
     {
       "ru": "Итальянцы обожают футбол.",
       "en": [
         "Italians love football.",
-        "Italian people love football."
+        "Italian people love football.",
+        "The Italians love football.",
+        "Italians adore football."
       ]
     },
     {
@@ -223,7 +260,10 @@
       "en": [
         "I know some Germans.",
         "I know a few Germans.",
-        "I know some German people."
+        "I know some German people.",
+        "I know several Germans.",
+        "I know a few German people.",
+        "I know several German people."
       ]
     },
     {

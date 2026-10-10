@@ -16,14 +16,14 @@
   "items": [
     { "ru": "Я пытался открыть окно, но оно не открывалось.", "en": ["I tried to open the window, but it wouldn't open.", "I tried to open the window, but it didn't open."] },
     { "ru": "Постарайся завтра не опаздывать.", "en": ["Try not to be late tomorrow."] },
-    { "ru": "Он изо всех сил старался не смеяться.", "en": ["He tried hard not to laugh.", "He tried very hard not to laugh.", "He tried his best not to laugh."] },
+    { "ru": "Он изо всех сил старался не смеяться.", "en": ["He tried hard not to laugh.", "He tried very hard not to laugh.", "He tried his best not to laugh.", "He tried really hard not to laugh."] },
     { "ru": "(может, поможет) Попробуй выключить и снова включить компьютер.", "en": ["Try turning the computer off and on again.", "Try switching the computer off and on again.", "Try restarting the computer."] },
     { "ru": "(ради эксперимента) Попробуй добавить в суп немного соли.", "en": ["Try adding some salt to the soup.", "Try adding a little salt to the soup.", "Try putting some salt in the soup."] },
     { "ru": "Ты пробовал этот сыр?", "en": ["Have you tried this cheese?", "Did you try this cheese?"] },
     { "ru": "(пыталась, но не получилось) Она пыталась дозвониться Тому, но он не отвечал.", "en": ["She tried to call Tom, but he didn't answer.", "She tried to phone Tom, but he didn't answer.", "She tried to ring Tom, but he didn't answer."] },
     { "ru": "(как вариант) Попробуй позвонить ему на работу.", "en": ["Try calling him at work.", "Try phoning him at work.", "Try ringing him at work."] },
-    { "ru": "Мы попробовали все магазины в городе.", "en": ["We tried all the shops in the town.", "We tried every shop in the town.", "We tried all the shops in town.", "We tried every shop in town."] },
-    { "ru": "Мне нужно купить хлеба.", "en": ["I need to buy some bread.", "I need to buy bread.", "I need to get some bread."] },
+    { "ru": "Мы попробовали все магазины в городе.", "en": ["We tried all the shops in the town.", "We tried every shop in the town.", "We tried all the shops in town.", "We tried every shop in town.", "We tried all the shops in the city.", "We tried every shop in the city.", "We tried all the stores in town.", "We tried every store in town."] },
+    { "ru": "Мне нужно купить хлеба.", "en": ["I need to buy some bread.", "I need to buy bread.", "I need to get some bread.", "I need to get bread."] },
     { "ru": "Тебе не нужно приходить завтра.", "en": ["You don't need to come tomorrow.", "You needn't come tomorrow.", "You don't have to come tomorrow."] },
     { "ru": "Ей нужно больше спать.", "en": ["She needs to sleep more.", "She needs to get more sleep.", "She needs more sleep."] },
     { "ru": "Машину нужно помыть.", "en": ["The car needs washing.", "The car needs to be washed.", "The car needs cleaning.", "The car needs to be cleaned."] },
@@ -35,8 +35,8 @@
     { "ru": "Можешь помочь мне донести эти сумки?", "en": ["Can you help me carry these bags?", "Can you help me to carry these bags?", "Could you help me carry these bags?", "Could you help me to carry these bags?"] },
     { "ru": "Анна помогла нам найти дешёвый отель.", "en": ["Anna helped us find a cheap hotel.", "Anna helped us to find a cheap hotel."] },
     { "ru": "Все помогли приготовить ужин.", "en": ["Everyone helped to cook dinner.", "Everyone helped cook dinner.", "Everybody helped to cook dinner.", "Everybody helped cook dinner.", "Everyone helped to make dinner.", "Everyone helped make dinner.", "Everybody helped to make dinner.", "Everybody helped make dinner."] },
-    { "ru": "Я не могу не думать об этом.", "en": ["I can't help thinking about it.", "I can't stop thinking about it."] },
-    { "ru": "Он не смог удержаться от смеха.", "en": ["He couldn't help laughing.", "He couldn't stop laughing."] },
-    { "ru": "Она не могла не улыбнуться, когда увидела его.", "en": ["She couldn't help smiling when she saw him."] }
+    { "ru": "Я не могу не думать об этом.", "en": ["I can't help thinking about it.", "I can't stop thinking about it.", "I can't help but think about it."] },
+    { "ru": "Он не смог удержаться от смеха.", "en": ["He couldn't help laughing.", "He couldn't stop laughing.", "He couldn't help but laugh."] },
+    { "ru": "Она не могла не улыбнуться, когда увидела его.", "en": ["She couldn't help smiling when she saw him.", "She couldn't help but smile when she saw him.", "When she saw him, she couldn't help smiling."] }
   ]
 }

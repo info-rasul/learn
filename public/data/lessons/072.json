@@ -71,7 +71,8 @@
     {
       "ru": "В кафе сидели мужчина и женщина.",
       "en": [
-        "A man and a woman were sitting in the cafe."
+        "A man and a woman were sitting in the cafe.",
+        "A man and a woman were sitting in a cafe."
       ]
     },
     {
@@ -87,14 +88,18 @@
       "ru": "(свою машину) Я помыл машину сегодня утром.",
       "en": [
         "I washed the car this morning.",
-        "I cleaned the car this morning."
+        "I cleaned the car this morning.",
+        "I washed my car this morning.",
+        "I cleaned my car this morning."
       ]
     },
     {
       "ru": "Мы остановились в недорогой гостинице.",
       "en": [
         "We stayed at a cheap hotel.",
-        "We stayed in a cheap hotel."
+        "We stayed in a cheap hotel.",
+        "We stayed at an inexpensive hotel.",
+        "We stayed in an inexpensive hotel."
       ]
     },
     {
@@ -143,7 +148,8 @@
       "en": [
         "How far is the station from here?",
         "How far is it to the station?",
-        "How far is it from here to the station?"
+        "How far is it from here to the station?",
+        "How far is it to the station from here?"
       ]
     },
     {
@@ -177,16 +183,29 @@
       "en": [
         "Anna isn't well. She's gone to the doctor.",
         "Anna isn't well. She went to the doctor.",
+        "Anna isn't feeling well. She's gone to the doctor.",
+        "Anna isn't feeling well. She went to the doctor.",
+        "Anna isn't well. She's gone to the doctor's.",
+        "Anna isn't well. She went to the doctor's.",
+        "Anna isn't feeling well. She's gone to the doctor's.",
+        "Anna isn't feeling well. She went to the doctor's.",
+        "Anna doesn't feel well. She's gone to the doctor.",
+        "Anna doesn't feel well. She's gone to the doctor's.",
+        "Anna doesn't feel well. She went to the doctor.",
+        "Anna doesn't feel well. She went to the doctor's.",
         "Anna is ill. She's gone to the doctor.",
         "Anna is ill. She went to the doctor.",
-        "Anna isn't feeling well. She's gone to the doctor.",
-        "Anna isn't feeling well. She went to the doctor."
+        "Anna is ill. She's gone to the doctor's.",
+        "Anna is ill. She went to the doctor's."
       ]
     },
     {
       "ru": "Ты часто ходишь к стоматологу?",
       "en": [
-        "Do you often go to the dentist?"
+        "Do you often go to the dentist?",
+        "Do you often go to the dentist's?",
+        "Do you go to the dentist often?",
+        "Do you go to the dentist's often?"
       ]
     },
     {
@@ -224,7 +243,9 @@
       "en": [
         "We have dinner in a restaurant once a month.",
         "We have dinner at a restaurant once a month.",
-        "We eat out once a month."
+        "We eat out once a month.",
+        "We eat in a restaurant once a month.",
+        "We eat at a restaurant once a month."
       ]
     },
     {

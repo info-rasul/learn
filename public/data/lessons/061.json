@@ -61,7 +61,8 @@
     {
       "ru": "Я привык вставать рано.",
       "en": [
-        "I'm used to getting up early."
+        "I'm used to getting up early.",
+        "I've got used to getting up early."
       ]
     },
     {
@@ -97,7 +98,8 @@
     {
       "ru": "Я ещё не привык к своим новым очкам.",
       "en": [
-        "I'm not used to my new glasses yet."
+        "I'm not used to my new glasses yet.",
+        "I haven't got used to my new glasses yet."
       ]
     },
     {
@@ -141,7 +143,8 @@
       "ru": "Я никак не могу привыкнуть к этой еде.",
       "en": [
         "I can't get used to this food.",
-        "I just can't get used to this food."
+        "I just can't get used to this food.",
+        "I still can't get used to this food."
       ]
     },
     {
@@ -215,13 +218,16 @@
     {
       "ru": "Раньше она пила кофе, а теперь пьёт чай.",
       "en": [
-        "She used to drink coffee, but now she drinks tea."
+        "She used to drink coffee, but now she drinks tea.",
+        "She used to drink coffee, but she drinks tea now.",
+        "She used to drink coffee and now she drinks tea."
       ]
     },
     {
       "ru": "Он не привык, чтобы ему указывали, что делать.",
       "en": [
-        "He isn't used to being told what to do."
+        "He isn't used to being told what to do.",
+        "He isn't used to people telling him what to do."
       ]
     },
     {

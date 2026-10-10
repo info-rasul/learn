@@ -69,11 +69,13 @@
       "en": [
         "The party went on until the morning.",
         "The party went on till the morning.",
-        "The party went on until morning."
+        "The party went on until morning.",
+        "The party went on till morning.",
+        "The party carried on until the morning."
       ]
     },
     {
-      "ru": "Он постоянно меня перебивает.",
+      "ru": "(оборот с keep) Он постоянно меня перебивает.",
       "en": [
         "He keeps on interrupting me.",
         "He keeps interrupting me."
@@ -93,7 +95,9 @@
       "en": [
         "I don't want to go on living in this town.",
         "I don't want to carry on living in this town.",
-        "I don't want to go on living in this city."
+        "I don't want to go on living in this city.",
+        "I don't want to carry on living in this city.",
+        "I don't want to keep living in this town."
       ]
     },
     {
@@ -108,14 +112,19 @@
       "ru": "Остановимся здесь или поедем дальше?",
       "en": [
         "Shall we stop here or drive on?",
-        "Should we stop here or drive on?"
+        "Should we stop here or drive on?",
+        "Shall we stop here or go on?",
+        "Should we stop here or go on?",
+        "Shall we stop here or keep going?",
+        "Should we stop here or keep going?"
       ]
     },
     {
       "ru": "Как у тебя дела в новой школе?",
       "en": [
         "How are you getting on at your new school?",
-        "How are you getting on at the new school?"
+        "How are you getting on at the new school?",
+        "How are you getting on in your new school?"
       ]
     },
     {
@@ -123,14 +132,20 @@
       "en": [
         "Kate gets on very well with her sister.",
         "Kate gets on well with her sister.",
-        "Kate gets on really well with her sister."
+        "Kate gets on really well with her sister.",
+        "Kate gets along very well with her sister.",
+        "Kate gets along well with her sister."
       ]
     },
     {
       "ru": "Мы с начальником не ладим.",
       "en": [
         "My boss and I don't get on.",
-        "I don't get on with my boss."
+        "I don't get on with my boss.",
+        "I don't get on well with my boss.",
+        "My boss and I don't get on well.",
+        "My boss and I don't get along.",
+        "I don't get along with my boss."
       ]
     },
     {
@@ -138,7 +153,8 @@
       "en": [
         "I must get on with my studies.",
         "I need to get on with my studies.",
-        "I have to get on with my studies."
+        "I have to get on with my studies.",
+        "I've got to get on with my studies."
       ]
     },
     {
@@ -168,7 +184,9 @@
       "en": [
         "A car alarm went off in the night.",
         "The car alarm went off during the night.",
-        "A car alarm went off at night."
+        "A car alarm went off at night.",
+        "A car alarm went off during the night.",
+        "The car alarm went off in the night."
       ]
     },
     {
@@ -180,7 +198,8 @@
     {
       "ru": "Он просто хвастается своей новой машиной.",
       "en": [
-        "He's just showing off his new car."
+        "He's just showing off his new car.",
+        "He's just showing his new car off."
       ]
     },
     {

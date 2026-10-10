@@ -47,21 +47,28 @@
       "en": [
         "Please return the book by Friday.",
         "Please give the book back by Friday.",
-        "Please give back the book by Friday."
+        "Please give back the book by Friday.",
+        "Please bring the book back by Friday.",
+        "Please return the book no later than Friday."
       ]
     },
     {
       "ru": "Мне нужно закончить отчёт к понедельнику.",
       "en": [
         "I need to finish the report by Monday.",
-        "I have to finish the report by Monday."
+        "I have to finish the report by Monday.",
+        "I must finish the report by Monday.",
+        "I need to finish my report by Monday.",
+        "I've got to finish the report by Monday."
       ]
     },
     {
       "ru": "Я вернусь к пяти часам.",
       "en": [
         "I'll be back by five o'clock.",
-        "I'll be back by five."
+        "I'll be back by five.",
+        "I'll come back by five o'clock.",
+        "I'll come back by five."
       ]
     },
     {
@@ -69,7 +76,11 @@
       "en": [
         "The children must be home by eight.",
         "The children must be at home by eight.",
-        "The children have to be home by eight."
+        "The children have to be home by eight.",
+        "The children have to be at home by eight.",
+        "The kids must be home by eight.",
+        "The children should be home by eight.",
+        "The children must be home by eight o'clock."
       ]
     },
     {
@@ -77,7 +88,10 @@
       "en": [
         "Can you do it by tomorrow?",
         "Could you do it by tomorrow?",
-        "Will you be able to do it by tomorrow?"
+        "Will you be able to do it by tomorrow?",
+        "Can you do this by tomorrow?",
+        "Will you be able to do this by tomorrow?",
+        "Could you do this by tomorrow?"
       ]
     },
     {
@@ -85,7 +99,10 @@
       "en": [
         "You need to pay the bill by the end of the month.",
         "You have to pay the bill by the end of the month.",
-        "You need to pay the bill before the end of the month."
+        "You need to pay the bill before the end of the month.",
+        "You must pay the bill by the end of the month.",
+        "You should pay the bill by the end of the month.",
+        "You have to pay the bill before the end of the month."
       ]
     },
     {
@@ -93,7 +110,10 @@
       "en": [
         "Will you be home by dinner time?",
         "Will you be home by dinnertime?",
-        "Will you be at home by dinner time?"
+        "Will you be at home by dinner time?",
+        "Will you be home by dinner?",
+        "Will you be back by dinner time?",
+        "Will you be home in time for dinner?"
       ]
     },
     {
@@ -101,7 +121,8 @@
       "en": [
         "I'll wait until six.",
         "I'll wait till six.",
-        "I'll wait until six o'clock."
+        "I'll wait until six o'clock.",
+        "I'll wait till six o'clock."
       ]
     },
     {
@@ -109,7 +130,10 @@
       "en": [
         "The shop is open until nine.",
         "The shop is open till nine.",
-        "The shop is open until nine o'clock."
+        "The shop is open until nine o'clock.",
+        "The store is open until nine.",
+        "The store is open till nine.",
+        "The shop is open till nine o'clock."
       ]
     },
     {
@@ -117,7 +141,8 @@
       "en": [
         "We stayed until the end of the film.",
         "We stayed till the end of the film.",
-        "We stayed until the end of the movie."
+        "We stayed until the end of the movie.",
+        "We stayed till the end of the movie."
       ]
     },
     {
@@ -125,7 +150,9 @@
       "en": [
         "Anna will be in Moscow until June.",
         "Anna will be in Moscow till June.",
-        "Anna is going to be in Moscow until June."
+        "Anna is going to be in Moscow until June.",
+        "Anna will stay in Moscow until June.",
+        "Anna is staying in Moscow until June."
       ]
     },
     {
@@ -133,7 +160,10 @@
       "en": [
         "Don't open the present until Christmas.",
         "Don't open the present till Christmas.",
-        "Don't open the gift until Christmas."
+        "Don't open the gift until Christmas.",
+        "Don't open the gift till Christmas.",
+        "Don't open the present before Christmas.",
+        "Don't open your present until Christmas."
       ]
     },
     {
@@ -141,7 +171,11 @@
       "en": [
         "Wait until I come back.",
         "Wait until I get back.",
-        "Wait till I come back."
+        "Wait till I come back.",
+        "Wait till I get back.",
+        "Wait until I return.",
+        "Wait until I'm back.",
+        "Wait till I'm back."
       ]
     },
     {
@@ -149,21 +183,29 @@
       "en": [
         "Will you be here until the weekend?",
         "Will you be here till the weekend?",
-        "Are you here until the weekend?"
+        "Are you here until the weekend?",
+        "Will you stay here until the weekend?",
+        "Are you staying here until the weekend?"
       ]
     },
     {
       "ru": "Мы ждали до полуночи, но он не пришёл.",
       "en": [
         "We waited until midnight, but he didn't come.",
-        "We waited till midnight, but he didn't come."
+        "We waited till midnight, but he didn't come.",
+        "We waited until midnight, but he never came.",
+        "We waited until midnight, but he didn't show up.",
+        "We waited until midnight but he didn't turn up."
       ]
     },
     {
       "ru": "Я не знал об этом до вчерашнего дня.",
       "en": [
         "I didn't know about it until yesterday.",
-        "I didn't know about it till yesterday."
+        "I didn't know about it till yesterday.",
+        "I didn't know about this until yesterday.",
+        "I didn't know that until yesterday.",
+        "I only found out about it yesterday."
       ]
     },
     {
@@ -174,7 +216,9 @@
         "He didn't phone until ten o'clock.",
         "He didn't call till ten.",
         "He only called at ten o'clock.",
-        "He only called at ten."
+        "He only called at ten.",
+        "He didn't phone until ten.",
+        "He only phoned at ten."
       ]
     },
     {
@@ -182,7 +226,11 @@
       "en": [
         "By the time we arrived, the film had already started.",
         "By the time we got there, the film had already started.",
-        "By the time we arrived, the film had started."
+        "By the time we arrived, the film had started.",
+        "By the time we got there, the film had started.",
+        "By the time we arrived, the movie had already started.",
+        "By the time we came, the film had already started.",
+        "By the time we arrived, the film had already begun."
       ]
     },
     {
@@ -190,7 +238,10 @@
       "en": [
         "By the time I woke up, everyone had already left.",
         "By the time I woke up, everybody had already left.",
-        "By the time I woke up, everyone had left."
+        "By the time I woke up, everyone had left.",
+        "By the time I woke up, everybody had left.",
+        "By the time I woke, everyone had already left.",
+        "By the time I got up, everyone had already left."
       ]
     },
     {
@@ -198,14 +249,17 @@
       "en": [
         "By the time she finished, it was already late.",
         "By the time she had finished, it was already late.",
-        "By the time she finished, it was late."
+        "By the time she finished, it was late.",
+        "By the time she had finished, it was late."
       ]
     },
     {
       "ru": "К тому времени как ты получишь это письмо, я буду в Канаде.",
       "en": [
         "By the time you get this letter, I'll be in Canada.",
-        "By the time you receive this letter, I'll be in Canada."
+        "By the time you receive this letter, I'll be in Canada.",
+        "By the time you get this letter, I'll already be in Canada.",
+        "By the time you get this letter, I'll be in Canada already."
       ]
     },
     {
@@ -216,7 +270,9 @@
         "By then I'll have eaten.",
         "By then I'll already have had dinner.",
         "I'll have already had dinner by then.",
-        "By that time I'll have had dinner."
+        "By that time I'll have had dinner.",
+        "By then I'll have already had dinner.",
+        "I'll have eaten by then."
       ]
     },
     {
@@ -224,7 +280,10 @@
       "en": [
         "The train was late, and by then the meeting had finished.",
         "The train was late, and by then the meeting had ended.",
-        "The train was late, and by that time the meeting had finished."
+        "The train was late, and by that time the meeting had finished.",
+        "The train was late, and by then the meeting was over.",
+        "The train was late, and by then the meeting had already finished.",
+        "The train was late, and by that time the meeting had ended."
       ]
     },
     {
@@ -233,7 +292,10 @@
         "Call me by lunchtime, OK?",
         "Phone me by lunchtime, OK?",
         "Call me by lunch, OK?",
-        "Call me before lunch, OK?"
+        "Call me before lunch, OK?",
+        "Phone me by lunch, OK?",
+        "Call me by lunchtime, okay?",
+        "Call me by lunchtime, all right?"
       ]
     }
   ]

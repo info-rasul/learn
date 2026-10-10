@@ -68,14 +68,18 @@
       "en": [
         "I need some new trousers.",
         "I need new trousers.",
-        "I need a new pair of trousers."
+        "I need a new pair of trousers.",
+        "I need some new pants.",
+        "I need new pants.",
+        "I need a new pair of pants."
       ]
     },
     {
       "ru": "Она купила шорты.",
       "en": [
         "She bought a pair of shorts.",
-        "She bought some shorts."
+        "She bought some shorts.",
+        "She bought shorts."
       ]
     },
     {
@@ -120,7 +124,9 @@
       "ru": "Сегодня новости плохие.",
       "en": [
         "The news is bad today.",
-        "Today the news is bad."
+        "Today the news is bad.",
+        "The news today is bad.",
+        "Today's news is bad."
       ]
     },
     {
@@ -128,7 +134,10 @@
       "en": [
         "A bike is a cheap means of transport.",
         "A bicycle is a cheap means of transport.",
-        "The bicycle is a cheap means of transport."
+        "The bicycle is a cheap means of transport.",
+        "A bike is a cheap means of transportation.",
+        "A bicycle is a cheap means of transportation.",
+        "The bicycle is a cheap means of transportation."
       ]
     },
     {
@@ -143,7 +152,9 @@
       "en": [
         "Many species of fish live in this lake.",
         "There are many species of fish in this lake.",
-        "A lot of species of fish live in this lake."
+        "A lot of species of fish live in this lake.",
+        "There are a lot of species of fish in this lake.",
+        "Lots of species of fish live in this lake."
       ]
     },
     {
@@ -159,7 +170,9 @@
       "ru": "Наша команда играет в воскресенье.",
       "en": [
         "Our team is playing on Sunday.",
-        "Our team are playing on Sunday."
+        "Our team are playing on Sunday.",
+        "Our team plays on Sunday.",
+        "Our team play on Sunday."
       ]
     },
     {
@@ -174,13 +187,15 @@
     {
       "ru": "Полиция ищет водителя.",
       "en": [
-        "The police are looking for the driver."
+        "The police are looking for the driver.",
+        "The police are searching for the driver."
       ]
     },
     {
       "ru": "Полиция ещё не нашла его машину.",
       "en": [
-        "The police haven't found his car yet."
+        "The police haven't found his car yet.",
+        "The police still haven't found his car."
       ]
     },
     {
@@ -189,13 +204,18 @@
         "There was a police officer on the corner.",
         "A police officer was standing on the corner.",
         "There was a policeman on the corner.",
-        "A policeman was standing on the corner."
+        "A policeman was standing on the corner.",
+        "There was a police officer at the corner.",
+        "A police officer was standing at the corner.",
+        "A policeman was standing at the corner."
       ]
     },
     {
       "ru": "Они очень приятные люди.",
       "en": [
-        "They're very nice people."
+        "They're very nice people.",
+        "They're very pleasant people.",
+        "They're really nice people."
       ]
     },
     {
@@ -204,7 +224,9 @@
         "Many people don't have breakfast.",
         "A lot of people don't have breakfast.",
         "Lots of people don't have breakfast.",
-        "Many people don't eat breakfast."
+        "Many people don't eat breakfast.",
+        "A lot of people don't eat breakfast.",
+        "Lots of people don't eat breakfast."
       ]
     },
     {

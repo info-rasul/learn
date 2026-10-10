@@ -55,7 +55,7 @@
   ],
   "items": [
     {
-      "ru": "Ты был в Японии?",
+      "ru": "(когда-нибудь) Ты был в Японии?",
       "en": [
         "Have you been to Japan?",
         "Have you ever been to Japan?"
@@ -66,14 +66,19 @@
       "en": [
         "We want to go to the United States.",
         "We want to go to the USA.",
-        "We want to go to the US."
+        "We want to go to the US.",
+        "We want to travel to the United States.",
+        "We want to travel to the USA.",
+        "We want to travel to the US."
       ]
     },
     {
       "ru": "Он живёт в Великобритании.",
       "en": [
         "He lives in the United Kingdom.",
-        "He lives in the UK."
+        "He lives in the UK.",
+        "He lives in Great Britain.",
+        "He lives in Britain."
       ]
     },
     {
@@ -88,7 +93,10 @@
       "en": [
         "Doctor Smith is busy now.",
         "Dr Smith is busy now.",
-        "Doctor Smith is busy at the moment."
+        "Doctor Smith is busy at the moment.",
+        "Dr Smith is busy at the moment.",
+        "Doctor Smith is busy right now.",
+        "Dr Smith is busy right now."
       ]
     },
     {
@@ -96,7 +104,10 @@
       "en": [
         "I need to call the doctor.",
         "I need to call a doctor.",
-        "I have to call the doctor."
+        "I have to call the doctor.",
+        "I have to call a doctor.",
+        "I must call the doctor.",
+        "I must call a doctor."
       ]
     },
     {
@@ -115,20 +126,26 @@
       "ru": "Эверест — самая высокая гора в мире.",
       "en": [
         "Everest is the highest mountain in the world.",
-        "Mount Everest is the highest mountain in the world."
+        "Mount Everest is the highest mountain in the world.",
+        "Everest is the tallest mountain in the world.",
+        "Mount Everest is the tallest mountain in the world.",
+        "Everest is the world's highest mountain.",
+        "Mount Everest is the world's highest mountain."
       ]
     },
     {
       "ru": "Они живут у озера.",
       "en": [
         "They live by the lake.",
-        "They live near the lake."
+        "They live near the lake.",
+        "They live next to the lake."
       ]
     },
     {
       "ru": "Озеро Байкал находится в России.",
       "en": [
-        "Lake Baikal is in Russia."
+        "Lake Baikal is in Russia.",
+        "Lake Baikal is located in Russia."
       ]
     },
     {
@@ -142,13 +159,16 @@
       "ru": "Темза течёт через Лондон.",
       "en": [
         "The Thames flows through London.",
-        "The River Thames flows through London."
+        "The River Thames flows through London.",
+        "The Thames runs through London.",
+        "The River Thames runs through London."
       ]
     },
     {
       "ru": "Волга — самая длинная река в Европе.",
       "en": [
-        "The Volga is the longest river in Europe."
+        "The Volga is the longest river in Europe.",
+        "The Volga is Europe's longest river."
       ]
     },
     {
@@ -156,13 +176,16 @@
       "en": [
         "In summer we went to the Mediterranean.",
         "We went to the Mediterranean in summer.",
-        "We went to the Mediterranean in the summer."
+        "We went to the Mediterranean in the summer.",
+        "In the summer we went to the Mediterranean."
       ]
     },
     {
       "ru": "Сахара — огромная пустыня.",
       "en": [
-        "The Sahara is a huge desert."
+        "The Sahara is a huge desert.",
+        "The Sahara is an enormous desert.",
+        "The Sahara is a vast desert."
       ]
     },
     {
@@ -170,7 +193,8 @@
       "en": [
         "The Smiths invited us to dinner.",
         "The Smiths have invited us to dinner.",
-        "The Smiths invited us for dinner."
+        "The Smiths invited us for dinner.",
+        "The Smiths have invited us for dinner."
       ]
     },
     {
@@ -183,7 +207,8 @@
     {
       "ru": "Амстердам находится в Нидерландах.",
       "en": [
-        "Amsterdam is in the Netherlands."
+        "Amsterdam is in the Netherlands.",
+        "Amsterdam is located in the Netherlands."
       ]
     },
     {
@@ -191,7 +216,11 @@
       "en": [
         "They spent their holiday in the Canaries.",
         "They spent their holiday in the Canary Islands.",
-        "They spent their holiday on the Canary Islands."
+        "They spent their holiday on the Canary Islands.",
+        "They spent their holidays in the Canaries.",
+        "They spent their holidays in the Canary Islands.",
+        "They spent their vacation in the Canaries.",
+        "They spent their vacation in the Canary Islands."
       ]
     },
     {
@@ -207,7 +236,11 @@
         "Southern Spain is very hot in summer.",
         "The south of Spain is very hot in summer.",
         "It's very hot in southern Spain in summer.",
-        "It's very hot in the south of Spain in summer."
+        "It's very hot in the south of Spain in summer.",
+        "In summer it's very hot in southern Spain.",
+        "In summer it's very hot in the south of Spain.",
+        "It's very hot in southern Spain in the summer.",
+        "It's very hot in the south of Spain in the summer."
       ]
     },
     {
@@ -219,7 +252,8 @@
     {
       "ru": "Канада находится в Северной Америке.",
       "en": [
-        "Canada is in North America."
+        "Canada is in North America.",
+        "Canada is located in North America."
       ]
     }
   ]

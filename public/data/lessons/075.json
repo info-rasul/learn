@@ -66,7 +66,8 @@
       "ru": "Медсёстрам обычно платят меньше, чем врачам.",
       "en": [
         "Nurses are usually paid less than doctors.",
-        "Nurses usually earn less than doctors."
+        "Nurses usually earn less than doctors.",
+        "Nurses usually get paid less than doctors."
       ]
     },
     {
@@ -88,7 +89,8 @@
       "en": [
         "My favourite subject at school was geography.",
         "At school my favourite subject was geography.",
-        "My favorite subject at school was geography."
+        "My favorite subject at school was geography.",
+        "At school my favorite subject was geography."
       ]
     },
     {
@@ -103,7 +105,8 @@
       "en": [
         "Most shops are closed on Sundays.",
         "Most shops are closed on Sunday.",
-        "Most stores are closed on Sundays."
+        "Most stores are closed on Sundays.",
+        "Most stores are closed on Sunday."
       ]
     },
     {
@@ -118,7 +121,9 @@
       "en": [
         "Pass the sugar, please.",
         "Please pass the sugar.",
-        "Could you pass the sugar, please?"
+        "Could you pass the sugar, please?",
+        "Can you pass the sugar, please?",
+        "Could you pass me the sugar, please?"
       ]
     },
     {
@@ -134,7 +139,9 @@
       "ru": "(наших детей) Мы отвели детей в парк.",
       "en": [
         "We took the children to the park.",
-        "We took the kids to the park."
+        "We took the kids to the park.",
+        "We took our children to the park.",
+        "We took our kids to the park."
       ]
     },
     {
@@ -226,7 +233,10 @@
       "ru": "Я не помню имён людей, которых мы вчера встретили.",
       "en": [
         "I don't remember the names of the people we met yesterday.",
-        "I can't remember the names of the people we met yesterday."
+        "I can't remember the names of the people we met yesterday.",
+        "I don't remember the names of the people who we met yesterday.",
+        "I don't remember the names of the people that we met yesterday.",
+        "I can't remember the names of the people who we met yesterday."
       ]
     }
   ]

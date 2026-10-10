@@ -58,7 +58,8 @@
     {
       "ru": "Я хочу чашку чая.",
       "en": [
-        "I want a cup of tea."
+        "I want a cup of tea.",
+        "I'd like a cup of tea."
       ]
     },
     {
@@ -83,8 +84,7 @@
     {
       "ru": "Эта сумка принадлежит Анне.",
       "en": [
-        "This bag belongs to Anna.",
-        "That bag belongs to Anna."
+        "This bag belongs to Anna."
       ]
     },
     {
@@ -109,7 +109,8 @@
       "ru": "Кейт сегодня кажется уставшей.",
       "en": [
         "Kate seems tired today.",
-        "Kate seems to be tired today."
+        "Kate seems to be tired today.",
+        "Kate looks tired today."
       ]
     },
     {
@@ -158,7 +159,9 @@
       "ru": "Ты слышишь этот шум?",
       "en": [
         "Do you hear that noise?",
-        "Can you hear that noise?"
+        "Can you hear that noise?",
+        "Do you hear this noise?",
+        "Can you hear this noise?"
       ]
     },
     {
@@ -166,7 +169,9 @@
       "en": [
         "This soup smells very good.",
         "This soup smells delicious.",
-        "This soup smells really good."
+        "This soup smells really good.",
+        "This soup smells very nice.",
+        "This soup smells really nice."
       ]
     },
     {
@@ -195,7 +200,11 @@
       "ru": "По вечерам я обычно чувствую себя голодным.",
       "en": [
         "I usually feel hungry in the evening.",
-        "I usually feel hungry in the evenings."
+        "I usually feel hungry in the evenings.",
+        "In the evening I usually feel hungry.",
+        "In the evenings I usually feel hungry.",
+        "I usually get hungry in the evening.",
+        "I usually get hungry in the evenings."
       ]
     },
     {

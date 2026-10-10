@@ -110,7 +110,9 @@
         "Who's going to clean up after the party?",
         "Who will clean up after the party?",
         "Who's going to tidy up after the party?",
-        "Who's going to clear up after the party?"
+        "Who's going to clear up after the party?",
+        "Who will tidy up after the party?",
+        "Who will clear up after the party?"
       ]
     },
     {
@@ -136,7 +138,8 @@
       "en": [
         "Paul has recently taken up tennis.",
         "Paul recently took up tennis.",
-        "Paul took up tennis recently."
+        "Paul took up tennis recently.",
+        "Paul has taken up tennis recently."
       ]
     },
     {
@@ -171,7 +174,8 @@
     {
       "ru": "Не используй всё молоко.",
       "en": [
-        "Don't use up all the milk."
+        "Don't use up all the milk.",
+        "Don't use all the milk up."
       ]
     },
     {
@@ -207,7 +211,8 @@
       "ru": "Отличная работа, так держать!",
       "en": [
         "Great work, keep it up!",
-        "Excellent work, keep it up!"
+        "Excellent work, keep it up!",
+        "Great job, keep it up!"
       ]
     },
     {

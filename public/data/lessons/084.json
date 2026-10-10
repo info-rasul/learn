@@ -44,7 +44,7 @@
   ],
   "items": [
     {
-      "ru": "На нашей улице открылось новое кафе.",
+      "ru": "На нашей улице есть новое кафе.",
       "en": [
         "There's a new cafe on our street.",
         "There's a new cafe in our street."
@@ -61,7 +61,10 @@
       "ru": "Мы опоздали, потому что на дорогах было много машин.",
       "en": [
         "We were late because there was a lot of traffic.",
-        "We were late because there was heavy traffic."
+        "We were late because there was heavy traffic.",
+        "We were late because there was a lot of traffic on the roads.",
+        "We were late because there were a lot of cars on the road.",
+        "We were late because there were a lot of cars on the roads."
       ]
     },
     {
@@ -69,14 +72,18 @@
       "en": [
         "I like this area. There are a lot of parks here.",
         "I like this area. There are lots of parks here.",
-        "I like this area. There are many parks here."
+        "I like this area. There are many parks here.",
+        "I like this area. There are a lot of parks.",
+        "I like this area. There are lots of parks."
       ]
     },
     {
       "ru": "Это интересный город. Здесь всегда есть чем заняться.",
       "en": [
         "It's an interesting city. There's always something to do.",
-        "It's an interesting town. There's always something to do."
+        "It's an interesting town. There's always something to do.",
+        "It's an interesting city. There's always something to do here.",
+        "It's an interesting town. There's always something to do here."
       ]
     },
     {
@@ -106,7 +113,8 @@
       "ru": "Если бы люди были добрее, не было бы столько войн.",
       "en": [
         "If people were kinder, there wouldn't be so many wars.",
-        "If people were kinder, there would be fewer wars."
+        "If people were kinder, there would be fewer wars.",
+        "If people were kinder, there wouldn't be as many wars."
       ]
     },
     {
@@ -115,7 +123,15 @@
         "The lights were on. There must have been somebody home.",
         "The lights were on. There must have been someone home.",
         "The lights were on. There must have been somebody at home.",
-        "The lights were on. There must have been someone at home."
+        "The lights were on. There must have been someone at home.",
+        "The light was on. There must have been somebody home.",
+        "The light was on. There must have been someone home.",
+        "The light was on. There must have been somebody at home.",
+        "The light was on. There must have been someone at home.",
+        "The lights were on. Somebody must have been home.",
+        "The lights were on. Someone must have been home.",
+        "The light was on. Somebody must have been home.",
+        "The light was on. Someone must have been home."
       ]
     },
     {
@@ -125,13 +141,15 @@
         "There's sure to be a cash machine nearby.",
         "There's bound to be an ATM nearby.",
         "There's sure to be an ATM nearby.",
-        "There's bound to be a cash machine near here."
+        "There's bound to be a cash machine near here.",
+        "There's sure to be a cash machine near here."
       ]
     },
     {
       "ru": "Раньше здесь был кинотеатр.",
       "en": [
-        "There used to be a cinema here."
+        "There used to be a cinema here.",
+        "There used to be a movie theater here."
       ]
     },
     {
@@ -145,7 +163,10 @@
       "ru": "Они живут рядом с вокзалом. Там, должно быть, очень шумно.",
       "en": [
         "They live near the station. It must be very noisy.",
-        "They live next to the station. It must be very noisy."
+        "They live next to the station. It must be very noisy.",
+        "They live near the station. It must be very noisy there.",
+        "They live next to the station. It must be very noisy there.",
+        "They live near the station. It must be really noisy."
       ]
     },
     {
@@ -153,7 +174,8 @@
       "en": [
         "There's a flight this evening, but it's sure to be full.",
         "There's a flight this evening, but it's bound to be full.",
-        "There's a flight tonight, but it's sure to be full."
+        "There's a flight tonight, but it's sure to be full.",
+        "There's a flight tonight, but it's bound to be full."
       ]
     },
     {
@@ -184,7 +206,8 @@
       "ru": "Не стоит ждать автобус. Пойдём пешком.",
       "en": [
         "It's not worth waiting for the bus. Let's walk.",
-        "It isn't worth waiting for the bus. Let's walk."
+        "It isn't worth waiting for the bus. Let's walk.",
+        "It's not worth waiting for the bus. Let's go on foot."
       ]
     },
     {
@@ -201,7 +224,8 @@
         "It's been a long time since we last met.",
         "It's a long time since we last met.",
         "It's been a long time since we saw each other.",
-        "We haven't seen each other for a long time."
+        "We haven't seen each other for a long time.",
+        "We haven't seen each other in a long time."
       ]
     },
     {

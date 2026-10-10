@@ -4,38 +4,228 @@
   "title": "see somebody do and see somebody doing",
   "subtitle": "Видеть, слышать, чувствовать: действие целиком или в процессе",
   "theory": [
-    { "type": "p", "text": "После глаголов восприятия <b>see, hear, watch, listen to, feel</b> (и <b>notice</b>) идёт объект и голая форма глагола или <b>-ing</b>. Частица <b>to</b> здесь не нужна: <b>I saw him leave</b>, не <b>saw him to leave</b>." },
-    { "type": "h", "text": "see somebody do — действие целиком" },
-    { "type": "p", "text": "Человек совершил действие от начала до конца, и я это видел: <b>I saw the bus stop and three people get off.</b> <b>Did you hear the door close?</b>" },
-    { "type": "h", "text": "see somebody doing — в процессе" },
-    { "type": "p", "text": "Я застал действие в середине, не обязательно до конца: <b>I saw Emma jogging in the park.</b> <b>I can hear the dog barking.</b> Так же <b>smell</b> и <b>find</b>: <b>I can smell coffee brewing.</b> <b>We found him playing a game.</b>" },
-    { "type": "table", "head": ["Целиком (did)", "В процессе (was doing)"], "rows": [["I saw her cross the street.", "I saw her crossing the street."], ["I heard him shut the door.", "I heard him talking on the phone."]] },
-    { "type": "tip", "text": "Русское «я видел, как он ушёл» переводится без <b>how</b> и без <b>that</b>: <b>I saw him leave.</b> Конструкция <b>I saw how he left</b> звучит неестественно. Иногда разница не важна: <b>I've never heard her sing / singing.</b>" }
+    {
+      "type": "p",
+      "text": "После глаголов восприятия <b>see, hear, watch, listen to, feel</b> (и <b>notice</b>) идёт объект и голая форма глагола или <b>-ing</b>. Частица <b>to</b> здесь не нужна: <b>I saw him leave</b>, не <b>saw him to leave</b>."
+    },
+    {
+      "type": "h",
+      "text": "see somebody do — действие целиком"
+    },
+    {
+      "type": "p",
+      "text": "Человек совершил действие от начала до конца, и я это видел: <b>I saw the bus stop and three people get off.</b> <b>Did you hear the door close?</b>"
+    },
+    {
+      "type": "h",
+      "text": "see somebody doing — в процессе"
+    },
+    {
+      "type": "p",
+      "text": "Я застал действие в середине, не обязательно до конца: <b>I saw Emma jogging in the park.</b> <b>I can hear the dog barking.</b> Так же <b>smell</b> и <b>find</b>: <b>I can smell coffee brewing.</b> <b>We found him playing a game.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Целиком (did)",
+        "В процессе (was doing)"
+      ],
+      "rows": [
+        [
+          "I saw her cross the street.",
+          "I saw her crossing the street."
+        ],
+        [
+          "I heard him shut the door.",
+          "I heard him talking on the phone."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «я видел, как он ушёл» переводится без <b>how</b> и без <b>that</b>: <b>I saw him leave.</b> Конструкция <b>I saw how he left</b> звучит неестественно. Иногда разница не важна: <b>I've never heard her sing / singing.</b>"
+    }
   ],
   "items": [
-    { "ru": "Я видел, как Пол перешёл дорогу.", "en": ["I saw Paul cross the road.", "I saw Paul cross the street."] },
-    { "ru": "Я не слышал, как ты ушёл.", "en": ["I didn't hear you leave.", "I didn't hear you go out.", "I didn't hear you go."] },
-    { "ru": "Она почувствовала, как кто-то коснулся её руки.", "en": ["She felt somebody touch her arm.", "She felt someone touch her arm.", "She felt somebody touch her hand.", "She felt someone touch her hand."] },
-    { "ru": "Мы видели, как приземлился самолёт.", "en": ["We saw the plane land."] },
-    { "ru": "Ты слышал, как Анна сказала, что уезжает?", "en": ["Did you hear Anna say she was leaving?", "Did you hear Anna say that she was leaving?"] },
-    { "ru": "Я видел, как он положил ключи в карман.", "en": ["I saw him put the keys in his pocket.", "I saw him put his keys in his pocket.", "I saw him put the keys into his pocket."] },
-    { "ru": "(от начала до конца) Мы выслушали, как Джон рассказал всю свою историю.", "en": ["We listened to John tell his whole story.", "We listened to John tell the whole story."] },
-    { "ru": "Я видел, как он упал с велосипеда.", "en": ["I saw him fall off his bike.", "I saw him fall off the bike.", "I saw him fall off his bicycle."] },
-    { "ru": "(он стоял и ждал) Я видел, как Майк ждал такси.", "en": ["I saw Mike waiting for a taxi."] },
-    { "ru": "Я слышу, как кто-то поёт.", "en": ["I can hear somebody singing.", "I can hear someone singing."] },
-    { "ru": "Послушай, как смеются дети!", "en": ["Listen to the children laughing!"] },
-    { "ru": "Я почувствовал запах чего-то горящего на кухне.", "en": ["I could smell something burning in the kitchen.", "I smelt something burning in the kitchen.", "I smelled something burning in the kitchen."] },
-    { "ru": "Мы нашли Бена спящим на диване.", "en": ["We found Ben sleeping on the sofa.", "We found Ben sleeping on the couch."] },
-    { "ru": "Я видел, как они разговаривали у входа.", "en": ["I saw them talking near the entrance.", "I saw them talking at the entrance.", "I saw them talking by the entrance."] },
-    { "ru": "Я слышал, как соседи ссорились ночью.", "en": ["I heard the neighbours arguing last night.", "I heard the neighbours arguing at night.", "I heard the neighbors arguing last night."] },
-    { "ru": "Она смотрела, как дети играют в саду.", "en": ["She watched the children playing in the garden.", "She watched the children play in the garden."] },
-    { "ru": "Я почувствовал, как что-то ползёт по моей руке.", "en": ["I felt something crawling up my arm.", "I felt something crawling on my arm."] },
-    { "ru": "Я видел, как Эмма ехала на велосипеде по улице.", "en": ["I saw Emma riding her bike along the street.", "I saw Emma riding her bike down the street.", "I saw Emma riding a bike along the street.", "I saw Emma cycling along the street.", "I saw Emma cycling down the street."] },
-    { "ru": "(всё действие целиком) Я видел, как он перепрыгнул через забор.", "en": ["I saw him jump over the fence."] },
-    { "ru": "(в процессе) Я видел, как он перелезал через забор.", "en": ["I saw him climbing over the fence."] },
-    { "ru": "(целиком) Я слышал, как они ушли.", "en": ["I heard them leave.", "I heard them go out.", "I heard them go."] },
-    { "ru": "(в процессе) Я слышал, как они смеялись.", "en": ["I heard them laughing."] },
-    { "ru": "Я никогда не видела, как он танцует.", "en": ["I've never seen him dance.", "I've never seen him dancing."] },
-    { "ru": "Ты видел, как произошла авария?", "en": ["Did you see the accident happen?"] }
+    {
+      "ru": "Я видел, как Пол перешёл дорогу.",
+      "en": [
+        "I saw Paul cross the road.",
+        "I saw Paul cross the street."
+      ]
+    },
+    {
+      "ru": "Я не слышал, как ты ушёл.",
+      "en": [
+        "I didn't hear you leave.",
+        "I didn't hear you go out.",
+        "I didn't hear you go."
+      ]
+    },
+    {
+      "ru": "Она почувствовала, как кто-то коснулся её руки.",
+      "en": [
+        "She felt somebody touch her arm.",
+        "She felt someone touch her arm.",
+        "She felt somebody touch her hand.",
+        "She felt someone touch her hand."
+      ]
+    },
+    {
+      "ru": "Мы видели, как приземлился самолёт.",
+      "en": [
+        "We saw the plane land."
+      ]
+    },
+    {
+      "ru": "Ты слышал, как Анна сказала, что уезжает?",
+      "en": [
+        "Did you hear Anna say she was leaving?",
+        "Did you hear Anna say that she was leaving?"
+      ]
+    },
+    {
+      "ru": "Я видел, как он положил ключи в карман.",
+      "en": [
+        "I saw him put the keys in his pocket.",
+        "I saw him put his keys in his pocket.",
+        "I saw him put the keys into his pocket."
+      ]
+    },
+    {
+      "ru": "(от начала до конца) Мы выслушали, как Джон рассказал всю свою историю.",
+      "en": [
+        "We listened to John tell his whole story.",
+        "We listened to John tell the whole story."
+      ]
+    },
+    {
+      "ru": "Я видел, как он упал с велосипеда.",
+      "en": [
+        "I saw him fall off his bike.",
+        "I saw him fall off the bike.",
+        "I saw him fall off his bicycle."
+      ]
+    },
+    {
+      "ru": "(он стоял и ждал) Я видел, как Майк ждал такси.",
+      "en": [
+        "I saw Mike waiting for a taxi."
+      ]
+    },
+    {
+      "ru": "Я слышу, как кто-то поёт.",
+      "en": [
+        "I can hear somebody singing.",
+        "I can hear someone singing.",
+        "I hear somebody singing.",
+        "I hear someone singing."
+      ]
+    },
+    {
+      "ru": "Послушай, как смеются дети!",
+      "en": [
+        "Listen to the children laughing!",
+        "Listen to the kids laughing!"
+      ]
+    },
+    {
+      "ru": "Я почувствовал запах чего-то горящего на кухне.",
+      "en": [
+        "I could smell something burning in the kitchen.",
+        "I smelt something burning in the kitchen.",
+        "I smelled something burning in the kitchen."
+      ]
+    },
+    {
+      "ru": "Мы нашли Бена спящим на диване.",
+      "en": [
+        "We found Ben sleeping on the sofa.",
+        "We found Ben sleeping on the couch.",
+        "We found Ben asleep on the sofa.",
+        "We found Ben asleep on the couch."
+      ]
+    },
+    {
+      "ru": "Я видел, как они разговаривали у входа.",
+      "en": [
+        "I saw them talking near the entrance.",
+        "I saw them talking at the entrance.",
+        "I saw them talking by the entrance."
+      ]
+    },
+    {
+      "ru": "Я слышал, как соседи ссорились ночью.",
+      "en": [
+        "I heard the neighbours arguing last night.",
+        "I heard the neighbours arguing at night.",
+        "I heard the neighbors arguing last night.",
+        "I heard the neighbors arguing at night."
+      ]
+    },
+    {
+      "ru": "Она смотрела, как дети играют в саду.",
+      "en": [
+        "She watched the children playing in the garden.",
+        "She watched the children play in the garden."
+      ]
+    },
+    {
+      "ru": "Я почувствовал, как что-то ползёт по моей руке.",
+      "en": [
+        "I felt something crawling up my arm.",
+        "I felt something crawling on my arm."
+      ]
+    },
+    {
+      "ru": "Я видел, как Эмма ехала на велосипеде по улице.",
+      "en": [
+        "I saw Emma riding her bike along the street.",
+        "I saw Emma riding her bike down the street.",
+        "I saw Emma riding a bike along the street.",
+        "I saw Emma cycling along the street.",
+        "I saw Emma cycling down the street."
+      ]
+    },
+    {
+      "ru": "(всё действие целиком) Я видел, как он перепрыгнул через забор.",
+      "en": [
+        "I saw him jump over the fence.",
+        "I saw him jump the fence."
+      ]
+    },
+    {
+      "ru": "(в процессе) Я видел, как он перелезал через забор.",
+      "en": [
+        "I saw him climbing over the fence."
+      ]
+    },
+    {
+      "ru": "(целиком) Я слышал, как они ушли.",
+      "en": [
+        "I heard them leave.",
+        "I heard them go out.",
+        "I heard them go."
+      ]
+    },
+    {
+      "ru": "(в процессе) Я слышал, как они смеялись.",
+      "en": [
+        "I heard them laughing."
+      ]
+    },
+    {
+      "ru": "Я никогда не видела, как он танцует.",
+      "en": [
+        "I've never seen him dance.",
+        "I've never seen him dancing."
+      ]
+    },
+    {
+      "ru": "Ты видел, как произошла авария?",
+      "en": [
+        "Did you see the accident happen?"
+      ]
+    }
   ]
 }

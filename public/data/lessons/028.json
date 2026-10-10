@@ -20,9 +20,9 @@
     { "type": "tip", "text": "Противоположность «must be» — не «mustn't be» (это запрет), а <b>can't be</b>. И «должно быть, ушёл» — не «must went», а <b>must have gone</b>." }
   ],
   "items": [
-    { "ru": "(ты не спал всю ночь) Ты, должно быть, хочешь спать.", "en": ["You must be sleepy.", "You must be very sleepy."] },
+    { "ru": "(ты не спал всю ночь) Ты, должно быть, хочешь спать.", "en": ["You must be sleepy.", "You must be very sleepy.", "You must be tired."] },
     { "ru": "(он выиграл в лотерею) Он, должно быть, очень счастлив.", "en": ["He must be very happy.", "He must be really happy."] },
-    { "ru": "(в ресторане всегда полно людей) Там, должно быть, вкусно кормят.", "en": ["The food there must be good.", "The food there must be very good.", "It must be a good restaurant."] },
+    { "ru": "(в ресторане всегда полно людей) Там, должно быть, вкусно кормят.", "en": ["The food there must be good.", "The food there must be very good.", "It must be a good restaurant.", "The food must be good there."] },
     { "ru": "Это не может быть Анна: она в Японии.", "en": ["That can't be Anna because she's in Japan.", "It can't be Anna because she's in Japan.", "That can't be Anna, she's in Japan."] },
     { "ru": "(ты только что выпил литр воды) Не может быть, что ты опять хочешь пить.", "en": ["You can't be thirsty again."] },
     { "ru": "(он только что приехал в город) Он не может знать дорогу.", "en": ["He can't know the way."] },
@@ -31,9 +31,9 @@
     { "ru": "(телефон выключен) Лиза, должно быть, спит.", "en": ["Lisa must be sleeping.", "Lisa must be asleep.", "Lisa must be sleeping now."] },
     { "ru": "Эта цена не может быть правильной.", "en": ["This price can't be right.", "This price can't be correct.", "That price can't be right."] },
     { "ru": "Вы, должно быть, Анна.", "en": ["You must be Anna."] },
-    { "ru": "Ты, должно быть, очень гордишься сыном.", "en": ["You must be very proud of your son."] },
+    { "ru": "Ты, должно быть, очень гордишься сыном.", "en": ["You must be very proud of your son.", "You must be really proud of your son."] },
     { "ru": "(никто не открывает) Они, должно быть, уехали в отпуск.", "en": ["They must have gone on holiday.", "They must have gone away.", "They must have gone on vacation."] },
-    { "ru": "Я, должно быть, оставил телефон в машине.", "en": ["I must have left my phone in the car."] },
+    { "ru": "Я, должно быть, оставил телефон в машине.", "en": ["I must have left my phone in the car.", "I must have left the phone in the car."] },
     { "ru": "(ты добрался очень быстро) Ты, должно быть, взял такси.", "en": ["You must have taken a taxi.", "You must have got a taxi."] },
     { "ru": "Это, должно быть, было ужасно.", "en": ["That must have been terrible.", "It must have been terrible.", "That must have been awful.", "It must have been awful."] },
     { "ru": "(он не ответил) Пол не мог прочитать моё письмо.", "en": ["Paul can't have read my email.", "Paul couldn't have read my email.", "Paul can't have read my letter.", "Paul couldn't have read my letter."] },

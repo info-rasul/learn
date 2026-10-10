@@ -66,7 +66,8 @@
       "ru": "Том и Анна приехали пять минут назад.",
       "en": [
         "Tom and Anna arrived five minutes ago.",
-        "Tom and Anna came five minutes ago."
+        "Tom and Anna came five minutes ago.",
+        "Tom and Anna arrived 5 minutes ago."
       ]
     },
     {
@@ -197,7 +198,8 @@
       "ru": "До этого он пять лет жил в Риме.",
       "en": [
         "Before that he lived in Rome for five years.",
-        "He lived in Rome for five years before that."
+        "He lived in Rome for five years before that.",
+        "Before that he lived in Rome for 5 years."
       ]
     },
     {

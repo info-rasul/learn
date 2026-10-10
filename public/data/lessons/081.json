@@ -65,7 +65,8 @@
     {
       "ru": "Как зовут твоего брата?",
       "en": [
-        "What's your brother's name?"
+        "What's your brother's name?",
+        "What's your brother called?"
       ]
     },
     {
@@ -73,20 +74,28 @@
       "en": [
         "This isn't my bag. It's my sister's.",
         "This isn't my bag. It's my sister's bag.",
-        "That isn't my bag. It's my sister's."
+        "That isn't my bag. It's my sister's.",
+        "That isn't my bag. It's my sister's bag.",
+        "It isn't my bag. It's my sister's.",
+        "It isn't my bag. It's my sister's bag."
       ]
     },
     {
       "ru": "Это мать человека, которого мы вчера видели.",
       "en": [
         "That's the mother of the man we saw yesterday.",
-        "This is the mother of the man we saw yesterday."
+        "This is the mother of the man we saw yesterday.",
+        "That's the mother of the man that we saw yesterday.",
+        "That's the mother of the man who we saw yesterday.",
+        "This is the mother of the man that we saw yesterday.",
+        "This is the mother of the man who we saw yesterday."
       ]
     },
     {
       "ru": "Не наступи собаке на хвост.",
       "en": [
-        "Don't step on the dog's tail."
+        "Don't step on the dog's tail.",
+        "Don't tread on the dog's tail."
       ]
     },
     {
@@ -106,13 +115,16 @@
       "ru": "(в магазине) Где детская одежда?",
       "en": [
         "Where are the children's clothes?",
-        "Where's the children's clothing?"
+        "Where's the children's clothing?",
+        "Where are the kids' clothes?"
       ]
     },
     {
       "ru": "Мужская раздевалка вон там.",
       "en": [
-        "The men's changing room is over there."
+        "The men's changing room is over there.",
+        "The men's changing rooms are over there.",
+        "The men's locker room is over there."
       ]
     },
     {
@@ -141,7 +153,9 @@
     {
       "ru": "Какая температура воды?",
       "en": [
-        "What's the temperature of the water?"
+        "What's the temperature of the water?",
+        "What's the water temperature?",
+        "What temperature is the water?"
       ]
     },
     {
@@ -156,7 +170,9 @@
       "ru": "В конце месяца я буду в отпуске.",
       "en": [
         "I'll be on holiday at the end of the month.",
-        "I'll be on vacation at the end of the month."
+        "I'll be on vacation at the end of the month.",
+        "At the end of the month I'll be on holiday.",
+        "At the end of the month I'll be on vacation."
       ]
     },
     {
@@ -171,7 +187,8 @@
       "en": [
         "The government's decision surprised everyone.",
         "The government's decision surprised everybody.",
-        "The decision of the government surprised everyone."
+        "The decision of the government surprised everyone.",
+        "The decision of the government surprised everybody."
       ]
     },
     {
@@ -186,7 +203,8 @@
       "en": [
         "Have you read yesterday's newspaper?",
         "Did you read yesterday's newspaper?",
-        "Have you read yesterday's paper?"
+        "Have you read yesterday's paper?",
+        "Did you read yesterday's paper?"
       ]
     },
     {
@@ -196,7 +214,10 @@
         "Tomorrow's lesson was cancelled.",
         "Tomorrow's class has been cancelled.",
         "Tomorrow's lesson has been canceled.",
-        "Tomorrow's class was cancelled."
+        "Tomorrow's class was cancelled.",
+        "Tomorrow's lesson was canceled.",
+        "Tomorrow's class has been canceled.",
+        "Tomorrow's class was canceled."
       ]
     },
     {
@@ -204,7 +225,9 @@
       "en": [
         "Today's match starts at eight.",
         "Today's match begins at eight.",
-        "Today's game starts at eight."
+        "Today's game starts at eight.",
+        "Today's game begins at eight.",
+        "Today's match starts at eight o'clock."
       ]
     },
     {
@@ -214,7 +237,9 @@
         "Paul has got two weeks' holiday.",
         "Paul has two weeks' vacation.",
         "Paul has a two-week holiday.",
-        "Paul has got a two-week holiday."
+        "Paul has got a two-week holiday.",
+        "Paul has got two weeks' vacation.",
+        "Paul has a two-week vacation."
       ]
     },
     {

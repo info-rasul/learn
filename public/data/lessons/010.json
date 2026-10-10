@@ -85,7 +85,9 @@
       "ru": "Кто-то съел весь торт.",
       "en": [
         "Somebody has eaten all the cake.",
-        "Someone has eaten all the cake."
+        "Someone has eaten all the cake.",
+        "Someone has eaten the whole cake.",
+        "Somebody has eaten the whole cake."
       ]
     },
     {
@@ -136,7 +138,8 @@
         "Emma has called ten clients today.",
         "Emma has phoned ten clients today.",
         "Emma has called ten customers today.",
-        "Today Emma has called ten clients."
+        "Today Emma has called ten clients.",
+        "Emma has called 10 clients today."
       ]
     },
     {
@@ -150,7 +153,8 @@
       "ru": "На этой неделе мы играли в шахматы четыре раза.",
       "en": [
         "We've played chess four times this week.",
-        "This week we've played chess four times."
+        "This week we've played chess four times.",
+        "We've played chess 4 times this week."
       ]
     },
     {
@@ -185,8 +189,7 @@
     {
       "ru": "Как долго у тебя этот телефон?",
       "en": [
-        "How long have you had this phone?",
-        "How long have you had that phone?"
+        "How long have you had this phone?"
       ]
     },
     {
@@ -194,7 +197,8 @@
       "en": [
         "I've been meaning to call Lisa for a long time.",
         "I've been meaning to phone Lisa for a long time.",
-        "I've been meaning to call Lisa for ages."
+        "I've been meaning to call Lisa for ages.",
+        "I've been meaning to phone Lisa for ages."
       ]
     },
     {
@@ -211,7 +215,8 @@
       "en": [
         "We've been walking around the city all day.",
         "We've been walking around the town all day.",
-        "We've been walking round the city all day."
+        "We've been walking round the city all day.",
+        "We've been walking round the town all day."
       ]
     },
     {

@@ -60,7 +60,9 @@
         "My mother works in a hospital.",
         "My mum works in a hospital.",
         "My mother works at a hospital.",
-        "My mum works at a hospital."
+        "My mum works at a hospital.",
+        "My mom works in a hospital.",
+        "My mom works at a hospital."
       ]
     },
     {
@@ -81,7 +83,8 @@
       "en": [
         "Water freezes at zero degrees.",
         "Water freezes at 0 degrees.",
-        "Water freezes at zero degrees Celsius."
+        "Water freezes at zero degrees Celsius.",
+        "Water freezes at 0 degrees Celsius."
       ]
     },
     {
@@ -99,7 +102,9 @@
         "The shop closes at 8 o'clock.",
         "The store closes at eight o'clock.",
         "The shop closes at 8.",
-        "The store closes at eight."
+        "The store closes at eight.",
+        "The store closes at 8 o'clock.",
+        "The store closes at 8."
       ]
     },
     {
@@ -110,7 +115,10 @@
         "We don't live in the centre of town.",
         "We don't live in the center of the city.",
         "We don't live in the centre of the city.",
-        "We don't live in the city center."
+        "We don't live in the city center.",
+        "We don't live in the town center.",
+        "We don't live in the center of town.",
+        "We don't live downtown."
       ]
     },
     {
@@ -149,7 +157,9 @@
     {
       "ru": "Кем работает твоя сестра?",
       "en": [
-        "What does your sister do?"
+        "What does your sister do?",
+        "What does your sister do for a living?",
+        "What is your sister's job?"
       ]
     },
     {
@@ -158,7 +168,9 @@
         "He doesn't do anything around the house.",
         "He doesn't do anything in the house.",
         "He does nothing around the house.",
-        "He doesn't do anything at home."
+        "He doesn't do anything at home.",
+        "He doesn't do any housework.",
+        "He does nothing at home."
       ]
     },
     {
@@ -195,7 +207,9 @@
       "ru": "Сколько времени у тебя занимает дорога до работы?",
       "en": [
         "How long does it take you to get to work?",
-        "How long does it take you to go to work?"
+        "How long does it take you to go to work?",
+        "How long does your journey to work take?",
+        "How long does it take you to travel to work?"
       ]
     },
     {
@@ -204,7 +218,9 @@
         "I promise I won't be late again.",
         "I promise I'll never be late again.",
         "I promise that I won't be late again.",
-        "I promise not to be late again."
+        "I promise not to be late again.",
+        "I promise I won't be late any more.",
+        "I promise I won't be late anymore."
       ]
     },
     {
@@ -220,7 +236,9 @@
         "I suggest we go to the cinema.",
         "I suggest going to the cinema.",
         "I suggest that we go to the cinema.",
-        "I suggest we go to the movies."
+        "I suggest we go to the movies.",
+        "I suggest going to the movies.",
+        "I suggest that we go to the movies."
       ]
     },
     {
@@ -234,7 +252,9 @@
       "en": [
         "I advise you to talk to a doctor.",
         "I advise you to speak to a doctor.",
-        "I advise you to see a doctor."
+        "I advise you to see a doctor.",
+        "I advise you to go to a doctor.",
+        "I advise you to see your doctor."
       ]
     }
   ]

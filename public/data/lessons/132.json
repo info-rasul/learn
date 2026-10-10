@@ -67,7 +67,8 @@
       "en": [
         "Who were you talking to on the phone?",
         "Who were you speaking to on the phone?",
-        "Who were you talking with on the phone?"
+        "Who were you talking with on the phone?",
+        "Who were you speaking with on the phone?"
       ]
     },
     {
@@ -75,7 +76,10 @@
       "en": [
         "I need to speak to the manager.",
         "I need to talk to the manager.",
-        "I need to speak with the manager."
+        "I need to speak with the manager.",
+        "I need to talk with the manager.",
+        "I have to speak to the manager.",
+        "I have to talk to the manager."
       ]
     },
     {
@@ -91,14 +95,16 @@
       "ru": "Можно задать тебе вопрос?",
       "en": [
         "Can I ask you a question?",
-        "May I ask you a question?"
+        "May I ask you a question?",
+        "Could I ask you a question?"
       ]
     },
     {
       "ru": "Почему ты так на меня смотришь?",
       "en": [
         "Why are you looking at me like this?",
-        "Why are you looking at me like that?"
+        "Why are you looking at me like that?",
+        "Why are you looking at me that way?"
       ]
     },
     {
@@ -106,7 +112,10 @@
       "en": [
         "Have a look at this photo.",
         "Take a look at this photo.",
-        "Look at this photo."
+        "Look at this photo.",
+        "Have a look at this picture.",
+        "Take a look at this picture.",
+        "Look at this picture."
       ]
     },
     {
@@ -139,7 +148,8 @@
     {
       "ru": "Объясни нам, что случилось.",
       "en": [
-        "Explain to us what happened."
+        "Explain to us what happened.",
+        "Explain to us what has happened."
       ]
     },
     {
@@ -154,7 +164,9 @@
         "I'll call Anna this evening.",
         "I'll phone Anna this evening.",
         "I'll call Anna tonight.",
-        "I'll phone Anna tonight."
+        "I'll phone Anna tonight.",
+        "I'll call Anna in the evening.",
+        "I'll phone Anna in the evening."
       ]
     },
     {
@@ -163,7 +175,9 @@
         "Text me when you get there.",
         "Send me a message when you get there.",
         "Text me when you arrive.",
-        "Send me a text when you get there."
+        "Send me a text when you get there.",
+        "Send me a message when you arrive.",
+        "Send me a text when you arrive."
       ]
     },
     {
@@ -171,7 +185,9 @@
       "en": [
         "I wrote a letter to my grandfather.",
         "I wrote to my grandfather.",
-        "I wrote my grandfather a letter."
+        "I wrote my grandfather a letter.",
+        "I wrote a letter to my grandad.",
+        "I wrote a letter to my grandpa."
       ]
     },
     {
@@ -188,27 +204,32 @@
       "en": [
         "She isn't answering me.",
         "She doesn't answer me.",
-        "She isn't replying to me."
+        "She isn't replying to me.",
+        "She doesn't reply to me."
       ]
     },
     {
       "ru": "Не направляй камеру на меня.",
       "en": [
-        "Don't point the camera at me."
+        "Don't point the camera at me.",
+        "Don't aim the camera at me."
       ]
     },
     {
       "ru": "Мальчик стрелял по банкам из игрушечного пистолета.",
       "en": [
         "The boy was shooting at cans with a toy gun.",
-        "The boy shot at cans with a toy gun."
+        "The boy shot at cans with a toy gun.",
+        "The boy was shooting at cans with a toy pistol."
       ]
     },
     {
       "ru": "(со злостью) Не кричи на детей!",
       "en": [
         "Don't shout at the children!",
-        "Don't shout at the kids!"
+        "Don't shout at the kids!",
+        "Don't yell at the children!",
+        "Don't yell at the kids!"
       ]
     },
     {
@@ -230,7 +251,9 @@
       "ru": "(чтобы попасть) Кто-то бросил камень в наше окно.",
       "en": [
         "Somebody threw a stone at our window.",
-        "Someone threw a stone at our window."
+        "Someone threw a stone at our window.",
+        "Somebody threw a rock at our window.",
+        "Someone threw a rock at our window."
       ]
     },
     {

@@ -80,7 +80,8 @@
       "en": [
         "What a lovely evening!",
         "What a wonderful evening!",
-        "What a beautiful evening!"
+        "What a beautiful evening!",
+        "What a nice evening!"
       ]
     },
     {
@@ -116,7 +117,9 @@
         "These are comfortable chairs.",
         "Those are comfortable chairs.",
         "These are comfortable armchairs.",
-        "Those are comfortable armchairs."
+        "Those are comfortable armchairs.",
+        "They're comfortable chairs.",
+        "They're comfortable armchairs."
       ]
     },
     {
@@ -156,7 +159,8 @@
       "ru": "Какие красивые цветы!",
       "en": [
         "What beautiful flowers!",
-        "What lovely flowers!"
+        "What lovely flowers!",
+        "What nice flowers!"
       ]
     },
     {
@@ -165,7 +169,9 @@
         "I bought some books yesterday.",
         "Yesterday I bought some books.",
         "I bought a few books yesterday.",
-        "Yesterday I bought a few books."
+        "Yesterday I bought a few books.",
+        "I bought several books yesterday.",
+        "Yesterday I bought several books."
       ]
     },
     {
@@ -174,7 +180,13 @@
         "Some friends of mine are coming to see us on Saturday.",
         "Some of my friends are coming to see us on Saturday.",
         "Some friends of mine are visiting us on Saturday.",
-        "Some of my friends are visiting us on Saturday."
+        "Some of my friends are visiting us on Saturday.",
+        "A few of my friends are coming to see us on Saturday.",
+        "A few friends of mine are coming to see us on Saturday.",
+        "Several of my friends are coming to see us on Saturday.",
+        "Several friends of mine are coming to see us on Saturday.",
+        "A few of my friends are visiting us on Saturday.",
+        "Several of my friends are visiting us on Saturday."
       ]
     },
     {

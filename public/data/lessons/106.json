@@ -56,7 +56,10 @@
       "en": [
         "Her flat is much bigger than mine.",
         "Her flat is a lot bigger than mine.",
-        "Her flat is far bigger than mine."
+        "Her flat is far bigger than mine.",
+        "Her apartment is much bigger than mine.",
+        "Her apartment is a lot bigger than mine.",
+        "Her apartment is far bigger than mine."
       ]
     },
     {
@@ -64,7 +67,11 @@
       "en": [
         "The train is much faster than the bus.",
         "The train is a lot faster than the bus.",
-        "The train is far faster than the bus."
+        "The train is far faster than the bus.",
+        "The train is much quicker than the bus.",
+        "The train is a lot quicker than the bus.",
+        "A train is much faster than a bus.",
+        "Trains are much faster than buses."
       ]
     },
     {
@@ -73,7 +80,11 @@
         "He's much cleverer than I thought.",
         "He's much smarter than I thought.",
         "He's a lot cleverer than I thought.",
-        "He's a lot smarter than I thought."
+        "He's a lot smarter than I thought.",
+        "He's far cleverer than I thought.",
+        "He's far smarter than I thought.",
+        "He's much more intelligent than I thought.",
+        "He's a lot more intelligent than I thought."
       ]
     },
     {
@@ -81,7 +92,10 @@
       "en": [
         "It's a bit warmer today.",
         "It's a little warmer today.",
-        "It's slightly warmer today."
+        "It's slightly warmer today.",
+        "Today it's a bit warmer.",
+        "Today it's a little warmer.",
+        "Today it's slightly warmer."
       ]
     },
     {
@@ -98,7 +112,12 @@
         "Can you speak a bit more slowly?",
         "Can you speak a little more slowly?",
         "Could you speak a bit more slowly?",
-        "Could you speak a little more slowly?"
+        "Could you speak a little more slowly?",
+        "Can you speak a bit slower?",
+        "Could you speak a bit slower?",
+        "Can you speak a little slower?",
+        "Could you speak a little slower?",
+        "Can you speak slightly more slowly?"
       ]
     },
     {
@@ -107,7 +126,9 @@
         "Could you come a bit earlier?",
         "Could you come a little earlier?",
         "Can you come a bit earlier?",
-        "Can you come a little earlier?"
+        "Can you come a little earlier?",
+        "Could you come slightly earlier?",
+        "Could you come a little bit earlier?"
       ]
     },
     {
@@ -116,13 +137,18 @@
         "He drives much more carefully now.",
         "Now he drives much more carefully.",
         "He drives a lot more carefully now.",
-        "He drives far more carefully now."
+        "He drives far more carefully now.",
+        "Now he drives a lot more carefully.",
+        "He now drives much more carefully."
       ]
     },
     {
       "ru": "Я больше не могу ждать.",
       "en": [
-        "I can't wait any longer."
+        "I can't wait any longer.",
+        "I can't wait any more.",
+        "I can't wait anymore.",
+        "I can no longer wait."
       ]
     },
     {
@@ -130,7 +156,12 @@
       "en": [
         "Is your mother any better?",
         "Is your mum any better?",
-        "Is your mother feeling any better?"
+        "Is your mother feeling any better?",
+        "Is your mum feeling any better?",
+        "Is your mom any better?",
+        "Is your mom feeling any better?",
+        "Does your mother feel any better?",
+        "Does your mum feel any better?"
       ]
     },
     {
@@ -150,19 +181,23 @@
     {
       "ru": "Становится всё холоднее.",
       "en": [
-        "It's getting colder and colder."
+        "It's getting colder and colder.",
+        "It's becoming colder and colder."
       ]
     },
     {
       "ru": "Мой английский становится всё лучше и лучше.",
       "en": [
-        "My English is getting better and better."
+        "My English is getting better and better.",
+        "My English is becoming better and better."
       ]
     },
     {
       "ru": "Билеты становятся всё дороже.",
       "en": [
-        "Tickets are getting more and more expensive."
+        "Tickets are getting more and more expensive.",
+        "Tickets are becoming more and more expensive.",
+        "The tickets are getting more and more expensive."
       ]
     },
     {
@@ -178,7 +213,9 @@
         "The earlier we leave, the earlier we'll arrive.",
         "The sooner we leave, the sooner we'll arrive.",
         "The sooner we leave, the sooner we'll get there.",
-        "The earlier we leave, the earlier we'll get there."
+        "The earlier we leave, the earlier we'll get there.",
+        "The earlier we leave, the sooner we'll arrive.",
+        "The earlier we leave, the sooner we'll get there."
       ]
     },
     {
@@ -186,7 +223,8 @@
       "en": [
         "The more you practise, the better you speak.",
         "The more you practice, the better you speak.",
-        "The more you practise, the better you'll speak."
+        "The more you practise, the better you'll speak.",
+        "The more you practice, the better you'll speak."
       ]
     },
     {
@@ -198,14 +236,16 @@
     {
       "ru": "Чем дороже ресторан, тем лучше еда.",
       "en": [
-        "The more expensive the restaurant, the better the food."
+        "The more expensive the restaurant, the better the food.",
+        "The more expensive the restaurant is, the better the food is."
       ]
     },
     {
       "ru": "Мой старший брат — врач.",
       "en": [
         "My elder brother is a doctor.",
-        "My older brother is a doctor."
+        "My older brother is a doctor.",
+        "My big brother is a doctor."
       ]
     },
     {
@@ -219,7 +259,9 @@
       "ru": "Мне нужно немного больше времени.",
       "en": [
         "I need a bit more time.",
-        "I need a little more time."
+        "I need a little more time.",
+        "I need a little bit more time.",
+        "I need slightly more time."
       ]
     }
   ]

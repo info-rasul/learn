@@ -59,7 +59,9 @@
       "ru": "Мои дети сейчас в школе.",
       "en": [
         "My children are at school now.",
-        "My kids are at school now."
+        "My kids are at school now.",
+        "My children are at school right now.",
+        "My kids are at school right now."
       ]
     },
     {
@@ -75,7 +77,12 @@
       "en": [
         "Tom's mother went to the school to talk to his teacher.",
         "Tom's mother went to the school to speak to his teacher.",
-        "Tom's mum went to the school to talk to his teacher."
+        "Tom's mum went to the school to talk to his teacher.",
+        "Tom's mum went to the school to speak to his teacher.",
+        "Tom's mom went to the school to talk to his teacher.",
+        "Tom's mom went to the school to speak to his teacher.",
+        "Tom's mother went to the school to talk to the teacher.",
+        "Tom's mother went to the school to speak to the teacher."
       ]
     },
     {
@@ -83,7 +90,8 @@
       "en": [
         "After school I want to go to university.",
         "I want to go to university after school.",
-        "After school I want to go to college."
+        "After school I want to go to college.",
+        "I want to go to college after school."
       ]
     },
     {
@@ -106,7 +114,8 @@
       "ru": "Мой дедушка всё ещё в больнице.",
       "en": [
         "My grandfather is still in hospital.",
-        "My granddad is still in hospital."
+        "My granddad is still in hospital.",
+        "My grandpa is still in hospital."
       ]
     },
     {
@@ -115,7 +124,9 @@
         "Anna went to the hospital to visit her father.",
         "Anna has gone to the hospital to visit her father.",
         "Anna went to the hospital to see her father.",
-        "Anna went to the hospital to visit her dad."
+        "Anna went to the hospital to visit her dad.",
+        "Anna has gone to the hospital to see her father.",
+        "Anna went to the hospital to see her dad."
       ]
     },
     {
@@ -136,7 +147,9 @@
       "ru": "(как туристы) Мы осмотрели церковь в центре города.",
       "en": [
         "We visited the church in the town centre.",
-        "We visited the church in the city centre."
+        "We visited the church in the city centre.",
+        "We visited the church in the town center.",
+        "We visited the church in the city center."
       ]
     },
     {
@@ -199,7 +212,8 @@
       "en": [
         "What time did you get home yesterday?",
         "What time did you come home yesterday?",
-        "When did you get home yesterday?"
+        "When did you get home yesterday?",
+        "When did you come home yesterday?"
       ]
     },
     {
@@ -207,7 +221,8 @@
       "en": [
         "I'm working at home today.",
         "I'm working from home today.",
-        "Today I'm working at home."
+        "Today I'm working at home.",
+        "Today I'm working from home."
       ]
     },
     {
@@ -224,7 +239,8 @@
       "en": [
         "When Ben leaves school, he wants to get a job.",
         "When Ben finishes school, he wants to get a job.",
-        "When Ben leaves school, he wants to find a job."
+        "When Ben leaves school, he wants to find a job.",
+        "When Ben finishes school, he wants to find a job."
       ]
     },
     {

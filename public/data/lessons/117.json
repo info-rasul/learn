@@ -53,7 +53,8 @@
       "ru": "Твой дом похож на дворец.",
       "en": [
         "Your house is like a palace.",
-        "Your house looks like a palace."
+        "Your house looks like a palace.",
+        "Your home is like a palace."
       ]
     },
     {
@@ -66,27 +67,32 @@
       "ru": "Не веди себя как ребёнок.",
       "en": [
         "Don't behave like a child.",
-        "Don't act like a child."
+        "Don't act like a child.",
+        "Don't act like a kid."
       ]
     },
     {
       "ru": "Эта комната выглядит как офис.",
       "en": [
-        "This room looks like an office."
+        "This room looks like an office.",
+        "This room is like an office."
       ]
     },
     {
       "ru": "Пахнет как кофе.",
       "en": [
         "It smells like coffee.",
-        "It smells of coffee."
+        "It smells of coffee.",
+        "That smells like coffee."
       ]
     },
     {
       "ru": "Как и я, Пол любит джаз.",
       "en": [
         "Like me, Paul loves jazz.",
-        "Like me, Paul likes jazz."
+        "Like me, Paul likes jazz.",
+        "Paul loves jazz, like me.",
+        "Paul likes jazz, like me."
       ]
     },
     {
@@ -95,7 +101,10 @@
         "I like fruit such as apples and bananas.",
         "I like fruit like apples and bananas.",
         "I love fruit such as apples and bananas.",
-        "I like fruit, for example apples and bananas."
+        "I like fruit, for example apples and bananas.",
+        "I love fruit like apples and bananas.",
+        "I like fruits such as apples and bananas.",
+        "I like fruits like apples and bananas."
       ]
     },
     {
@@ -117,7 +126,8 @@
       "ru": "Как я и ожидал, он опоздал.",
       "en": [
         "As I expected, he was late.",
-        "As expected, he was late."
+        "As expected, he was late.",
+        "He was late, as I expected."
       ]
     },
     {
@@ -125,20 +135,26 @@
       "en": [
         "As usual, Mike arrived last.",
         "As usual, Mike came last.",
-        "Mike arrived last, as usual."
+        "Mike arrived last, as usual.",
+        "As usual, Mike was the last to arrive.",
+        "As usual, Mike was the last to come.",
+        "Mike came last, as usual."
       ]
     },
     {
       "ru": "Как ты знаешь, я переезжаю в Берлин.",
       "en": [
-        "As you know, I'm moving to Berlin."
+        "As you know, I'm moving to Berlin.",
+        "As you know, I'm going to move to Berlin."
       ]
     },
     {
       "ru": "Как я тебе говорил, магазин закрыт.",
       "en": [
         "As I told you, the shop is closed.",
-        "As I said, the shop is closed."
+        "As I said, the shop is closed.",
+        "As I told you, the store is closed.",
+        "As I've told you, the shop is closed."
       ]
     },
     {
@@ -151,7 +167,8 @@
     {
       "ru": "Я работаю официантом.",
       "en": [
-        "I work as a waiter."
+        "I work as a waiter.",
+        "I'm working as a waiter."
       ]
     },
     {
@@ -171,20 +188,24 @@
     {
       "ru": "Мы использовали коробку в качестве стола.",
       "en": [
-        "We used a box as a table."
+        "We used a box as a table.",
+        "We used the box as a table."
       ]
     },
     {
       "ru": "Я использую телефон как будильник.",
       "en": [
         "I use my phone as an alarm clock.",
-        "I use my phone as an alarm."
+        "I use my phone as an alarm.",
+        "I use the phone as an alarm clock.",
+        "I use my phone as my alarm clock."
       ]
     },
     {
       "ru": "Как родитель, я тебя понимаю.",
       "en": [
-        "As a parent, I understand you."
+        "As a parent, I understand you.",
+        "As a parent, I can understand you."
       ]
     },
     {
@@ -206,14 +227,18 @@
       "ru": "(она действительно его начальница) Как его начальница, она должна ему помочь.",
       "en": [
         "As his boss, she should help him.",
-        "As his boss, she must help him."
+        "As his boss, she must help him.",
+        "As his boss, she has to help him.",
+        "As his boss, she ought to help him."
       ]
     },
     {
       "ru": "(она не его начальница) Она ведёт себя как его начальница.",
       "en": [
         "She behaves like his boss.",
-        "She acts like his boss."
+        "She acts like his boss.",
+        "She behaves like she's his boss.",
+        "She acts like she's his boss."
       ]
     }
   ]

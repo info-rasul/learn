@@ -69,7 +69,8 @@
       "en": [
         "I forgot my keys and was locked out.",
         "I forgot my keys and got locked out.",
-        "I forgot my keys and couldn't get in."
+        "I forgot my keys and couldn't get in.",
+        "I forgot my keys and couldn't get into the house."
       ]
     },
     {
@@ -120,14 +121,17 @@
       "en": [
         "The cat wants to go out, let it out.",
         "The cat wants to go outside, let it out.",
-        "The cat wants to go out, let her out."
+        "The cat wants to go out, let her out.",
+        "The cat wants to go outside, let her out."
       ]
     },
     {
       "ru": "Он выбрался из бассейна и вытерся.",
       "en": [
         "He climbed out of the pool and dried himself.",
-        "He got out of the pool and dried himself."
+        "He got out of the pool and dried himself.",
+        "He climbed out of the pool and dried off.",
+        "He got out of the pool and dried off."
       ]
     },
     {
@@ -144,7 +148,8 @@
       "en": [
         "Drop in when you're nearby.",
         "Drop in when you're in the area.",
-        "Drop in on us when you're nearby."
+        "Drop in on us when you're nearby.",
+        "Drop in on us when you're in the area."
       ]
     },
     {
@@ -172,7 +177,8 @@
       "en": [
         "Don't leave out any words.",
         "Don't leave any words out.",
-        "Don't leave out a single word."
+        "Don't leave out a single word.",
+        "Don't miss out any words."
       ]
     },
     {

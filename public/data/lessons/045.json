@@ -22,7 +22,7 @@
   ],
   "items": [
     { "ru": "Говорят, что он очень богат.", "en": ["He is said to be very rich.", "It is said that he is very rich.", "It is said he is very rich."] },
-    { "ru": "Считается, что этот город очень безопасный.", "en": ["This city is thought to be very safe.", "It is thought that this city is very safe.", "This city is believed to be very safe.", "It is believed that this city is very safe."] },
+    { "ru": "Считается, что этот город очень безопасный.", "en": ["This city is thought to be very safe.", "It is thought that this city is very safe.", "This city is believed to be very safe.", "It is believed that this city is very safe.", "This city is considered to be very safe.", "This city is considered very safe."] },
     { "ru": "Ожидается, что цены вырастут.", "en": ["Prices are expected to rise.", "It is expected that prices will rise.", "Prices are expected to go up.", "It is expected that prices will go up."] },
     { "ru": "Ожидается, что новый мост откроют в мае.", "en": ["The new bridge is expected to open in May.", "The new bridge is expected to be opened in May.", "It is expected that the new bridge will open in May."] },
     { "ru": "Известно, что она говорит на пяти языках.", "en": ["She is known to speak five languages.", "It is known that she speaks five languages."] },

@@ -21,7 +21,7 @@
     { "type": "tip", "text": "«Кажется, я потерял…» не переводите как <b>It seems I lost</b> с лишними словами — естественнее <b>I seem to have lost…</b>. А «я не знаю, что делать» — <b>I don't know what to do</b>, без <b>should I</b>." }
   ],
   "items": [
-    { "ru": "Мы решили поехать на поезде.", "en": ["We decided to go by train.", "We decided to take the train."] },
+    { "ru": "Мы решили поехать на поезде.", "en": ["We decided to go by train.", "We decided to take the train.", "We decided to travel by train."] },
     { "ru": "Он согласился мне помочь.", "en": ["He agreed to help me."] },
     { "ru": "Она отказалась отвечать.", "en": ["She refused to answer."] },
     { "ru": "Я забыл купить молоко.", "en": ["I forgot to buy milk.", "I forgot to buy some milk.", "I forgot to buy the milk."] },
@@ -31,19 +31,19 @@
     { "ru": "Я научился плавать в шесть лет.", "en": ["I learned to swim when I was six.", "I learnt to swim when I was six.", "I learned how to swim when I was six.", "I learnt how to swim when I was six.", "I learned to swim at the age of six.", "I learnt to swim at the age of six."] },
     { "ru": "Она склонна слишком много говорить.", "en": ["She tends to talk too much."] },
     { "ru": "Мы решили не выходить из-за дождя.", "en": ["We decided not to go out because of the rain."] },
-    { "ru": "Ты думаешь о покупке квартиры?", "en": ["Are you thinking of buying a flat?", "Are you thinking about buying a flat?", "Are you thinking of buying an apartment?"] },
+    { "ru": "Ты думаешь о покупке квартиры?", "en": ["Are you thinking of buying a flat?", "Are you thinking about buying a flat?", "Are you thinking of buying an apartment?", "Are you thinking about buying an apartment?"] },
     { "ru": "Я не осмелился сказать ей правду.", "en": ["I didn't dare to tell her the truth.", "I didn't dare tell her the truth."] },
     { "ru": "Я не смею её спросить.", "en": ["I daren't ask her.", "I don't dare ask her.", "I don't dare to ask her."] },
     { "ru": "Кажется, они очень счастливы.", "en": ["They seem to be very happy.", "They seem very happy."] },
     { "ru": "Кажется, я потерял телефон.", "en": ["I seem to have lost my phone.", "It seems that I've lost my phone.", "It seems I've lost my phone."] },
     { "ru": "Она сделала вид, что не узнала меня.", "en": ["She pretended not to recognise me.", "She pretended not to recognize me.", "She pretended not to know me."] },
-    { "ru": "Он притворялся, что спит.", "en": ["He pretended to be sleeping.", "He pretended to be asleep."] },
+    { "ru": "Он притворялся, что спит.", "en": ["He pretended to be sleeping.", "He pretended to be asleep.", "He was pretending to be asleep.", "He was pretending to be sleeping."] },
     { "ru": "Она утверждает, что видела привидение.", "en": ["She claims to have seen a ghost.", "She claims that she saw a ghost.", "She claims she has seen a ghost.", "She claims that she has seen a ghost.", "She claims she saw a ghost."] },
-    { "ru": "Похоже, Ник чем-то обеспокоен.", "en": ["Nick appears to be worried about something.", "Nick seems to be worried about something.", "Nick seems worried about something."] },
-    { "ru": "Ты знаешь, как добраться до вокзала?", "en": ["Do you know how to get to the station?", "Do you know how to get to the train station?"] },
+    { "ru": "Похоже, Ник чем-то обеспокоен.", "en": ["Nick appears to be worried about something.", "Nick seems to be worried about something.", "Nick seems worried about something.", "Nick appears worried about something."] },
+    { "ru": "Ты знаешь, как добраться до вокзала?", "en": ["Do you know how to get to the station?", "Do you know how to get to the train station?", "Do you know how to get to the railway station?"] },
     { "ru": "Я не знаю, что сказать.", "en": ["I don't know what to say."] },
-    { "ru": "Ты решил, куда поехать летом?", "en": ["Have you decided where to go this summer?", "Have you decided where to go in the summer?"] },
-    { "ru": "Покажи мне, как пользоваться этим приложением.", "en": ["Show me how to use this app.", "Can you show me how to use this app?"] },
+    { "ru": "Ты решил, куда поехать летом?", "en": ["Have you decided where to go this summer?", "Have you decided where to go in the summer?", "Have you decided where to go for the summer?"] },
+    { "ru": "Покажи мне, как пользоваться этим приложением.", "en": ["Show me how to use this app.", "Can you show me how to use this app?", "Could you show me how to use this app?"] },
     { "ru": "Я не знаю, соглашаться ли на эту работу.", "en": ["I don't know whether to take this job.", "I don't know whether to accept this job.", "I don't know whether to take the job.", "I don't know whether to accept the job."] }
   ]
 }

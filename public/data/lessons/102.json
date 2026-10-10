@@ -60,7 +60,10 @@
       "en": [
         "It's such a nice day today!",
         "Today is such a nice day!",
-        "It's such a lovely day today!"
+        "It's such a lovely day today!",
+        "It's such a good day today!",
+        "Today is such a good day!",
+        "Today is such a lovely day!"
       ]
     },
     {
@@ -72,14 +75,16 @@
     {
       "ru": "Почему ты так злишься?",
       "en": [
-        "Why are you so angry?"
+        "Why are you so angry?",
+        "Why are you so mad?"
       ]
     },
     {
       "ru": "Это такая интересная книга.",
       "en": [
         "It's such an interesting book.",
-        "This is such an interesting book."
+        "This is such an interesting book.",
+        "That's such an interesting book."
       ]
     },
     {
@@ -87,7 +92,14 @@
       "en": [
         "They have such nice children.",
         "They've got such nice children.",
-        "They have such lovely children."
+        "They have such lovely children.",
+        "They have such cute children.",
+        "They've got such cute children.",
+        "They have such sweet children.",
+        "They have such nice kids.",
+        "They have such cute kids.",
+        "They have such lovely kids.",
+        "They have such sweet kids."
       ]
     },
     {
@@ -129,7 +141,9 @@
       "ru": "Это было так глупо с моей стороны.",
       "en": [
         "It was so stupid of me.",
-        "That was so stupid of me."
+        "That was so stupid of me.",
+        "It was so silly of me.",
+        "That was so silly of me."
       ]
     },
     {
@@ -151,7 +165,8 @@
       "en": [
         "It was such a difficult week.",
         "It was such a hard week.",
-        "That was such a difficult week."
+        "That was such a difficult week.",
+        "That was such a hard week."
       ]
     },
     {
@@ -178,7 +193,9 @@
         "It was so cold that we stayed at home.",
         "It was so cold we stayed at home.",
         "It was so cold that we stayed home.",
-        "It was so cold we stayed home."
+        "It was so cold we stayed home.",
+        "It was so cold that we stayed in.",
+        "It was so cold we stayed in."
       ]
     },
     {
@@ -187,7 +204,11 @@
         "The food was so good that we ordered more.",
         "The food was so good we ordered more.",
         "The food was so delicious that we ordered more.",
-        "The food was so delicious we ordered more."
+        "The food was so delicious we ordered more.",
+        "The food was so tasty that we ordered more.",
+        "The food was so tasty we ordered more.",
+        "The food was so good that we ordered some more.",
+        "The food was so delicious that we ordered some more."
       ]
     },
     {
@@ -195,7 +216,8 @@
       "en": [
         "I haven't seen you for so long!",
         "I haven't seen you for such a long time!",
-        "I haven't seen you in so long!"
+        "I haven't seen you in so long!",
+        "I haven't seen you in such a long time!"
       ]
     },
     {
@@ -211,7 +233,9 @@
       "en": [
         "I have so much work today.",
         "I've got so much work today.",
-        "I have such a lot of work today."
+        "I have such a lot of work today.",
+        "I've got such a lot of work today.",
+        "Today I have so much work."
       ]
     },
     {
@@ -219,7 +243,9 @@
       "en": [
         "There are so many tourists in the city.",
         "There are such a lot of tourists in the city.",
-        "There are so many tourists in town."
+        "There are so many tourists in town.",
+        "There are such a lot of tourists in town.",
+        "There are so many tourists in the town."
       ]
     },
     {
@@ -227,7 +253,8 @@
       "en": [
         "We had such a good time in Rome!",
         "We had such a nice time in Rome!",
-        "We had such a lovely time in Rome!"
+        "We had such a lovely time in Rome!",
+        "We had such a great time in Rome!"
       ]
     }
   ]

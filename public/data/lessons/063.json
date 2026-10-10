@@ -144,7 +144,9 @@
         "I had no trouble finding a job.",
         "I had no problem finding a job.",
         "I had no difficulty finding a job.",
-        "I didn't have any trouble finding a job."
+        "I didn't have any trouble finding a job.",
+        "I had no problems finding a job.",
+        "I didn't have any problems finding a job."
       ]
     },
     {
@@ -163,7 +165,8 @@
       "en": [
         "He has trouble remembering names.",
         "He has difficulty remembering names.",
-        "He has a problem remembering names."
+        "He has a problem remembering names.",
+        "He has problems remembering names."
       ]
     },
     {
@@ -171,14 +174,17 @@
       "en": [
         "We had difficulty finding their house.",
         "We had trouble finding their house.",
-        "We had a problem finding their house."
+        "We had a problem finding their house.",
+        "We had problems finding their house."
       ]
     },
     {
       "ru": "Я потратил весь вечер на уборку.",
       "en": [
         "I spent the whole evening cleaning.",
-        "I spent all evening cleaning."
+        "I spent all evening cleaning.",
+        "I spent the whole evening cleaning up.",
+        "I spent all evening cleaning up."
       ]
     },
     {
@@ -242,7 +248,9 @@
       "ru": "Давай завтра пойдём на пробежку.",
       "en": [
         "Let's go jogging tomorrow.",
-        "Let's go running tomorrow."
+        "Let's go running tomorrow.",
+        "Let's go for a run tomorrow.",
+        "Tomorrow let's go jogging."
       ]
     }
   ]

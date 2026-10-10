@@ -34,7 +34,7 @@
     { "ru": "Как называется этот фильм?", "en": ["What is this film called?", "What is this movie called?", "What is the film called?"] },
     { "ru": "Меня разбудила соседская собака.", "en": ["I was woken up by the neighbour's dog.", "I was woken by the neighbour's dog.", "I was woken up by the neighbor's dog.", "I was woken up by my neighbour's dog.", "I was woken by my neighbour's dog.", "I was woken up by my neighbor's dog.", "I was woken by the neighbor's dog."] },
     { "ru": "Меня не пригласили на свадьбу.", "en": ["I wasn't invited to the wedding."] },
-    { "ru": "Мою сумку украли в поезде.", "en": ["My bag was stolen on the train."] },
+    { "ru": "Мою сумку украли в поезде.", "en": ["My bag was stolen on the train.", "My bag got stolen on the train."] },
     { "ru": "Этот торт был испечён моей сестрой.", "en": ["This cake was made by my sister.", "This cake was baked by my sister."] },
     { "ru": "Эта песня была написана Полом.", "en": ["This song was written by Paul."] },
     { "ru": "Когда был изобретён телефон?", "en": ["When was the telephone invented?", "When was the phone invented?"] },

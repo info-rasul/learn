@@ -67,7 +67,8 @@
     {
       "ru": "Она обвинила меня во лжи.",
       "en": [
-        "She accused me of lying."
+        "She accused me of lying.",
+        "She accused me of telling lies."
       ]
     },
     {
@@ -80,7 +81,8 @@
     {
       "ru": "Мои родители не одобряют мою работу.",
       "en": [
-        "My parents don't approve of my job."
+        "My parents don't approve of my job.",
+        "My parents don't approve of my work."
       ]
     },
     {
@@ -95,7 +97,9 @@
       "en": [
         "The lunch consisted of three courses.",
         "Lunch consisted of three courses.",
-        "The lunch consisted of three dishes."
+        "The lunch consisted of three dishes.",
+        "Dinner consisted of three courses.",
+        "The dinner consisted of three courses."
       ]
     },
     {
@@ -119,7 +123,9 @@
         "Have you already paid the rent this month?",
         "Have you paid this month's rent yet?",
         "Have you paid the rent this month?",
-        "Did you pay the rent this month?"
+        "Did you pay the rent this month?",
+        "Have you already paid the rent for this month?",
+        "Did you already pay the rent this month?"
       ]
     },
     {
@@ -134,14 +140,19 @@
         "Thank you for helping with the move.",
         "Thanks for helping with the move.",
         "Thank you for your help with the move.",
-        "Thanks for your help with the move."
+        "Thanks for your help with the move.",
+        "Thank you for helping me with the move.",
+        "Thanks for helping me with the move.",
+        "Thank you for helping me move.",
+        "Thanks for helping me move."
       ]
     },
     {
       "ru": "Я никогда не прощу его за это.",
       "en": [
         "I'll never forgive him for this.",
-        "I will never forgive him for that."
+        "I will never forgive him for that.",
+        "I'll never forgive him for it."
       ]
     },
     {
@@ -149,7 +160,8 @@
       "en": [
         "Kevin apologised to Laura for his words.",
         "Kevin apologized to Laura for his words.",
-        "Kevin apologised to Laura for what he said."
+        "Kevin apologised to Laura for what he said.",
+        "Kevin apologized to Laura for what he said."
       ]
     },
     {
@@ -170,14 +182,16 @@
     {
       "ru": "Кто виноват в этом беспорядке?",
       "en": [
-        "Who is to blame for this mess?"
+        "Who is to blame for this mess?",
+        "Who is responsible for this mess?"
       ]
     },
     {
       "ru": "Многие люди страдают от бессонницы.",
       "en": [
         "Many people suffer from insomnia.",
-        "A lot of people suffer from insomnia."
+        "A lot of people suffer from insomnia.",
+        "Lots of people suffer from insomnia."
       ]
     },
     {
@@ -185,7 +199,8 @@
       "en": [
         "Sunglasses protect your eyes from the sun.",
         "Glasses protect your eyes from the sun.",
-        "Sunglasses protect the eyes from the sun."
+        "Sunglasses protect the eyes from the sun.",
+        "Glasses protect the eyes from the sun."
       ]
     },
     {
@@ -193,14 +208,18 @@
       "en": [
         "Can you live on this money?",
         "Is it possible to live on this money?",
-        "Can you live on that money?"
+        "Can you live on that money?",
+        "Can one live on this money?",
+        "Is it possible to live on that money?"
       ]
     },
     {
       "ru": "Они живут в основном на рисе и овощах.",
       "en": [
         "They live mainly on rice and vegetables.",
-        "They mostly live on rice and vegetables."
+        "They mostly live on rice and vegetables.",
+        "They live mostly on rice and vegetables.",
+        "They mainly live on rice and vegetables."
       ]
     },
     {
@@ -228,7 +247,9 @@
       "ru": "(может, поеду) Это зависит от того, сколько это стоит.",
       "en": [
         "It depends how much it costs.",
-        "It depends on how much it costs."
+        "It depends on how much it costs.",
+        "That depends on how much it costs.",
+        "That depends how much it costs."
       ]
     },
     {

@@ -23,7 +23,7 @@
   "items": [
     { "ru": "Было бы здорово жить у моря.", "en": ["It would be great to live by the sea.", "It would be great to live near the sea.", "It would be wonderful to live by the sea."] },
     { "ru": "Я бы с удовольствием поехал в Японию.", "en": ["I'd love to go to Japan.", "I'd love to visit Japan."] },
-    { "ru": "Было бы приятно иметь сад.", "en": ["It would be nice to have a garden."] },
+    { "ru": "Было бы приятно иметь сад.", "en": ["It would be nice to have a garden.", "It would be pleasant to have a garden.", "It would be lovely to have a garden."] },
     { "ru": "Я бы не хотел жить в большом городе.", "en": ["I wouldn't like to live in a big city.", "I wouldn't want to live in a big city."] },
     { "ru": "Ты бы хотел жить за границей?", "en": ["Would you like to live abroad?"] },
     { "ru": "(на твоём месте) Я бы ничего ему не говорил.", "en": ["I wouldn't tell him anything.", "I wouldn't say anything to him."] },
@@ -36,7 +36,7 @@
     { "ru": "Я бы купил тот дом, но у меня не было денег.", "en": ["I would have bought that house, but I didn't have the money.", "I would have bought that house, but I didn't have enough money."] },
     { "ru": "Я не просил Дэна, он бы всё равно не помог.", "en": ["I didn't ask Dan, he wouldn't have helped anyway.", "I didn't ask Dan because he wouldn't have helped anyway."] },
     { "ru": "Я тебе помогу, я не занят.", "en": ["I'll help you, I'm not busy.", "I'll help you because I'm not busy."] },
-    { "ru": "Я бы тебе помог, но я очень занят.", "en": ["I'd help you, but I'm very busy."] },
+    { "ru": "Я бы тебе помог, но я очень занят.", "en": ["I'd help you, but I'm very busy.", "I'd help you, but I'm really busy."] },
     { "ru": "Майк сказал, что приедет в восемь.", "en": ["Mike said he would come at eight.", "Mike said that he would come at eight.", "Mike said he would arrive at eight.", "Mike said that he would arrive at eight.", "Mike said he would come at 8."] },
     { "ru": "Она пообещала, что никому не расскажет.", "en": ["She promised she wouldn't tell anyone.", "She promised that she wouldn't tell anyone.", "She promised she wouldn't tell anybody.", "She promised that she wouldn't tell anybody."] },
     { "ru": "(она отказалась) Я просил её остаться, но она не захотела.", "en": ["I asked her to stay, but she wouldn't.", "I asked her to stay, but she wouldn't stay."] },

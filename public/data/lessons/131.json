@@ -106,7 +106,9 @@
       "ru": "Я совершенно безнадёжен в кулинарии.",
       "en": [
         "I'm hopeless at cooking.",
-        "I'm completely hopeless at cooking."
+        "I'm completely hopeless at cooking.",
+        "I'm totally hopeless at cooking.",
+        "I'm absolutely hopeless at cooking."
       ]
     },
     {
@@ -140,7 +142,9 @@
       "ru": "Я не знал об этой проблеме.",
       "en": [
         "I wasn't aware of this problem.",
-        "I wasn't aware of the problem."
+        "I wasn't aware of the problem.",
+        "I didn't know about this problem.",
+        "I didn't know about the problem."
       ]
     },
     {
@@ -156,14 +160,17 @@
         "She's late again, that's so typical of her.",
         "She's late again, it's so typical of her.",
         "She was late again, that's so typical of her.",
-        "She was late again, it's so typical of her."
+        "She was late again, it's so typical of her.",
+        "She's late again, that's typical of her.",
+        "She was late again, that's typical of her."
       ]
     },
     {
       "ru": "Твоя сумка похожа на мою.",
       "en": [
         "Your bag is similar to mine.",
-        "Your bag looks like mine."
+        "Your bag looks like mine.",
+        "Your bag is like mine."
       ]
     },
     {
@@ -188,7 +195,8 @@
     {
       "ru": "Италия славится своей едой.",
       "en": [
-        "Italy is famous for its food."
+        "Italy is famous for its food.",
+        "Italy is known for its food."
       ]
     },
     {
@@ -206,7 +214,8 @@
         "The new office is very different from the old one.",
         "The new office is very different to the old one.",
         "The new office is very different from the old office.",
-        "The new office is very different to the old office."
+        "The new office is very different to the old office.",
+        "The new office is very different than the old one."
       ]
     },
     {
@@ -214,14 +223,16 @@
       "en": [
         "The museum was full of schoolchildren.",
         "The museum was crowded with schoolchildren.",
-        "The museum was full of school children."
+        "The museum was full of school children.",
+        "The museum was crowded with school children."
       ]
     },
     {
       "ru": "Улицы были забиты машинами.",
       "en": [
         "The streets were crowded with cars.",
-        "The streets were full of cars."
+        "The streets were full of cars.",
+        "The streets were packed with cars."
       ]
     },
     {
@@ -235,7 +246,8 @@
     {
       "ru": "Кто отвечает за эту комнату?",
       "en": [
-        "Who is responsible for this room?"
+        "Who is responsible for this room?",
+        "Who is in charge of this room?"
       ]
     },
     {
@@ -245,7 +257,10 @@
         "I'm short of time now.",
         "I'm short of time at the moment.",
         "I'm short of time right now.",
-        "I don't have much time now."
+        "I don't have much time now.",
+        "I don't have much time right now.",
+        "I don't have much time at the moment.",
+        "I haven't got much time now."
       ]
     },
     {
@@ -259,7 +274,9 @@
       "ru": "Дэн женат, и у него трое детей.",
       "en": [
         "Dan is married with three children.",
-        "Dan is married with three kids."
+        "Dan is married with three kids.",
+        "Dan is married and has three children.",
+        "Dan is married and has three kids."
       ]
     }
   ]

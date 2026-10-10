@@ -86,7 +86,8 @@
         "We enjoyed ourselves at the party.",
         "We really enjoyed ourselves at the party.",
         "We had a great time at the party.",
-        "We had a lot of fun at the party."
+        "We had a lot of fun at the party.",
+        "We had a really good time at the party."
       ]
     },
     {
@@ -102,7 +103,9 @@
         "He fell over, but he didn't hurt himself.",
         "He fell, but he didn't hurt himself.",
         "He fell down, but he didn't hurt himself.",
-        "He fell over, but didn't hurt himself."
+        "He fell over, but didn't hurt himself.",
+        "He fell, but didn't hurt himself.",
+        "He fell down, but didn't hurt himself."
       ]
     },
     {
@@ -115,7 +118,9 @@
       "ru": "Я устал и не могу сосредоточиться.",
       "en": [
         "I'm tired and I can't concentrate.",
-        "I'm tired and can't concentrate."
+        "I'm tired and can't concentrate.",
+        "I'm tired and I can't focus.",
+        "I'm tired and can't focus."
       ]
     },
     {
@@ -123,7 +128,9 @@
       "en": [
         "Where shall we meet on Saturday?",
         "Where are we meeting on Saturday?",
-        "Where should we meet on Saturday?"
+        "Where should we meet on Saturday?",
+        "Where will we meet on Saturday?",
+        "Where are we going to meet on Saturday?"
       ]
     },
     {
@@ -131,14 +138,16 @@
       "en": [
         "I feel much better today.",
         "Today I feel much better.",
-        "I feel a lot better today."
+        "I feel a lot better today.",
+        "Today I feel a lot better."
       ]
     },
     {
       "ru": "Он встал, умылся и оделся.",
       "en": [
         "He got up, washed and got dressed.",
-        "He got up, washed and dressed."
+        "He got up, washed and dressed.",
+        "He got up, had a wash and got dressed."
       ]
     },
     {
@@ -174,7 +183,9 @@
         "They don't talk to each other any more.",
         "They don't talk to each other anymore.",
         "They don't speak to each other any more.",
-        "They don't speak to each other anymore."
+        "They don't speak to each other anymore.",
+        "They no longer talk to each other.",
+        "They no longer speak to each other."
       ]
     },
     {
@@ -205,7 +216,9 @@
         "The hotel itself was OK, but the food was terrible.",
         "The hotel itself wasn't bad, but the food was terrible.",
         "The hotel itself was OK, but the food was awful.",
-        "The hotel itself wasn't bad, but the food was awful."
+        "The hotel itself wasn't bad, but the food was awful.",
+        "The hotel itself was okay, but the food was terrible.",
+        "The hotel itself was okay, but the food was awful."
       ]
     },
     {

@@ -34,7 +34,7 @@
     { "ru": "(в той поездке) Что бы ты сделал, если бы потерял паспорт?", "en": ["What would you have done if you had lost your passport?"] },
     { "ru": "Если бы не было дождя, мы могли бы пойти на пляж.", "en": ["If it hadn't rained, we could have gone to the beach.", "If it hadn't been raining, we could have gone to the beach."] },
     { "ru": "Если бы ты пришёл раньше, ты, может быть, встретил бы Джека.", "en": ["If you had come earlier, you might have met Jack.", "If you had come earlier, you might have seen Jack.", "If you'd arrived earlier, you might have met Jack."] },
-    { "ru": "Если бы я вчера лёг пораньше, я бы сейчас не был таким уставшим.", "en": ["If I'd gone to bed earlier, I wouldn't be so tired now.", "If I'd gone to bed earlier last night, I wouldn't be so tired.", "If I'd gone to bed earlier last night, I wouldn't be so tired now."] },
+    { "ru": "Если бы я вчера лёг пораньше, я бы сейчас не был таким уставшим.", "en": ["If I'd gone to bed earlier, I wouldn't be so tired now.", "If I'd gone to bed earlier last night, I wouldn't be so tired.", "If I'd gone to bed earlier last night, I wouldn't be so tired now.", "If I'd gone to bed earlier yesterday, I wouldn't be so tired now."] },
     { "ru": "Если бы Том согласился на ту работу, он бы сейчас был богат.", "en": ["If Tom had taken that job, he would be rich now.", "If Tom had accepted that job, he would be rich now.", "If Tom had taken the job, he would be rich now."] },
     { "ru": "Жаль, что я не знал об этом раньше.", "en": ["I wish I'd known about it earlier.", "I wish I'd known about it before.", "I wish I'd known about this earlier.", "I wish I'd known about this before."] },
     { "ru": "Зря я сказал ей правду.", "en": ["I wish I hadn't told her the truth."] },

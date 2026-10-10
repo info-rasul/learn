@@ -58,27 +58,34 @@
       "ru": "Она похожа на свою маму.",
       "en": [
         "She looks like her mother.",
-        "She looks like her mum."
+        "She looks like her mum.",
+        "She looks like her mom.",
+        "She is like her mother."
       ]
     },
     {
       "ru": "Это звучит как хорошая идея.",
       "en": [
         "That sounds like a good idea.",
-        "It sounds like a good idea."
+        "It sounds like a good idea.",
+        "This sounds like a good idea."
       ]
     },
     {
       "ru": "На вкус как курица.",
       "en": [
-        "It tastes like chicken."
+        "It tastes like chicken.",
+        "This tastes like chicken.",
+        "That tastes like chicken."
       ]
     },
     {
       "ru": "Сегодня ощущение, будто весна.",
       "en": [
         "It feels like spring today.",
-        "Today it feels like spring."
+        "Today it feels like spring.",
+        "It feels as if it's spring today.",
+        "It feels like it's spring today."
       ]
     },
     {
@@ -86,7 +93,8 @@
       "en": [
         "It looks like it's going to rain.",
         "It looks as if it's going to rain.",
-        "It looks as though it's going to rain."
+        "It looks as though it's going to rain.",
+        "It looks like rain."
       ]
     },
     {
@@ -114,7 +122,10 @@
         "It looks as though nobody is at home.",
         "It looks as if nobody is home.",
         "It looks like nobody is home.",
-        "It looks as if there's nobody at home."
+        "It looks as if there's nobody at home.",
+        "It looks like there's nobody at home.",
+        "It looks as if no one is at home.",
+        "It looks like no one is home."
       ]
     },
     {
@@ -141,7 +152,10 @@
         "You look as if you need a rest.",
         "You look as though you need a rest.",
         "You look like you need a rest.",
-        "You look as if you need a break."
+        "You look as if you need a break.",
+        "You look like you need a break.",
+        "You look as if you need a holiday.",
+        "You look like you need a holiday."
       ]
     },
     {
@@ -150,7 +164,8 @@
         "Anna sounds as if she has a cold.",
         "Anna sounds as though she has a cold.",
         "Anna sounds like she has a cold.",
-        "Anna sounds as if she's got a cold."
+        "Anna sounds as if she's got a cold.",
+        "Anna sounds like she's got a cold."
       ]
     },
     {
@@ -158,7 +173,10 @@
       "en": [
         "It sounds as if they're arguing.",
         "It sounds as though they're arguing.",
-        "It sounds like they're arguing."
+        "It sounds like they're arguing.",
+        "It sounds as if they're fighting.",
+        "It sounds like they're fighting.",
+        "It sounds as if they're having an argument."
       ]
     },
     {
@@ -177,7 +195,10 @@
       "en": [
         "I feel as if I'm getting a cold.",
         "I feel as though I'm getting a cold.",
-        "I feel like I'm getting a cold."
+        "I feel like I'm getting a cold.",
+        "I feel as if I'm catching a cold.",
+        "I feel like I'm catching a cold.",
+        "It feels as if I'm getting a cold."
       ]
     },
     {
@@ -185,7 +206,9 @@
       "en": [
         "I feel as if I've known you for years.",
         "I feel as though I've known you for years.",
-        "I feel like I've known you for years."
+        "I feel like I've known you for years.",
+        "I feel as if I've known you for many years.",
+        "I feel like I've known you for many years."
       ]
     },
     {
@@ -195,7 +218,9 @@
         "Don't act as if nothing has happened.",
         "Don't behave as if nothing happened.",
         "Don't act as though nothing happened.",
-        "Don't act like nothing happened."
+        "Don't act like nothing happened.",
+        "Don't behave as if nothing has happened.",
+        "Don't act like nothing has happened."
       ]
     },
     {
@@ -238,7 +263,10 @@
         "He ran as if somebody was chasing him.",
         "He ran as if someone was chasing him.",
         "He ran as though somebody was chasing him.",
-        "He ran like somebody was chasing him."
+        "He ran like somebody was chasing him.",
+        "He ran like someone was chasing him.",
+        "He was running as if somebody was chasing him.",
+        "He ran as if somebody were chasing him."
       ]
     },
     {
@@ -246,7 +274,9 @@
       "en": [
         "She looked at me as if she didn't know me.",
         "She looked at me as though she didn't know me.",
-        "She looked at me like she didn't know me."
+        "She looked at me like she didn't know me.",
+        "She looked at me as if she didn't recognise me.",
+        "She looked at me as if she didn't recognize me."
       ]
     },
     {

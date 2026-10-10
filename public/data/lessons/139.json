@@ -77,7 +77,8 @@
       "en": [
         "Suddenly the lights went out.",
         "The lights suddenly went out.",
-        "Suddenly the light went out."
+        "Suddenly the light went out.",
+        "The light suddenly went out."
       ]
     },
     {
@@ -85,7 +86,9 @@
       "en": [
         "The firefighters quickly put out the fire.",
         "The firefighters put out the fire quickly.",
-        "The firefighters put the fire out quickly."
+        "The firefighters put the fire out quickly.",
+        "The firefighters quickly put the fire out.",
+        "The firemen quickly put out the fire."
       ]
     },
     {
@@ -96,7 +99,9 @@
         "Turn out the light before going to bed.",
         "Turn off the light before you go to sleep.",
         "Turn the light off before you go to sleep.",
-        "Turn out the light before you go to bed."
+        "Turn out the light before you go to bed.",
+        "Turn off the light before you go to bed.",
+        "Switch off the light before you go to bed."
       ]
     },
     {
@@ -147,7 +152,8 @@
       "ru": "Ты можешь посчитать это в уме?",
       "en": [
         "Can you work it out in your head?",
-        "Can you work this out in your head?"
+        "Can you work this out in your head?",
+        "Can you work that out in your head?"
       ]
     },
     {
@@ -200,7 +206,8 @@
       "en": [
         "Find out what time the film starts.",
         "Find out when the film starts.",
-        "Find out what time the movie starts."
+        "Find out what time the movie starts.",
+        "Find out when the movie starts."
       ]
     },
     {
@@ -229,7 +236,8 @@
       "en": [
         "The teacher handed out the tests.",
         "The teacher gave out the tests.",
-        "The teacher handed the tests out."
+        "The teacher handed the tests out.",
+        "The teacher gave the tests out."
       ]
     },
     {

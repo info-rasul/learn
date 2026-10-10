@@ -81,7 +81,9 @@
         "Yesterday I worked till nine in the evening.",
         "Yesterday I worked until 9 pm.",
         "I worked till nine in the evening yesterday.",
-        "I worked until 9 pm yesterday."
+        "I worked until 9 pm yesterday.",
+        "Yesterday I worked till 9 pm.",
+        "I worked till 9 pm yesterday."
       ]
     },
     {
@@ -90,14 +92,18 @@
         "We watched a film last night.",
         "We watched a film yesterday evening.",
         "We watched a movie last night.",
-        "We watched a movie yesterday evening."
+        "We watched a movie yesterday evening.",
+        "Last night we watched a film.",
+        "Yesterday evening we watched a film.",
+        "Last night we watched a movie."
       ]
     },
     {
       "ru": "Лиза сдала экзамен в прошлом месяце.",
       "en": [
         "Lisa passed her exam last month.",
-        "Lisa passed the exam last month."
+        "Lisa passed the exam last month.",
+        "Last month Lisa passed her exam."
       ]
     },
     {
@@ -135,7 +141,8 @@
         "I saw Paul at the shop on Monday.",
         "On Monday I saw Paul in the shop.",
         "On Monday I saw Paul at the shop.",
-        "I saw Paul in the store on Monday."
+        "I saw Paul in the store on Monday.",
+        "I saw Paul at the store on Monday."
       ]
     },
     {
@@ -143,7 +150,8 @@
       "en": [
         "He wrote a letter to his grandmother.",
         "He wrote his grandmother a letter.",
-        "He wrote a letter to his grandma."
+        "He wrote a letter to his grandma.",
+        "He wrote his grandma a letter."
       ]
     },
     {
@@ -171,7 +179,8 @@
     {
       "ru": "Я не ел, потому что не был голоден.",
       "en": [
-        "I didn't eat because I wasn't hungry."
+        "I didn't eat because I wasn't hungry.",
+        "I didn't eat anything because I wasn't hungry."
       ]
     },
     {
@@ -184,7 +193,9 @@
       "ru": "Что вы делали вчера вечером?",
       "en": [
         "What did you do last night?",
-        "What did you do yesterday evening?"
+        "What did you do yesterday evening?",
+        "What were you doing last night?",
+        "What were you doing yesterday evening?"
       ]
     },
     {
@@ -197,7 +208,8 @@
     {
       "ru": "Сколько стоил твой телефон?",
       "en": [
-        "How much did your phone cost?"
+        "How much did your phone cost?",
+        "How much was your phone?"
       ]
     },
     {
@@ -206,7 +218,8 @@
         "When did you get home?",
         "When did you come home?",
         "When did you come back home?",
-        "When did you get back home?"
+        "When did you get back home?",
+        "When did you return home?"
       ]
     },
     {
@@ -251,7 +264,8 @@
       "en": [
         "Ben fell and broke his arm.",
         "Ben fell over and broke his arm.",
-        "Ben fell down and broke his arm."
+        "Ben fell down and broke his arm.",
+        "Ben fell and broke his hand."
       ]
     }
   ]

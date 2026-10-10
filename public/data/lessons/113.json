@@ -65,7 +65,9 @@
         "Although Anna lives nearby, she rarely visits us.",
         "Though Anna lives nearby, she rarely visits us.",
         "Even though Anna lives nearby, she rarely visits us.",
-        "Although Anna lives near us, she rarely visits us."
+        "Although Anna lives near us, she rarely visits us.",
+        "Although Anna lives nearby, she seldom visits us.",
+        "Although Anna lives close by, she rarely visits us."
       ]
     },
     {
@@ -118,7 +120,10 @@
         "Despite the rain, the match continued.",
         "In spite of the rain, the match continued.",
         "The match continued despite the rain.",
-        "The match continued in spite of the rain."
+        "The match continued in spite of the rain.",
+        "Despite the rain, the game continued.",
+        "In spite of the rain, the game continued.",
+        "Despite the rain, the match went on."
       ]
     },
     {
@@ -127,7 +132,11 @@
         "Despite the traffic, we arrived on time.",
         "In spite of the traffic, we arrived on time.",
         "We arrived on time despite the traffic.",
-        "We arrived on time in spite of the traffic."
+        "We arrived on time in spite of the traffic.",
+        "Despite the traffic jams, we arrived on time.",
+        "In spite of the traffic jams, we arrived on time.",
+        "We arrived on time despite the traffic jams.",
+        "Despite the traffic, we got there on time."
       ]
     },
     {
@@ -136,7 +145,9 @@
         "She went to work despite her headache.",
         "She went to work in spite of her headache.",
         "She went to work despite having a headache.",
-        "She went to work in spite of having a headache."
+        "She went to work in spite of having a headache.",
+        "She went to work despite the headache.",
+        "She went to work despite a headache."
       ]
     },
     {
@@ -153,7 +164,10 @@
       "en": [
         "Despite his age, my grandfather is very active.",
         "In spite of his age, my grandfather is very active.",
-        "Despite his age, my grandad is very active."
+        "Despite his age, my grandad is very active.",
+        "Despite his age, my grandpa is very active.",
+        "My grandfather is very active despite his age.",
+        "My grandfather is very active in spite of his age."
       ]
     },
     {
@@ -162,7 +176,8 @@
         "Will you go to the beach despite the bad weather?",
         "Will you go to the beach in spite of the bad weather?",
         "Are you going to the beach despite the bad weather?",
-        "Are you going to the beach in spite of the bad weather?"
+        "Are you going to the beach in spite of the bad weather?",
+        "Are you going to go to the beach despite the bad weather?"
       ]
     },
     {
@@ -171,7 +186,9 @@
         "He came to the meeting despite being ill.",
         "He came to the meeting in spite of being ill.",
         "He came to the meeting despite his illness.",
-        "He came to the meeting in spite of his illness."
+        "He came to the meeting in spite of his illness.",
+        "He came to the meeting despite being sick.",
+        "He came to the meeting despite his being ill."
       ]
     },
     {
@@ -183,7 +200,9 @@
         "Though I studied hard, I failed the exam.",
         "Even though I studied hard, I failed the exam.",
         "Despite the fact that I studied hard, I failed the exam.",
-        "In spite of the fact that I studied hard, I failed the exam."
+        "In spite of the fact that I studied hard, I failed the exam.",
+        "Despite studying a lot, I failed the exam.",
+        "Although I studied a lot, I failed the exam."
       ]
     },
     {
@@ -193,7 +212,9 @@
         "He ate the whole cake though he wasn't hungry.",
         "He ate the whole cake even though he wasn't hungry.",
         "He ate the whole cake despite not being hungry.",
-        "He ate the whole cake in spite of not being hungry."
+        "He ate the whole cake in spite of not being hungry.",
+        "He ate the whole cake despite the fact that he wasn't hungry.",
+        "He ate all the cake even though he wasn't hungry."
       ]
     },
     {
@@ -215,7 +236,9 @@
         "Though he's rich, he isn't happy.",
         "Even though he's rich, he isn't happy.",
         "Despite being rich, he isn't happy.",
-        "In spite of being rich, he isn't happy."
+        "In spite of being rich, he isn't happy.",
+        "Despite the fact that he's rich, he's unhappy.",
+        "Although he's rich, he's unhappy."
       ]
     },
     {
@@ -236,7 +259,8 @@
     {
       "ru": "(о маленькой квартире) Нам она, впрочем, нравится.",
       "en": [
-        "We like it, though."
+        "We like it, though.",
+        "We still like it."
       ]
     },
     {
@@ -244,7 +268,8 @@
       "en": [
         "Even though Kate was in a hurry, she missed the train.",
         "Although Kate was in a hurry, she missed the train.",
-        "Even though Kate hurried, she missed the train."
+        "Even though Kate hurried, she missed the train.",
+        "Even though Kate was in a hurry, she was late for the train."
       ]
     },
     {
@@ -252,7 +277,8 @@
       "en": [
         "Even though I don't speak French, I understood him.",
         "Although I don't speak French, I understood him.",
-        "Though I don't speak French, I understood him."
+        "Though I don't speak French, I understood him.",
+        "Even though I can't speak French, I understood him."
       ]
     },
     {

@@ -72,7 +72,11 @@
       "en": [
         "Please be quiet! The baby is sleeping.",
         "Quiet, please! The baby is sleeping.",
-        "Be quiet, please! The baby is sleeping."
+        "Be quiet, please! The baby is sleeping.",
+        "Please be quiet! The baby is asleep.",
+        "Quiet, please! The baby is asleep.",
+        "Be quiet, please! The baby is asleep.",
+        "Please be quiet! The child is sleeping."
       ]
     },
     {
@@ -81,7 +85,9 @@
         "I'm not watching TV, so you can turn it off.",
         "I'm not watching TV, so you can switch it off.",
         "I'm not watching the TV, so you can turn it off.",
-        "I'm not watching the TV, so you can switch it off."
+        "I'm not watching the TV, so you can switch it off.",
+        "I'm not watching television, so you can turn it off.",
+        "I'm not watching television, so you can switch it off."
       ]
     },
     {
@@ -112,7 +118,9 @@
         "Tom is talking on the phone now.",
         "Tom is speaking on the phone now.",
         "Tom is now talking on the phone.",
-        "Tom is on the phone right now."
+        "Tom is on the phone right now.",
+        "Tom is on the phone at the moment.",
+        "Tom is on the phone now."
       ]
     },
     {
@@ -123,9 +131,10 @@
       ]
     },
     {
-      "ru": "Они не слушают учителя.",
+      "ru": "(сейчас) Они не слушают учителя.",
       "en": [
-        "They aren't listening to the teacher."
+        "They aren't listening to the teacher.",
+        "They aren't listening to their teacher."
       ]
     },
     {
@@ -136,7 +145,7 @@
       ]
     },
     {
-      "ru": "Кейт учит испанский, потому что хочет жить в Испании.",
+      "ru": "(сейчас, в этот период) Кейт учит испанский, потому что хочет жить в Испании.",
       "en": [
         "Kate is learning Spanish because she wants to live in Spain.",
         "Kate is studying Spanish because she wants to live in Spain."
@@ -147,7 +156,8 @@
       "en": [
         "Where are you working these days?",
         "Where are you working now?",
-        "Where are you working at the moment?"
+        "Where are you working at the moment?",
+        "Where are you working right now?"
       ]
     },
     {
@@ -156,7 +166,9 @@
         "My friends are building a house in the country.",
         "My friends are building a house outside the city.",
         "My friends are building a house outside town.",
-        "My friends are building a house in the countryside."
+        "My friends are building a house in the countryside.",
+        "My friends are building a house out of town.",
+        "My friends are building a house outside the town."
       ]
     },
     {
@@ -170,7 +182,9 @@
       "ru": "Ты сегодня много работаешь.",
       "en": [
         "You're working a lot today.",
-        "You're working hard today."
+        "You're working hard today.",
+        "Today you're working a lot.",
+        "Today you're working hard."
       ]
     },
     {
@@ -197,7 +211,8 @@
     {
       "ru": "Становится темно, пойдём домой.",
       "en": [
-        "It's getting dark, let's go home."
+        "It's getting dark, let's go home.",
+        "It's getting dark, so let's go home."
       ]
     },
     {
@@ -206,7 +221,10 @@
         "Prices are rising very fast.",
         "Prices are rising very quickly.",
         "Prices are going up very fast.",
-        "Prices are going up very quickly."
+        "Prices are going up very quickly.",
+        "Prices are increasing very fast.",
+        "Prices are increasing very quickly.",
+        "Prices are growing very fast."
       ]
     },
     {
@@ -222,13 +240,16 @@
         "The population of our town is growing.",
         "The population of our city is growing.",
         "The population of our town is increasing.",
-        "The population of our city is increasing."
+        "The population of our city is increasing.",
+        "Our town's population is growing.",
+        "Our city's population is growing."
       ]
     },
     {
       "ru": "Почему ты идёшь так медленно?",
       "en": [
-        "Why are you walking so slowly?"
+        "Why are you walking so slowly?",
+        "Why are you going so slowly?"
       ]
     },
     {

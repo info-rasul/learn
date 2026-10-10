@@ -60,14 +60,18 @@
         "There's nobody in the room.",
         "There's no one in the room.",
         "There isn't anybody in the room.",
-        "There isn't anyone in the room."
+        "There isn't anyone in the room.",
+        "Nobody is in the room.",
+        "No one is in the room."
       ]
     },
     {
       "ru": "Дети играют в саду.",
       "en": [
         "The children are playing in the garden.",
-        "The kids are playing in the garden."
+        "The kids are playing in the garden.",
+        "The children are playing in the yard.",
+        "The kids are playing in the yard."
       ]
     },
     {
@@ -88,14 +92,20 @@
       "en": [
         "There are a lot of people in the pool.",
         "There are many people in the pool.",
-        "There are a lot of people in the swimming pool."
+        "There are a lot of people in the swimming pool.",
+        "There are lots of people in the pool.",
+        "There are many people in the swimming pool."
       ]
     },
     {
       "ru": "Кто-то стоит у двери.",
       "en": [
         "Somebody is standing at the door.",
-        "Someone is standing at the door."
+        "Someone is standing at the door.",
+        "There's somebody standing at the door.",
+        "There's someone standing at the door.",
+        "There's somebody at the door.",
+        "There's someone at the door."
       ]
     },
     {
@@ -107,20 +117,28 @@
     {
       "ru": "Номер телефона вверху письма.",
       "en": [
-        "The phone number is at the top of the letter."
+        "The phone number is at the top of the letter.",
+        "The telephone number is at the top of the letter."
       ]
     },
     {
       "ru": "Наш офис в конце коридора.",
       "en": [
-        "Our office is at the end of the corridor."
+        "Our office is at the end of the corridor.",
+        "Our office is at the end of the hall.",
+        "Our office is at the end of the hallway."
       ]
     },
     {
       "ru": "На стене висит картина.",
       "en": [
         "There's a picture on the wall.",
-        "A picture is hanging on the wall."
+        "A picture is hanging on the wall.",
+        "There's a picture hanging on the wall.",
+        "There's a painting on the wall.",
+        "A painting is hanging on the wall.",
+        "There's a painting hanging on the wall.",
+        "On the wall there's a picture."
       ]
     },
     {
@@ -132,14 +150,18 @@
     {
       "ru": "На потолке паук.",
       "en": [
-        "There's a spider on the ceiling."
+        "There's a spider on the ceiling.",
+        "A spider is on the ceiling."
       ]
     },
     {
       "ru": "На столе лежат книги.",
       "en": [
         "There are some books on the table.",
-        "There are books on the table."
+        "There are books on the table.",
+        "There are some books lying on the table.",
+        "There are books lying on the table.",
+        "Some books are lying on the table."
       ]
     },
     {
@@ -154,7 +176,9 @@
       "en": [
         "Look at the photo on page ten.",
         "Look at the picture on page ten.",
-        "Look at the photo on page 10."
+        "Look at the photo on page 10.",
+        "Look at the picture on page 10.",
+        "Look at the photograph on page ten."
       ]
     },
     {
@@ -168,13 +192,17 @@
       "en": [
         "Who is that man in the photo?",
         "Who is the man in the photo?",
-        "Who is that man in the picture?"
+        "Who is that man in the picture?",
+        "Who is the man in the picture?",
+        "Who is that man in the photograph?",
+        "Who is the man in the photograph?"
       ]
     },
     {
       "ru": "Кресло стоит в углу комнаты.",
       "en": [
-        "The armchair is in the corner of the room."
+        "The armchair is in the corner of the room.",
+        "The armchair stands in the corner of the room."
       ]
     },
     {
@@ -182,7 +210,10 @@
       "en": [
         "There's a cafe on the corner of the street.",
         "There's a café on the corner of the street.",
-        "There's a cafe at the corner of the street."
+        "There's a cafe at the corner of the street.",
+        "There's a café at the corner of the street.",
+        "There's a cafe on the street corner.",
+        "On the corner of the street there's a cafe."
       ]
     },
     {
@@ -190,14 +221,16 @@
       "en": [
         "Sit in the back of the car.",
         "Sit in the back seat of the car.",
-        "Sit in the back."
+        "Sit in the back.",
+        "Sit in the back seat."
       ]
     },
     {
       "ru": "Мы сидели впереди в кинотеатре.",
       "en": [
         "We sat at the front of the cinema.",
-        "We sat at the front in the cinema."
+        "We sat at the front in the cinema.",
+        "We sat at the front of the movie theater."
       ]
     },
     {
@@ -211,7 +244,9 @@
       "ru": "Аптека слева.",
       "en": [
         "The pharmacy is on the left.",
-        "The chemist's is on the left."
+        "The chemist's is on the left.",
+        "The chemist is on the left.",
+        "The drugstore is on the left."
       ]
     }
   ]

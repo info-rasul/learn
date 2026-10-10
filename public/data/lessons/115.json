@@ -52,7 +52,8 @@
       "en": [
         "I won't go unless you come with me.",
         "I won't go if you don't come with me.",
-        "I won't go unless you go with me."
+        "I won't go unless you go with me.",
+        "I won't go if you don't go with me."
       ]
     },
     {
@@ -60,14 +61,16 @@
       "en": [
         "We'll be late unless we hurry.",
         "We'll be late if we don't hurry.",
-        "Unless we hurry, we'll be late."
+        "Unless we hurry, we'll be late.",
+        "If we don't hurry, we'll be late."
       ]
     },
     {
       "ru": "Не звони мне, если это не срочно.",
       "en": [
         "Don't call me unless it's urgent.",
-        "Don't phone me unless it's urgent."
+        "Don't phone me unless it's urgent.",
+        "Don't call me if it isn't urgent."
       ]
     },
     {
@@ -75,7 +78,8 @@
       "en": [
         "Unless you study, you won't pass the exam.",
         "You won't pass the exam unless you study.",
-        "If you don't study, you won't pass the exam."
+        "If you don't study, you won't pass the exam.",
+        "You won't pass the exam if you don't study."
       ]
     },
     {
@@ -91,14 +95,17 @@
       "en": [
         "Anna won't come unless she is invited.",
         "Anna won't come if she isn't invited.",
-        "Anna won't come unless they invite her."
+        "Anna won't come unless they invite her.",
+        "Anna won't come if they don't invite her.",
+        "Anna won't come unless she gets invited."
       ]
     },
     {
       "ru": "Я обычно хожу пешком, если только не идёт дождь.",
       "en": [
         "I usually walk unless it's raining.",
-        "I usually walk unless it rains."
+        "I usually walk unless it rains.",
+        "I usually go on foot unless it's raining."
       ]
     },
     {
@@ -114,7 +121,9 @@
       "en": [
         "You won't lose weight unless you exercise.",
         "You won't lose weight if you don't exercise.",
-        "You won't lose weight unless you do sport."
+        "You won't lose weight unless you do sport.",
+        "You won't lose weight unless you do sports.",
+        "You won't lose weight if you don't do sport."
       ]
     },
     {
@@ -137,7 +146,9 @@
       "ru": "Не открывай дверь, если не знаешь, кто там.",
       "en": [
         "Don't open the door unless you know who it is.",
-        "Don't open the door unless you know who's there."
+        "Don't open the door unless you know who's there.",
+        "Don't open the door if you don't know who it is.",
+        "Don't open the door if you don't know who's there."
       ]
     },
     {
@@ -145,7 +156,9 @@
       "en": [
         "I won't call unless you ask me.",
         "I won't call unless you ask.",
-        "I won't phone unless you ask me."
+        "I won't phone unless you ask me.",
+        "I won't call unless you ask me to.",
+        "I won't call you unless you ask me."
       ]
     },
     {
@@ -155,7 +168,8 @@
         "You can borrow my car provided you drive carefully.",
         "You can borrow my car providing you drive carefully.",
         "You can borrow my car so long as you drive carefully.",
-        "You can take my car as long as you drive carefully."
+        "You can take my car as long as you drive carefully.",
+        "You can borrow my car as long as you drive safely."
       ]
     },
     {
@@ -164,7 +178,9 @@
         "You can stay as long as you're quiet.",
         "You can stay provided you're quiet.",
         "You can stay providing you're quiet.",
-        "You can stay so long as you're quiet."
+        "You can stay so long as you're quiet.",
+        "You can stay as long as you keep quiet.",
+        "You can stay provided you keep quiet."
       ]
     },
     {
@@ -203,7 +219,10 @@
         "I'll lend you some money provided you pay it back on Friday.",
         "I'll lend you some money providing you pay it back on Friday.",
         "I'll lend you some money as long as you pay it back on Friday.",
-        "I'll lend you some money provided you give it back on Friday."
+        "I'll lend you some money provided you give it back on Friday.",
+        "I'll lend you money provided you pay it back on Friday.",
+        "I'll lend you money as long as you pay it back on Friday.",
+        "I'll lend you some money as long as you give it back on Friday."
       ]
     },
     {
@@ -212,7 +231,10 @@
         "Can I go as long as I'm back before ten?",
         "Can I go provided I'm back before ten?",
         "Can I go as long as I'm back by ten?",
-        "Can I go providing I'm back before ten?"
+        "Can I go providing I'm back before ten?",
+        "Can I go provided I'm back by ten?",
+        "May I go as long as I'm back before ten?",
+        "Could I go as long as I'm back before ten?"
       ]
     },
     {
@@ -232,7 +254,10 @@
         "Everything will be fine as long as we stay together.",
         "Everything will be fine provided we stay together.",
         "Everything will be fine so long as we stay together.",
-        "Everything will be OK as long as we stay together."
+        "Everything will be OK as long as we stay together.",
+        "Everything will be all right as long as we stay together.",
+        "Everything will be fine as long as we stick together.",
+        "Everything will be OK as long as we stick together."
       ]
     },
     {
@@ -241,7 +266,8 @@
         "He'll help us provided we pay him.",
         "He'll help us providing we pay him.",
         "He'll help us as long as we pay him.",
-        "He'll help us provided that we pay him."
+        "He'll help us provided that we pay him.",
+        "He'll help us so long as we pay him."
       ]
     },
     {
@@ -249,7 +275,10 @@
       "en": [
         "Can I borrow your laptop as long as I'm careful with it?",
         "Can I borrow your laptop provided I'm careful with it?",
-        "Can I borrow your laptop if I'm careful with it?"
+        "Can I borrow your laptop if I'm careful with it?",
+        "Can I take your laptop as long as I'm careful with it?",
+        "Can I borrow your laptop providing I'm careful with it?",
+        "Could I borrow your laptop as long as I'm careful with it?"
       ]
     }
   ]

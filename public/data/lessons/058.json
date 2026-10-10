@@ -17,7 +17,7 @@
     { "ru": "Анна терпеть не может летать.", "en": ["Anna hates flying.", "Anna hates to fly.", "Anna can't stand flying."] },
     { "ru": "Ты любишь готовить?", "en": ["Do you like cooking?", "Do you like to cook?", "Do you love cooking?", "Do you love to cook?"] },
     { "ru": "Он не любит, когда его заставляют ждать.", "en": ["He doesn't like being kept waiting.", "He doesn't like to be kept waiting."] },
-    { "ru": "Я не люблю, когда люди звонят мне поздно вечером.", "en": ["I don't like people calling me late in the evening.", "I don't like people to call me late in the evening.", "I don't like it when people call me late in the evening."] },
+    { "ru": "Я не люблю, когда люди звонят мне поздно вечером.", "en": ["I don't like people calling me late in the evening.", "I don't like people to call me late in the evening.", "I don't like it when people call me late in the evening.", "I don't like people phoning me late in the evening.", "I don't like it when people phone me late in the evening.", "I don't like people calling me late at night.", "I don't like it when people call me late at night."] },
     { "ru": "(он живёт в Риме) Майку нравится жить в Риме.", "en": ["Mike likes living in Rome.", "Mike enjoys living in Rome.", "Mike loves living in Rome."] },
     { "ru": "Тебе нравится быть учителем?", "en": ["Do you like being a teacher?", "Do you enjoy being a teacher?"] },
     { "ru": "(раньше я там работал) Мне не нравилось там работать.", "en": ["I didn't like working there.", "I didn't enjoy working there."] },
@@ -26,7 +26,7 @@
     { "ru": "Я не против помыть посуду.", "en": ["I don't mind washing the dishes.", "I don't mind doing the dishes.", "I don't mind washing up.", "I don't mind doing the washing-up."] },
     { "ru": "Я бы хотел поехать в Японию.", "en": ["I'd like to go to Japan.", "I'd like to travel to Japan.", "I'd like to visit Japan."] },
     { "ru": "Что бы ты хотела съесть?", "en": ["What would you like to eat?"] },
-    { "ru": "Я бы не хотел жить один.", "en": ["I wouldn't like to live alone.", "I wouldn't like to live on my own.", "I wouldn't want to live alone."] },
+    { "ru": "Я бы не хотел жить один.", "en": ["I wouldn't like to live alone.", "I wouldn't like to live on my own.", "I wouldn't want to live alone.", "I wouldn't like to live by myself."] },
     { "ru": "Я бы с радостью познакомилась с твоими родителями.", "en": ["I'd love to meet your parents."] },
     { "ru": "Ты бы предпочёл поехать на поезде?", "en": ["Would you prefer to go by train?", "Would you prefer to travel by train?", "Would you prefer to take the train?"] },
     { "ru": "Мне бы очень не хотелось опоздать на самолёт.", "en": ["I'd hate to miss the plane.", "I'd hate to miss the flight.", "I'd hate to miss my flight."] },
@@ -36,6 +36,6 @@
     { "ru": "(но не получилось) Я бы хотел повидать Лизу.", "en": ["I'd like to have seen Lisa.", "I would have liked to see Lisa."] },
     { "ru": "(но не смог пойти) Я бы с удовольствием сходил на концерт.", "en": ["I'd love to have gone to the concert.", "I would have loved to go to the concert."] },
     { "ru": "(хорошо, что меня там не было) Я бы очень не хотел оказаться там в тот день.", "en": ["I'd hate to have been there that day.", "I would have hated to be there that day."] },
-    { "ru": "(жаль, что поехали на машине) Мы бы предпочли поехать на поезде.", "en": ["We'd prefer to have gone by train.", "We would have preferred to go by train.", "We'd prefer to have travelled by train.", "We would have preferred to travel by train."] }
+    { "ru": "(жаль, что поехали на машине) Мы бы предпочли поехать на поезде.", "en": ["We'd prefer to have gone by train.", "We would have preferred to go by train.", "We'd prefer to have travelled by train.", "We would have preferred to travel by train.", "We would have preferred to take the train.", "We'd prefer to have taken the train."] }
   ]
 }

@@ -93,7 +93,8 @@
       "en": [
         "What do you do in the evenings?",
         "What do you do in the evening?",
-        "What do you usually do in the evenings?"
+        "What do you usually do in the evenings?",
+        "What do you usually do in the evening?"
       ]
     },
     {
@@ -108,13 +109,19 @@
         "It rarely rains here in summer.",
         "It rarely rains here in the summer.",
         "It doesn't rain much here in summer.",
-        "It seldom rains here in summer."
+        "It seldom rains here in summer.",
+        "It seldom rains here in the summer.",
+        "It doesn't rain much here in the summer.",
+        "In summer it rarely rains here.",
+        "In the summer it rarely rains here."
       ]
     },
     {
       "ru": "(сейчас) Дождь не идёт, пойдём гулять.",
       "en": [
-        "It isn't raining, let's go for a walk."
+        "It isn't raining, let's go for a walk.",
+        "It isn't raining, so let's go for a walk.",
+        "It isn't raining, let's go out for a walk."
       ]
     },
     {
@@ -123,7 +130,10 @@
         "I usually walk to work, but today I'm taking the bus.",
         "I usually walk to work, but today I'm going by bus.",
         "I usually walk to work, but I'm taking the bus today.",
-        "I usually go to work on foot, but today I'm taking the bus."
+        "I usually go to work on foot, but today I'm taking the bus.",
+        "I usually walk to work, but I'm going by bus today.",
+        "I usually walk to work, but today I'm taking a bus.",
+        "I usually go to work on foot, but today I'm going by bus."
       ]
     },
     {
@@ -132,7 +142,10 @@
         "I'm staying with friends while I look for a flat.",
         "I'm living with friends while I look for a flat.",
         "I'm staying with friends while I look for an apartment.",
-        "I'm staying with friends while I'm looking for a flat."
+        "I'm staying with friends while I'm looking for a flat.",
+        "I'm staying with friends while I'm looking for an apartment.",
+        "I'm living with friends while I look for an apartment.",
+        "I'm living with friends while I'm looking for a flat."
       ]
     },
     {
@@ -145,7 +158,9 @@
       "ru": "На этой неделе Лиза не работает, она в отпуске.",
       "en": [
         "Lisa isn't working this week, she's on holiday.",
-        "Lisa isn't working this week because she's on holiday."
+        "Lisa isn't working this week because she's on holiday.",
+        "Lisa isn't working this week, she's on vacation.",
+        "This week Lisa isn't working, she's on holiday."
       ]
     },
     {
@@ -169,7 +184,8 @@
         "How often do you phone your mum?",
         "How often do you call your mother?",
         "How often do you phone your mother?",
-        "How often do you call your mom?"
+        "How often do you call your mom?",
+        "How often do you phone your mom?"
       ]
     },
     {
@@ -185,7 +201,8 @@
       "ru": "Цены растут каждый год.",
       "en": [
         "Prices go up every year.",
-        "Prices rise every year."
+        "Prices rise every year.",
+        "Prices increase every year."
       ]
     },
     {
@@ -194,7 +211,8 @@
         "I always go to work by bike.",
         "I always cycle to work.",
         "I always ride my bike to work.",
-        "I always go to work by bicycle."
+        "I always go to work by bicycle.",
+        "I always ride a bike to work."
       ]
     },
     {

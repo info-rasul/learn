@@ -61,7 +61,8 @@
       "en": [
         "This is the cheapest hotel in town.",
         "It's the cheapest hotel in town.",
-        "This is the cheapest hotel in the city."
+        "This is the cheapest hotel in the city.",
+        "It's the cheapest hotel in the city."
       ]
     },
     {
@@ -69,7 +70,9 @@
       "en": [
         "He's the tallest in the class.",
         "He's the tallest in his class.",
-        "He's the tallest student in the class."
+        "He's the tallest student in the class.",
+        "He's the tallest in class.",
+        "He's the tallest boy in the class."
       ]
     },
     {
@@ -91,7 +94,8 @@
       "en": [
         "This is the easiest exercise.",
         "It's the easiest exercise.",
-        "This is the simplest exercise."
+        "This is the simplest exercise.",
+        "It's the simplest exercise."
       ]
     },
     {
@@ -111,7 +115,9 @@
     {
       "ru": "Кто самый старый человек в твоей семье?",
       "en": [
-        "Who is the oldest person in your family?"
+        "Who is the oldest person in your family?",
+        "Who is the oldest in your family?",
+        "Who is the oldest member of your family?"
       ]
     },
     {
@@ -125,7 +131,10 @@
       "ru": "Какой самый быстрый способ добраться до аэропорта?",
       "en": [
         "What's the fastest way to get to the airport?",
-        "What's the quickest way to get to the airport?"
+        "What's the quickest way to get to the airport?",
+        "What's the fastest way to the airport?",
+        "What's the quickest way to the airport?",
+        "Which is the fastest way to get to the airport?"
       ]
     },
     {
@@ -154,7 +163,8 @@
       "ru": "Сегодня самый холодный день года.",
       "en": [
         "Today is the coldest day of the year.",
-        "It's the coldest day of the year today."
+        "It's the coldest day of the year today.",
+        "Today it's the coldest day of the year."
       ]
     },
     {
@@ -170,7 +180,9 @@
         "Kate is the cleverest of us.",
         "Kate is the smartest of us.",
         "Kate is the cleverest of us all.",
-        "Kate is the most intelligent of us."
+        "Kate is the most intelligent of us.",
+        "Kate is the smartest of us all.",
+        "Kate is the cleverest one of us."
       ]
     },
     {
@@ -199,7 +211,10 @@
         "It's the worst film I've ever seen.",
         "This is the worst film I've ever seen.",
         "It's the worst movie I've ever seen.",
-        "It's the worst film that I've ever seen."
+        "It's the worst film that I've ever seen.",
+        "This is the worst movie I've ever seen.",
+        "It's the worst movie that I've ever seen.",
+        "That's the worst film I've ever seen."
       ]
     },
     {
@@ -207,7 +222,8 @@
       "en": [
         "It's the most interesting book I've ever read.",
         "This is the most interesting book I've ever read.",
-        "It's the most interesting book that I've ever read."
+        "It's the most interesting book that I've ever read.",
+        "This is the most interesting book that I've ever read."
       ]
     },
     {
@@ -215,7 +231,10 @@
       "en": [
         "Moscow is the biggest city I've ever been to.",
         "Moscow is the largest city I've ever been to.",
-        "Moscow is the biggest city I've ever visited."
+        "Moscow is the biggest city I've ever visited.",
+        "Moscow is the largest city I've ever visited.",
+        "Moscow is the biggest city I've ever been in.",
+        "Moscow is the biggest city that I've ever been to."
       ]
     },
     {
@@ -223,7 +242,9 @@
       "en": [
         "It's the best holiday I've ever had.",
         "This is the best holiday I've ever had.",
-        "It's the best vacation I've ever had."
+        "It's the best vacation I've ever had.",
+        "This is the best vacation I've ever had.",
+        "It's the best holiday that I've ever had."
       ]
     },
     {

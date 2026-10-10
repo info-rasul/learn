@@ -51,11 +51,13 @@
   ],
   "items": [
     {
-      "ru": "Автобус был переполнен, и я не смог сесть.",
+      "ru": "Автобус был переполнен, и я не смог в него сесть.",
       "en": [
         "The bus was full and I couldn't get on.",
         "The bus was full, so I couldn't get on.",
-        "The bus was crowded and I couldn't get on."
+        "The bus was crowded and I couldn't get on.",
+        "The bus was crowded, so I couldn't get on.",
+        "The bus was packed and I couldn't get on."
       ]
     },
     {
@@ -63,7 +65,8 @@
       "en": [
         "The man got into the car and drove off.",
         "The man got in the car and drove off.",
-        "The man got into the car and drove away."
+        "The man got into the car and drove away.",
+        "The man got in the car and drove away."
       ]
     },
     {
@@ -84,7 +87,8 @@
     {
       "ru": "Моя машина сломалась по дороге на работу.",
       "en": [
-        "My car broke down on the way to work."
+        "My car broke down on the way to work.",
+        "My car broke down on my way to work."
       ]
     },
     {
@@ -116,7 +120,8 @@
       "ru": "Денег у нас немного, но нам хватает.",
       "en": [
         "We don't have much money, but we get by.",
-        "We haven't got much money, but we get by."
+        "We haven't got much money, but we get by.",
+        "We don't have a lot of money, but we get by."
       ]
     },
     {
@@ -135,7 +140,8 @@
       "ru": "Ты идёшь слишком быстро, я не успеваю за тобой.",
       "en": [
         "You're walking too fast, I can't keep up with you.",
-        "You're going too fast, I can't keep up with you."
+        "You're going too fast, I can't keep up with you.",
+        "You're walking too fast, I can't keep up."
       ]
     },
     {
@@ -202,14 +208,17 @@
         "Can I throw away these old magazines?",
         "Can I throw these old magazines away?",
         "Can I throw out these old magazines?",
-        "Can I throw these old magazines out?"
+        "Can I throw these old magazines out?",
+        "Could I throw away these old magazines?",
+        "Could I throw these old magazines away?"
       ]
     },
     {
       "ru": "Это моё письмо, не выбрасывай его!",
       "en": [
         "It's my letter, don't throw it away!",
-        "That's my letter, don't throw it away!"
+        "That's my letter, don't throw it away!",
+        "This is my letter, don't throw it away!"
       ]
     },
     {

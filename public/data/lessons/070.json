@@ -121,7 +121,9 @@
       "en": [
         "I'll go and buy some bread.",
         "I'm going to buy some bread.",
-        "I'll go and get some bread."
+        "I'll go and get some bread.",
+        "I'll go and buy bread.",
+        "I'll go buy some bread."
       ]
     },
     {
@@ -155,7 +157,9 @@
         "Sorry, I don't have time now.",
         "Sorry, I haven't got time now.",
         "Sorry, I have no time now.",
-        "I'm sorry, I don't have time now."
+        "I'm sorry, I don't have time now.",
+        "Sorry, I don't have time right now.",
+        "Sorry, I haven't got time right now."
       ]
     },
     {
@@ -228,7 +232,9 @@
       "ru": "Какой красивый пейзаж!",
       "en": [
         "What beautiful scenery!",
-        "What a beautiful view!"
+        "What a beautiful view!",
+        "What lovely scenery!",
+        "What a beautiful landscape!"
       ]
     },
     {
@@ -236,7 +242,8 @@
       "en": [
         "We had a lot of luggage.",
         "We had a lot of baggage.",
-        "We had lots of luggage."
+        "We had lots of luggage.",
+        "We had lots of baggage."
       ]
     },
     {

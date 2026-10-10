@@ -92,7 +92,9 @@
       "ru": "Как щедро с его стороны оплатить ужин!",
       "en": [
         "How generous of him to pay for dinner!",
-        "It was very generous of him to pay for dinner."
+        "It was very generous of him to pay for dinner.",
+        "It was so generous of him to pay for dinner.",
+        "How generous of him to pay for the dinner!"
       ]
     },
     {
@@ -101,7 +103,11 @@
         "Our neighbours have always been kind to us.",
         "The neighbours have always been kind to us.",
         "Our neighbours have always been nice to us.",
-        "Our neighbors have always been kind to us."
+        "Our neighbors have always been kind to us.",
+        "The neighbors have always been kind to us.",
+        "Our neighbors have always been nice to us.",
+        "The neighbours have always been nice to us.",
+        "The neighbours were always kind to us."
       ]
     },
     {
@@ -157,7 +163,9 @@
         "I'm sorry for being late yesterday.",
         "I'm sorry about being late yesterday.",
         "I'm sorry I was late yesterday.",
-        "Sorry for being late yesterday."
+        "Sorry for being late yesterday.",
+        "Sorry about being late yesterday.",
+        "Sorry I was late yesterday."
       ]
     },
     {
@@ -166,21 +174,25 @@
         "Sorry for the wait.",
         "Sorry about the wait.",
         "I'm sorry for the wait.",
-        "I'm sorry about the wait."
+        "I'm sorry about the wait.",
+        "Sorry for keeping you waiting.",
+        "Sorry to keep you waiting."
       ]
     },
     {
       "ru": "Она злится из-за счёта за телефон.",
       "en": [
         "She's angry about the phone bill.",
-        "She is annoyed about the phone bill."
+        "She is annoyed about the phone bill.",
+        "She's angry about the telephone bill."
       ]
     },
     {
       "ru": "Ты на меня злишься?",
       "en": [
         "Are you angry with me?",
-        "Are you annoyed with me?"
+        "Are you annoyed with me?",
+        "Are you mad at me?"
       ]
     },
     {
@@ -195,14 +207,19 @@
       "ru": "Лиза расстроена из-за того, что провалила тест.",
       "en": [
         "Lisa is upset about failing the test.",
-        "Lisa is upset about failing her test."
+        "Lisa is upset about failing her test.",
+        "Lisa is upset that she failed the test.",
+        "Lisa is upset because she failed the test."
       ]
     },
     {
       "ru": "Дети в восторге от предстоящей поездки.",
       "en": [
         "The children are excited about the trip.",
-        "The kids are excited about the trip."
+        "The kids are excited about the trip.",
+        "The children are excited about the upcoming trip.",
+        "The kids are excited about the upcoming trip.",
+        "The children are excited about the coming trip."
       ]
     },
     {
@@ -226,7 +243,9 @@
       "en": [
         "I feel sorry for Ben, he lost his job.",
         "I feel sorry for Ben, he has lost his job.",
-        "I'm sorry for Ben, he lost his job."
+        "I'm sorry for Ben, he lost his job.",
+        "I feel sorry for Ben because he lost his job.",
+        "I feel sorry for Ben because he has lost his job."
       ]
     },
     {
@@ -234,14 +253,16 @@
       "en": [
         "I'm fed up with this song.",
         "I'm bored with this song.",
-        "I'm tired of this song."
+        "I'm tired of this song.",
+        "I'm sick of this song."
       ]
     },
     {
       "ru": "Джек устал ждать автобус.",
       "en": [
         "Jack is tired of waiting for the bus.",
-        "Jack got tired of waiting for the bus."
+        "Jack got tired of waiting for the bus.",
+        "Jack was tired of waiting for the bus."
       ]
     },
     {
@@ -249,7 +270,8 @@
       "en": [
         "Aren't you bored with your job?",
         "Aren't you fed up with your job?",
-        "Aren't you tired of your job?"
+        "Aren't you tired of your job?",
+        "Aren't you sick of your job?"
       ]
     },
     {

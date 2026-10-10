@@ -58,13 +58,16 @@
       "en": [
         "Have you been waiting long?",
         "Have you been waiting for a long time?",
-        "Did you wait long?"
+        "Did you wait long?",
+        "Did you wait for a long time?",
+        "Have you waited long?"
       ]
     },
     {
       "ru": "Когда построили этот мост?",
       "en": [
-        "When was this bridge built?"
+        "When was this bridge built?",
+        "When did they build this bridge?"
       ]
     },
     {
@@ -99,14 +102,16 @@
       "ru": "Кто звонил Анне?",
       "en": [
         "Who called Anna?",
-        "Who phoned Anna?"
+        "Who phoned Anna?",
+        "Who rang Anna?"
       ]
     },
     {
       "ru": "Кому звонила Анна?",
       "en": [
         "Who did Anna call?",
-        "Who did Anna phone?"
+        "Who did Anna phone?",
+        "Who did Anna ring?"
       ]
     },
     {
@@ -127,13 +132,16 @@
       "ru": "Кто хочет чаю?",
       "en": [
         "Who wants some tea?",
-        "Who wants tea?"
+        "Who wants tea?",
+        "Who would like some tea?",
+        "Who would like tea?"
       ]
     },
     {
       "ru": "Какой поезд идёт в Париж?",
       "en": [
-        "Which train goes to Paris?"
+        "Which train goes to Paris?",
+        "What train goes to Paris?"
       ]
     },
     {
@@ -155,7 +163,9 @@
         "Who were you talking to last night?",
         "Who were you speaking to last night?",
         "Who did you talk to last night?",
-        "Who did you speak to last night?"
+        "Who did you speak to last night?",
+        "Who were you talking to yesterday evening?",
+        "Who did you talk to yesterday evening?"
       ]
     },
     {
@@ -169,7 +179,9 @@
       "ru": "О чём ты мечтаешь?",
       "en": [
         "What are you dreaming about?",
-        "What do you dream about?"
+        "What do you dream about?",
+        "What are you dreaming of?",
+        "What do you dream of?"
       ]
     },
     {
@@ -194,13 +206,15 @@
       "ru": "Почему бы нам не пойти в кино?",
       "en": [
         "Why don't we go to the cinema?",
-        "Why don't we go to the movies?"
+        "Why don't we go to the movies?",
+        "Why don't we go to the pictures?"
       ]
     },
     {
       "ru": "Почему Дэна вчера не было в школе?",
       "en": [
-        "Why wasn't Dan at school yesterday?"
+        "Why wasn't Dan at school yesterday?",
+        "Why wasn't Dan in school yesterday?"
       ]
     },
     {

@@ -13,6 +13,23 @@ const CONTRACTIONS: [RegExp, string][] = [
   [/\b(i|you|he|she|it|we|they|that|there|who)'d\b/g, "$1 'd"],
 ];
 
+const ONES = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven',
+  'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen'];
+const TENS = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
+
+/** Spells 0–99 as words so that "5" equals "five"; larger numbers stay as digits. */
+function numberToWords(digits: string): string {
+  const n = Number(digits);
+  if (n < 20) return ONES[n];
+  if (n < 100) return n % 10 ? `${TENS[Math.floor(n / 10)]} ${ONES[n % 10]}` : TENS[n / 10];
+  return digits;
+}
+
+const SPELLING: [RegExp, string][] = [
+  [/\banymore\b/g, 'any more'],
+  [/\bok\b/g, 'okay'],
+];
+
 /** Short forms that stand for more than one full word: 's = is/has, 'd = had/would. */
 const AMBIGUOUS: Record<string, string[]> = { "'s": ['is', 'has'], "'d": ['had', 'would'] };
 
@@ -26,7 +43,9 @@ const sameWord = (a: string, b: string) =>
 export function normalize(text: string): string {
   let t = text.toLowerCase().replace(/[’‘`]/g, "'");
   for (const [re, replacement] of CONTRACTIONS) t = t.replace(re, replacement);
+  for (const [re, replacement] of SPELLING) t = t.replace(re, replacement);
   return t
+    .replace(/\b\d+\b/g, numberToWords)
     .replace(/[^a-z0-9' ]+/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
