@@ -1,0 +1,215 @@
+{
+  "id": 1,
+  "title": "Базовая форма глагола",
+  "subtitle": "Present, Past и Future Simple: вопрос, утверждение, отрицание",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Вся грамматика английского начинается с одной таблицы. Глагол бывает в трёх временах (прошлое, настоящее, будущее) и в трёх формах (вопрос, утверждение, отрицание). Получается 9 клеток — их нужно довести до автоматизма."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Прошлое",
+        "Настоящее",
+        "Будущее"
+      ],
+      "rows": [
+        [
+          "?",
+          "Did I love?",
+          "Do I love?<br>Does he love?",
+          "Will I love?"
+        ],
+        [
+          "+",
+          "I loved",
+          "I love<br>He loves",
+          "I will love"
+        ],
+        [
+          "−",
+          "I didn't love",
+          "I don't love<br>He doesn't love",
+          "I won't love"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Правила"
+    },
+    {
+      "type": "list",
+      "items": [
+        "В настоящем времени у <b>he / she / it</b> к глаголу добавляется <b>-s</b>: he works, she lives.",
+        "Вопрос и отрицание в настоящем строятся с <b>do / does</b>, в прошлом — с <b>did</b>, в будущем — с <b>will</b>.",
+        "Правильные глаголы в прошедшем получают <b>-ed</b>: work → worked. Неправильные запоминаем: go → went, see → saw, come → came, know → knew, think → thought.",
+        "После does и did глагол возвращается в начальную форму: he works → does he work? → he doesn't work."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Местоимения"
+    },
+    {
+      "type": "list",
+      "items": [
+        "I — я",
+        "you — ты / вы",
+        "he — он",
+        "she — она",
+        "it — оно (неодушевлённое)",
+        "we — мы",
+        "they — они"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Глаголы урока"
+    },
+    {
+      "type": "p",
+      "text": "love — любить, live — жить, work — работать, start — начинать, finish — заканчивать, open — открывать, close — закрывать, think — думать, come — приходить, see — видеть, go — идти, know — знать, help — помогать, want — хотеть, ask — спрашивать, answer — отвечать, understand — понимать."
+    },
+    {
+      "type": "tip",
+      "text": "Сокращения: don't = do not, doesn't = does not, didn't = did not, won't = will not. В ответах можно писать и полную, и краткую форму."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я люблю.",
+      "en": [
+        "I love."
+      ]
+    },
+    {
+      "ru": "Он живёт.",
+      "en": [
+        "He lives."
+      ]
+    },
+    {
+      "ru": "Я не работаю.",
+      "en": [
+        "I don't work."
+      ]
+    },
+    {
+      "ru": "Она не видит.",
+      "en": [
+        "She doesn't see."
+      ]
+    },
+    {
+      "ru": "Ты работаешь?",
+      "en": [
+        "Do you work?"
+      ]
+    },
+    {
+      "ru": "Он закрывает?",
+      "en": [
+        "Does he close?"
+      ]
+    },
+    {
+      "ru": "Я знал.",
+      "en": [
+        "I knew."
+      ]
+    },
+    {
+      "ru": "Они открыли.",
+      "en": [
+        "They opened."
+      ]
+    },
+    {
+      "ru": "Он видел?",
+      "en": [
+        "Did he see?"
+      ]
+    },
+    {
+      "ru": "Я не понял.",
+      "en": [
+        "I didn't understand."
+      ]
+    },
+    {
+      "ru": "Я приду.",
+      "en": [
+        "I will come."
+      ]
+    },
+    {
+      "ru": "Он пойдёт?",
+      "en": [
+        "Will he go?"
+      ]
+    },
+    {
+      "ru": "Мы будем работать.",
+      "en": [
+        "We will work."
+      ]
+    },
+    {
+      "ru": "Она не будет ждать.",
+      "en": [
+        "She won't wait."
+      ]
+    },
+    {
+      "ru": "Мы не знаем.",
+      "en": [
+        "We don't know."
+      ]
+    },
+    {
+      "ru": "Она хочет.",
+      "en": [
+        "She wants."
+      ]
+    },
+    {
+      "ru": "Вы спросили?",
+      "en": [
+        "Did you ask?"
+      ]
+    },
+    {
+      "ru": "Я не отвечу.",
+      "en": [
+        "I won't answer."
+      ]
+    },
+    {
+      "ru": "Мы закончили.",
+      "en": [
+        "We finished."
+      ]
+    },
+    {
+      "ru": "Они помогают?",
+      "en": [
+        "Do they help?"
+      ]
+    },
+    {
+      "ru": "Ты начнёшь?",
+      "en": [
+        "Will you start?"
+      ]
+    },
+    {
+      "ru": "Он думает.",
+      "en": [
+        "He thinks."
+      ]
+    }
+  ]
+}

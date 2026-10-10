@@ -1,0 +1,279 @@
+{
+  "id": 6,
+  "title": "Степени сравнения. Указательные местоимения",
+  "subtitle": "Bigger, the biggest; this, that, these, those",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Короткие прилагательные получают <b>-er</b> и <b>the …-est</b>, длинные — <b>more</b> и <b>the most</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Обычная",
+        "Сравнительная",
+        "Превосходная"
+      ],
+      "rows": [
+        [
+          "big",
+          "bigger",
+          "the biggest"
+        ],
+        [
+          "old",
+          "older",
+          "the oldest"
+        ],
+        [
+          "easy",
+          "easier",
+          "the easiest"
+        ],
+        [
+          "beautiful",
+          "more beautiful",
+          "the most beautiful"
+        ],
+        [
+          "interesting",
+          "more interesting",
+          "the most interesting"
+        ],
+        [
+          "good",
+          "better",
+          "the best"
+        ],
+        [
+          "bad",
+          "worse",
+          "the worst"
+        ],
+        [
+          "many / much",
+          "more",
+          "the most"
+        ],
+        [
+          "little",
+          "less",
+          "the least"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>than</b> — «чем»: My house is bigger than yours.",
+        "<b>as … as</b> — «такой же, как»: He is as tall as me.",
+        "<b>not as … as</b> — «не такой, как».",
+        "<b>The more, the better</b> — чем больше, тем лучше."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Указательные местоимения"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>this</b> — этот, это (рядом); <b>these</b> — эти",
+        "<b>that</b> — тот, то (далеко); <b>those</b> — те"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Это» в начале фразы — <b>this is</b> или <b>it is</b>: <b>This is my house.</b>"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Этот дом большой.",
+      "en": [
+        "This house is big."
+      ]
+    },
+    {
+      "ru": "Мой дом больше.",
+      "en": [
+        "My house is bigger."
+      ]
+    },
+    {
+      "ru": "Это самый большой дом.",
+      "en": [
+        "This is the biggest house."
+      ]
+    },
+    {
+      "ru": "Она красивее своей сестры.",
+      "en": [
+        "She is more beautiful than her sister."
+      ]
+    },
+    {
+      "ru": "Это самый интересный фильм.",
+      "en": [
+        "This is the most interesting film.",
+        "This is the most interesting movie."
+      ]
+    },
+    {
+      "ru": "Сегодня теплее, чем вчера.",
+      "en": [
+        "It is warmer today than yesterday.",
+        "Today is warmer than yesterday."
+      ]
+    },
+    {
+      "ru": "Он лучше меня.",
+      "en": [
+        "He is better than me.",
+        "He is better than I am."
+      ]
+    },
+    {
+      "ru": "Это худший день.",
+      "en": [
+        "This is the worst day."
+      ]
+    },
+    {
+      "ru": "Москва больше Лондона?",
+      "en": [
+        "Is Moscow bigger than London?"
+      ]
+    },
+    {
+      "ru": "Мой брат старше меня.",
+      "en": [
+        "My brother is older than me.",
+        "My brother is older than I am."
+      ]
+    },
+    {
+      "ru": "Этот вопрос легче.",
+      "en": [
+        "This question is easier."
+      ]
+    },
+    {
+      "ru": "Английский не такой трудный, как китайский.",
+      "en": [
+        "English is not as difficult as Chinese.",
+        "English is not as hard as Chinese."
+      ]
+    },
+    {
+      "ru": "Он такой же высокий, как я.",
+      "en": [
+        "He is as tall as me.",
+        "He is as tall as I am."
+      ]
+    },
+    {
+      "ru": "Говори медленнее.",
+      "en": [
+        "Speak more slowly.",
+        "Speak slower."
+      ]
+    },
+    {
+      "ru": "Это самое дорогое кафе в городе.",
+      "en": [
+        "This is the most expensive cafe in the city.",
+        "This is the most expensive cafe in town."
+      ]
+    },
+    {
+      "ru": "Чем больше, тем лучше.",
+      "en": [
+        "The more, the better."
+      ]
+    },
+    {
+      "ru": "Ты мой лучший друг.",
+      "en": [
+        "You are my best friend."
+      ]
+    },
+    {
+      "ru": "Сегодня холоднее.",
+      "en": [
+        "It is colder today.",
+        "Today is colder."
+      ]
+    },
+    {
+      "ru": "Моя машина быстрее твоей.",
+      "en": [
+        "My car is faster than yours."
+      ]
+    },
+    {
+      "ru": "Кто самый умный?",
+      "en": [
+        "Who is the smartest?",
+        "Who is the cleverest?"
+      ]
+    },
+    {
+      "ru": "Это мой дом.",
+      "en": [
+        "This is my house."
+      ]
+    },
+    {
+      "ru": "То моя машина.",
+      "en": [
+        "That is my car."
+      ]
+    },
+    {
+      "ru": "Эти книги интересные.",
+      "en": [
+        "These books are interesting."
+      ]
+    },
+    {
+      "ru": "Те люди — мои друзья.",
+      "en": [
+        "Those people are my friends."
+      ]
+    },
+    {
+      "ru": "Это твоя сумка?",
+      "en": [
+        "Is this your bag?"
+      ]
+    },
+    {
+      "ru": "Что это?",
+      "en": [
+        "What is this?",
+        "What is it?"
+      ]
+    },
+    {
+      "ru": "Мне нравится этот фильм.",
+      "en": [
+        "I like this film.",
+        "I like this movie."
+      ]
+    },
+    {
+      "ru": "Тот человек знает меня.",
+      "en": [
+        "That man knows me.",
+        "That person knows me."
+      ]
+    },
+    {
+      "ru": "Эта комната большая.",
+      "en": [
+        "This room is big."
+      ]
+    }
+  ]
+}

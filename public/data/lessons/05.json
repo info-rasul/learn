@@ -1,0 +1,226 @@
+{
+  "id": 5,
+  "title": "Профессии. Этикет",
+  "subtitle": "I am a doctor; спасибо, извините, приятно познакомиться",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Перед профессией в единственном числе ставится артикль <b>a</b> (или <b>an</b> перед гласным звуком): <b>I am a teacher. She is an engineer.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Профессия",
+        "Перевод"
+      ],
+      "rows": [
+        [
+          "doctor",
+          "врач"
+        ],
+        [
+          "teacher",
+          "учитель"
+        ],
+        [
+          "engineer",
+          "инженер"
+        ],
+        [
+          "driver",
+          "водитель"
+        ],
+        [
+          "nurse",
+          "медсестра"
+        ],
+        [
+          "programmer",
+          "программист"
+        ],
+        [
+          "actor",
+          "актёр"
+        ],
+        [
+          "student",
+          "студент"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>What do you do?</b> — Кем ты работаешь? <b>Where do you work?</b> — Где ты работаешь?",
+        "Во множественном числе артикля нет: <b>We are students.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Вежливые фразы"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Фраза",
+        "Перевод"
+      ],
+      "rows": [
+        [
+          "Thank you! / Thanks!",
+          "Спасибо!"
+        ],
+        [
+          "You are welcome.",
+          "Пожалуйста (в ответ на спасибо)."
+        ],
+        [
+          "Excuse me.",
+          "Извините (чтобы обратиться)."
+        ],
+        [
+          "I am sorry. / Sorry.",
+          "Простите (за что-то)."
+        ],
+        [
+          "Nice to meet you.",
+          "Приятно познакомиться."
+        ],
+        [
+          "Could you…?",
+          "Не могли бы вы…?"
+        ]
+      ]
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я врач.",
+      "en": [
+        "I am a doctor."
+      ]
+    },
+    {
+      "ru": "Она учитель.",
+      "en": [
+        "She is a teacher."
+      ]
+    },
+    {
+      "ru": "Кем ты работаешь?",
+      "en": [
+        "What do you do?",
+        "What is your job?"
+      ]
+    },
+    {
+      "ru": "Мой отец инженер.",
+      "en": [
+        "My father is an engineer."
+      ]
+    },
+    {
+      "ru": "Он хороший водитель.",
+      "en": [
+        "He is a good driver."
+      ]
+    },
+    {
+      "ru": "Мы студенты.",
+      "en": [
+        "We are students."
+      ]
+    },
+    {
+      "ru": "Она не медсестра.",
+      "en": [
+        "She isn't a nurse."
+      ]
+    },
+    {
+      "ru": "Ты программист?",
+      "en": [
+        "Are you a programmer?"
+      ]
+    },
+    {
+      "ru": "Я хочу стать актёром.",
+      "en": [
+        "I want to become an actor.",
+        "I want to be an actor."
+      ]
+    },
+    {
+      "ru": "Где вы работаете?",
+      "en": [
+        "Where do you work?"
+      ]
+    },
+    {
+      "ru": "Он работает в больнице.",
+      "en": [
+        "He works in a hospital.",
+        "He works at a hospital."
+      ]
+    },
+    {
+      "ru": "Спасибо!",
+      "en": [
+        "Thank you!",
+        "Thanks!"
+      ]
+    },
+    {
+      "ru": "Пожалуйста, не за что.",
+      "en": [
+        "You are welcome."
+      ]
+    },
+    {
+      "ru": "Извините, где вокзал?",
+      "en": [
+        "Excuse me, where is the station?",
+        "Excuse me, where is the railway station?"
+      ]
+    },
+    {
+      "ru": "Простите, я не понимаю.",
+      "en": [
+        "Sorry, I don't understand.",
+        "I am sorry, I don't understand."
+      ]
+    },
+    {
+      "ru": "Приятно познакомиться.",
+      "en": [
+        "Nice to meet you."
+      ]
+    },
+    {
+      "ru": "Доброе утро!",
+      "en": [
+        "Good morning!"
+      ]
+    },
+    {
+      "ru": "До свидания!",
+      "en": [
+        "Goodbye!",
+        "Bye!"
+      ]
+    },
+    {
+      "ru": "Можно войти?",
+      "en": [
+        "May I come in?",
+        "Can I come in?"
+      ]
+    },
+    {
+      "ru": "Не могли бы вы помочь мне?",
+      "en": [
+        "Could you help me?"
+      ]
+    }
+  ]
+}

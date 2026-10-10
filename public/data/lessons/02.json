@@ -1,0 +1,315 @@
+{
+  "id": 2,
+  "title": "Местоимения. Вопросительные слова",
+  "subtitle": "Me, him, them; what, where, when, why, who, how",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Когда местоимение стоит после глагола («люблю <i>тебя</i>», «помогу <i>ей</i>»), у него другая форма."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Кто?",
+        "Кого? Кому?"
+      ],
+      "rows": [
+        [
+          "I — я",
+          "me — меня, мне"
+        ],
+        [
+          "you — ты, вы",
+          "you — тебя, вас"
+        ],
+        [
+          "he — он",
+          "him — его, ему"
+        ],
+        [
+          "she — она",
+          "her — её, ей"
+        ],
+        [
+          "it — оно",
+          "it — его, ему"
+        ],
+        [
+          "we — мы",
+          "us — нас, нам"
+        ],
+        [
+          "they — они",
+          "them — их, им"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Вопросительные слова"
+    },
+    {
+      "type": "p",
+      "text": "Вопросительное слово ставится в самое начало, а дальше идёт обычный вопрос из таблицы глагола."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Слово",
+        "Перевод",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "what",
+          "что, какой",
+          "What do you know?"
+        ],
+        [
+          "where",
+          "где, куда",
+          "Where do you live?"
+        ],
+        [
+          "when",
+          "когда",
+          "When will he come?"
+        ],
+        [
+          "why",
+          "почему",
+          "Why didn't you answer?"
+        ],
+        [
+          "who",
+          "кто",
+          "Who knows?"
+        ],
+        [
+          "how",
+          "как",
+          "How do you learn English?"
+        ],
+        [
+          "how much / how many",
+          "сколько",
+          "How many books do you have?"
+        ],
+        [
+          "which",
+          "который",
+          "Which book do you want?"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Схема"
+    },
+    {
+      "type": "p",
+      "text": "<b>Вопросительное слово + do / does / did / will + кто + глагол?</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Если <b>who</b> или <b>what</b> — само подлежащее («кто пришёл?»), вспомогательный глагол не нужен: <b>Who came?</b> <b>Who knows?</b> <b>What happened?</b>"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Что ты знаешь?",
+      "en": [
+        "What do you know?"
+      ]
+    },
+    {
+      "ru": "Где ты живёшь?",
+      "en": [
+        "Where do you live?"
+      ]
+    },
+    {
+      "ru": "Когда он придёт?",
+      "en": [
+        "When will he come?"
+      ]
+    },
+    {
+      "ru": "Почему она не работает?",
+      "en": [
+        "Why doesn't she work?"
+      ]
+    },
+    {
+      "ru": "Кто знает?",
+      "en": [
+        "Who knows?"
+      ]
+    },
+    {
+      "ru": "Как ты учишь английский?",
+      "en": [
+        "How do you learn English?"
+      ]
+    },
+    {
+      "ru": "Что ты видел?",
+      "en": [
+        "What did you see?"
+      ]
+    },
+    {
+      "ru": "Где они работали?",
+      "en": [
+        "Where did they work?"
+      ]
+    },
+    {
+      "ru": "Куда ты пойдёшь?",
+      "en": [
+        "Where will you go?"
+      ]
+    },
+    {
+      "ru": "Когда вы начали?",
+      "en": [
+        "When did you start?"
+      ]
+    },
+    {
+      "ru": "Почему ты не ответил?",
+      "en": [
+        "Why didn't you answer?"
+      ]
+    },
+    {
+      "ru": "Кто пришёл?",
+      "en": [
+        "Who came?"
+      ]
+    },
+    {
+      "ru": "Кто будет помогать?",
+      "en": [
+        "Who will help?"
+      ]
+    },
+    {
+      "ru": "Что она хочет?",
+      "en": [
+        "What does she want?"
+      ]
+    },
+    {
+      "ru": "Как он работает?",
+      "en": [
+        "How does he work?"
+      ]
+    },
+    {
+      "ru": "Куда он ездит?",
+      "en": [
+        "Where does he go?",
+        "Where does he travel?"
+      ]
+    },
+    {
+      "ru": "Когда ты закончишь?",
+      "en": [
+        "When will you finish?"
+      ]
+    },
+    {
+      "ru": "Почему они ушли?",
+      "en": [
+        "Why did they leave?",
+        "Why did they go?"
+      ]
+    },
+    {
+      "ru": "Что мы будем делать?",
+      "en": [
+        "What will we do?"
+      ]
+    },
+    {
+      "ru": "Где ты учишься?",
+      "en": [
+        "Where do you study?"
+      ]
+    },
+    {
+      "ru": "Какую книгу ты хочешь?",
+      "en": [
+        "Which book do you want?",
+        "What book do you want?"
+      ]
+    },
+    {
+      "ru": "Я люблю тебя.",
+      "en": [
+        "I love you."
+      ]
+    },
+    {
+      "ru": "Он знает меня.",
+      "en": [
+        "He knows me."
+      ]
+    },
+    {
+      "ru": "Она видела его.",
+      "en": [
+        "She saw him."
+      ]
+    },
+    {
+      "ru": "Мы поможем ей.",
+      "en": [
+        "We will help her."
+      ]
+    },
+    {
+      "ru": "Они спросили нас.",
+      "en": [
+        "They asked us."
+      ]
+    },
+    {
+      "ru": "Ты понимаешь их?",
+      "en": [
+        "Do you understand them?"
+      ]
+    },
+    {
+      "ru": "Я не понимаю его.",
+      "en": [
+        "I don't understand him."
+      ]
+    },
+    {
+      "ru": "Ты позвонишь мне?",
+      "en": [
+        "Will you call me?"
+      ]
+    },
+    {
+      "ru": "Они не ответили нам.",
+      "en": [
+        "They didn't answer us."
+      ]
+    },
+    {
+      "ru": "Кто видел их?",
+      "en": [
+        "Who saw them?"
+      ]
+    },
+    {
+      "ru": "Почему ты не любишь её?",
+      "en": [
+        "Why don't you love her?"
+      ]
+    }
+  ]
+}

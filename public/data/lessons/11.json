@@ -1,0 +1,197 @@
+{
+  "id": 11,
+  "title": "Модальные глаголы can, must, should",
+  "subtitle": "Can, must, should, may, have to",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Модальные глаголы выражают возможность, обязанность или совет. После них глагол идёт без <b>to</b> и без <b>-s</b>: <b>He can swim</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Глагол",
+        "Значение",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "can / could",
+          "могу, умею / мог",
+          "I can swim. I could run fast."
+        ],
+        [
+          "must",
+          "должен (обязан)",
+          "You must work."
+        ],
+        [
+          "should",
+          "следует, стоит",
+          "You should rest."
+        ],
+        [
+          "may",
+          "можно (разрешение)",
+          "May I come in?"
+        ],
+        [
+          "have to",
+          "приходится, нужно",
+          "I have to go."
+        ],
+        [
+          "would like",
+          "хотел бы",
+          "I would like some coffee."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Вопрос: модальный глагол встаёт вперёд — <b>Can you help me?</b>",
+        "Отрицание: <b>can't, mustn't, shouldn't</b>.",
+        "В будущем: <b>will be able to</b> (смогу), <b>will have to</b> (придётся).",
+        "<b>have to</b> ведёт себя как обычный глагол: <b>Do you have to…? You don't have to…</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "<b>mustn't</b> — «нельзя», а <b>don't have to</b> — «не обязательно»."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я умею плавать.",
+      "en": [
+        "I can swim."
+      ]
+    },
+    {
+      "ru": "Ты можешь мне помочь?",
+      "en": [
+        "Can you help me?"
+      ]
+    },
+    {
+      "ru": "Он не может прийти.",
+      "en": [
+        "He can't come."
+      ]
+    },
+    {
+      "ru": "Я мог бегать быстро.",
+      "en": [
+        "I could run fast."
+      ]
+    },
+    {
+      "ru": "Ты должен работать.",
+      "en": [
+        "You must work."
+      ]
+    },
+    {
+      "ru": "Мы должны идти.",
+      "en": [
+        "We must go.",
+        "We have to go."
+      ]
+    },
+    {
+      "ru": "Можно войти?",
+      "en": [
+        "May I come in?",
+        "Can I come in?"
+      ]
+    },
+    {
+      "ru": "Тебе следует отдохнуть.",
+      "en": [
+        "You should rest.",
+        "You should have a rest."
+      ]
+    },
+    {
+      "ru": "Ему не следует курить.",
+      "en": [
+        "He shouldn't smoke."
+      ]
+    },
+    {
+      "ru": "Ты не должен опаздывать.",
+      "en": [
+        "You mustn't be late.",
+        "You shouldn't be late."
+      ]
+    },
+    {
+      "ru": "Мне нужно идти.",
+      "en": [
+        "I have to go.",
+        "I need to go.",
+        "I must go."
+      ]
+    },
+    {
+      "ru": "Ей пришлось уйти.",
+      "en": [
+        "She had to leave.",
+        "She had to go."
+      ]
+    },
+    {
+      "ru": "Нам придётся ждать.",
+      "en": [
+        "We will have to wait."
+      ]
+    },
+    {
+      "ru": "Я смогу прийти завтра.",
+      "en": [
+        "I will be able to come tomorrow."
+      ]
+    },
+    {
+      "ru": "Ты умеешь готовить?",
+      "en": [
+        "Can you cook?"
+      ]
+    },
+    {
+      "ru": "Что мне делать?",
+      "en": [
+        "What should I do?",
+        "What must I do?"
+      ]
+    },
+    {
+      "ru": "Мы можем начать?",
+      "en": [
+        "Can we start?",
+        "Can we begin?"
+      ]
+    },
+    {
+      "ru": "Тебе не обязательно приходить.",
+      "en": [
+        "You don't have to come."
+      ]
+    },
+    {
+      "ru": "Я хотел бы кофе.",
+      "en": [
+        "I would like some coffee.",
+        "I would like coffee."
+      ]
+    },
+    {
+      "ru": "Можно мне воды?",
+      "en": [
+        "Can I have some water?",
+        "May I have some water?"
+      ]
+    }
+  ]
+}

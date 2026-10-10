@@ -1,0 +1,192 @@
+{
+  "id": 8,
+  "title": "Предлоги и параметры времени",
+  "subtitle": "At five, on Monday, in May; ago, every, until",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Когда",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "at",
+          "время, ночь, выходные",
+          "at five o'clock, at night, at the weekend"
+        ],
+        [
+          "on",
+          "день, дата",
+          "on Monday, on the first of May"
+        ],
+        [
+          "in",
+          "месяц, год, время года, часть дня",
+          "in May, in 2010, in summer, in the morning"
+        ],
+        [
+          "in",
+          "через (сколько-то времени)",
+          "in an hour"
+        ],
+        [
+          "for",
+          "в течение",
+          "for three years"
+        ],
+        [
+          "until",
+          "до (какого-то момента)",
+          "until five"
+        ],
+        [
+          "before / after",
+          "до / после",
+          "before lunch, after work"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>ago</b> — «назад», ставится после срока: <b>two days ago</b>.",
+        "<b>every</b> — каждый: <b>every day, every morning</b>.",
+        "Без предлога: <b>yesterday, today, tomorrow, last week, next year</b>."
+      ]
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я приду после работы.",
+      "en": [
+        "I will come after work."
+      ]
+    },
+    {
+      "ru": "Она была дома до обеда.",
+      "en": [
+        "She was at home before lunch."
+      ]
+    },
+    {
+      "ru": "Я вернусь в понедельник.",
+      "en": [
+        "I will come back on Monday.",
+        "I will return on Monday."
+      ]
+    },
+    {
+      "ru": "Урок начнётся в пять часов.",
+      "en": [
+        "The lesson will start at five o'clock.",
+        "The lesson will start at 5 o'clock.",
+        "The lesson will begin at five o'clock."
+      ]
+    },
+    {
+      "ru": "Я встаю в семь часов.",
+      "en": [
+        "I get up at seven o'clock.",
+        "I get up at seven.",
+        "I get up at 7 o'clock."
+      ]
+    },
+    {
+      "ru": "Она родилась в мае.",
+      "en": [
+        "She was born in May."
+      ]
+    },
+    {
+      "ru": "Мы поедем туда летом.",
+      "en": [
+        "We will go there in summer.",
+        "We will go there in the summer."
+      ]
+    },
+    {
+      "ru": "Я работаю утром.",
+      "en": [
+        "I work in the morning."
+      ]
+    },
+    {
+      "ru": "Он пришёл два дня назад.",
+      "en": [
+        "He came two days ago."
+      ]
+    },
+    {
+      "ru": "Я вижу его каждый день.",
+      "en": [
+        "I see him every day."
+      ]
+    },
+    {
+      "ru": "Я позвоню тебе завтра.",
+      "en": [
+        "I will call you tomorrow."
+      ]
+    },
+    {
+      "ru": "Вчера было холодно.",
+      "en": [
+        "It was cold yesterday.",
+        "Yesterday it was cold."
+      ]
+    },
+    {
+      "ru": "Мы встретимся в субботу вечером.",
+      "en": [
+        "We will meet on Saturday evening."
+      ]
+    },
+    {
+      "ru": "Я жил там в 2010 году.",
+      "en": [
+        "I lived there in 2010."
+      ]
+    },
+    {
+      "ru": "Ночью я сплю.",
+      "en": [
+        "I sleep at night."
+      ]
+    },
+    {
+      "ru": "Я буду ждать до пяти.",
+      "en": [
+        "I will wait until five.",
+        "I will wait till five."
+      ]
+    },
+    {
+      "ru": "Он работал там три года.",
+      "en": [
+        "He worked there for three years."
+      ]
+    },
+    {
+      "ru": "Я буду дома через час.",
+      "en": [
+        "I will be at home in an hour.",
+        "I will be home in an hour."
+      ]
+    },
+    {
+      "ru": "Когда ты родился?",
+      "en": [
+        "When were you born?"
+      ]
+    },
+    {
+      "ru": "Во сколько ты придёшь?",
+      "en": [
+        "What time will you come?",
+        "When will you come?"
+      ]
+    }
+  ]
+}

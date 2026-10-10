@@ -1,0 +1,175 @@
+{
+  "id": 9,
+  "title": "There is / There are",
+  "subtitle": "Есть, находится: there is a book on the table",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Когда говорим, что где-то что-то есть, используем <b>there is</b> (ед. число) и <b>there are</b> (мн. число). Место обычно ставится в конец: <b>There is a book on the table.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Прошлое",
+        "Настоящее",
+        "Будущее"
+      ],
+      "rows": [
+        [
+          "?",
+          "Was there…?<br>Were there…?",
+          "Is there…?<br>Are there…?",
+          "Will there be…?"
+        ],
+        [
+          "+",
+          "There was…<br>There were…",
+          "There is…<br>There are…",
+          "There will be…"
+        ],
+        [
+          "−",
+          "There was no…",
+          "There is no…<br>There isn't any…",
+          "There will be no…"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «В комнате есть стол» переводим с конца: <b>There is a table in the room</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "В комнате есть стол.",
+      "en": [
+        "There is a table in the room."
+      ]
+    },
+    {
+      "ru": "В городе много парков.",
+      "en": [
+        "There are many parks in the city.",
+        "There are a lot of parks in the city."
+      ]
+    },
+    {
+      "ru": "На столе есть книга?",
+      "en": [
+        "Is there a book on the table?"
+      ]
+    },
+    {
+      "ru": "В холодильнике нет молока.",
+      "en": [
+        "There is no milk in the fridge.",
+        "There isn't any milk in the fridge."
+      ]
+    },
+    {
+      "ru": "Здесь был магазин.",
+      "en": [
+        "There was a shop here.",
+        "There was a store here."
+      ]
+    },
+    {
+      "ru": "Там будет концерт.",
+      "en": [
+        "There will be a concert there."
+      ]
+    },
+    {
+      "ru": "Сколько комнат в доме?",
+      "en": [
+        "How many rooms are there in the house?"
+      ]
+    },
+    {
+      "ru": "В парке были дети.",
+      "en": [
+        "There were children in the park."
+      ]
+    },
+    {
+      "ru": "Здесь никого нет.",
+      "en": [
+        "There is nobody here.",
+        "There is no one here.",
+        "There isn't anybody here."
+      ]
+    },
+    {
+      "ru": "В нашем городе есть музей?",
+      "en": [
+        "Is there a museum in our city?",
+        "Is there a museum in our town?"
+      ]
+    },
+    {
+      "ru": "В этой книге нет картинок.",
+      "en": [
+        "There are no pictures in this book."
+      ]
+    },
+    {
+      "ru": "В сумке есть яблоко.",
+      "en": [
+        "There is an apple in the bag."
+      ]
+    },
+    {
+      "ru": "На стене две картины.",
+      "en": [
+        "There are two pictures on the wall."
+      ]
+    },
+    {
+      "ru": "Рядом с домом есть парк?",
+      "en": [
+        "Is there a park near the house?"
+      ]
+    },
+    {
+      "ru": "В классе нет студентов.",
+      "en": [
+        "There are no students in the classroom.",
+        "There aren't any students in the classroom."
+      ]
+    },
+    {
+      "ru": "Вчера здесь было много людей.",
+      "en": [
+        "There were many people here yesterday.",
+        "There were a lot of people here yesterday."
+      ]
+    },
+    {
+      "ru": "Завтра будет урок?",
+      "en": [
+        "Will there be a lesson tomorrow?"
+      ]
+    },
+    {
+      "ru": "В нашей улице есть кафе.",
+      "en": [
+        "There is a cafe in our street.",
+        "There is a cafe on our street."
+      ]
+    },
+    {
+      "ru": "Сколько студентов в группе?",
+      "en": [
+        "How many students are there in the group?"
+      ]
+    },
+    {
+      "ru": "В комнате было темно и не было окон.",
+      "en": [
+        "It was dark in the room and there were no windows."
+      ]
+    }
+  ]
+}

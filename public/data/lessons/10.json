@@ -1,0 +1,198 @@
+{
+  "id": 10,
+  "title": "Предлоги направления и движения",
+  "subtitle": "To, from, into, out of, through, across, along",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Русские «в» и «из» в английском зависят от того, есть ли движение: <b>in Moscow</b> — в Москве, <b>to Moscow</b> — в Москву, <b>from Moscow</b> — из Москвы."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Значение",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "to",
+          "в, к (куда)",
+          "to London, to the window"
+        ],
+        [
+          "from",
+          "из, от (откуда)",
+          "from school"
+        ],
+        [
+          "into",
+          "внутрь",
+          "into the room"
+        ],
+        [
+          "out of",
+          "из (наружу)",
+          "out of the house"
+        ],
+        [
+          "through",
+          "через (сквозь)",
+          "through the park"
+        ],
+        [
+          "across",
+          "через (поперёк)",
+          "across the street"
+        ],
+        [
+          "along",
+          "вдоль, по",
+          "along the river"
+        ],
+        [
+          "up / down",
+          "вверх / вниз",
+          "up the hill, down the stairs"
+        ],
+        [
+          "past",
+          "мимо",
+          "past the shop"
+        ],
+        [
+          "around",
+          "вокруг",
+          "around the house"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "<b>home</b> идёт без предлога: <b>go home, come home</b>. Транспорт — с <b>by</b>: <b>by bus, by car</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мы пойдём в кино.",
+      "en": [
+        "We will go to the cinema.",
+        "We will go to the movies."
+      ]
+    },
+    {
+      "ru": "Она пришла из школы.",
+      "en": [
+        "She came from school."
+      ]
+    },
+    {
+      "ru": "Мы поедем в Лондон.",
+      "en": [
+        "We will go to London."
+      ]
+    },
+    {
+      "ru": "Он вошёл в комнату.",
+      "en": [
+        "He came into the room.",
+        "He went into the room.",
+        "He entered the room."
+      ]
+    },
+    {
+      "ru": "Она вышла из дома.",
+      "en": [
+        "She went out of the house.",
+        "She came out of the house.",
+        "She left the house."
+      ]
+    },
+    {
+      "ru": "Мы шли через парк.",
+      "en": [
+        "We walked through the park.",
+        "We went through the park."
+      ]
+    },
+    {
+      "ru": "Он перешёл улицу.",
+      "en": [
+        "He crossed the street.",
+        "He went across the street."
+      ]
+    },
+    {
+      "ru": "Мы гуляли вдоль реки.",
+      "en": [
+        "We walked along the river."
+      ]
+    },
+    {
+      "ru": "Он спустился по лестнице.",
+      "en": [
+        "He went down the stairs.",
+        "He came down the stairs."
+      ]
+    },
+    {
+      "ru": "Она прошла мимо меня.",
+      "en": [
+        "She walked past me.",
+        "She went past me."
+      ]
+    },
+    {
+      "ru": "Я пойду домой.",
+      "en": [
+        "I will go home."
+      ]
+    },
+    {
+      "ru": "Он упал со стула.",
+      "en": [
+        "He fell off the chair.",
+        "He fell from the chair."
+      ]
+    },
+    {
+      "ru": "Откуда ты приехал?",
+      "en": [
+        "Where did you come from?"
+      ]
+    },
+    {
+      "ru": "Мы летели из Москвы в Париж.",
+      "en": [
+        "We flew from Moscow to Paris."
+      ]
+    },
+    {
+      "ru": "Он подошёл к окну.",
+      "en": [
+        "He went to the window.",
+        "He came up to the window."
+      ]
+    },
+    {
+      "ru": "Дети бегали вокруг дома.",
+      "en": [
+        "The children ran around the house."
+      ]
+    },
+    {
+      "ru": "Я приехал на работу на автобусе.",
+      "en": [
+        "I came to work by bus."
+      ]
+    },
+    {
+      "ru": "Мы поднялись на гору.",
+      "en": [
+        "We went up the hill.",
+        "We climbed the hill.",
+        "We went up the mountain."
+      ]
+    }
+  ]
+}
