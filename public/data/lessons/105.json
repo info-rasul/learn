@@ -32,6 +32,48 @@
       "text": "Не используйте <b>more</b> и <b>-er</b> одновременно: <b>bigger</b>, а не more bigger. И «лучше/хуже» — это <b>better/worse</b>, а не gooder/badder или more good."
     }
   ],
+  "words": [
+    {
+      "en": "than",
+      "ru": "чем"
+    },
+    {
+      "en": "more",
+      "ru": "более"
+    },
+    {
+      "en": "better",
+      "ru": "лучше"
+    },
+    {
+      "en": "worse",
+      "ru": "хуже"
+    },
+    {
+      "en": "further",
+      "ru": "дальше; дальнейший"
+    },
+    {
+      "en": "cheap",
+      "ru": "дешёвый"
+    },
+    {
+      "en": "quiet",
+      "ru": "тихий"
+    },
+    {
+      "en": "simple",
+      "ru": "простой"
+    },
+    {
+      "en": "early",
+      "ru": "рано"
+    },
+    {
+      "en": "information",
+      "ru": "информация"
+    }
+  ],
   "items": [
     { "ru": "Этот отель дешевле.", "en": ["This hotel is cheaper."] },
     { "ru": "Поезд быстрее автобуса.", "en": ["The train is faster than the bus.", "A train is faster than a bus.", "Trains are faster than buses."] },

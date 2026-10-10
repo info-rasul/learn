@@ -57,6 +57,33 @@
       "text": "Русское «вечно ты…» переводите как <b>you're always + -ing</b>, а не <b>you always…</b>. А обычные привычки («как часто», «обычно») — только present simple: <b>How often do you call?</b>, не <b>are you calling</b>."
     }
   ],
+  "words": [
+    { "en": "always", "ru": "всегда; вечно (с раздражением: you're always losing)" },
+    { "en": "while", "ru": "пока, в то время как" },
+    { "en": "boil", "ru": "кипеть" },
+    { "en": "kettle", "ru": "чайник" },
+    { "en": "melt", "ru": "таять" },
+    { "en": "ice", "ru": "лёд" },
+    { "en": "rain", "ru": "идти (о дожде); дождь" },
+    { "en": "walk", "ru": "ходить пешком, гулять" },
+    { "en": "stay with", "ru": "жить у (кого-то), гостить" },
+    { "en": "flat", "ru": "квартира" },
+    { "en": "on holiday", "ru": "в отпуске" },
+    { "en": "hard", "ru": "усердно, много (работать)" },
+    { "en": "everybody", "ru": "все, каждый" },
+    { "en": "call", "ru": "звонить" },
+    { "en": "improve", "ru": "улучшаться" },
+    { "en": "go up", "forms": "went up, gone up", "ru": "расти, повышаться (о ценах)" },
+    { "en": "by bike", "ru": "на велосипеде" },
+    { "en": "lose", "forms": "lost, lost", "ru": "терять" },
+    { "en": "complain about", "ru": "жаловаться на" },
+    { "en": "weather", "ru": "погода" },
+    { "en": "argue", "ru": "спорить" },
+    { "en": "money", "ru": "деньги" },
+    { "en": "arrive", "ru": "приходить, прибывать" },
+    { "en": "on time", "ru": "вовремя" },
+    { "en": "look at", "ru": "смотреть на" }
+  ],
   "items": [
     {
       "ru": "(сейчас) Чайник кипит.",

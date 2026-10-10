@@ -34,6 +34,28 @@
       "text": "По-русски «он хорошо/быстро/тихо» звучит одинаково после любого глагола. В английском проверяйте, что описываете: действие → <b>-ly</b> (<b>drive carefully</b>), человека или вещь → прилагательное (<b>a careful driver</b>, <b>The soup smells terrible</b>)."
     }
   ],
+  "words": [
+    { "en": "slowly", "ru": "медленно" },
+    { "en": "slow", "ru": "медленный" },
+    { "en": "quietly", "ru": "тихо" },
+    { "en": "careful", "ru": "осторожный, внимательный" },
+    { "en": "carefully", "ru": "осторожно, внимательно" },
+    { "en": "easily", "ru": "легко" },
+    { "en": "happily", "ru": "радостно, счастливо" },
+    { "en": "fluently", "ru": "бегло (о речи)" },
+    { "en": "angrily", "ru": "сердито" },
+    { "en": "quickly", "ru": "быстро" },
+    { "en": "surprisingly", "ru": "удивительно" },
+    { "en": "terribly", "ru": "ужасно, очень" },
+    { "en": "seriously", "ru": "серьёзно, тяжело" },
+    { "en": "badly", "ru": "плохо" },
+    { "en": "absolutely", "ru": "совершенно, абсолютно" },
+    { "en": "enormous", "ru": "огромный" },
+    { "en": "behave", "ru": "вести себя" },
+    { "en": "basically", "ru": "по сути, в основном" },
+    { "en": "unexpectedly", "ru": "неожиданно" },
+    { "en": "organise", "ru": "организовывать" }
+  ],
   "items": [
     { "ru": "Он медленно ехал.", "en": ["He drove slowly.", "He was driving slowly."] },
     { "ru": "Он медленный водитель.", "en": ["He is a slow driver."] },

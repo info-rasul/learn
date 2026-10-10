@@ -53,6 +53,69 @@
       "text": "Частая ошибка: <b>I live in the north Italy</b>. Правильно либо <b>in the north of Italy</b>, либо <b>in northern Italy</b>. И не забывайте the с США: <b>in the USA</b>, но просто <b>in Canada</b>."
     }
   ],
+  "words": [
+    {
+      "en": "the United States",
+      "ru": "Соединённые Штаты, США"
+    },
+    {
+      "en": "the United Kingdom",
+      "ru": "Соединённое Королевство, Великобритания"
+    },
+    {
+      "en": "the Netherlands",
+      "ru": "Нидерланды"
+    },
+    {
+      "en": "the Atlantic",
+      "ru": "Атлантический океан"
+    },
+    {
+      "en": "the Mediterranean",
+      "ru": "Средиземное море"
+    },
+    {
+      "en": "the Alps",
+      "ru": "Альпы"
+    },
+    {
+      "en": "lake",
+      "ru": "озеро"
+    },
+    {
+      "en": "desert",
+      "ru": "пустыня"
+    },
+    {
+      "en": "north",
+      "ru": "север"
+    },
+    {
+      "en": "south",
+      "ru": "юг"
+    },
+    {
+      "en": "southern",
+      "ru": "южный"
+    },
+    {
+      "en": "flow",
+      "ru": "течь"
+    },
+    {
+      "en": "through",
+      "ru": "через, сквозь"
+    },
+    {
+      "en": "queen",
+      "ru": "королева"
+    },
+    {
+      "en": "go skiing",
+      "forms": "went, gone",
+      "ru": "кататься на лыжах"
+    }
+  ],
   "items": [
     {
       "ru": "(когда-нибудь) Ты был в Японии?",

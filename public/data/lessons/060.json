@@ -12,6 +12,84 @@
     { "type": "table", "head": ["Инфинитив", "Предлог to + -ing"], "rows": [["I hope to see you.", "I'm looking forward to seeing you."], ["I want to cycle.", "I prefer cycling to driving."]] },
     { "type": "tip", "text": "Русские часто переводят «перед тем как выйти» как <b>before to go</b>, а «жду с нетерпением встречи» — <b>looking forward to meet</b>. Правильно: <b>before going</b>, <b>looking forward to meeting</b>." }
   ],
+  "words": [
+    {
+      "en": "be interested in",
+      "ru": "интересоваться"
+    },
+    {
+      "en": "be good at",
+      "ru": "хорошо уметь, быть способным к"
+    },
+    {
+      "en": "be fed up with",
+      "ru": "надоело, сыт по горло"
+    },
+    {
+      "en": "thanks for",
+      "ru": "спасибо за"
+    },
+    {
+      "en": "how about",
+      "ru": "как насчёт"
+    },
+    {
+      "en": "instead of",
+      "ru": "вместо"
+    },
+    {
+      "en": "in spite of",
+      "ru": "несмотря на"
+    },
+    {
+      "en": "before",
+      "ru": "перед тем как, до"
+    },
+    {
+      "en": "after",
+      "ru": "после"
+    },
+    {
+      "en": "by doing",
+      "ru": "путём (делая что-то)"
+    },
+    {
+      "en": "without",
+      "ru": "без, не (сделав)"
+    },
+    {
+      "en": "look forward to",
+      "ru": "с нетерпением ждать"
+    },
+    {
+      "en": "advantage",
+      "ru": "преимущество, плюс"
+    },
+    {
+      "en": "lose weight",
+      "ru": "похудеть"
+    },
+    {
+      "en": "press",
+      "ru": "нажимать"
+    },
+    {
+      "en": "button",
+      "ru": "кнопка"
+    },
+    {
+      "en": "sign",
+      "ru": "подписывать"
+    },
+    {
+      "en": "knock",
+      "ru": "стучать"
+    },
+    {
+      "en": "cycle",
+      "ru": "ездить на велосипеде"
+    }
+  ],
   "items": [
     { "ru": "Тебе интересно изучать японский?", "en": ["Are you interested in learning Japanese?"] },
     { "ru": "Я не очень хорошо запоминаю имена.", "en": ["I'm not very good at remembering names."] },

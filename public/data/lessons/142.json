@@ -70,6 +70,100 @@
       "text": "«Отказаться от предложения» — <b>turn down the offer</b> или <b>turn it down</b>, не <b>turn down it</b>. «Ты меня подвёл» — <b>You let me down</b>."
     }
   ],
+  "words": [
+    {
+      "en": "put up",
+      "forms": "put, put",
+      "ru": "вешать (на стену)"
+    },
+    {
+      "en": "take down",
+      "forms": "took, taken",
+      "ru": "снимать (со стены)"
+    },
+    {
+      "en": "pick up",
+      "ru": "поднимать"
+    },
+    {
+      "en": "put down",
+      "forms": "put, put",
+      "ru": "класть, опускать"
+    },
+    {
+      "en": "stand up",
+      "forms": "stood, stood",
+      "ru": "вставать"
+    },
+    {
+      "en": "sit down",
+      "forms": "sat, sat",
+      "ru": "садиться"
+    },
+    {
+      "en": "lie down",
+      "forms": "lay, lain",
+      "ru": "прилечь"
+    },
+    {
+      "en": "turn up",
+      "ru": "делать громче"
+    },
+    {
+      "en": "turn down",
+      "ru": "убавлять; отказываться, отказывать"
+    },
+    {
+      "en": "knock down",
+      "ru": "сносить (здание); сбивать"
+    },
+    {
+      "en": "cut down",
+      "forms": "cut, cut",
+      "ru": "срубать"
+    },
+    {
+      "en": "cut down on",
+      "forms": "cut, cut",
+      "ru": "сокращать (потребление)"
+    },
+    {
+      "en": "burn down",
+      "forms": "burnt, burnt",
+      "ru": "сгореть дотла"
+    },
+    {
+      "en": "slow down",
+      "ru": "притормозить, замедлиться"
+    },
+    {
+      "en": "calm down",
+      "ru": "успокоиться"
+    },
+    {
+      "en": "close down",
+      "ru": "закрыться (навсегда)"
+    },
+    {
+      "en": "break down",
+      "forms": "broke, broken",
+      "ru": "распасться (об отношениях)"
+    },
+    {
+      "en": "let down",
+      "forms": "let, let",
+      "ru": "подводить"
+    },
+    {
+      "en": "write down",
+      "forms": "wrote, written",
+      "ru": "записывать"
+    },
+    {
+      "en": "poster",
+      "ru": "плакат"
+    }
+  ],
   "items": [
     {
       "ru": "Давай повесим эту карту на стену.",

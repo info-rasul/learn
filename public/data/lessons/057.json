@@ -13,6 +13,60 @@
     { "type": "list", "items": ["<b>help (somebody) do</b> = <b>help (somebody) to do</b>, оба варианта верны: <b>Can you help me (to) find my glasses?</b>", "<b>I can't help doing</b> — не могу удержаться, не могу не: <b>I can't help worrying about him.</b>"] },
     { "type": "tip", "text": "Русское «попробуй» почти всегда — <b>try -ing</b> (совет-эксперимент), а «я пытался, но не смог» — <b>try to</b>. И не говорите <b>The car needs to wash</b> — машина сама себя не моет: <b>needs washing</b>." }
   ],
+  "words": [
+    {
+      "en": "try to do",
+      "ru": "пытаться, стараться"
+    },
+    {
+      "en": "try doing",
+      "ru": "попробовать (как вариант)"
+    },
+    {
+      "en": "need to do",
+      "ru": "нужно сделать"
+    },
+    {
+      "en": "need doing",
+      "ru": "нуждаться в том, чтобы (что-то) сделали"
+    },
+    {
+      "en": "help somebody do",
+      "ru": "помочь кому-то сделать"
+    },
+    {
+      "en": "can't help doing",
+      "ru": "не мочь удержаться от, не мочь не"
+    },
+    {
+      "en": "turn off",
+      "ru": "выключать"
+    },
+    {
+      "en": "add",
+      "ru": "добавлять"
+    },
+    {
+      "en": "salt",
+      "ru": "соль"
+    },
+    {
+      "en": "iron",
+      "ru": "гладить (утюгом)"
+    },
+    {
+      "en": "grass",
+      "ru": "трава"
+    },
+    {
+      "en": "carry",
+      "ru": "нести"
+    },
+    {
+      "en": "computer",
+      "ru": "компьютер"
+    }
+  ],
   "items": [
     { "ru": "Я пытался открыть окно, но оно не открывалось.", "en": ["I tried to open the window, but it wouldn't open.", "I tried to open the window, but it didn't open."] },
     { "ru": "Постарайся завтра не опаздывать.", "en": ["Try not to be late tomorrow."] },

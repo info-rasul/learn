@@ -18,6 +18,23 @@
     { "type": "p", "text": "С <b>I</b> и <b>we</b> можно сказать <b>shall</b> вместо will (это книжнее): <b>We shall see.</b> Отрицание — <b>shall not / shan't</b>. С he/she/you/they shall не используем. В разговоре обычно просто <b>I'll, we'll</b>." },
     { "type": "tip", "text": "Русскоговорящие говорят «I think it won't rain». По-английски естественно <b>I don't think it will rain</b>. И после <b>I hope</b> не нужно will: <b>I hope you pass</b>." }
   ],
+  "words": [
+    { "en": "probably", "ru": "наверное, вероятно" },
+    { "en": "be sure", "ru": "быть уверенным" },
+    { "en": "hope", "ru": "надеяться" },
+    { "en": "wonder", "ru": "интересоваться (I wonder — интересно)" },
+    { "en": "by now", "ru": "уже (к этому моменту)" },
+    { "en": "be back", "ru": "вернуться" },
+    { "en": "in a year", "ru": "через год" },
+    { "en": "feel sick", "forms": "felt, felt", "ru": "тошнить, плохо себя чувствовать" },
+    { "en": "guess", "ru": "угадать" },
+    { "en": "result", "ru": "результат" },
+    { "en": "easily", "ru": "легко" },
+    { "en": "sunny", "ru": "солнечный" },
+    { "en": "surprised", "ru": "удивлённый" },
+    { "en": "ready", "ru": "готовый" },
+    { "en": "May", "ru": "май" }
+  ],
   "items": [
     { "ru": "Думаю, Анна сдаст экзамен.", "en": ["I think Anna will pass the exam.", "I think that Anna will pass the exam."] },
     { "ru": "Не волнуйся, ты легко его найдёшь.", "en": ["Don't worry, you'll find it easily.", "Don't worry, you'll find him easily."] },

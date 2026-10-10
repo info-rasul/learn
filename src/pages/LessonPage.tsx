@@ -5,8 +5,9 @@ import { formatScore, isUnlocked, lessonScore, PASS_SCORE } from '../lib/scoring
 import Theory from '../components/Theory';
 import Practice from '../components/Practice';
 import AskTutor from '../components/AskTutor';
+import WordList, { wordsCount } from '../components/WordList';
 
-type View = 'menu' | 'theory' | 'practice' | 'ask';
+type View = 'menu' | 'theory' | 'practice' | 'ask' | 'words';
 
 export default function LessonPage({ view = 'menu' }: { view?: View }) {
   const { id } = useParams();
@@ -60,6 +61,36 @@ export default function LessonPage({ view = 'menu' }: { view?: View }) {
           <h2>Вопрос по теме</h2>
           <AskTutor context={{ lesson }} />
         </section>
+        <div className="lesson-footer">
+          {lesson.words?.length ? (
+            <Link className="btn wide" to={`/lesson/${lesson.id}/words`}>
+              Новые слова
+            </Link>
+          ) : (
+            <Link className="btn wide" to={`/lesson/${lesson.id}/practice`}>
+              К заданиям
+            </Link>
+          )}
+        </div>
+      </div>
+    );
+  }
+
+  if (view === 'words') {
+    return (
+      <div className="lesson">
+        <Link to={`/lesson/${lesson.id}`} className="back-link">
+          ← Урок {lesson.id}
+        </Link>
+        <h1>Новые слова</h1>
+        <p className="muted">
+          {lesson.title} — {wordsCount(lesson.words?.length ?? 0)}. Нажмите на слово, чтобы услышать произношение.
+        </p>
+        {lesson.words?.length ? (
+          <WordList words={lesson.words} />
+        ) : (
+          <p className="muted">В этом уроке нет новых слов.</p>
+        )}
         <div className="lesson-footer">
           <Link className="btn wide" to={`/lesson/${lesson.id}/practice`}>
             К заданиям
@@ -119,6 +150,18 @@ export default function LessonPage({ view = 'menu' }: { view?: View }) {
             <span className="menu-arrow">›</span>
           </Link>
         </li>
+        {lesson.words?.length ? (
+          <li>
+            <Link to={`/lesson/${lesson.id}/words`}>
+              <span className="menu-badge plain">Aa</span>
+              <span className="menu-label">
+                Новые слова
+                <span className="muted small">{wordsCount(lesson.words.length)} с озвучкой</span>
+              </span>
+              <span className="menu-arrow">›</span>
+            </Link>
+          </li>
+        ) : null}
         <li>
           <Link to={`/lesson/${lesson.id}/ask`}>
             <span className="menu-badge plain">?</span>

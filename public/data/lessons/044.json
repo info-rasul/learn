@@ -4,41 +4,282 @@
   "title": "Passive 3",
   "subtitle": "Мне дали…, being done, I was born и пассив с get",
   "theory": [
-    { "type": "p", "text": "У глаголов <b>give, offer, show, tell, pay, ask</b> два дополнения (кому и что). В пассиве обычно начинаем с <b>человека</b>: <b>I was given a book.</b> — Мне дали книгу. <b>She was offered a job.</b> — Ей предложили работу. Возможно и <b>A book was given to me</b>, но это реже." },
-    { "type": "p", "text": "Пассивная форма от <b>-ing</b> — <b>being + 3-я форма</b>. Она нужна после <b>like, hate, remember, avoid, without</b> и т. п.: <b>I don't like being interrupted.</b> — Не люблю, когда меня перебивают. <b>We left without being seen.</b> — Мы ушли незамеченными." },
-    { "type": "p", "text": "«Я родился» — это всегда прошедшее: <b>I was born in 1995.</b> <b>Where were you born?</b> В настоящем — только о том, что происходит вообще: <b>Many babies are born every day.</b>" },
-    { "type": "h", "text": "get вместо be" },
-    { "type": "list", "items": [
-      "В разговорной речи вместо <b>be</b> можно сказать <b>get</b>, если что-то <b>случается</b>: <b>Nobody got hurt.</b> <b>My bike got stolen.</b>",
-      "Для состояний <b>get</b> нельзя: <b>She is liked by everyone.</b> (не gets liked).",
-      "Устойчивые выражения: <b>get married</b> (пожениться), <b>get divorced</b> (развестись), <b>get lost</b> (заблудиться), <b>get dressed</b> (одеться), <b>get changed</b> (переодеться)."
-    ] },
-    { "type": "tip", "text": "Не говорите <b>I am born</b> или <b>I born</b> — правильно только <b>I was born</b>. И фразу «мне сказали» переводите как <b>I was told</b>, а не <b>It was told me</b>." }
+    {
+      "type": "p",
+      "text": "У глаголов <b>give, offer, show, tell, pay, ask</b> два дополнения (кому и что). В пассиве обычно начинаем с <b>человека</b>: <b>I was given a book.</b> — Мне дали книгу. <b>She was offered a job.</b> — Ей предложили работу. Возможно и <b>A book was given to me</b>, но это реже."
+    },
+    {
+      "type": "p",
+      "text": "Пассивная форма от <b>-ing</b> — <b>being + 3-я форма</b>. Она нужна после <b>like, hate, remember, avoid, without</b> и т. п.: <b>I don't like being interrupted.</b> — Не люблю, когда меня перебивают. <b>We left without being seen.</b> — Мы ушли незамеченными."
+    },
+    {
+      "type": "p",
+      "text": "«Я родился» — это всегда прошедшее: <b>I was born in 1995.</b> <b>Where were you born?</b> В настоящем — только о том, что происходит вообще: <b>Many babies are born every day.</b>"
+    },
+    {
+      "type": "h",
+      "text": "get вместо be"
+    },
+    {
+      "type": "list",
+      "items": [
+        "В разговорной речи вместо <b>be</b> можно сказать <b>get</b>, если что-то <b>случается</b>: <b>Nobody got hurt.</b> <b>My bike got stolen.</b>",
+        "Для состояний <b>get</b> нельзя: <b>She is liked by everyone.</b> (не gets liked).",
+        "Устойчивые выражения: <b>get married</b> (пожениться), <b>get divorced</b> (развестись), <b>get lost</b> (заблудиться), <b>get dressed</b> (одеться), <b>get changed</b> (переодеться)."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Не говорите <b>I am born</b> или <b>I born</b> — правильно только <b>I was born</b>. И фразу «мне сказали» переводите как <b>I was told</b>, а не <b>It was told me</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "be born",
+      "ru": "родиться"
+    },
+    {
+      "en": "get married",
+      "ru": "пожениться"
+    },
+    {
+      "en": "get lost",
+      "ru": "заблудиться"
+    },
+    {
+      "en": "get dressed",
+      "ru": "одеться"
+    },
+    {
+      "en": "get changed",
+      "ru": "переодеться"
+    },
+    {
+      "en": "get hurt",
+      "ru": "пострадать, ушибиться"
+    },
+    {
+      "en": "give",
+      "forms": "gave, given",
+      "ru": "давать, дарить (be given — получить)"
+    },
+    {
+      "en": "show",
+      "forms": "showed, shown",
+      "ru": "показывать"
+    },
+    {
+      "en": "interrupt",
+      "ru": "перебивать"
+    },
+    {
+      "en": "can't stand",
+      "ru": "терпеть не могу"
+    },
+    {
+      "en": "keep waiting",
+      "ru": "заставлять ждать"
+    },
+    {
+      "en": "praise",
+      "ru": "хвалить"
+    },
+    {
+      "en": "part",
+      "ru": "часть"
+    },
+    {
+      "en": "during",
+      "ru": "во время"
+    },
+    {
+      "en": "colleague",
+      "ru": "коллега"
+    },
+    {
+      "en": "baby",
+      "ru": "младенец, ребёнок"
+    }
   ],
   "items": [
-    { "ru": "Мне подарили эти часы на день рождения.", "en": ["I was given this watch for my birthday.", "This watch was given to me for my birthday."] },
-    { "ru": "Ему предложили работу в Лондоне.", "en": ["He was offered a job in London.", "He has been offered a job in London."] },
-    { "ru": "Нам показали старую часть города.", "en": ["We were shown the old part of the city.", "We were shown the old part of the town.", "We were shown the old part of town."] },
-    { "ru": "Мне ничего не сказали о встрече.", "en": ["I wasn't told anything about the meeting.", "I was told nothing about the meeting."] },
-    { "ru": "Тебе заплатили за эту работу?", "en": ["Were you paid for this work?", "Have you been paid for this work?", "Were you paid for this job?"] },
-    { "ru": "Нам зададут много вопросов.", "en": ["We will be asked a lot of questions.", "We will be asked many questions.", "We'll be asked lots of questions."] },
-    { "ru": "Ей дадут время подумать.", "en": ["She will be given time to think.", "She will be given some time to think."] },
-    { "ru": "Я не люблю, когда меня перебивают.", "en": ["I don't like being interrupted."] },
-    { "ru": "Он терпеть не может, когда его заставляют ждать.", "en": ["He can't stand being kept waiting.", "He hates being kept waiting."] },
-    { "ru": "Я помню, как в детстве меня возили на море.", "en": ["I remember being taken to the sea as a child.", "I remember being taken to the sea when I was a child.", "I remember being taken to the seaside as a child."] },
-    { "ru": "Мы вошли незамеченными.", "en": ["We came in without being seen.", "We got in without being seen.", "We went in without being seen.", "We entered without being seen."] },
-    { "ru": "Дети любят, когда их хвалят.", "en": ["Children like being praised.", "Children love being praised.", "Kids like being praised."] },
-    { "ru": "Я родился в Москве.", "en": ["I was born in Moscow."] },
-    { "ru": "Где родилась твоя мама?", "en": ["Where was your mother born?", "Where was your mum born?", "Where was your mom born?"] },
-    { "ru": "В каком году ты родился?", "en": ["What year were you born in?", "Which year were you born in?", "What year were you born?"] },
-    { "ru": "Сколько детей рождается в этой стране каждый год?", "en": ["How many babies are born in this country every year?", "How many children are born in this country every year?"] },
-    { "ru": "Во время матча никто не пострадал.", "en": ["Nobody got hurt during the match.", "Nobody was hurt during the match.", "No one got hurt during the match.", "No one was hurt during the match."] },
-    { "ru": "У меня в автобусе украли телефон.", "en": ["My phone got stolen on the bus.", "My phone was stolen on the bus.", "I had my phone stolen on the bus."] },
-    { "ru": "Его часто приглашают на вечеринки?", "en": ["Does he often get invited to parties?", "Is he often invited to parties?"] },
-    { "ru": "Её любят все коллеги.", "en": ["She is liked by all her colleagues.", "She is liked by all of her colleagues.", "She is loved by all her colleagues.", "She is loved by all of her colleagues."] },
-    { "ru": "Они поженились в прошлом году.", "en": ["They got married last year."] },
-    { "ru": "Мы заблудились в Риме.", "en": ["We got lost in Rome."] },
-    { "ru": "Одевайся быстрее, мы опаздываем!", "en": ["Get dressed quickly, we're late!", "Hurry up and get dressed, we're late!", "Get dressed faster, we're late!"] },
-    { "ru": "Мне нужно переодеться перед ужином.", "en": ["I need to get changed before dinner.", "I have to get changed before dinner."] }
+    {
+      "ru": "Мне подарили эти часы на день рождения.",
+      "en": [
+        "I was given this watch for my birthday.",
+        "This watch was given to me for my birthday."
+      ]
+    },
+    {
+      "ru": "Ему предложили работу в Лондоне.",
+      "en": [
+        "He was offered a job in London.",
+        "He has been offered a job in London."
+      ]
+    },
+    {
+      "ru": "Нам показали старую часть города.",
+      "en": [
+        "We were shown the old part of the city.",
+        "We were shown the old part of the town.",
+        "We were shown the old part of town."
+      ]
+    },
+    {
+      "ru": "Мне ничего не сказали о встрече.",
+      "en": [
+        "I wasn't told anything about the meeting.",
+        "I was told nothing about the meeting."
+      ]
+    },
+    {
+      "ru": "Тебе заплатили за эту работу?",
+      "en": [
+        "Were you paid for this work?",
+        "Have you been paid for this work?",
+        "Were you paid for this job?"
+      ]
+    },
+    {
+      "ru": "Нам зададут много вопросов.",
+      "en": [
+        "We will be asked a lot of questions.",
+        "We will be asked many questions.",
+        "We'll be asked lots of questions."
+      ]
+    },
+    {
+      "ru": "Ей дадут время подумать.",
+      "en": [
+        "She will be given time to think.",
+        "She will be given some time to think."
+      ]
+    },
+    {
+      "ru": "Я не люблю, когда меня перебивают.",
+      "en": [
+        "I don't like being interrupted."
+      ]
+    },
+    {
+      "ru": "Он терпеть не может, когда его заставляют ждать.",
+      "en": [
+        "He can't stand being kept waiting.",
+        "He hates being kept waiting."
+      ]
+    },
+    {
+      "ru": "Я помню, как в детстве меня возили на море.",
+      "en": [
+        "I remember being taken to the sea as a child.",
+        "I remember being taken to the sea when I was a child.",
+        "I remember being taken to the seaside as a child."
+      ]
+    },
+    {
+      "ru": "Мы вошли незамеченными.",
+      "en": [
+        "We came in without being seen.",
+        "We got in without being seen.",
+        "We went in without being seen.",
+        "We entered without being seen."
+      ]
+    },
+    {
+      "ru": "Дети любят, когда их хвалят.",
+      "en": [
+        "Children like being praised.",
+        "Children love being praised.",
+        "Kids like being praised."
+      ]
+    },
+    {
+      "ru": "Я родился в Москве.",
+      "en": [
+        "I was born in Moscow."
+      ]
+    },
+    {
+      "ru": "Где родилась твоя мама?",
+      "en": [
+        "Where was your mother born?",
+        "Where was your mum born?",
+        "Where was your mom born?"
+      ]
+    },
+    {
+      "ru": "В каком году ты родился?",
+      "en": [
+        "What year were you born in?",
+        "Which year were you born in?",
+        "What year were you born?"
+      ]
+    },
+    {
+      "ru": "Сколько детей рождается в этой стране каждый год?",
+      "en": [
+        "How many babies are born in this country every year?",
+        "How many children are born in this country every year?"
+      ]
+    },
+    {
+      "ru": "Во время матча никто не пострадал.",
+      "en": [
+        "Nobody got hurt during the match.",
+        "Nobody was hurt during the match.",
+        "No one got hurt during the match.",
+        "No one was hurt during the match."
+      ]
+    },
+    {
+      "ru": "У меня в автобусе украли телефон.",
+      "en": [
+        "My phone got stolen on the bus.",
+        "My phone was stolen on the bus.",
+        "I had my phone stolen on the bus."
+      ]
+    },
+    {
+      "ru": "Его часто приглашают на вечеринки?",
+      "en": [
+        "Does he often get invited to parties?",
+        "Is he often invited to parties?"
+      ]
+    },
+    {
+      "ru": "Её любят все коллеги.",
+      "en": [
+        "She is liked by all her colleagues.",
+        "She is liked by all of her colleagues.",
+        "She is loved by all her colleagues.",
+        "She is loved by all of her colleagues."
+      ]
+    },
+    {
+      "ru": "Они поженились в прошлом году.",
+      "en": [
+        "They got married last year."
+      ]
+    },
+    {
+      "ru": "Мы заблудились в Риме.",
+      "en": [
+        "We got lost in Rome."
+      ]
+    },
+    {
+      "ru": "Одевайся быстрее, мы опаздываем!",
+      "en": [
+        "Get dressed quickly, we're late!",
+        "Hurry up and get dressed, we're late!",
+        "Get dressed faster, we're late!"
+      ]
+    },
+    {
+      "ru": "Мне нужно переодеться перед ужином.",
+      "en": [
+        "I need to get changed before dinner.",
+        "I have to get changed before dinner."
+      ]
+    }
   ]
 }

@@ -19,6 +19,64 @@
     ] },
     { "type": "tip", "text": "Русскоязычные часто переносят предлог вперёд («с которой»): <b>the girl with who Paul…</b> — так не говорят. Естественно: <b>the girl Paul is talking to</b>. И не забудьте: <b>everything that</b>, не <b>everything what</b>." }
   ],
+  "words": [
+    {
+      "en": "next to",
+      "ru": "рядом с"
+    },
+    {
+      "en": "lose",
+      "forms": "lost, lost",
+      "ru": "терять"
+    },
+    {
+      "en": "rent",
+      "ru": "брать напрокат, снимать"
+    },
+    {
+      "en": "give",
+      "forms": "gave, given",
+      "ru": "давать"
+    },
+    {
+      "en": "talk to",
+      "ru": "разговаривать с"
+    },
+    {
+      "en": "look for",
+      "ru": "искать"
+    },
+    {
+      "en": "grow up",
+      "forms": "grew up, grown up",
+      "ru": "вырасти"
+    },
+    {
+      "en": "apply for",
+      "ru": "подавать заявление (на работу)"
+    },
+    {
+      "en": "tell about",
+      "forms": "told about, told about",
+      "ru": "рассказывать о"
+    },
+    {
+      "en": "friendly",
+      "ru": "дружелюбный"
+    },
+    {
+      "en": "ill",
+      "ru": "больной"
+    },
+    {
+      "en": "anything",
+      "ru": "что-нибудь"
+    },
+    {
+      "en": "everything",
+      "ru": "всё"
+    }
+  ],
   "items": [
     { "ru": "Женщина, которая работает в этом кафе, — сестра Джона.", "en": ["The woman who works in this cafe is John's sister.", "The woman that works in this cafe is John's sister.", "The woman who works at this cafe is John's sister.", "The woman that works at this cafe is John's sister."] },
     { "ru": "Люди, которые живут рядом с нами, очень шумные.", "en": ["The people who live next to us are very noisy.", "The people that live next to us are very noisy.", "The people who live next door to us are very noisy.", "The people that live next door to us are very noisy.", "The people who live near us are very noisy.", "The people that live near us are very noisy."] },

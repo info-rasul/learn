@@ -15,6 +15,27 @@
     { "type": "p", "text": "Но если вывод сделан по тому, что <b>видно сейчас</b>, говорим <b>going to</b>: <b>Look at the traffic. We're going to miss the plane.</b> Если прогноз — это просто наше мнение или знание о человеке, обычно <b>will</b>: <b>Don't wait for Dan. He'll be late, as usual.</b>" },
     { "type": "tip", "text": "Русское будущее «я сделаю» одно на все случаи, поэтому легко везде ставить will. Сначала спросите себя: решение новое или уже было? Есть ли признаки прямо сейчас?" }
   ],
+  "words": [
+    { "en": "call back", "ru": "перезвонить" },
+    { "en": "check", "ru": "проверять" },
+    { "en": "lend", "forms": "lent, lent", "ru": "одалживать (кому-то)" },
+    { "en": "show", "forms": "showed, shown", "ru": "показывать" },
+    { "en": "make it", "forms": "made, made", "ru": "успеть" },
+    { "en": "last", "ru": "длиться, служить (о вещах)" },
+    { "en": "crash", "ru": "врезаться, разбиться" },
+    { "en": "look out", "ru": "осторожно!, берегись!" },
+    { "en": "no problem", "ru": "не беда, без проблем" },
+    { "en": "email", "ru": "электронная почта" },
+    { "en": "colour", "ru": "цвет" },
+    { "en": "fish", "forms": "fish", "ru": "рыба" },
+    { "en": "boot", "ru": "ботинок" },
+    { "en": "shirt", "ru": "рубашка" },
+    { "en": "ice cream", "ru": "мороженое" },
+    { "en": "storm", "ru": "гроза, буря" },
+    { "en": "blue", "ru": "синий" },
+    { "en": "warm", "ru": "тёплый" },
+    { "en": "early", "ru": "рано" }
+  ],
   "items": [
     { "ru": "(решил только что) Хорошо, тогда я позвоню друзьям.", "en": ["OK, I'll call my friends then.", "OK, then I'll call my friends.", "OK, I'll phone my friends then."] },
     { "ru": "(уже решили) Мы собираемся пригласить всех соседей.", "en": ["We're going to invite all the neighbours.", "We're going to invite all our neighbours.", "We're going to invite all the neighbors."] },

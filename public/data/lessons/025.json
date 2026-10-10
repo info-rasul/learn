@@ -17,6 +17,21 @@
     { "type": "p", "text": "После <b>if</b> тоже настоящее: <b>If it rains, we'll stay in.</b> <b>if</b> — может случиться, а может и нет. <b>when</b> — точно случится. <b>If I see Tom, I'll tell him</b> (может, увижу) — <b>When I see Tom, I'll tell him</b> (точно увижу)." },
     { "type": "tip", "text": "Самая частая ошибка: «when I will come», «if it will rain». После <b>when, if, until, as soon as, before, after</b> в значении будущего — только настоящее или present perfect." }
   ],
+  "words": [
+    { "en": "if", "ru": "если" },
+    { "en": "as soon as", "ru": "как только" },
+    { "en": "text", "ru": "написать сообщение" },
+    { "en": "go for a walk", "forms": "went, gone", "ru": "пойти погулять" },
+    { "en": "borrow", "ru": "брать на время, одалживать (у кого-то)" },
+    { "en": "ask", "ru": "спрашивать" },
+    { "en": "miss", "ru": "опоздать (на транспорт), пропустить" },
+    { "en": "grow up", "forms": "grew up, grown up", "ru": "вырасти" },
+    { "en": "news", "ru": "новости" },
+    { "en": "milk", "ru": "молоко" },
+    { "en": "angry", "ru": "сердитый" },
+    { "en": "without", "ru": "без" },
+    { "en": "myself", "ru": "сам, себя" }
+  ],
   "items": [
     { "ru": "Я напишу тебе, когда приеду в Рим.", "en": ["I'll text you when I arrive in Rome.", "I'll text you when I get to Rome.", "I'll message you when I arrive in Rome.", "I'll write to you when I arrive in Rome.", "I'll write to you when I get to Rome.", "When I arrive in Rome, I'll text you.", "When I get to Rome, I'll text you."] },
     { "ru": "Мы пойдём гулять, когда закончится дождь.", "en": ["We'll go for a walk when the rain stops.", "We'll go for a walk when it stops raining."] },

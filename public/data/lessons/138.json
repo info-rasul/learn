@@ -44,6 +44,95 @@
       "text": "Не путайте: <b>I'm moving in on Monday</b> (без места), но <b>I'm moving into a new house</b> (с местом). Аналогично <b>climb out</b>, но <b>climb out of the window</b>."
     }
   ],
+  "words": [
+    {
+      "en": "get in",
+      "forms": "got, got",
+      "ru": "попасть внутрь"
+    },
+    {
+      "en": "get out of",
+      "forms": "got, got",
+      "ru": "выходить из; отвертеться от"
+    },
+    {
+      "en": "be locked out",
+      "ru": "не мочь попасть домой (без ключей)"
+    },
+    {
+      "en": "let in",
+      "forms": "let, let",
+      "ru": "впускать"
+    },
+    {
+      "en": "let out",
+      "forms": "let, let",
+      "ru": "выпускать"
+    },
+    {
+      "en": "move in",
+      "ru": "въезжать (в новое жильё)"
+    },
+    {
+      "en": "move out",
+      "ru": "съезжать"
+    },
+    {
+      "en": "check in",
+      "ru": "регистрироваться (в аэропорту, отеле)"
+    },
+    {
+      "en": "check out",
+      "ru": "выписываться (из отеля)"
+    },
+    {
+      "en": "climb out of",
+      "ru": "выбираться из"
+    },
+    {
+      "en": "fill in",
+      "ru": "заполнять (анкету)"
+    },
+    {
+      "en": "drop in",
+      "ru": "заходить, заглядывать (в гости)"
+    },
+    {
+      "en": "eat out",
+      "forms": "ate, eaten",
+      "ru": "есть в ресторане"
+    },
+    {
+      "en": "drop out of",
+      "ru": "бросить (учёбу)"
+    },
+    {
+      "en": "leave out",
+      "forms": "left, left",
+      "ru": "пропускать, не включать"
+    },
+    {
+      "en": "cross out",
+      "ru": "зачёркивать"
+    },
+    {
+      "en": "join in",
+      "ru": "присоединяться"
+    },
+    {
+      "en": "plug in",
+      "ru": "включать в розетку"
+    },
+    {
+      "en": "take in",
+      "forms": "took, taken",
+      "ru": "обманывать"
+    },
+    {
+      "en": "form",
+      "ru": "анкета, бланк"
+    }
+  ],
   "items": [
     {
       "ru": "Как ты попал внутрь?",

@@ -50,6 +50,28 @@
       "text": "Не задавайте вопрос о подробностях в перфекте: «Как это случилось?», «Где ты его нашёл?» — это <b>How did it happen?</b>, <b>Where did you find it?</b>, а не <b>has it happened</b>. И «Где ты родился?» — всегда <b>Where were you born?</b>"
     }
   ],
+  "words": [
+    { "en": "then", "ru": "потом, затем" },
+    { "en": "go away", "forms": "went away, gone away", "ru": "уезжать, уходить" },
+    { "en": "be back", "ru": "вернуться, быть снова на месте" },
+    { "en": "stop", "ru": "прекращаться, останавливаться" },
+    { "en": "for a while", "ru": "некоторое время, ненадолго" },
+    { "en": "find", "forms": "found, found", "ru": "находить" },
+    { "en": "grow up", "forms": "grew up, grown up", "ru": "вырасти" },
+    { "en": "be born", "ru": "родиться" },
+    { "en": "invent", "ru": "изобретать" },
+    { "en": "study", "ru": "учиться, изучать" },
+    { "en": "burn", "forms": "burnt, burnt", "ru": "обжечь, сжечь" },
+    { "en": "pick up", "ru": "взять, поднять" },
+    { "en": "spill", "forms": "spilt, spilt", "ru": "пролить" },
+    { "en": "play", "ru": "пьеса" },
+    { "en": "scientist", "ru": "учёный" },
+    { "en": "medicine", "ru": "лекарство" },
+    { "en": "pan", "ru": "сковородка" },
+    { "en": "carpet", "ru": "ковёр" },
+    { "en": "hot", "ru": "горячий" },
+    { "en": "almost", "ru": "почти" }
+  ],
   "items": [
     {
       "ru": "(и до сих пор не нашла) Кейт потеряла сумку.",

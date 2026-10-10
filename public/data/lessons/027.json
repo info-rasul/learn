@@ -16,6 +16,24 @@
     { "type": "p", "text": "<b>I couldn't do</b> — «я бы не смог»: <b>I couldn't work at night.</b> <b>Life couldn't be better.</b> Для прошлого — <b>couldn't have done</b>: <b>The trip couldn't have been better.</b> Внимание: <b>couldn't</b> также значит «не смог» в прошлом: <b>I couldn't come yesterday.</b>" },
     { "type": "tip", "text": "Русское «мог бы» о прошлом переводят как «could» — и получается «сейчас мог бы». О прошлом нужно <b>could have + V3</b>: «Ты мог бы мне позвонить (вчера)» — <b>You could have called me</b>." }
   ],
+  "words": [
+    { "en": "could have done", "ru": "мог бы (сделать), но не сделал" },
+    { "en": "couldn't be better", "ru": "лучше не бывает" },
+    { "en": "stay with", "ru": "остановиться (у кого-то)" },
+    { "en": "at any moment", "ru": "в любую минуту" },
+    { "en": "for ever", "ru": "навсегда" },
+    { "en": "scream", "ru": "кричать, визжать" },
+    { "en": "doubt", "ru": "сомневаться" },
+    { "en": "hurt", "forms": "hurt, hurt", "ru": "болеть, причинять боль" },
+    { "en": "true", "ru": "правдивый, верный" },
+    { "en": "beautiful", "ru": "красивый" },
+    { "en": "park", "ru": "парк" },
+    { "en": "flower", "ru": "цветок" },
+    { "en": "restaurant", "ru": "ресторан" },
+    { "en": "horse", "ru": "лошадь" },
+    { "en": "taxi", "ru": "такси" },
+    { "en": "internet", "ru": "интернет" }
+  ],
   "items": [
     { "ru": "(предложение) Мы могли бы пойти в парк.", "en": ["We could go to the park."] },
     { "ru": "В Париже ты мог бы остановиться у Анны.", "en": ["You could stay with Anna in Paris.", "In Paris you could stay with Anna."] },

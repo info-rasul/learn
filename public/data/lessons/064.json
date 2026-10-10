@@ -54,6 +54,54 @@
       "text": "Не говорите <b>I came here for to learn</b> или <b>I went to the shop for buying bread</b> — цель действия выражается через <b>to</b>: <b>I went to the shop to buy bread.</b> А «чтобы не» — обычно <b>so that ... won't / wouldn't</b>."
     }
   ],
+  "words": [
+    {
+      "en": "to",
+      "ru": "чтобы (цель действия)"
+    },
+    {
+      "en": "for",
+      "ru": "для, за (с существительным)"
+    },
+    {
+      "en": "so that",
+      "ru": "чтобы, для того чтобы"
+    },
+    {
+      "en": "nowhere",
+      "ru": "некуда, негде"
+    },
+    {
+      "en": "jar",
+      "ru": "банка"
+    },
+    {
+      "en": "chance",
+      "ru": "возможность, шанс"
+    },
+    {
+      "en": "practise",
+      "ru": "практиковать"
+    },
+    {
+      "en": "knife",
+      "forms": "knives",
+      "ru": "нож"
+    },
+    {
+      "en": "bathroom",
+      "ru": "ванная"
+    },
+    {
+      "en": "quietly",
+      "ru": "тихо"
+    },
+    {
+      "en": "wake up",
+      "forms": "woke up, woken up",
+      "ru": "просыпаться"
+    }
+  ],
   "items": [
     {
       "ru": "Я позвонил Анне, чтобы пригласить её в кино.",

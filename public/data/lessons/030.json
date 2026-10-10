@@ -17,6 +17,20 @@
     { "type": "p", "text": "<b>We might as well walk.</b> = «можно и пешком, всё равно лучше варианта нет». Так говорят, когда нет причины не делать этого. Можно и <b>may as well</b>." },
     { "type": "tip", "text": "Русское «может быть, я…» часто переводят как <b>Maybe I will…</b>. Это не ошибка, но естественнее и короче — <b>I might…</b>. И не ставьте <b>to</b>: <b>I might go</b>, а не «I might to go»." }
   ],
+  "words": [
+    { "en": "might as well", "ru": "вполне можно, можно и (сделать)" },
+    { "en": "might have to", "ru": "возможно, придётся" },
+    { "en": "might be able to", "ru": "возможно, сможет" },
+    { "en": "be careful", "ru": "быть осторожным" },
+    { "en": "get cold", "forms": "got, got", "ru": "похолодать" },
+    { "en": "pay for", "forms": "paid, paid", "ru": "платить за" },
+    { "en": "on TV", "ru": "по телевизору" },
+    { "en": "jacket", "ru": "куртка" },
+    { "en": "tonight", "ru": "сегодня вечером" },
+    { "en": "enough", "ru": "достаточно" },
+    { "en": "parking", "ru": "парковка" },
+    { "en": "nothing", "ru": "ничего" }
+  ],
   "items": [
     { "ru": "(ещё не решил) Я, может быть, поеду в Испанию летом.", "en": ["I might go to Spain in the summer.", "I may go to Spain in the summer.", "I might go to Spain this summer.", "I may go to Spain this summer.", "Maybe I'll go to Spain in the summer."] },
     { "ru": "Возьми куртку, потому что может похолодать.", "en": ["Take a jacket because it might get cold.", "Take a jacket because it may get cold.", "Take a jacket, it might get cold.", "Take a jacket, it may get cold."] },

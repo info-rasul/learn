@@ -54,6 +54,20 @@
       "text": "Самая частая ошибка — перфект с законченным временем: <b>I have seen him yesterday</b>, <b>She has left two hours ago</b>. Если в предложении есть <b>yesterday, ago, last…, in 2015</b> или вопрос <b>When…?</b>, ставьте только past simple."
     }
   ],
+  "words": [
+    { "en": "this morning", "ru": "сегодня утром" },
+    { "en": "from ... to", "ru": "с ... по (from 2010 to 2015)" },
+    { "en": "before that", "ru": "до этого" },
+    { "en": "come back", "forms": "came back, come back", "ru": "возвращаться" },
+    { "en": "go to bed", "ru": "ложиться спать" },
+    { "en": "make", "forms": "made, made", "ru": "делать (make a call — позвонить)" },
+    { "en": "child", "forms": "children", "ru": "ребёнок" },
+    { "en": "sea", "ru": "море" },
+    { "en": "Sunday", "ru": "воскресенье" },
+    { "en": "great", "ru": "отличный, замечательный" },
+    { "en": "hot", "ru": "жаркий (о погоде)" },
+    { "en": "late", "ru": "поздно" }
+  ],
   "items": [
     {
       "ru": "Вчера было очень жарко.",

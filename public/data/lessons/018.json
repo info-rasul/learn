@@ -19,6 +19,21 @@
     ] },
     { "type": "tip", "text": "Нельзя «I use to work» о настоящем — только <b>I work</b>. И в вопросах/отрицаниях после <b>did</b> пишется <b>use</b> без -d: <b>Did you use to...? I didn't use to...</b>" }
   ],
+  "words": [
+    { "en": "used to", "ru": "раньше (делал), бывало" },
+    { "en": "be used to", "ru": "привыкнуть (к чему-то)" },
+    { "en": "not any more", "ru": "больше не" },
+    { "en": "as a child", "ru": "в детстве" },
+    { "en": "smoke", "ru": "курить" },
+    { "en": "play", "ru": "играть (в игру, на инструменте)" },
+    { "en": "spend", "forms": "spent, spent", "ru": "тратить" },
+    { "en": "get up", "forms": "got up, got up", "ru": "вставать" },
+    { "en": "at night", "ru": "ночью, по ночам" },
+    { "en": "boring", "ru": "скучный" },
+    { "en": "fair", "ru": "светлый (о волосах)" },
+    { "en": "guitar", "ru": "гитара" },
+    { "en": "game", "ru": "игра" }
+  ],
   "items": [
     { "ru": "Раньше я много играл в футбол.", "en": ["I used to play football a lot.", "I used to play a lot of football."] },
     { "ru": "Раньше Том курил, но теперь не курит.", "en": ["Tom used to smoke, but he doesn't now.", "Tom used to smoke, but now he doesn't.", "Tom used to smoke, but he doesn't smoke now.", "Tom used to smoke, but he doesn't any more.", "Tom used to smoke, but now he doesn't smoke.", "Tom used to smoke, but he no longer does."] },

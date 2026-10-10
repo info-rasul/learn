@@ -41,6 +41,55 @@
       "text": "Подлежащее у оборота и основной части должно быть одно и то же. <b>Walking home, the rain started</b> — ошибка (дождь не шёл домой). Правильно: <b>Walking home, I got caught in the rain.</b>"
     }
   ],
+  "words": [
+    {
+      "en": "having done",
+      "ru": "сделав (раньше другого действия)"
+    },
+    {
+      "en": "catch a cold",
+      "forms": "caught a cold, caught a cold",
+      "ru": "простудиться"
+    },
+    {
+      "en": "heavy",
+      "ru": "тяжёлый"
+    },
+    {
+      "en": "set off",
+      "forms": "set off, set off",
+      "ru": "отправиться в путь"
+    },
+    {
+      "en": "lie",
+      "forms": "lay, lain",
+      "ru": "лежать"
+    },
+    {
+      "en": "armchair",
+      "ru": "кресло"
+    },
+    {
+      "en": "newspaper",
+      "ru": "газета"
+    },
+    {
+      "en": "vegetarian",
+      "ru": "вегетарианец"
+    },
+    {
+      "en": "meat",
+      "ru": "мясо"
+    },
+    {
+      "en": "everywhere",
+      "ru": "везде"
+    },
+    {
+      "en": "salad",
+      "ru": "салат"
+    }
+  ],
   "items": [
     {
       "ru": "Анна на кухне, готовит ужин.",

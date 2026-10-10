@@ -20,6 +20,56 @@
     ] },
     { "type": "tip", "text": "Не говорите <b>I don't hope so</b> — правильно <b>I hope not</b>. И на «Я тоже не люблю» не отвечайте <b>Me too</b> — нужно <b>Neither do I</b> или <b>Me neither</b>." }
   ],
+  "words": [
+    {
+      "en": "so",
+      "ru": "тоже (so do I); так (I think so)"
+    },
+    {
+      "en": "neither",
+      "ru": "тоже не (neither do I)"
+    },
+    {
+      "en": "I think so",
+      "ru": "думаю, да"
+    },
+    {
+      "en": "I hope so",
+      "ru": "надеюсь, да"
+    },
+    {
+      "en": "I hope not",
+      "ru": "надеюсь, что нет"
+    },
+    {
+      "en": "I suppose not",
+      "ru": "полагаю, что нет"
+    },
+    {
+      "en": "I'm afraid so",
+      "ru": "боюсь, что да"
+    },
+    {
+      "en": "I'm afraid not",
+      "ru": "боюсь, что нет"
+    },
+    {
+      "en": "any more",
+      "ru": "больше не"
+    },
+    {
+      "en": "hungry",
+      "ru": "голодный"
+    },
+    {
+      "en": "jazz",
+      "ru": "джаз"
+    },
+    {
+      "en": "pass an exam",
+      "ru": "сдать экзамен"
+    }
+  ],
   "items": [
     { "ru": "(Ты закрыл окно?) Да, закрыл.", "en": ["Yes, I have.", "Yes, I did."] },
     { "ru": "Я не голоден, а Кейт голодна.", "en": ["I'm not hungry, but Kate is."] },

@@ -21,6 +21,47 @@
     ] },
     { "type": "tip", "text": "«Он сказал, что живёт в Лондоне» — по-русски «живёт» в настоящем. По-английски обычно сдвигаем: <b>He said he lived in London</b>, а не <b>He said he lives</b> (это возможно, только если важно, что это верно и сейчас — см. следующий урок)." }
   ],
+  "words": [
+    {
+      "en": "say",
+      "forms": "said, said",
+      "ru": "сказать, говорить"
+    },
+    {
+      "en": "tell",
+      "forms": "told, told",
+      "ru": "сказать (кому-то), сообщить"
+    },
+    {
+      "en": "lose",
+      "forms": "lost, lost",
+      "ru": "терять"
+    },
+    {
+      "en": "miss",
+      "ru": "опоздать (на поезд, автобус)"
+    },
+    {
+      "en": "take a taxi",
+      "ru": "взять такси"
+    },
+    {
+      "en": "be back",
+      "ru": "вернуться"
+    },
+    {
+      "en": "tired",
+      "ru": "уставший"
+    },
+    {
+      "en": "answer",
+      "ru": "ответ"
+    },
+    {
+      "en": "party",
+      "ru": "вечеринка"
+    }
+  ],
   "items": [
     { "ru": "Пол сказал, что устал.", "en": ["Paul said he was tired.", "Paul said that he was tired."] },
     { "ru": "Анна сказала, что не любит кофе.", "en": ["Anna said she didn't like coffee.", "Anna said that she didn't like coffee."] },

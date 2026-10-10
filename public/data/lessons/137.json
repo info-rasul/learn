@@ -49,6 +49,93 @@
       "text": "Нельзя говорить <b>take off them</b> или <b>wake up her</b>. Местоимение всегда встаёт между глаголом и частицей: <b>take them off</b>, <b>wake her up</b>, <b>throw it away</b>."
     }
   ],
+  "words": [
+    {
+      "en": "get on",
+      "forms": "got, got",
+      "ru": "садиться (в автобус, поезд); справляться"
+    },
+    {
+      "en": "get into",
+      "forms": "got, got",
+      "ru": "садиться (в машину)"
+    },
+    {
+      "en": "drive off",
+      "forms": "drove, driven",
+      "ru": "уехать (на машине)"
+    },
+    {
+      "en": "come back",
+      "forms": "came, come",
+      "ru": "возвращаться"
+    },
+    {
+      "en": "turn round",
+      "ru": "обернуться"
+    },
+    {
+      "en": "break down",
+      "forms": "broke, broken",
+      "ru": "сломаться (о машине, технике)"
+    },
+    {
+      "en": "find out",
+      "forms": "found, found",
+      "ru": "узнать, выяснить"
+    },
+    {
+      "en": "take off",
+      "forms": "took, taken",
+      "ru": "взлетать; снимать (одежду)"
+    },
+    {
+      "en": "give up",
+      "forms": "gave, given",
+      "ru": "сдаваться"
+    },
+    {
+      "en": "get by",
+      "forms": "got, got",
+      "ru": "обходиться, сводить концы с концами"
+    },
+    {
+      "en": "look up",
+      "ru": "посмотреть вверх"
+    },
+    {
+      "en": "run away",
+      "forms": "ran, run",
+      "ru": "убегать"
+    },
+    {
+      "en": "keep up with",
+      "forms": "kept, kept",
+      "ru": "успевать за, не отставать от"
+    },
+    {
+      "en": "look forward to",
+      "ru": "с нетерпением ждать"
+    },
+    {
+      "en": "turn on",
+      "ru": "включать"
+    },
+    {
+      "en": "wake up",
+      "forms": "woke, woken",
+      "ru": "будить; просыпаться"
+    },
+    {
+      "en": "throw away",
+      "forms": "threw, thrown",
+      "ru": "выбрасывать"
+    },
+    {
+      "en": "magazine",
+      "ru": "журнал"
+    }
+  ],
   "items": [
     {
       "ru": "Автобус был переполнен, и я не смог в него сесть.",

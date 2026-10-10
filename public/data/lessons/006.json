@@ -65,6 +65,28 @@
       "text": "В русском и «шёл», и «пошёл» — прошедшее время, но по-английски это разные формы. Несовершенный вид в роли фона («я шёл, когда…», «пока мы ужинали») — <b>was/were + -ing</b>; совершённое событие («увидел», «позвонил») — past simple."
     }
   ],
+  "words": [
+    { "en": "when", "ru": "когда" },
+    { "en": "at that time", "ru": "в то время, тогда" },
+    { "en": "this time last year", "ru": "в это же время в прошлом году" },
+    { "en": "wake up", "forms": "woke up, woken up", "ru": "просыпаться" },
+    { "en": "shine", "forms": "shone, shone", "ru": "светить" },
+    { "en": "happen", "ru": "случаться" },
+    { "en": "cut", "forms": "cut, cut", "ru": "резать, порезать" },
+    { "en": "finger", "ru": "палец" },
+    { "en": "play cards", "ru": "играть в карты" },
+    { "en": "meet", "forms": "met, met", "ru": "встречать; знакомиться" },
+    { "en": "drive", "forms": "drove, driven", "ru": "водить машину, ехать (на машине)" },
+    { "en": "sit", "forms": "sat, sat", "ru": "сидеть" },
+    { "en": "bench", "ru": "скамейка" },
+    { "en": "have lunch", "ru": "обедать" },
+    { "en": "break down", "forms": "broke down, broken down", "ru": "сломаться (о машине)" },
+    { "en": "go out", "forms": "went out, gone out", "ru": "гаснуть (о свете)" },
+    { "en": "dance", "ru": "танцевать" },
+    { "en": "drop", "ru": "ронять" },
+    { "en": "wash the dishes", "ru": "мыть посуду" },
+    { "en": "cold", "ru": "холодный; холодно" }
+  ],
   "items": [
     {
       "ru": "В восемь вечера я ужинал.",

@@ -18,6 +18,61 @@
     { "type": "p", "text": "<b>everyone</b> (одним словом) — только о людях, = everybody: <b>Everyone was happy.</b> <b>every one</b> (двумя словами) — каждый из (людей или предметов): <b>I read his books — every one.</b>" },
     { "type": "tip", "text": "Русское «каждый из нас», «каждая из книг» нельзя переводить как <b>every of</b>. Правильно: <b>each of us</b> или <b>every one of us</b>. И «по десять евро» — это <b>ten euros each</b>, без предлога." }
   ],
+  "words": [
+    {
+      "en": "each",
+      "ru": "каждый (по отдельности)"
+    },
+    {
+      "en": "every",
+      "ru": "каждый, всякий (все вместе)"
+    },
+    {
+      "en": "each of",
+      "ru": "каждый из"
+    },
+    {
+      "en": "every one",
+      "ru": "каждый, все до одного"
+    },
+    {
+      "en": "everyone",
+      "ru": "все, каждый"
+    },
+    {
+      "en": "different",
+      "ru": "разный, другой"
+    },
+    {
+      "en": "player",
+      "ru": "игрок"
+    },
+    {
+      "en": "get",
+      "forms": "got, got",
+      "ru": "получать"
+    },
+    {
+      "en": "tree",
+      "ru": "дерево"
+    },
+    {
+      "en": "side",
+      "ru": "сторона"
+    },
+    {
+      "en": "half an hour",
+      "ru": "полчаса"
+    },
+    {
+      "en": "rule",
+      "ru": "правило"
+    },
+    {
+      "en": "class",
+      "ru": "класс, группа"
+    }
+  ],
   "items": [
     { "ru": "Каждый раз, когда я вижу Лору, она улыбается.", "en": ["Every time I see Laura, she smiles.", "Each time I see Laura, she smiles.", "Laura smiles every time I see her.", "Laura smiles each time I see her."] },
     { "ru": "(по очереди, по одному) Внимательно прочитай каждый вопрос.", "en": ["Read each question carefully.", "Read every question carefully.", "Carefully read each question.", "Carefully read every question."] },

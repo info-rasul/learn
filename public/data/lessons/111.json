@@ -32,6 +32,40 @@
       "text": "Русское «ещё не» — это <b>not … yet</b>, а «больше не» — <b>not … any more</b>. Не путайте: <b>I don't live here any more</b> (больше не живу) и <b>I haven't moved yet</b> (ещё не переехал)."
     }
   ],
+  "words": [
+    {
+      "en": "still",
+      "ru": "всё ещё, до сих пор"
+    },
+    {
+      "en": "any more",
+      "ru": "больше не (в отрицании)"
+    },
+    {
+      "en": "yet",
+      "ru": "уже (в вопросе), ещё (в отрицании)"
+    },
+    {
+      "en": "already",
+      "ru": "уже"
+    },
+    {
+      "en": "angry with",
+      "ru": "злой на, сердитый на"
+    },
+    {
+      "en": "smoke",
+      "ru": "курить"
+    },
+    {
+      "en": "decide",
+      "ru": "решать"
+    },
+    {
+      "en": "open",
+      "ru": "открытый"
+    }
+  ],
   "items": [
     { "ru": "Ты всё ещё живёшь в Париже?", "en": ["Do you still live in Paris?", "Are you still living in Paris?"] },
     { "ru": "Дождь всё ещё идёт.", "en": ["It's still raining."] },

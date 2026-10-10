@@ -13,6 +13,56 @@
     { "type": "p", "text": "Если речь о другом человеке, после <b>I'd rather + кто-то</b> ставится прошедшее время, хотя смысл настоящий или будущий: <b>I'd rather you stayed.</b> <b>I'd rather he called me tomorrow.</b> Отрицание: <b>I'd rather you didn't smoke here.</b>" },
     { "type": "tip", "text": "Частые ошибки: <b>I'd rather to go</b> (лишнее to) и <b>I'd rather you go</b> (нужно прошедшее: <b>you went</b>). Запомните: rather — без to, а для другого человека — прошедшее время." }
   ],
+  "words": [
+    {
+      "en": "prefer something to something",
+      "ru": "предпочитать что-то чему-то"
+    },
+    {
+      "en": "would prefer to",
+      "ru": "предпочёл бы"
+    },
+    {
+      "en": "would rather",
+      "ru": "лучше бы, предпочёл бы"
+    },
+    {
+      "en": "would rather not",
+      "ru": "лучше не"
+    },
+    {
+      "en": "would rather somebody did",
+      "ru": "предпочёл бы, чтобы кто-то сделал"
+    },
+    {
+      "en": "rather than",
+      "ru": "а не, вместо того чтобы"
+    },
+    {
+      "en": "than",
+      "ru": "чем"
+    },
+    {
+      "en": "cat",
+      "ru": "кошка"
+    },
+    {
+      "en": "chicken",
+      "ru": "курица"
+    },
+    {
+      "en": "go shopping",
+      "ru": "ходить по магазинам"
+    },
+    {
+      "en": "wash the dishes",
+      "ru": "мыть посуду"
+    },
+    {
+      "en": "go out",
+      "ru": "выходить (из дома), куда-то пойти"
+    }
+  ],
   "items": [
     { "ru": "(в целом) Я предпочитаю жить в городе.", "en": ["I prefer living in the city.", "I prefer to live in the city.", "I prefer living in a city.", "I prefer to live in a city."] },
     { "ru": "Анна предпочитает кошек собакам.", "en": ["Anna prefers cats to dogs.", "Anna likes cats more than dogs.", "Anna likes cats better than dogs."] },

@@ -35,6 +35,65 @@
       "text": "<b>hardly</b> — это не «усердно», а «почти не». <b>He works hard</b> — он много работает; <b>He hardly works</b> — он почти не работает. И не ставьте с hardly второе отрицание: <b>I hardly know her</b> (не I don't hardly know)."
     }
   ],
+  "words": [
+    {
+      "en": "well",
+      "ru": "хорошо; здоров"
+    },
+    {
+      "en": "fast",
+      "ru": "быстро, быстрый"
+    },
+    {
+      "en": "hard",
+      "ru": "усердно, много (работать)"
+    },
+    {
+      "en": "late",
+      "ru": "поздно"
+    },
+    {
+      "en": "lately",
+      "ru": "в последнее время"
+    },
+    {
+      "en": "hardly",
+      "ru": "едва, почти не"
+    },
+    {
+      "en": "hardly any",
+      "ru": "почти нет"
+    },
+    {
+      "en": "hardly anyone",
+      "ru": "почти никто"
+    },
+    {
+      "en": "hardly ever",
+      "ru": "почти никогда"
+    },
+    {
+      "en": "well-paid",
+      "ru": "хорошо оплачиваемый"
+    },
+    {
+      "en": "well known",
+      "ru": "известный"
+    },
+    {
+      "en": "well dressed",
+      "ru": "хорошо одетый"
+    },
+    {
+      "en": "writer",
+      "ru": "писатель"
+    },
+    {
+      "en": "do well",
+      "forms": "did well, done well",
+      "ru": "успешно справиться"
+    }
+  ],
   "items": [
     { "ru": "Она хорошо говорит по-французски.", "en": ["She speaks French well.", "She speaks good French."] },
     { "ru": "Ты хорошо спал?", "en": ["Did you sleep well?"] },

@@ -59,6 +59,33 @@
       "text": "В русском нет отдельной формы для «сейчас», поэтому часто говорят <b>I work now</b> или <b>It rains</b>. Если действие идёт в этот момент или в этот период — нужен <b>am/is/are + -ing</b>: <b>I'm working now</b>, <b>It's raining</b>."
     }
   ],
+  "words": [
+    { "en": "right now", "ru": "прямо сейчас" },
+    { "en": "these days", "ru": "в эти дни, в последнее время" },
+    { "en": "get", "forms": "got, got", "ru": "становиться (get better, get dark)" },
+    { "en": "look for", "ru": "искать" },
+    { "en": "wait for", "ru": "ждать (кого-то, что-то)" },
+    { "en": "listen to", "ru": "слушать (кого-то, что-то)" },
+    { "en": "cook", "ru": "готовить (еду)" },
+    { "en": "sleep", "forms": "slept, slept", "ru": "спать" },
+    { "en": "watch", "ru": "смотреть (телевизор, фильм)" },
+    { "en": "turn off", "ru": "выключать" },
+    { "en": "snow", "ru": "идти (о снеге); снег" },
+    { "en": "smile", "ru": "улыбаться" },
+    { "en": "learn", "forms": "learnt, learnt", "ru": "учить, изучать" },
+    { "en": "build", "forms": "built, built", "ru": "строить" },
+    { "en": "enjoy", "ru": "наслаждаться, получать удовольствие" },
+    { "en": "rise", "forms": "rose, risen", "ru": "расти, подниматься" },
+    { "en": "grow", "forms": "grew, grown", "ru": "расти" },
+    { "en": "start", "ru": "начинать" },
+    { "en": "understand", "forms": "understood, understood", "ru": "понимать" },
+    { "en": "quiet", "ru": "тихий" },
+    { "en": "outside", "ru": "на улице, снаружи" },
+    { "en": "price", "ru": "цена" },
+    { "en": "population", "ru": "население" },
+    { "en": "slowly", "ru": "медленно" },
+    { "en": "each other", "ru": "друг друга" }
+  ],
   "items": [
     {
       "ru": "(сейчас) Анна готовит ужин.",

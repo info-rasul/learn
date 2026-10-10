@@ -4,46 +4,322 @@
   "title": "Passive 1 (is done / was done)",
   "subtitle": "Страдательный залог в настоящем и прошедшем: is made, was built",
   "theory": [
-    { "type": "p", "text": "В активном залоге говорим, <b>что делает</b> подлежащее: <b>Paul wrote this song.</b> В пассивном — <b>что происходит</b> с подлежащим: <b>This song was written by Paul.</b> (песня была написана)." },
-    { "type": "p", "text": "Пассив берут, когда неважно или неизвестно, кто сделал: <b>My bag was stolen.</b> (кто-то украл), <b>Is the office cleaned every evening?</b> Если исполнителя нужно назвать — через <b>by</b>: <b>This cake was made by my sister.</b>" },
-    { "type": "table", "head": ["Время", "Форма", "Пример"], "rows": [
-      ["Present simple", "am/is/are + V3", "<b>Paper is made from wood.</b>"],
-      ["Отрицание", "am/is/are not + V3", "<b>I'm not invited.</b>"],
-      ["Вопрос", "Is/Are … + V3?", "<b>Is lunch included?</b>"],
-      ["Past simple", "was/were + V3", "<b>The bridge was built in 1990.</b>"],
-      ["Отрицание и вопрос", "wasn't/weren't + V3, Was/Were … + V3?", "<b>We weren't told.</b> <b>When was it invented?</b>"]
-    ] },
-    { "type": "p", "text": "V3 (past participle) часто оканчивается на <b>-ed</b> (cleaned, invited), но у неправильных глаголов своя форма: <b>built, made, written, stolen, taken</b>." },
-    { "type": "list", "items": [
-      "Русские «Его уволили», «Матч отменили», «Бумагу делают из дерева» — это пассив: <b>He was fired.</b> <b>The match was cancelled.</b> <b>Paper is made from wood.</b>",
-      "Как что-то называется — тоже пассив: <b>What is this film called?</b>"
-    ] },
-    { "type": "tip", "text": "Русские безличные фразы («здесь говорят по-английски», «меня разбудили») не переводят с «they» или без подлежащего. Подлежащим делаем того, с кем что-то произошло: <b>I was woken up.</b> И не забывайте <b>be</b>: <b>The car was repaired</b>, а не «The car repaired»." }
+    {
+      "type": "p",
+      "text": "В активном залоге говорим, <b>что делает</b> подлежащее: <b>Paul wrote this song.</b> В пассивном — <b>что происходит</b> с подлежащим: <b>This song was written by Paul.</b> (песня была написана)."
+    },
+    {
+      "type": "p",
+      "text": "Пассив берут, когда неважно или неизвестно, кто сделал: <b>My bag was stolen.</b> (кто-то украл), <b>Is the office cleaned every evening?</b> Если исполнителя нужно назвать — через <b>by</b>: <b>This cake was made by my sister.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Время",
+        "Форма",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "Present simple",
+          "am/is/are + V3",
+          "<b>Paper is made from wood.</b>"
+        ],
+        [
+          "Отрицание",
+          "am/is/are not + V3",
+          "<b>I'm not invited.</b>"
+        ],
+        [
+          "Вопрос",
+          "Is/Are … + V3?",
+          "<b>Is lunch included?</b>"
+        ],
+        [
+          "Past simple",
+          "was/were + V3",
+          "<b>The bridge was built in 1990.</b>"
+        ],
+        [
+          "Отрицание и вопрос",
+          "wasn't/weren't + V3, Was/Were … + V3?",
+          "<b>We weren't told.</b> <b>When was it invented?</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "V3 (past participle) часто оканчивается на <b>-ed</b> (cleaned, invited), но у неправильных глаголов своя форма: <b>built, made, written, stolen, taken</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Русские «Его уволили», «Матч отменили», «Бумагу делают из дерева» — это пассив: <b>He was fired.</b> <b>The match was cancelled.</b> <b>Paper is made from wood.</b>",
+        "Как что-то называется — тоже пассив: <b>What is this film called?</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русские безличные фразы («здесь говорят по-английски», «меня разбудили») не переводят с «they» или без подлежащего. Подлежащим делаем того, с кем что-то произошло: <b>I was woken up.</b> И не забывайте <b>be</b>: <b>The car was repaired</b>, а не «The car repaired»."
+    }
+  ],
+  "words": [
+    {
+      "en": "by",
+      "ru": "(кем-то) — в пассиве"
+    },
+    {
+      "en": "be made from",
+      "ru": "делаться из"
+    },
+    {
+      "en": "build",
+      "forms": "built, built",
+      "ru": "строить"
+    },
+    {
+      "en": "paper",
+      "ru": "бумага"
+    },
+    {
+      "en": "wood",
+      "ru": "дерево (материал)"
+    },
+    {
+      "en": "all over the world",
+      "ru": "во всём мире"
+    },
+    {
+      "en": "include",
+      "ru": "включать"
+    },
+    {
+      "en": "fire",
+      "ru": "пожар; увольнять"
+    },
+    {
+      "en": "cause",
+      "ru": "вызывать, быть причиной"
+    },
+    {
+      "en": "cigarette",
+      "ru": "сигарета"
+    },
+    {
+      "en": "spell",
+      "forms": "spelt, spelt",
+      "ru": "писать (по буквам)"
+    },
+    {
+      "en": "surname",
+      "ru": "фамилия"
+    },
+    {
+      "en": "be called",
+      "ru": "называться"
+    },
+    {
+      "en": "wake up",
+      "forms": "woke, woken",
+      "ru": "будить, просыпаться"
+    },
+    {
+      "en": "steal",
+      "forms": "stole, stolen",
+      "ru": "красть"
+    },
+    {
+      "en": "injure",
+      "ru": "ранить (be injured — пострадать)"
+    },
+    {
+      "en": "accident",
+      "ru": "авария, несчастный случай"
+    },
+    {
+      "en": "deliver",
+      "ru": "доставлять"
+    }
   ],
   "items": [
-    { "ru": "Этот мост построили в 1990 году.", "en": ["This bridge was built in 1990.", "The bridge was built in 1990."] },
-    { "ru": "Бумагу делают из дерева.", "en": ["Paper is made from wood.", "Paper is made of wood."] },
-    { "ru": "Этот сыр производят во Франции.", "en": ["This cheese is made in France.", "This cheese is produced in France."] },
-    { "ru": "Окна моют раз в месяц.", "en": ["The windows are cleaned once a month.", "The windows are washed once a month."] },
-    { "ru": "Офис убирают каждый вечер?", "en": ["Is the office cleaned every evening?"] },
-    { "ru": "На английском говорят во всём мире.", "en": ["English is spoken all over the world.", "English is spoken around the world.", "English is spoken everywhere in the world."] },
-    { "ru": "Обед включён в цену?", "en": ["Is lunch included in the price?"] },
-    { "ru": "Меня редко приглашают на вечеринки.", "en": ["I'm rarely invited to parties.", "I'm seldom invited to parties.", "I'm not often invited to parties."] },
-    { "ru": "Многие пожары вызваны сигаретами.", "en": ["Many fires are caused by cigarettes.", "A lot of fires are caused by cigarettes."] },
-    { "ru": "Как пишется твоя фамилия?", "en": ["How is your surname spelt?", "How is your surname spelled?", "How is your last name spelled?", "How is your last name spelt?"] },
-    { "ru": "Как называется этот фильм?", "en": ["What is this film called?", "What is this movie called?", "What is the film called?"] },
-    { "ru": "Меня разбудила соседская собака.", "en": ["I was woken up by the neighbour's dog.", "I was woken by the neighbour's dog.", "I was woken up by the neighbor's dog.", "I was woken up by my neighbour's dog.", "I was woken by my neighbour's dog.", "I was woken up by my neighbor's dog.", "I was woken by the neighbor's dog."] },
-    { "ru": "Меня не пригласили на свадьбу.", "en": ["I wasn't invited to the wedding."] },
-    { "ru": "Мою сумку украли в поезде.", "en": ["My bag was stolen on the train.", "My bag got stolen on the train."] },
-    { "ru": "Этот торт был испечён моей сестрой.", "en": ["This cake was made by my sister.", "This cake was baked by my sister."] },
-    { "ru": "Эта песня была написана Полом.", "en": ["This song was written by Paul."] },
-    { "ru": "Когда был изобретён телефон?", "en": ["When was the telephone invented?", "When was the phone invented?"] },
-    { "ru": "Его уволили с работы.", "en": ["He was fired from his job.", "He was sacked from his job.", "He was dismissed from his job."] },
-    { "ru": "Никто не пострадал в аварии.", "en": ["Nobody was injured in the accident.", "No one was injured in the accident.", "Nobody was hurt in the accident.", "No one was hurt in the accident."] },
-    { "ru": "Посылку доставили вчера.", "en": ["The parcel was delivered yesterday.", "The package was delivered yesterday."] },
-    { "ru": "Машину починили на прошлой неделе.", "en": ["The car was repaired last week.", "The car was fixed last week."] },
-    { "ru": "Нам не сказали о встрече.", "en": ["We weren't told about the meeting."] },
-    { "ru": "Где были сделаны эти фотографии?", "en": ["Where were these photos taken?", "Where were these pictures taken?", "Where were these photographs taken?"] },
-    { "ru": "Матч отменили из-за дождя.", "en": ["The match was cancelled because of the rain.", "The match was canceled because of the rain.", "The game was cancelled because of the rain.", "The match was cancelled because of rain."] }
+    {
+      "ru": "Этот мост построили в 1990 году.",
+      "en": [
+        "This bridge was built in 1990.",
+        "The bridge was built in 1990."
+      ]
+    },
+    {
+      "ru": "Бумагу делают из дерева.",
+      "en": [
+        "Paper is made from wood.",
+        "Paper is made of wood."
+      ]
+    },
+    {
+      "ru": "Этот сыр производят во Франции.",
+      "en": [
+        "This cheese is made in France.",
+        "This cheese is produced in France."
+      ]
+    },
+    {
+      "ru": "Окна моют раз в месяц.",
+      "en": [
+        "The windows are cleaned once a month.",
+        "The windows are washed once a month."
+      ]
+    },
+    {
+      "ru": "Офис убирают каждый вечер?",
+      "en": [
+        "Is the office cleaned every evening?"
+      ]
+    },
+    {
+      "ru": "На английском говорят во всём мире.",
+      "en": [
+        "English is spoken all over the world.",
+        "English is spoken around the world.",
+        "English is spoken everywhere in the world."
+      ]
+    },
+    {
+      "ru": "Обед включён в цену?",
+      "en": [
+        "Is lunch included in the price?"
+      ]
+    },
+    {
+      "ru": "Меня редко приглашают на вечеринки.",
+      "en": [
+        "I'm rarely invited to parties.",
+        "I'm seldom invited to parties.",
+        "I'm not often invited to parties."
+      ]
+    },
+    {
+      "ru": "Многие пожары вызваны сигаретами.",
+      "en": [
+        "Many fires are caused by cigarettes.",
+        "A lot of fires are caused by cigarettes."
+      ]
+    },
+    {
+      "ru": "Как пишется твоя фамилия?",
+      "en": [
+        "How is your surname spelt?",
+        "How is your surname spelled?",
+        "How is your last name spelled?",
+        "How is your last name spelt?"
+      ]
+    },
+    {
+      "ru": "Как называется этот фильм?",
+      "en": [
+        "What is this film called?",
+        "What is this movie called?",
+        "What is the film called?"
+      ]
+    },
+    {
+      "ru": "Меня разбудила соседская собака.",
+      "en": [
+        "I was woken up by the neighbour's dog.",
+        "I was woken by the neighbour's dog.",
+        "I was woken up by the neighbor's dog.",
+        "I was woken up by my neighbour's dog.",
+        "I was woken by my neighbour's dog.",
+        "I was woken up by my neighbor's dog.",
+        "I was woken by the neighbor's dog."
+      ]
+    },
+    {
+      "ru": "Меня не пригласили на свадьбу.",
+      "en": [
+        "I wasn't invited to the wedding."
+      ]
+    },
+    {
+      "ru": "Мою сумку украли в поезде.",
+      "en": [
+        "My bag was stolen on the train.",
+        "My bag got stolen on the train."
+      ]
+    },
+    {
+      "ru": "Этот торт был испечён моей сестрой.",
+      "en": [
+        "This cake was made by my sister.",
+        "This cake was baked by my sister."
+      ]
+    },
+    {
+      "ru": "Эта песня была написана Полом.",
+      "en": [
+        "This song was written by Paul."
+      ]
+    },
+    {
+      "ru": "Когда был изобретён телефон?",
+      "en": [
+        "When was the telephone invented?",
+        "When was the phone invented?"
+      ]
+    },
+    {
+      "ru": "Его уволили с работы.",
+      "en": [
+        "He was fired from his job.",
+        "He was sacked from his job.",
+        "He was dismissed from his job."
+      ]
+    },
+    {
+      "ru": "Никто не пострадал в аварии.",
+      "en": [
+        "Nobody was injured in the accident.",
+        "No one was injured in the accident.",
+        "Nobody was hurt in the accident.",
+        "No one was hurt in the accident."
+      ]
+    },
+    {
+      "ru": "Посылку доставили вчера.",
+      "en": [
+        "The parcel was delivered yesterday.",
+        "The package was delivered yesterday."
+      ]
+    },
+    {
+      "ru": "Машину починили на прошлой неделе.",
+      "en": [
+        "The car was repaired last week.",
+        "The car was fixed last week."
+      ]
+    },
+    {
+      "ru": "Нам не сказали о встрече.",
+      "en": [
+        "We weren't told about the meeting."
+      ]
+    },
+    {
+      "ru": "Где были сделаны эти фотографии?",
+      "en": [
+        "Where were these photos taken?",
+        "Where were these pictures taken?",
+        "Where were these photographs taken?"
+      ]
+    },
+    {
+      "ru": "Матч отменили из-за дождя.",
+      "en": [
+        "The match was cancelled because of the rain.",
+        "The match was canceled because of the rain.",
+        "The game was cancelled because of the rain.",
+        "The match was cancelled because of rain."
+      ]
+    }
   ]
 }

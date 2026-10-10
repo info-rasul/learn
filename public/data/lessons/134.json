@@ -86,6 +86,86 @@
       "text": "«Никогда о нём не слышал» — <b>I've never heard of him</b>, а не <b>heard about/from</b>. «Я подумаю» — <b>I'll think about it</b>; «придумать идею» — <b>think of an idea</b>."
     }
   ],
+  "words": [
+    {
+      "en": "hear about",
+      "forms": "heard, heard",
+      "ru": "слышать о (узнать новость)"
+    },
+    {
+      "en": "hear of",
+      "forms": "heard, heard",
+      "ru": "слышать о (знать о существовании)"
+    },
+    {
+      "en": "hear from",
+      "ru": "получать известия от"
+    },
+    {
+      "en": "think about",
+      "forms": "thought, thought",
+      "ru": "думать о, обдумывать"
+    },
+    {
+      "en": "think of",
+      "forms": "thought, thought",
+      "ru": "придумать; думать о (мнение)"
+    },
+    {
+      "en": "not think much of",
+      "ru": "быть невысокого мнения о"
+    },
+    {
+      "en": "dream about",
+      "forms": "dreamt, dreamt",
+      "ru": "видеть во сне"
+    },
+    {
+      "en": "dream of",
+      "forms": "dreamt, dreamt",
+      "ru": "мечтать о"
+    },
+    {
+      "en": "complain about",
+      "ru": "жаловаться на (что-то)"
+    },
+    {
+      "en": "complain of",
+      "ru": "жаловаться на (боль, болезнь)"
+    },
+    {
+      "en": "remind about",
+      "ru": "напоминать о (чтобы не забыл)"
+    },
+    {
+      "en": "remind of",
+      "ru": "напоминать (быть похожим)"
+    },
+    {
+      "en": "plan",
+      "ru": "план"
+    },
+    {
+      "en": "offer",
+      "ru": "предложение"
+    },
+    {
+      "en": "footballer",
+      "ru": "футболист"
+    },
+    {
+      "en": "receptionist",
+      "ru": "администратор (в гостинице)"
+    },
+    {
+      "en": "pain",
+      "ru": "боль"
+    },
+    {
+      "en": "appointment",
+      "ru": "запись, приём (у врача)"
+    }
+  ],
   "items": [
     {
       "ru": "Ты слышал о новом кафе на нашей улице?",

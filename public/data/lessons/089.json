@@ -19,6 +19,56 @@
     { "type": "p", "text": "Если предметов больше двух, вместо both/neither/either используем <b>all/none/any</b>: <b>two hotels — neither of them</b>, но <b>five hotels — none of them</b>." },
     { "type": "tip", "text": "«Ни Том, ни Анна не пришли» по-русски с отрицанием, но в английском <b>neither … nor</b> уже отрицательное: <b>Neither Tom nor Anna came</b> (не <b>didn't come</b>). И не ставьте артикль перед both: <b>both restaurants</b>, а не <b>the both restaurants</b>." }
   ],
+  "words": [
+    {
+      "en": "both",
+      "ru": "оба, обе"
+    },
+    {
+      "en": "both of",
+      "ru": "оба из"
+    },
+    {
+      "en": "neither",
+      "ru": "ни один (из двух)"
+    },
+    {
+      "en": "neither of",
+      "ru": "ни один из (двух)"
+    },
+    {
+      "en": "either",
+      "ru": "любой (из двух)"
+    },
+    {
+      "en": "either of",
+      "ru": "любой из (двух), кто-нибудь из"
+    },
+    {
+      "en": "both ... and",
+      "ru": "и ..., и ..."
+    },
+    {
+      "en": "neither ... nor",
+      "ru": "ни ..., ни ..."
+    },
+    {
+      "en": "either ... or",
+      "ru": "или ..., или ...; либо ..., либо ..."
+    },
+    {
+      "en": "mind",
+      "ru": "возражать (I don't mind — мне всё равно)"
+    },
+    {
+      "en": "way",
+      "ru": "дорога, путь"
+    },
+    {
+      "en": "meeting",
+      "ru": "встреча, собрание"
+    }
+  ],
   "items": [
     { "ru": "(о двух кафе) Оба кафе хорошие.", "en": ["Both cafes are good.", "Both of the cafes are good."] },
     { "ru": "(из двух отелей) Ни один отель не дорогой.", "en": ["Neither hotel is expensive.", "Neither of the hotels is expensive.", "Neither of the hotels are expensive."] },

@@ -50,6 +50,84 @@
       "text": "«Через неделю» — это <b>in a week</b>, а не after a week. А «в следующую пятницу» — просто <b>next Friday</b>, без on и in."
     }
   ],
+  "words": [
+    {
+      "en": "at",
+      "ru": "в (точное время, праздники: at six, at Christmas)"
+    },
+    {
+      "en": "on",
+      "ru": "в (дни и даты: on Monday, on 3 May)"
+    },
+    {
+      "en": "in",
+      "ru": "в (месяцы, годы, сезоны, части дня); через (in ten minutes)"
+    },
+    {
+      "en": "o'clock",
+      "ru": "час (ровно: at nine o'clock)"
+    },
+    {
+      "en": "at night",
+      "ru": "ночью"
+    },
+    {
+      "en": "at the weekend",
+      "ru": "на выходных"
+    },
+    {
+      "en": "at the moment",
+      "ru": "сейчас, в данный момент"
+    },
+    {
+      "en": "in the morning",
+      "ru": "утром"
+    },
+    {
+      "en": "in the evening",
+      "ru": "вечером"
+    },
+    {
+      "en": "next",
+      "ru": "следующий"
+    },
+    {
+      "en": "last",
+      "ru": "прошлый"
+    },
+    {
+      "en": "every",
+      "ru": "каждый"
+    },
+    {
+      "en": "a couple of",
+      "ru": "пара, несколько"
+    },
+    {
+      "en": "be born",
+      "ru": "родиться"
+    },
+    {
+      "en": "be back",
+      "ru": "вернуться"
+    },
+    {
+      "en": "Christmas",
+      "ru": "Рождество"
+    },
+    {
+      "en": "summer",
+      "ru": "лето"
+    },
+    {
+      "en": "April",
+      "ru": "апрель"
+    },
+    {
+      "en": "December",
+      "ru": "декабрь"
+    }
+  ],
   "items": [
     {
       "ru": "Урок начинается в девять часов.",

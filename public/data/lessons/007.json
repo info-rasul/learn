@@ -61,6 +61,28 @@
       "text": "В русском нет перфекта, поэтому тянет сказать <b>I lost my phone</b> или <b>Did you see my glasses?</b> Если важно состояние сейчас (телефона нет, очки ищу), британский вариант — <b>I've lost…</b>, <b>Have you seen…?</b> И не путайте «ещё не» (<b>not … yet</b>) со «всё ещё» (<b>still</b>)."
     }
   ],
+  "words": [
+    { "en": "just", "ru": "только что" },
+    { "en": "already", "ru": "уже" },
+    { "en": "yet", "ru": "уже (в вопросах); ещё (в отрицаниях)" },
+    { "en": "have been to", "ru": "побывать, съездить (и вернуться)" },
+    { "en": "have gone to", "ru": "уехать, уйти (и ещё не вернуться)" },
+    { "en": "wallet", "ru": "кошелёк" },
+    { "en": "somebody", "ru": "кто-то" },
+    { "en": "petrol", "ru": "бензин" },
+    { "en": "tell", "forms": "told, told", "ru": "сказать, рассказать" },
+    { "en": "forget", "forms": "forgot, forgotten", "ru": "забывать" },
+    { "en": "glasses", "ru": "очки" },
+    { "en": "breakfast", "ru": "завтрак" },
+    { "en": "pay", "forms": "paid, paid", "ru": "платить" },
+    { "en": "bill", "ru": "счёт" },
+    { "en": "leave", "forms": "left, left", "ru": "уходить, уезжать" },
+    { "en": "read", "forms": "read, read", "ru": "читать" },
+    { "en": "finish", "ru": "заканчивать" },
+    { "en": "decide", "ru": "решать" },
+    { "en": "ticket", "ru": "билет" },
+    { "en": "book", "ru": "бронировать" }
+  ],
   "items": [
     {
       "ru": "(и не могу его найти) Я потерял кошелёк.",

@@ -4,46 +4,296 @@
   "title": "I'd better ... it's time ...",
   "subtitle": "had better — «лучше бы», it's time we went — «пора бы»",
   "theory": [
-    { "type": "p", "text": "<b>I'd better do</b> (= I had better) — «мне лучше сделать это», иначе будет проблема или опасность: <b>You'd better take a coat, it's cold.</b> Отрицание — <b>had better not</b>: <b>We'd better not tell her.</b>" },
-    { "type": "list", "items": [
-      "Хотя здесь <b>had</b>, значение — настоящее или будущее: <b>I'd better go now / tomorrow.</b>",
-      "После had better глагол без to: <b>We'd better hurry</b>, не «had better to hurry».",
-      "Разделительный вопрос — с <b>hadn't</b>: <b>We'd better go, hadn't we?</b>"
-    ] },
-    { "type": "h", "text": "had better или should?" },
-    { "type": "p", "text": "<b>had better</b> — только для конкретной ситуации и когда есть риск: <b>The film starts at eight, so you'd better leave now.</b> <b>should</b> — для любых советов, в том числе общих: <b>You should read more.</b> <b>It's a great book, you should read it.</b> (ничего страшного, если не прочитаешь)." },
-    { "type": "h", "text": "It's time…" },
-    { "type": "table", "head": ["Конструкция", "Пример"], "rows": [
-      ["It's time (for somebody) to do", "<b>It's time to go to bed.</b> / <b>It's time for us to start.</b>"],
-      ["It's time somebody did (прошедшее, но смысл — сейчас)", "<b>It's time we left.</b>"],
-      ["It's about time somebody did — упрёк", "<b>It's about time you found a job.</b>"]
-    ] },
-    { "type": "tip", "text": "После <b>It's time + подлежащее</b> ставится прошедшее время, хотя речь о настоящем: <b>It's time you stopped complaining.</b>, а не «It's time you stop». И не путайте <b>I'd better</b> с «I would better» — такого нет." }
+    {
+      "type": "p",
+      "text": "<b>I'd better do</b> (= I had better) — «мне лучше сделать это», иначе будет проблема или опасность: <b>You'd better take a coat, it's cold.</b> Отрицание — <b>had better not</b>: <b>We'd better not tell her.</b>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Хотя здесь <b>had</b>, значение — настоящее или будущее: <b>I'd better go now / tomorrow.</b>",
+        "После had better глагол без to: <b>We'd better hurry</b>, не «had better to hurry».",
+        "Разделительный вопрос — с <b>hadn't</b>: <b>We'd better go, hadn't we?</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "had better или should?"
+    },
+    {
+      "type": "p",
+      "text": "<b>had better</b> — только для конкретной ситуации и когда есть риск: <b>The film starts at eight, so you'd better leave now.</b> <b>should</b> — для любых советов, в том числе общих: <b>You should read more.</b> <b>It's a great book, you should read it.</b> (ничего страшного, если не прочитаешь)."
+    },
+    {
+      "type": "h",
+      "text": "It's time…"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Конструкция",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "It's time (for somebody) to do",
+          "<b>It's time to go to bed.</b> / <b>It's time for us to start.</b>"
+        ],
+        [
+          "It's time somebody did (прошедшее, но смысл — сейчас)",
+          "<b>It's time we left.</b>"
+        ],
+        [
+          "It's about time somebody did — упрёк",
+          "<b>It's about time you found a job.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "После <b>It's time + подлежащее</b> ставится прошедшее время, хотя речь о настоящем: <b>It's time you stopped complaining.</b>, а не «It's time you stop». И не путайте <b>I'd better</b> с «I would better» — такого нет."
+    }
+  ],
+  "words": [
+    {
+      "en": "had better",
+      "ru": "лучше (бы), следует"
+    },
+    {
+      "en": "had better not",
+      "ru": "лучше не"
+    },
+    {
+      "en": "it's time",
+      "ru": "пора"
+    },
+    {
+      "en": "it's about time",
+      "ru": "давно пора"
+    },
+    {
+      "en": "or",
+      "ru": "иначе, а то"
+    },
+    {
+      "en": "hurry up",
+      "ru": "поторопиться"
+    },
+    {
+      "en": "coat",
+      "ru": "пальто"
+    },
+    {
+      "en": "diet",
+      "ru": "диета"
+    },
+    {
+      "en": "foreign",
+      "ru": "иностранный"
+    },
+    {
+      "en": "language",
+      "ru": "язык"
+    },
+    {
+      "en": "complain",
+      "ru": "жаловаться"
+    }
   ],
   "items": [
-    { "ru": "Мне лучше уйти сейчас, иначе я опоздаю на поезд.", "en": ["I'd better leave now or I'll miss the train.", "I'd better go now or I'll miss the train.", "I'd better leave now or I'll miss my train.", "I'd better go now or I'll miss my train."] },
-    { "ru": "Тебе лучше взять пальто, холодно.", "en": ["You'd better take a coat, it's cold.", "You'd better take a coat because it's cold.", "You'd better take your coat, it's cold."] },
-    { "ru": "Нам лучше забронировать столик.", "en": ["We'd better book a table.", "We'd better reserve a table."] },
-    { "ru": "Нам лучше поторопиться.", "en": ["We'd better hurry up.", "We'd better hurry."] },
-    { "ru": "Тебе лучше проверить, во сколько уходит поезд.", "en": ["You'd better check what time the train leaves.", "You'd better check when the train leaves."] },
-    { "ru": "Мне лучше больше не есть, я на диете.", "en": ["I'd better not eat any more, I'm on a diet.", "I'd better not eat any more because I'm on a diet.", "I'd better not eat anything else, I'm on a diet."] },
-    { "ru": "Тебе лучше не ходить сегодня на работу.", "en": ["You'd better not go to work today."] },
-    { "ru": "Ему лучше не опаздывать на экзамен.", "en": ["He'd better not be late for his exam.", "He'd better not be late for the exam."] },
-    { "ru": "Нам лучше не говорить ей об этом.", "en": ["We'd better not tell her about it.", "We'd better not tell her about this."] },
-    { "ru": "Лучше не покупай её, она очень дорогая.", "en": ["You'd better not buy it, it's very expensive.", "You'd better not buy it because it's very expensive."] },
-    { "ru": "Нам лучше уйти, правда?", "en": ["We'd better go, hadn't we?", "We'd better leave, hadn't we?"] },
-    { "ru": "Фильм начинается в восемь, так что тебе лучше выйти сейчас.", "en": ["The film starts at eight, so you'd better leave now.", "The film starts at eight, so you'd better go now.", "The movie starts at eight, so you'd better leave now.", "The movie starts at eight, so you'd better go now."] },
-    { "ru": "(общий совет) Тебе стоит больше читать.", "en": ["You should read more.", "You ought to read more."] },
-    { "ru": "(в целом) Всем стоит учить иностранный язык.", "en": ["Everyone should learn a foreign language.", "Everybody should learn a foreign language.", "Everyone ought to learn a foreign language.", "Everybody ought to learn a foreign language."] },
-    { "ru": "Это отличная книга, тебе стоит её прочитать.", "en": ["It's a great book, you should read it.", "It's a great book, so you should read it."] },
-    { "ru": "Пора ложиться спать.", "en": ["It's time to go to bed.", "It's time for bed.", "It's bedtime."] },
-    { "ru": "Нам пора начинать.", "en": ["It's time for us to start.", "It's time we started.", "It's time to start."] },
-    { "ru": "Уже поздно, нам пора уходить.", "en": ["It's late, it's time we left.", "It's late, it's time for us to leave.", "It's late, it's time we went.", "It's late, it's time for us to go.", "It's late, it's time to go.", "It's late, it's time to leave."] },
-    { "ru": "Детям уже пора быть в постели.", "en": ["It's time the children were in bed.", "It's time for the children to be in bed.", "It's time the kids were in bed."] },
-    { "ru": "Тебе давно пора найти работу.", "en": ["It's about time you found a job.", "It's time you found a job.", "It's high time you found a job.", "It's about time you got a job.", "It's high time you got a job."] },
-    { "ru": "Ему пора понять, что он не всегда прав.", "en": ["It's time he realised that he isn't always right.", "It's time he realized that he isn't always right.", "It's time he realised he isn't always right.", "It's time he realized he isn't always right."] },
-    { "ru": "Давно пора тебе что-то сделать со своей машиной.", "en": ["It's about time you did something about your car.", "It's time you did something about your car.", "It's high time you did something about your car."] },
-    { "ru": "Мне пора в отпуск.", "en": ["It's time I had a holiday.", "It's time I went on holiday.", "It's time I took a holiday.", "It's time for me to have a holiday.", "It's time I had a vacation.", "It's time I went on vacation.", "It's time I took a vacation."] },
-    { "ru": "Тебе пора перестать жаловаться.", "en": ["It's time you stopped complaining.", "It's about time you stopped complaining.", "It's time for you to stop complaining."] }
+    {
+      "ru": "Мне лучше уйти сейчас, иначе я опоздаю на поезд.",
+      "en": [
+        "I'd better leave now or I'll miss the train.",
+        "I'd better go now or I'll miss the train.",
+        "I'd better leave now or I'll miss my train.",
+        "I'd better go now or I'll miss my train."
+      ]
+    },
+    {
+      "ru": "Тебе лучше взять пальто, холодно.",
+      "en": [
+        "You'd better take a coat, it's cold.",
+        "You'd better take a coat because it's cold.",
+        "You'd better take your coat, it's cold."
+      ]
+    },
+    {
+      "ru": "Нам лучше забронировать столик.",
+      "en": [
+        "We'd better book a table.",
+        "We'd better reserve a table."
+      ]
+    },
+    {
+      "ru": "Нам лучше поторопиться.",
+      "en": [
+        "We'd better hurry up.",
+        "We'd better hurry."
+      ]
+    },
+    {
+      "ru": "Тебе лучше проверить, во сколько уходит поезд.",
+      "en": [
+        "You'd better check what time the train leaves.",
+        "You'd better check when the train leaves."
+      ]
+    },
+    {
+      "ru": "Мне лучше больше не есть, я на диете.",
+      "en": [
+        "I'd better not eat any more, I'm on a diet.",
+        "I'd better not eat any more because I'm on a diet.",
+        "I'd better not eat anything else, I'm on a diet."
+      ]
+    },
+    {
+      "ru": "Тебе лучше не ходить сегодня на работу.",
+      "en": [
+        "You'd better not go to work today."
+      ]
+    },
+    {
+      "ru": "Ему лучше не опаздывать на экзамен.",
+      "en": [
+        "He'd better not be late for his exam.",
+        "He'd better not be late for the exam."
+      ]
+    },
+    {
+      "ru": "Нам лучше не говорить ей об этом.",
+      "en": [
+        "We'd better not tell her about it.",
+        "We'd better not tell her about this."
+      ]
+    },
+    {
+      "ru": "Лучше не покупай её, она очень дорогая.",
+      "en": [
+        "You'd better not buy it, it's very expensive.",
+        "You'd better not buy it because it's very expensive."
+      ]
+    },
+    {
+      "ru": "Нам лучше уйти, правда?",
+      "en": [
+        "We'd better go, hadn't we?",
+        "We'd better leave, hadn't we?"
+      ]
+    },
+    {
+      "ru": "Фильм начинается в восемь, так что тебе лучше выйти сейчас.",
+      "en": [
+        "The film starts at eight, so you'd better leave now.",
+        "The film starts at eight, so you'd better go now.",
+        "The movie starts at eight, so you'd better leave now.",
+        "The movie starts at eight, so you'd better go now."
+      ]
+    },
+    {
+      "ru": "(общий совет) Тебе стоит больше читать.",
+      "en": [
+        "You should read more.",
+        "You ought to read more."
+      ]
+    },
+    {
+      "ru": "(в целом) Всем стоит учить иностранный язык.",
+      "en": [
+        "Everyone should learn a foreign language.",
+        "Everybody should learn a foreign language.",
+        "Everyone ought to learn a foreign language.",
+        "Everybody ought to learn a foreign language."
+      ]
+    },
+    {
+      "ru": "Это отличная книга, тебе стоит её прочитать.",
+      "en": [
+        "It's a great book, you should read it.",
+        "It's a great book, so you should read it."
+      ]
+    },
+    {
+      "ru": "Пора ложиться спать.",
+      "en": [
+        "It's time to go to bed.",
+        "It's time for bed.",
+        "It's bedtime."
+      ]
+    },
+    {
+      "ru": "Нам пора начинать.",
+      "en": [
+        "It's time for us to start.",
+        "It's time we started.",
+        "It's time to start."
+      ]
+    },
+    {
+      "ru": "Уже поздно, нам пора уходить.",
+      "en": [
+        "It's late, it's time we left.",
+        "It's late, it's time for us to leave.",
+        "It's late, it's time we went.",
+        "It's late, it's time for us to go.",
+        "It's late, it's time to go.",
+        "It's late, it's time to leave."
+      ]
+    },
+    {
+      "ru": "Детям уже пора быть в постели.",
+      "en": [
+        "It's time the children were in bed.",
+        "It's time for the children to be in bed.",
+        "It's time the kids were in bed."
+      ]
+    },
+    {
+      "ru": "Тебе давно пора найти работу.",
+      "en": [
+        "It's about time you found a job.",
+        "It's time you found a job.",
+        "It's high time you found a job.",
+        "It's about time you got a job.",
+        "It's high time you got a job."
+      ]
+    },
+    {
+      "ru": "Ему пора понять, что он не всегда прав.",
+      "en": [
+        "It's time he realised that he isn't always right.",
+        "It's time he realized that he isn't always right.",
+        "It's time he realised he isn't always right.",
+        "It's time he realized he isn't always right."
+      ]
+    },
+    {
+      "ru": "Давно пора тебе что-то сделать со своей машиной.",
+      "en": [
+        "It's about time you did something about your car.",
+        "It's time you did something about your car.",
+        "It's high time you did something about your car."
+      ]
+    },
+    {
+      "ru": "Мне пора в отпуск.",
+      "en": [
+        "It's time I had a holiday.",
+        "It's time I went on holiday.",
+        "It's time I took a holiday.",
+        "It's time for me to have a holiday.",
+        "It's time I had a vacation.",
+        "It's time I went on vacation.",
+        "It's time I took a vacation."
+      ]
+    },
+    {
+      "ru": "Тебе пора перестать жаловаться.",
+      "en": [
+        "It's time you stopped complaining.",
+        "It's about time you stopped complaining.",
+        "It's time for you to stop complaining."
+      ]
+    }
   ]
 }

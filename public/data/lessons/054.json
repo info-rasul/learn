@@ -20,6 +20,26 @@
     { "type": "p", "text": "После <b>know, decide, remember, forget, learn, explain, wonder, ask</b> и <b>show/tell/teach somebody</b> можно поставить вопросительное слово + <b>to</b>: <b>I don't know what to say.</b> <b>Show me how to use this app.</b> <b>I don't know whether to take the job.</b>" },
     { "type": "tip", "text": "«Кажется, я потерял…» не переводите как <b>It seems I lost</b> с лишними словами — естественнее <b>I seem to have lost…</b>. А «я не знаю, что делать» — <b>I don't know what to do</b>, без <b>should I</b>." }
   ],
+  "words": [
+    { "en": "decide", "ru": "решать" },
+    { "en": "agree", "ru": "соглашаться" },
+    { "en": "refuse", "ru": "отказываться" },
+    { "en": "forget", "forms": "forgot, forgotten", "ru": "забывать" },
+    { "en": "afford", "ru": "позволить себе (по деньгам)" },
+    { "en": "manage", "ru": "суметь, удаться" },
+    { "en": "promise", "ru": "обещать" },
+    { "en": "learn", "ru": "учиться, научиться" },
+    { "en": "tend", "ru": "быть склонным" },
+    { "en": "dare", "ru": "осмелиться, сметь" },
+    { "en": "seem", "ru": "казаться" },
+    { "en": "pretend", "ru": "притворяться, делать вид" },
+    { "en": "claim", "ru": "утверждать" },
+    { "en": "appear", "ru": "по-видимому (быть), казаться" },
+    { "en": "how to", "ru": "как (сделать)" },
+    { "en": "whether", "ru": "ли" },
+    { "en": "catch", "forms": "caught, caught", "ru": "успеть (на транспорт)" },
+    { "en": "app", "ru": "приложение" }
+  ],
   "items": [
     { "ru": "Мы решили поехать на поезде.", "en": ["We decided to go by train.", "We decided to take the train.", "We decided to travel by train."] },
     { "ru": "Он согласился мне помочь.", "en": ["He agreed to help me."] },

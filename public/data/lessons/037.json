@@ -4,46 +4,326 @@
   "title": "can/could/would you ... ? etc.",
   "subtitle": "Вежливые просьбы, разрешение, предложения и приглашения",
   "theory": [
-    { "type": "p", "text": "Попросить кого-то сделать что-то: <b>Can you…?</b> или вежливее <b>Could you…?</b> — <b>Could you help me with this box?</b> Ещё мягче: <b>Do you think you could…?</b> (не «you can»)." },
-    { "type": "table", "head": ["Цель", "Как сказать", "Пример"], "rows": [
-      ["Попросить вещь", "Can/Could/May I have…? Can I get…?", "<b>Could we have the bill, please?</b>"],
-      ["Попросить разрешения", "Can/Could/May I…?", "<b>Could I use your phone?</b>"],
-      ["Разрешение (мягко)", "Do you mind if I…? Is it all right / OK if I…?", "<b>Do you mind if I open the window?</b>"],
-      ["Предложить помощь", "Can I…?", "<b>Can I get you some water?</b>"],
-      ["Предложить, пригласить", "Would you like…?", "<b>Would you like some tea?</b>"],
-      ["Сказать, чего хочешь", "I'd like…", "<b>I'd like a ticket to London, please.</b>"]
-    ] },
-    { "type": "p", "text": "<b>May I…?</b> — более официально, чем <b>can</b> и <b>could</b>: <b>May I come in?</b>" },
-    { "type": "list", "items": [
-      "<b>Would you like a coffee?</b> — хотите кофе? (предложение)",
-      "<b>Do you like coffee?</b> — вы любите кофе? (вопрос о вкусах, не предложение)"
-    ] },
-    { "type": "tip", "text": "Русское «Хочешь чаю?» нельзя переводить как «Do you want tea?» или «Do you like tea?» в роли вежливого предложения. Говорите <b>Would you like some tea?</b> А вместо резкого «I want…» в магазине — <b>I'd like…</b>" }
+    {
+      "type": "p",
+      "text": "Попросить кого-то сделать что-то: <b>Can you…?</b> или вежливее <b>Could you…?</b> — <b>Could you help me with this box?</b> Ещё мягче: <b>Do you think you could…?</b> (не «you can»)."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Цель",
+        "Как сказать",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "Попросить вещь",
+          "Can/Could/May I have…? Can I get…?",
+          "<b>Could we have the bill, please?</b>"
+        ],
+        [
+          "Попросить разрешения",
+          "Can/Could/May I…?",
+          "<b>Could I use your phone?</b>"
+        ],
+        [
+          "Разрешение (мягко)",
+          "Do you mind if I…? Is it all right / OK if I…?",
+          "<b>Do you mind if I open the window?</b>"
+        ],
+        [
+          "Предложить помощь",
+          "Can I…?",
+          "<b>Can I get you some water?</b>"
+        ],
+        [
+          "Предложить, пригласить",
+          "Would you like…?",
+          "<b>Would you like some tea?</b>"
+        ],
+        [
+          "Сказать, чего хочешь",
+          "I'd like…",
+          "<b>I'd like a ticket to London, please.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>May I…?</b> — более официально, чем <b>can</b> и <b>could</b>: <b>May I come in?</b>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>Would you like a coffee?</b> — хотите кофе? (предложение)",
+        "<b>Do you like coffee?</b> — вы любите кофе? (вопрос о вкусах, не предложение)"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «Хочешь чаю?» нельзя переводить как «Do you want tea?» или «Do you like tea?» в роли вежливого предложения. Говорите <b>Would you like some tea?</b> А вместо резкого «I want…» в магазине — <b>I'd like…</b>"
+    }
+  ],
+  "words": [
+    {
+      "en": "could you",
+      "ru": "не могли бы вы"
+    },
+    {
+      "en": "can I",
+      "ru": "можно мне"
+    },
+    {
+      "en": "could I",
+      "ru": "можно мне (вежливо)"
+    },
+    {
+      "en": "may I",
+      "ru": "можно (мне)? (официально)"
+    },
+    {
+      "en": "do you mind if",
+      "ru": "вы не против, если"
+    },
+    {
+      "en": "is it all right if",
+      "ru": "ничего, если"
+    },
+    {
+      "en": "would you like",
+      "ru": "не хотите ли"
+    },
+    {
+      "en": "I'd like",
+      "ru": "я бы хотел, мне, пожалуйста"
+    },
+    {
+      "en": "turn down",
+      "ru": "сделать потише"
+    },
+    {
+      "en": "bill",
+      "ru": "счёт (в ресторане)"
+    },
+    {
+      "en": "piece",
+      "ru": "кусок, кусочек"
+    },
+    {
+      "en": "give a lift",
+      "ru": "подвезти"
+    },
+    {
+      "en": "try on",
+      "ru": "примерять"
+    },
+    {
+      "en": "box",
+      "ru": "коробка"
+    },
+    {
+      "en": "bag",
+      "ru": "сумка"
+    }
   ],
   "items": [
-    { "ru": "Не могли бы вы помочь мне с этой коробкой?", "en": ["Could you help me with this box?", "Can you help me with this box?"] },
-    { "ru": "Не подскажете, где почта?", "en": ["Could you tell me where the post office is?", "Can you tell me where the post office is?", "Do you know where the post office is?"] },
-    { "ru": "Не мог бы ты сделать музыку потише, пожалуйста?", "en": ["Could you turn the music down, please?", "Could you turn down the music, please?", "Can you turn the music down, please?", "Can you turn down the music, please?"] },
-    { "ru": "Не могли бы вы говорить помедленнее, пожалуйста?", "en": ["Could you speak more slowly, please?", "Can you speak more slowly, please?"] },
-    { "ru": "Как думаешь, ты мог бы одолжить мне немного денег?", "en": ["Do you think you could lend me some money?", "Do you think you could lend me a little money?"] },
-    { "ru": "(в кафе) Можно мне чашку кофе, пожалуйста?", "en": ["Can I have a cup of coffee, please?", "Could I have a cup of coffee, please?", "Can I get a cup of coffee, please?", "May I have a cup of coffee, please?"] },
-    { "ru": "Можно нам счёт, пожалуйста?", "en": ["Could we have the bill, please?", "Can we have the bill, please?", "May we have the bill, please?", "Can we get the bill, please?", "Could we have the check, please?"] },
-    { "ru": "Можно мне ещё кусочек торта?", "en": ["Could I have another piece of cake?", "Can I have another piece of cake?", "May I have another piece of cake?"] },
-    { "ru": "(по телефону) Можно поговорить с Анной, пожалуйста?", "en": ["Can I speak to Anna, please?", "Could I speak to Anna, please?", "May I speak to Anna, please?", "Can I talk to Anna, please?", "Could I talk to Anna, please?"] },
-    { "ru": "Можно мне воспользоваться твоим телефоном?", "en": ["Could I use your phone?", "Can I use your phone?", "May I use your phone?"] },
-    { "ru": "Как думаешь, можно мне взять твою машину на выходные?", "en": ["Do you think I could borrow your car for the weekend?", "Do you think I could take your car for the weekend?"] },
-    { "ru": "(официально) Можно войти?", "en": ["May I come in?", "Can I come in?", "Could I come in?"] },
-    { "ru": "Вы не против, если я открою окно?", "en": ["Do you mind if I open the window?", "Would you mind if I opened the window?"] },
-    { "ru": "Ты не против, если я возьму твою ручку?", "en": ["Do you mind if I borrow your pen?", "Do you mind if I use your pen?", "Would you mind if I borrowed your pen?", "Do you mind if I take your pen?"] },
-    { "ru": "Ничего, если я приду чуть позже?", "en": ["Is it all right if I come a bit later?", "Is it OK if I come a bit later?", "Is it all right if I come a little later?", "Is it OK if I come a little later?"] },
-    { "ru": "Можно я оставлю здесь сумку?", "en": ["Is it OK if I leave my bag here?", "Is it all right if I leave my bag here?", "Can I leave my bag here?", "Could I leave my bag here?", "May I leave my bag here?"] },
-    { "ru": "Вам помочь с сумками?", "en": ["Can I help you with your bags?", "Can I help you with the bags?", "Shall I help you with your bags?", "Shall I help you with the bags?"] },
-    { "ru": "Принести тебе воды?", "en": ["Can I get you some water?", "Can I get you a glass of water?", "Shall I get you some water?", "Can I bring you some water?", "Shall I get you a glass of water?"] },
-    { "ru": "Вас подвезти до вокзала?", "en": ["Can I give you a lift to the station?", "Can I give you a ride to the station?", "Shall I give you a lift to the station?"] },
-    { "ru": "Хочешь чаю?", "en": ["Would you like some tea?", "Would you like a cup of tea?"] },
-    { "ru": "Хотите что-нибудь выпить?", "en": ["Would you like anything to drink?", "Would you like something to drink?"] },
-    { "ru": "Не хотите поужинать с нами в субботу?", "en": ["Would you like to have dinner with us on Saturday?", "Would you like to eat with us on Saturday?", "Would you like to join us for dinner on Saturday?", "Would you like to come to dinner with us on Saturday?"] },
-    { "ru": "(в кассе) Мне билет до Лондона, пожалуйста.", "en": ["I'd like a ticket to London, please.", "Can I have a ticket to London, please?", "Could I have a ticket to London, please?"] },
-    { "ru": "(в магазине) Я бы хотел примерить эти джинсы.", "en": ["I'd like to try on these jeans.", "I'd like to try these jeans on."] }
+    {
+      "ru": "Не могли бы вы помочь мне с этой коробкой?",
+      "en": [
+        "Could you help me with this box?",
+        "Can you help me with this box?"
+      ]
+    },
+    {
+      "ru": "Не подскажете, где почта?",
+      "en": [
+        "Could you tell me where the post office is?",
+        "Can you tell me where the post office is?",
+        "Do you know where the post office is?"
+      ]
+    },
+    {
+      "ru": "Не мог бы ты сделать музыку потише, пожалуйста?",
+      "en": [
+        "Could you turn the music down, please?",
+        "Could you turn down the music, please?",
+        "Can you turn the music down, please?",
+        "Can you turn down the music, please?"
+      ]
+    },
+    {
+      "ru": "Не могли бы вы говорить помедленнее, пожалуйста?",
+      "en": [
+        "Could you speak more slowly, please?",
+        "Can you speak more slowly, please?"
+      ]
+    },
+    {
+      "ru": "Как думаешь, ты мог бы одолжить мне немного денег?",
+      "en": [
+        "Do you think you could lend me some money?",
+        "Do you think you could lend me a little money?"
+      ]
+    },
+    {
+      "ru": "(в кафе) Можно мне чашку кофе, пожалуйста?",
+      "en": [
+        "Can I have a cup of coffee, please?",
+        "Could I have a cup of coffee, please?",
+        "Can I get a cup of coffee, please?",
+        "May I have a cup of coffee, please?"
+      ]
+    },
+    {
+      "ru": "Можно нам счёт, пожалуйста?",
+      "en": [
+        "Could we have the bill, please?",
+        "Can we have the bill, please?",
+        "May we have the bill, please?",
+        "Can we get the bill, please?",
+        "Could we have the check, please?"
+      ]
+    },
+    {
+      "ru": "Можно мне ещё кусочек торта?",
+      "en": [
+        "Could I have another piece of cake?",
+        "Can I have another piece of cake?",
+        "May I have another piece of cake?"
+      ]
+    },
+    {
+      "ru": "(по телефону) Можно поговорить с Анной, пожалуйста?",
+      "en": [
+        "Can I speak to Anna, please?",
+        "Could I speak to Anna, please?",
+        "May I speak to Anna, please?",
+        "Can I talk to Anna, please?",
+        "Could I talk to Anna, please?"
+      ]
+    },
+    {
+      "ru": "Можно мне воспользоваться твоим телефоном?",
+      "en": [
+        "Could I use your phone?",
+        "Can I use your phone?",
+        "May I use your phone?"
+      ]
+    },
+    {
+      "ru": "Как думаешь, можно мне взять твою машину на выходные?",
+      "en": [
+        "Do you think I could borrow your car for the weekend?",
+        "Do you think I could take your car for the weekend?"
+      ]
+    },
+    {
+      "ru": "(официально) Можно войти?",
+      "en": [
+        "May I come in?",
+        "Can I come in?",
+        "Could I come in?"
+      ]
+    },
+    {
+      "ru": "Вы не против, если я открою окно?",
+      "en": [
+        "Do you mind if I open the window?",
+        "Would you mind if I opened the window?"
+      ]
+    },
+    {
+      "ru": "Ты не против, если я возьму твою ручку?",
+      "en": [
+        "Do you mind if I borrow your pen?",
+        "Do you mind if I use your pen?",
+        "Would you mind if I borrowed your pen?",
+        "Do you mind if I take your pen?"
+      ]
+    },
+    {
+      "ru": "Ничего, если я приду чуть позже?",
+      "en": [
+        "Is it all right if I come a bit later?",
+        "Is it OK if I come a bit later?",
+        "Is it all right if I come a little later?",
+        "Is it OK if I come a little later?"
+      ]
+    },
+    {
+      "ru": "Можно я оставлю здесь сумку?",
+      "en": [
+        "Is it OK if I leave my bag here?",
+        "Is it all right if I leave my bag here?",
+        "Can I leave my bag here?",
+        "Could I leave my bag here?",
+        "May I leave my bag here?"
+      ]
+    },
+    {
+      "ru": "Вам помочь с сумками?",
+      "en": [
+        "Can I help you with your bags?",
+        "Can I help you with the bags?",
+        "Shall I help you with your bags?",
+        "Shall I help you with the bags?"
+      ]
+    },
+    {
+      "ru": "Принести тебе воды?",
+      "en": [
+        "Can I get you some water?",
+        "Can I get you a glass of water?",
+        "Shall I get you some water?",
+        "Can I bring you some water?",
+        "Shall I get you a glass of water?"
+      ]
+    },
+    {
+      "ru": "Вас подвезти до вокзала?",
+      "en": [
+        "Can I give you a lift to the station?",
+        "Can I give you a ride to the station?",
+        "Shall I give you a lift to the station?"
+      ]
+    },
+    {
+      "ru": "Хочешь чаю?",
+      "en": [
+        "Would you like some tea?",
+        "Would you like a cup of tea?"
+      ]
+    },
+    {
+      "ru": "Хотите что-нибудь выпить?",
+      "en": [
+        "Would you like anything to drink?",
+        "Would you like something to drink?"
+      ]
+    },
+    {
+      "ru": "Не хотите поужинать с нами в субботу?",
+      "en": [
+        "Would you like to have dinner with us on Saturday?",
+        "Would you like to eat with us on Saturday?",
+        "Would you like to join us for dinner on Saturday?",
+        "Would you like to come to dinner with us on Saturday?"
+      ]
+    },
+    {
+      "ru": "(в кассе) Мне билет до Лондона, пожалуйста.",
+      "en": [
+        "I'd like a ticket to London, please.",
+        "Can I have a ticket to London, please?",
+        "Could I have a ticket to London, please?"
+      ]
+    },
+    {
+      "ru": "(в магазине) Я бы хотел примерить эти джинсы.",
+      "en": [
+        "I'd like to try on these jeans.",
+        "I'd like to try these jeans on."
+      ]
+    }
   ]
 }

@@ -71,6 +71,89 @@
       "text": "«Добр ко мне» — <b>kind to me</b>, а не <b>kind with me</b>. «Злюсь на тебя» — <b>angry with you</b>, а не <b>angry on you</b>. «Мне жаль его» — <b>I feel sorry for him</b>, а не <b>sorry about him</b>."
     }
   ],
+  "words": [
+    {
+      "en": "nice of you",
+      "ru": "мило с твоей (вашей) стороны"
+    },
+    {
+      "en": "generous",
+      "ru": "щедрый"
+    },
+    {
+      "en": "kind to",
+      "ru": "добрый к"
+    },
+    {
+      "en": "rude to",
+      "ru": "грубый с"
+    },
+    {
+      "en": "happy with",
+      "ru": "доволен (чем-то)"
+    },
+    {
+      "en": "disappointed with",
+      "ru": "разочарован (чем-то)"
+    },
+    {
+      "en": "surprised at",
+      "ru": "удивлён (чем-то)"
+    },
+    {
+      "en": "shocked by",
+      "ru": "шокирован (чем-то)"
+    },
+    {
+      "en": "sorry about",
+      "ru": "извини за (что-то)"
+    },
+    {
+      "en": "sorry for",
+      "ru": "извини за (сделанное)"
+    },
+    {
+      "en": "feel sorry for",
+      "forms": "felt, felt",
+      "ru": "жалеть (кого-то)"
+    },
+    {
+      "en": "angry about",
+      "ru": "злиться из-за (чего-то)"
+    },
+    {
+      "en": "angry with",
+      "ru": "злиться на (кого-то)"
+    },
+    {
+      "en": "upset about",
+      "ru": "расстроен из-за"
+    },
+    {
+      "en": "excited about",
+      "ru": "в восторге от, с нетерпением ждать"
+    },
+    {
+      "en": "nervous about",
+      "ru": "нервничать из-за"
+    },
+    {
+      "en": "impressed with",
+      "ru": "впечатлён (чем-то)"
+    },
+    {
+      "en": "fed up with",
+      "ru": "сыт по горло, надоело"
+    },
+    {
+      "en": "tired of",
+      "ru": "устал от"
+    },
+    {
+      "en": "mess",
+      "ru": "беспорядок"
+    }
+  ],
   "items": [
     {
       "ru": "Очень мило с твоей стороны прийти.",

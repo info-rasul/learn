@@ -21,6 +21,58 @@
     ] },
     { "type": "tip", "text": "<b>everybody/everyone/everything/every</b> — единственное число: <b>Everybody is here</b>, <b>Every seat was taken</b> (не <b>are</b>, не <b>were</b>), хотя по-русски «все пришли». Но дальше можно <b>they/their</b>: <b>Everyone said they were happy.</b>" }
   ],
+  "words": [
+    {
+      "en": "every",
+      "ru": "каждый"
+    },
+    {
+      "en": "everybody",
+      "ru": "все (люди), каждый"
+    },
+    {
+      "en": "everything",
+      "ru": "всё"
+    },
+    {
+      "en": "whole",
+      "ru": "целый, весь"
+    },
+    {
+      "en": "all day",
+      "ru": "весь день"
+    },
+    {
+      "en": "all the time",
+      "ru": "всё время, постоянно"
+    },
+    {
+      "en": "every time",
+      "ru": "каждый раз (когда)"
+    },
+    {
+      "en": "go wrong",
+      "forms": "went, gone",
+      "ru": "не получаться, идти не так"
+    },
+    {
+      "en": "information",
+      "ru": "информация"
+    },
+    {
+      "en": "website",
+      "ru": "сайт"
+    },
+    {
+      "en": "destroy",
+      "ru": "разрушать, уничтожать"
+    },
+    {
+      "en": "life",
+      "forms": "lives",
+      "ru": "жизнь"
+    }
+  ],
   "items": [
     { "ru": "Всем понравился фильм.", "en": ["Everybody liked the film.", "Everyone liked the film.", "Everybody enjoyed the film.", "Everyone enjoyed the film.", "Everybody liked the movie.", "Everyone liked the movie."] },
     { "ru": "Мой брат думает, что знает всё.", "en": ["My brother thinks he knows everything."] },

@@ -17,6 +17,75 @@
     { "type": "p", "text": "Часто такие обороты идут после <b>there is / there was</b>: <b>There were some children playing in the park.</b>, <b>There was a van parked outside.</b> Особый случай — <b>left</b> = «оставшийся»: <b>Is there any milk left?</b>" },
     { "type": "tip", "text": "Не путайте активное и пассивное: «машина, украденная вчера» — <b>the car stolen yesterday</b>, а не <b>the car stealing</b>. И не добавляйте лишнее <b>is</b>: <b>the man talking to Anna</b>, а не <b>the man is talking to Anna</b> внутри фразы." }
   ],
+  "words": [
+    {
+      "en": "entrance",
+      "ru": "вход"
+    },
+    {
+      "en": "wake up",
+      "forms": "woke up, woken up",
+      "ru": "будить, разбудить"
+    },
+    {
+      "en": "bark",
+      "ru": "лаять"
+    },
+    {
+      "en": "police",
+      "ru": "полиция"
+    },
+    {
+      "en": "investigate",
+      "ru": "расследовать"
+    },
+    {
+      "en": "theft",
+      "ru": "кража"
+    },
+    {
+      "en": "lead",
+      "forms": "led, led",
+      "ru": "вести (о дороге)"
+    },
+    {
+      "en": "overlook",
+      "ru": "выходить на (об окнах, комнате)"
+    },
+    {
+      "en": "begin",
+      "forms": "began, begun",
+      "ru": "начинаться"
+    },
+    {
+      "en": "popular",
+      "ru": "популярный"
+    },
+    {
+      "en": "van",
+      "ru": "фургон"
+    },
+    {
+      "en": "park",
+      "ru": "парковать"
+    },
+    {
+      "en": "biscuit",
+      "ru": "печенье"
+    },
+    {
+      "en": "be left",
+      "ru": "оставаться (в наличии)"
+    },
+    {
+      "en": "address",
+      "ru": "адресовать"
+    },
+    {
+      "en": "unhappy",
+      "ru": "недовольный, несчастный"
+    }
+  ],
   "items": [
     { "ru": "Кто тот мужчина, который разговаривает с Анной?", "en": ["Who is the man talking to Anna?", "Who is the man who is talking to Anna?", "Who is that man talking to Anna?", "Who is that man who is talking to Anna?", "Who is the man that is talking to Anna?"] },
     { "ru": "Девочка, сидящая у окна, — моя сестра.", "en": ["The girl sitting by the window is my sister.", "The girl sitting next to the window is my sister.", "The girl who is sitting by the window is my sister.", "The girl who is sitting next to the window is my sister.", "The girl sitting at the window is my sister."] },

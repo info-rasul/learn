@@ -42,6 +42,88 @@
       "text": "Русский «первый этаж» — это британский <b>ground floor</b>; <b>first floor</b> в Британии — наш второй. И «в автобусе» — <b>on the bus</b>, а не in the bus."
     }
   ],
+  "words": [
+    {
+      "en": "in a queue",
+      "ru": "в очереди"
+    },
+    {
+      "en": "in hospital",
+      "ru": "в больнице (на лечении)"
+    },
+    {
+      "en": "in bed",
+      "ru": "в постели"
+    },
+    {
+      "en": "in the sky",
+      "ru": "в небе"
+    },
+    {
+      "en": "in the world",
+      "ru": "в мире"
+    },
+    {
+      "en": "in the country",
+      "ru": "за городом, в сельской местности"
+    },
+    {
+      "en": "in the middle of",
+      "ru": "посередине, в середине"
+    },
+    {
+      "en": "on a farm",
+      "ru": "на ферме"
+    },
+    {
+      "en": "on the ground floor",
+      "ru": "на первом этаже"
+    },
+    {
+      "en": "on the list",
+      "ru": "в списке"
+    },
+    {
+      "en": "on the menu",
+      "ru": "в меню"
+    },
+    {
+      "en": "on the way",
+      "ru": "по пути, по дороге"
+    },
+    {
+      "en": "on the bus",
+      "ru": "в автобусе (также on the train, on the plane)"
+    },
+    {
+      "en": "in the car",
+      "ru": "в машине (также in a taxi)"
+    },
+    {
+      "en": "at work",
+      "ru": "на работе"
+    },
+    {
+      "en": "at home",
+      "ru": "дома"
+    },
+    {
+      "en": "at university",
+      "ru": "в университете (учиться)"
+    },
+    {
+      "en": "at a party",
+      "ru": "на вечеринке"
+    },
+    {
+      "en": "queue",
+      "ru": "очередь"
+    },
+    {
+      "en": "row",
+      "ru": "ряд"
+    }
+  ],
   "items": [
     {
       "ru": "Мы стояли в очереди полчаса.",

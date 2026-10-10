@@ -15,6 +15,66 @@
     { "type": "p", "text": "Просьбы и приказы: <b>tell/ask somebody (not) to do</b>. <b>The doctor told me to rest.</b> — Врач велел мне отдыхать. <b>She asked us not to make any noise.</b> Можно и без адресата: <b>He said not to wait for him.</b>" },
     { "type": "tip", "text": "Русское «сказал, чтобы я…» переводится через <b>told me to</b>, а не <b>said me that I…</b>. Например: «Он сказал мне подождать» — <b>He told me to wait.</b>" }
   ],
+  "words": [
+    {
+      "en": "tell somebody to do",
+      "ru": "велеть кому-то сделать"
+    },
+    {
+      "en": "ask somebody to do",
+      "ru": "попросить кого-то сделать"
+    },
+    {
+      "en": "say goodbye",
+      "ru": "попрощаться"
+    },
+    {
+      "en": "truth",
+      "ru": "правда"
+    },
+    {
+      "en": "near",
+      "ru": "рядом с, около"
+    },
+    {
+      "en": "suddenly",
+      "ru": "вдруг, внезапно"
+    },
+    {
+      "en": "stand up",
+      "forms": "stood up, stood up",
+      "ru": "встать"
+    },
+    {
+      "en": "guard",
+      "ru": "охранник"
+    },
+    {
+      "en": "bread",
+      "ru": "хлеб"
+    },
+    {
+      "en": "ill",
+      "ru": "больной"
+    },
+    {
+      "en": "rest",
+      "ru": "отдыхать"
+    },
+    {
+      "en": "make a noise",
+      "ru": "шуметь"
+    },
+    {
+      "en": "boring",
+      "ru": "скучный"
+    },
+    {
+      "en": "drive",
+      "forms": "drove, driven",
+      "ru": "водить (машину)"
+    }
+  ],
   "items": [
     { "ru": "(работа и сейчас такая) Анна сказала, что её работа скучная.", "en": ["Anna said her job is boring.", "Anna said her job was boring.", "Anna said that her job is boring.", "Anna said that her job was boring."] },
     { "ru": "(он всё ещё хочет) Том сказал, что хочет поехать в Канаду в следующем году.", "en": ["Tom said he wants to go to Canada next year.", "Tom said he wanted to go to Canada next year.", "Tom said that he wants to go to Canada next year.", "Tom said that he wanted to go to Canada next year."] },

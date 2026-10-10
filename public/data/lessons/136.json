@@ -59,6 +59,86 @@
       "text": "«Тратить на» — <b>spend on</b>, а не <b>spend for</b>. «Врезаться в» — <b>crash into</b>. «Сосредоточиться на» — <b>concentrate on</b>. «Обеспечить чем-то» — <b>provide somebody with something</b>, без <b>by</b>."
     }
   ],
+  "words": [
+    {
+      "en": "believe in",
+      "ru": "верить в"
+    },
+    {
+      "en": "specialise in",
+      "ru": "специализироваться на"
+    },
+    {
+      "en": "succeed in",
+      "ru": "суметь, добиться успеха в"
+    },
+    {
+      "en": "break into",
+      "forms": "broke, broken",
+      "ru": "вломиться в"
+    },
+    {
+      "en": "crash into",
+      "ru": "врезаться в"
+    },
+    {
+      "en": "bump into",
+      "ru": "налететь на, случайно встретить"
+    },
+    {
+      "en": "divide into",
+      "ru": "делить на"
+    },
+    {
+      "en": "translate into",
+      "ru": "переводить на (язык)"
+    },
+    {
+      "en": "collide with",
+      "ru": "столкнуться с"
+    },
+    {
+      "en": "fill with",
+      "ru": "наполнять (чем-то)"
+    },
+    {
+      "en": "provide with",
+      "ru": "обеспечивать (чем-то)"
+    },
+    {
+      "en": "happen to",
+      "ru": "случиться с"
+    },
+    {
+      "en": "prefer to",
+      "ru": "предпочитать (что-то чему-то)"
+    },
+    {
+      "en": "concentrate on",
+      "ru": "сосредоточиться на"
+    },
+    {
+      "en": "spend on",
+      "forms": "spent, spent",
+      "ru": "тратить на"
+    },
+    {
+      "en": "insist on",
+      "ru": "настаивать на"
+    },
+    {
+      "en": "waste on",
+      "ru": "тратить впустую на"
+    },
+    {
+      "en": "disease",
+      "ru": "болезнь"
+    },
+    {
+      "en": "lorry",
+      "ru": "грузовик"
+    }
+  ],
   "items": [
     {
       "ru": "Ты веришь в привидения?",

@@ -19,6 +19,85 @@
     ] },
     { "type": "tip", "text": "Две частые ошибки: <b>I want that you help me</b> (нужно <b>I want you to help me</b>) и <b>It made me to cry</b> (после make и let частицы to нет: <b>It made me cry</b>)." }
   ],
+  "words": [
+    {
+      "en": "want somebody to do",
+      "ru": "хотеть, чтобы кто-то сделал"
+    },
+    {
+      "en": "expect",
+      "ru": "ожидать"
+    },
+    {
+      "en": "remind",
+      "ru": "напоминать"
+    },
+    {
+      "en": "advise",
+      "ru": "советовать"
+    },
+    {
+      "en": "warn",
+      "ru": "предупреждать"
+    },
+    {
+      "en": "invite",
+      "ru": "приглашать"
+    },
+    {
+      "en": "encourage",
+      "ru": "поощрять, побуждать"
+    },
+    {
+      "en": "persuade",
+      "ru": "уговорить, убедить"
+    },
+    {
+      "en": "teach",
+      "forms": "taught, taught",
+      "ru": "учить, научить"
+    },
+    {
+      "en": "be allowed to",
+      "ru": "иметь разрешение, можно"
+    },
+    {
+      "en": "make somebody do",
+      "forms": "made, made",
+      "ru": "заставлять кого-то сделать"
+    },
+    {
+      "en": "let somebody do",
+      "forms": "let, let",
+      "ru": "позволять кому-то сделать"
+    },
+    {
+      "en": "get somebody to do",
+      "forms": "got, got",
+      "ru": "попросить (уговорить) кого-то сделать"
+    },
+    {
+      "en": "touch",
+      "ru": "трогать"
+    },
+    {
+      "en": "cry",
+      "ru": "плакать"
+    },
+    {
+      "en": "sad",
+      "ru": "грустный"
+    },
+    {
+      "en": "rewrite",
+      "forms": "rewrote, rewritten",
+      "ru": "переписать"
+    },
+    {
+      "en": "essay",
+      "ru": "сочинение, эссе"
+    }
+  ],
   "items": [
     { "ru": "Я хочу, чтобы ты пошёл со мной.", "en": ["I want you to come with me.", "I want you to go with me."] },
     { "ru": "Хочешь, я тебе помогу?", "en": ["Do you want me to help you?", "Would you like me to help you?"] },

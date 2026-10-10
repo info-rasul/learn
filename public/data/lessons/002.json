@@ -53,6 +53,33 @@
       "text": "Частые ошибки: забыть <b>-s</b> (<b>she work</b> вместо <b>she works</b>) и строить вопрос без do: <b>What means this word?</b> Правильно: <b>What does this word mean?</b> И не говорите <b>I'm promising</b> — только <b>I promise</b>."
     }
   ],
+  "words": [
+    { "en": "usually", "ru": "обычно" },
+    { "en": "rarely", "ru": "редко" },
+    { "en": "how often", "ru": "как часто" },
+    { "en": "twice", "ru": "дважды, два раза" },
+    { "en": "promise", "ru": "обещать" },
+    { "en": "apologise", "ru": "извиняться" },
+    { "en": "suggest", "ru": "предлагать" },
+    { "en": "agree", "ru": "соглашаться" },
+    { "en": "advise", "ru": "советовать" },
+    { "en": "teach", "forms": "taught, taught", "ru": "преподавать, учить" },
+    { "en": "freeze", "forms": "froze, frozen", "ru": "замерзать" },
+    { "en": "set", "forms": "set, set", "ru": "садиться (о солнце)" },
+    { "en": "close", "ru": "закрываться" },
+    { "en": "mean", "forms": "meant, meant", "ru": "означать" },
+    { "en": "get up", "forms": "got up, got up", "ru": "вставать (с постели)" },
+    { "en": "take", "forms": "took, taken", "ru": "занимать (о времени)" },
+    { "en": "do", "forms": "did, done", "ru": "делать; работать (What do you do? — кем ты работаешь?)" },
+    { "en": "be late", "ru": "опаздывать" },
+    { "en": "hospital", "ru": "больница" },
+    { "en": "city centre", "ru": "центр города" },
+    { "en": "sign", "ru": "знак, вывеска" },
+    { "en": "gym", "ru": "спортзал" },
+    { "en": "mistake", "ru": "ошибка" },
+    { "en": "degree", "ru": "градус" },
+    { "en": "west", "ru": "запад" }
+  ],
   "items": [
     {
       "ru": "Моя мама работает в больнице.",

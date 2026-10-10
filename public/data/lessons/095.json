@@ -15,6 +15,57 @@
     { "type": "p", "text": "<b>whose</b> и <b>where</b> работают в обоих типах: <b>Helen, whose car had broken down, came on foot.</b>, <b>We went to Italy, where my mother was born.</b>" },
     { "type": "tip", "text": "В русском запятая ставится перед любым «который», поэтому легко написать <b>Paris, that I love</b>. После запятой that нельзя — только <b>who</b> (люди) или <b>which</b> (вещи): <b>Paris, which I love</b>." }
   ],
+  "words": [
+    {
+      "en": "which",
+      "ru": "который (о предметах)"
+    },
+    {
+      "en": "guide",
+      "ru": "гид, экскурсовод"
+    },
+    {
+      "en": "really",
+      "ru": "действительно, очень"
+    },
+    {
+      "en": "still",
+      "ru": "всё ещё"
+    },
+    {
+      "en": "director",
+      "ru": "директор, руководитель"
+    },
+    {
+      "en": "respect",
+      "ru": "уважать"
+    },
+    {
+      "en": "retire",
+      "ru": "уходить на пенсию"
+    },
+    {
+      "en": "on foot",
+      "ru": "пешком"
+    },
+    {
+      "en": "come back",
+      "forms": "came back, come back",
+      "ru": "возвращаться"
+    },
+    {
+      "en": "clever",
+      "ru": "умный"
+    },
+    {
+      "en": "centre",
+      "ru": "центр"
+    },
+    {
+      "en": "watch",
+      "ru": "часы (наручные)"
+    }
+  ],
   "items": [
     { "ru": "Моя сестра Анна, которая живёт в Риме, работает врачом.", "en": ["My sister Anna, who lives in Rome, is a doctor.", "My sister Anna, who lives in Rome, works as a doctor."] },
     { "ru": "Мы поехали в Париж, который я очень люблю.", "en": ["We went to Paris, which I love very much.", "We went to Paris, which I really love.", "We went to Paris, which I love a lot."] },

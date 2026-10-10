@@ -46,6 +46,84 @@
       "text": "Русскоговорящие пишут <b>a four weeks course</b> или <b>a ten-years-old boy</b>. Перед существительным — только единственное число через дефис: <b>a four-week course</b>, <b>a ten-year-old boy</b>."
     }
   ],
+  "words": [
+    {
+      "en": "taxi driver",
+      "ru": "таксист"
+    },
+    {
+      "en": "city centre",
+      "ru": "центр города"
+    },
+    {
+      "en": "apple tree",
+      "ru": "яблоня"
+    },
+    {
+      "en": "TV programme",
+      "ru": "телепередача"
+    },
+    {
+      "en": "health",
+      "ru": "здоровье"
+    },
+    {
+      "en": "washing machine",
+      "ru": "стиральная машина"
+    },
+    {
+      "en": "swimming pool",
+      "ru": "бассейн"
+    },
+    {
+      "en": "toothpaste",
+      "ru": "зубная паста"
+    },
+    {
+      "en": "headache",
+      "ru": "головная боль"
+    },
+    {
+      "en": "car park",
+      "ru": "автостоянка, парковка"
+    },
+    {
+      "en": "coffee cup",
+      "ru": "кофейная чашка"
+    },
+    {
+      "en": "a cup of",
+      "ru": "чашка (чего-либо)"
+    },
+    {
+      "en": "shopping bag",
+      "ru": "хозяйственная сумка"
+    },
+    {
+      "en": "reception desk",
+      "ru": "стойка регистрации"
+    },
+    {
+      "en": "table tennis",
+      "ru": "настольный теннис"
+    },
+    {
+      "en": "journey",
+      "ru": "поездка, путешествие"
+    },
+    {
+      "en": "note",
+      "ru": "банкнота, купюра"
+    },
+    {
+      "en": "course",
+      "ru": "курс (обучения)"
+    },
+    {
+      "en": "ten-year-old",
+      "ru": "десятилетний"
+    }
+  ],
   "items": [
     {
       "ru": "Мой отец — таксист.",

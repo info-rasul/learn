@@ -46,6 +46,59 @@
       "text": "Русское «если не» не нужно переводить как <b>unless not</b>: правильно <b>unless you study</b> (= if you don't study). И не пишите will после unless / as long as: <b>as long as you are careful</b>, а не as long as you will be careful."
     }
   ],
+  "words": [
+    {
+      "en": "unless",
+      "ru": "если не, если только не"
+    },
+    {
+      "en": "as long as",
+      "ru": "при условии что, пока"
+    },
+    {
+      "en": "provided",
+      "ru": "при условии что"
+    },
+    {
+      "en": "urgent",
+      "ru": "срочный"
+    },
+    {
+      "en": "hurry",
+      "ru": "торопиться, спешить"
+    },
+    {
+      "en": "lose weight",
+      "forms": "lost, lost",
+      "ru": "похудеть"
+    },
+    {
+      "en": "exercise",
+      "ru": "заниматься спортом"
+    },
+    {
+      "en": "lend",
+      "forms": "lent, lent",
+      "ru": "давать взаймы"
+    },
+    {
+      "en": "pay back",
+      "forms": "paid, paid",
+      "ru": "вернуть (деньги)"
+    },
+    {
+      "en": "allowed",
+      "ru": "разрешённый (be allowed — допускаться)"
+    },
+    {
+      "en": "lead",
+      "ru": "поводок"
+    },
+    {
+      "en": "washing-up",
+      "ru": "мытьё посуды"
+    }
+  ],
   "items": [
     {
       "ru": "Я не пойду, если ты не пойдёшь со мной.",

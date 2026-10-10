@@ -19,6 +19,69 @@
     ] },
     { "type": "tip", "text": "По-русски говорим «я <b>ничего не</b> знаю» — с двумя отрицаниями. В английском одно отрицание: <b>I don't know anything</b> (не <b>I don't know nothing</b>). И «любой» в смысле «какой угодно» — это <b>any</b>, а не <b>every</b>." }
   ],
+  "words": [
+    {
+      "en": "some",
+      "ru": "немного, несколько, какой-то"
+    },
+    {
+      "en": "any",
+      "ru": "какой-нибудь; любой; (в отрицании) никакой"
+    },
+    {
+      "en": "somebody",
+      "ru": "кто-то"
+    },
+    {
+      "en": "someone",
+      "ru": "кто-то"
+    },
+    {
+      "en": "something",
+      "ru": "что-то"
+    },
+    {
+      "en": "somewhere",
+      "ru": "где-то, куда-нибудь"
+    },
+    {
+      "en": "anybody",
+      "ru": "кто-нибудь; любой; (в отрицании) никто"
+    },
+    {
+      "en": "anyone",
+      "ru": "кто-нибудь; любой; (в отрицании) никто"
+    },
+    {
+      "en": "anything",
+      "ru": "что-нибудь; что угодно; (в отрицании) ничего"
+    },
+    {
+      "en": "any time",
+      "ru": "в любое время"
+    },
+    {
+      "en": "without",
+      "ru": "без"
+    },
+    {
+      "en": "hardly",
+      "ru": "едва, почти не"
+    },
+    {
+      "en": "fridge",
+      "ru": "холодильник"
+    },
+    {
+      "en": "classroom",
+      "ru": "класс (комната)"
+    },
+    {
+      "en": "leave",
+      "forms": "left, left",
+      "ru": "оставлять"
+    }
+  ],
   "items": [
     { "ru": "Я купил хлеба и молока.", "en": ["I bought some bread and some milk.", "I bought some bread and milk.", "I bought bread and milk.", "I've bought some bread and some milk.", "I've bought some bread and milk."] },
     { "ru": "У Анны есть для тебя хорошие новости.", "en": ["Anna has some good news for you.", "Anna has got some good news for you.", "Anna has good news for you."] },

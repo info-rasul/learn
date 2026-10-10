@@ -38,6 +38,70 @@
       "text": "По-русски говорят «выглядишь устало», «пахнет вкусно» — и тянет поставить наречие. В английском после look, feel, sound, smell, taste нужно прилагательное: <b>You look tired</b> (не tiredly), <b>It smells good</b> (не well)."
     }
   ],
+  "words": [
+    {
+      "en": "look",
+      "ru": "выглядеть"
+    },
+    {
+      "en": "smell",
+      "ru": "пахнуть"
+    },
+    {
+      "en": "sound",
+      "ru": "звучать"
+    },
+    {
+      "en": "taste",
+      "ru": "иметь вкус"
+    },
+    {
+      "en": "feel",
+      "forms": "felt, felt",
+      "ru": "чувствовать себя"
+    },
+    {
+      "en": "get",
+      "forms": "got, got",
+      "ru": "становиться"
+    },
+    {
+      "en": "round",
+      "ru": "круглый"
+    },
+    {
+      "en": "wooden",
+      "ru": "деревянный"
+    },
+    {
+      "en": "leather",
+      "ru": "кожаный"
+    },
+    {
+      "en": "short",
+      "ru": "короткий"
+    },
+    {
+      "en": "dark",
+      "ru": "тёмный"
+    },
+    {
+      "en": "dress",
+      "ru": "платье"
+    },
+    {
+      "en": "voice",
+      "ru": "голос"
+    },
+    {
+      "en": "sadly",
+      "ru": "грустно, печально"
+    },
+    {
+      "en": "bitter",
+      "ru": "горький"
+    }
+  ],
   "items": [
     { "ru": "У нас был чудесный долгий отпуск.", "en": ["We had a wonderful long holiday.", "We had a wonderful long vacation.", "We had a lovely long holiday.", "We had a lovely long vacation.", "We had a great long holiday."] },
     { "ru": "Она живёт в маленьком старом доме.", "en": ["She lives in a small old house.", "She lives in a little old house."] },

@@ -51,6 +51,68 @@
       "text": "Русскоговорящие часто говорят <b>in sky</b>, <b>same colour</b>, <b>listen radio</b>. Запомните готовые блоки: <b>in the sky</b>, <b>the same colour</b>, <b>listen to the radio</b>, но <b>watch TV</b> без артикля."
     }
   ],
+  "words": [
+    {
+      "en": "the same as",
+      "ru": "такой же, как"
+    },
+    {
+      "en": "earth",
+      "ru": "Земля (планета)"
+    },
+    {
+      "en": "moon",
+      "ru": "Луна"
+    },
+    {
+      "en": "sky",
+      "ru": "небо"
+    },
+    {
+      "en": "star",
+      "ru": "звезда"
+    },
+    {
+      "en": "space",
+      "ru": "космос; место"
+    },
+    {
+      "en": "planet",
+      "ru": "планета"
+    },
+    {
+      "en": "capital",
+      "ru": "столица"
+    },
+    {
+      "en": "mountain",
+      "ru": "гора"
+    },
+    {
+      "en": "size",
+      "ru": "размер"
+    },
+    {
+      "en": "the country",
+      "ru": "сельская местность, за городом"
+    },
+    {
+      "en": "at the end of",
+      "ru": "в конце"
+    },
+    {
+      "en": "turn off",
+      "ru": "выключать"
+    },
+    {
+      "en": "platform",
+      "ru": "платформа"
+    },
+    {
+      "en": "page",
+      "ru": "страница"
+    }
+  ],
   "items": [
     {
       "ru": "Луна меньше Земли.",

@@ -19,6 +19,28 @@
     { "type": "p", "text": "О человеке можно сказать и так, и так, но смысл разный: <b>Ben is bored</b> — Бену скучно; <b>Ben is boring</b> — Бен зануда, с ним скучно другим." },
     { "type": "tip", "text": "Русское «мне скучно» часто превращается в <b>I'm boring</b> — а это значит «я скучный человек». Правильно: <b>I'm bored</b>. Так же: «мне интересно» — <b>I'm interested</b>, «я в восторге» — <b>I'm excited</b>." }
   ],
+  "words": [
+    { "en": "bored", "ru": "скучающий (мне скучно)" },
+    { "en": "boring", "ru": "скучный" },
+    { "en": "interested in", "ru": "интересующийся (чем-то)" },
+    { "en": "interesting", "ru": "интересный" },
+    { "en": "tiring", "ru": "утомительный" },
+    { "en": "excited", "ru": "взволнованный, в предвкушении" },
+    { "en": "exciting", "ru": "захватывающий" },
+    { "en": "surprising", "ru": "удивительный, неожиданный" },
+    { "en": "disappointed", "ru": "разочарованный" },
+    { "en": "disappointing", "ru": "разочаровывающий" },
+    { "en": "embarrassed", "ru": "смущённый" },
+    { "en": "embarrassing", "ru": "неловкий, постыдный" },
+    { "en": "confused", "ru": "сбитый с толку" },
+    { "en": "confusing", "ru": "запутанный, непонятный" },
+    { "en": "annoyed", "ru": "раздражённый" },
+    { "en": "annoying", "ru": "раздражающий" },
+    { "en": "worrying", "ru": "тревожный" },
+    { "en": "exhausted", "ru": "измученный, без сил" },
+    { "en": "frightened", "ru": "испуганный" },
+    { "en": "lecture", "ru": "лекция" }
+  ],
   "items": [
     { "ru": "Этот фильм скучный.", "en": ["This film is boring.", "This movie is boring."] },
     { "ru": "Мне скучно, давай куда-нибудь сходим.", "en": ["I'm bored, let's go out somewhere.", "I'm bored, let's go somewhere.", "I'm bored, let's go out."] },

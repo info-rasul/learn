@@ -50,6 +50,28 @@
       "text": "В русском «новости» — множественное, а «полиция» — единственное. В английском наоборот: <b>The news is good</b>, <b>The police are here</b>. А «люди» — <b>people are</b>, <b>people don't</b>."
     }
   ],
+  "words": [
+    { "en": "jeans", "ru": "джинсы" },
+    { "en": "glasses", "ru": "очки" },
+    { "en": "trousers", "ru": "брюки" },
+    { "en": "shorts", "ru": "шорты" },
+    { "en": "a pair of", "ru": "пара (чего-либо)" },
+    { "en": "scissors", "ru": "ножницы" },
+    { "en": "maths", "ru": "математика" },
+    { "en": "politics", "ru": "политика" },
+    { "en": "gymnastics", "ru": "гимнастика" },
+    { "en": "news", "ru": "новость, новости" },
+    { "en": "means of transport", "ru": "вид транспорта, транспортное средство" },
+    { "en": "series", "forms": "series", "ru": "сериал, серия" },
+    { "en": "species", "forms": "species", "ru": "вид (животных, растений)" },
+    { "en": "police", "ru": "полиция" },
+    { "en": "police officer", "ru": "полицейский" },
+    { "en": "staff", "ru": "персонал, сотрудники" },
+    { "en": "person", "forms": "people", "ru": "человек" },
+    { "en": "sharp", "ru": "острый" },
+    { "en": "raise", "ru": "повышать, поднимать" },
+    { "en": "tax", "ru": "налог" }
+  ],
   "items": [
     {
       "ru": "Мои джинсы слишком длинные.",

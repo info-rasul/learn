@@ -71,6 +71,81 @@
       "text": "«У нас кончилось молоко» — <b>We've run out of milk</b>: человек + <b>run out of</b> + вещь. Без <b>of</b> говорят о самой вещи: <b>The milk has run out.</b>"
     }
   ],
+  "words": [
+    {
+      "en": "go out",
+      "forms": "went, gone",
+      "ru": "гаснуть"
+    },
+    {
+      "en": "put out",
+      "forms": "put, put",
+      "ru": "тушить (огонь)"
+    },
+    {
+      "en": "turn out",
+      "ru": "оказаться; выключать (свет)"
+    },
+    {
+      "en": "blow out",
+      "forms": "blew, blown",
+      "ru": "задувать"
+    },
+    {
+      "en": "work out",
+      "ru": "тренироваться; складываться; понять, вычислить"
+    },
+    {
+      "en": "carry out",
+      "ru": "проводить, выполнять"
+    },
+    {
+      "en": "point out",
+      "ru": "указывать на"
+    },
+    {
+      "en": "sort out",
+      "ru": "уладить; разобрать"
+    },
+    {
+      "en": "hand out",
+      "ru": "раздавать"
+    },
+    {
+      "en": "run out of",
+      "forms": "ran, run",
+      "ru": "израсходовать, остаться без"
+    },
+    {
+      "en": "try out",
+      "ru": "опробовать"
+    },
+    {
+      "en": "make a wish",
+      "forms": "made, made",
+      "ru": "загадать желание"
+    },
+    {
+      "en": "firefighter",
+      "ru": "пожарный"
+    },
+    {
+      "en": "candle",
+      "ru": "свеча"
+    },
+    {
+      "en": "experiment",
+      "ru": "эксперимент, опыт"
+    },
+    {
+      "en": "marriage",
+      "ru": "брак"
+    },
+    {
+      "en": "rainy",
+      "ru": "дождливый"
+    }
+  ],
   "items": [
     {
       "ru": "Вдруг погас свет.",

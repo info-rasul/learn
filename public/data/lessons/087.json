@@ -20,6 +20,64 @@
     ] },
     { "type": "tip", "text": "Русское «мало» и «немного» звучат похоже, но в английском разница в одном артикле меняет смысл: <b>few people came</b> — пришло мало (плохо), <b>a few people came</b> — пришло несколько человек (уже что-то). А «я много работаю» — <b>I work a lot</b>, не <b>I work much</b>." }
   ],
+  "words": [
+    {
+      "en": "much",
+      "ru": "много (с неисчисляемыми)"
+    },
+    {
+      "en": "many",
+      "ru": "много (с исчисляемыми)"
+    },
+    {
+      "en": "a lot of",
+      "ru": "много"
+    },
+    {
+      "en": "a lot",
+      "ru": "много, часто"
+    },
+    {
+      "en": "plenty of",
+      "ru": "полно, предостаточно"
+    },
+    {
+      "en": "too much",
+      "ru": "слишком много"
+    },
+    {
+      "en": "little",
+      "ru": "мало (с неисчисляемыми)"
+    },
+    {
+      "en": "a little",
+      "ru": "немного (с неисчисляемыми)"
+    },
+    {
+      "en": "few",
+      "ru": "мало (с исчисляемыми)"
+    },
+    {
+      "en": "a few",
+      "ru": "несколько, немного (с исчисляемыми)"
+    },
+    {
+      "en": "sugar",
+      "ru": "сахар"
+    },
+    {
+      "en": "online",
+      "ru": "онлайн, через интернет"
+    },
+    {
+      "en": "tourist",
+      "ru": "турист"
+    },
+    {
+      "en": "free time",
+      "ru": "свободное время"
+    }
+  ],
   "items": [
     { "ru": "До фильма у нас не так много времени.", "en": ["We don't have much time before the film.", "We haven't got much time before the film.", "We don't have much time before the movie.", "We haven't got much time before the movie."] },
     { "ru": "У Кейт много друзей в Лондоне.", "en": ["Kate has a lot of friends in London.", "Kate has lots of friends in London.", "Kate has many friends in London.", "Kate has got a lot of friends in London.", "Kate has got lots of friends in London."] },

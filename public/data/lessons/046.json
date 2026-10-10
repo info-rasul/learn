@@ -16,6 +16,72 @@
     { "type": "p", "text": "Та же конструкция описывает неприятность, которая <b>случилась</b> с человеком или его вещами (никто ничего не заказывал): <b>Tom had his bike stolen.</b> — У Тома украли велосипед. <b>He had his arm broken.</b> — Ему сломали руку." },
     { "type": "tip", "text": "Следите за порядком слов: предмет стоит <b>между</b> have и причастием. Не <b>I had cut my hair</b> (это «я сам подстриг себя раньше»), а <b>I had my hair cut</b>." }
   ],
+  "words": [
+    {
+      "en": "have something done",
+      "ru": "поручить сделать что-то (кому-то другому)"
+    },
+    {
+      "en": "get something done",
+      "ru": "поручить сделать что-то (разг.)"
+    },
+    {
+      "en": "himself",
+      "ru": "сам (он сам), себя"
+    },
+    {
+      "en": "yourself",
+      "ru": "сам (ты сам), себя"
+    },
+    {
+      "en": "roof",
+      "ru": "крыша"
+    },
+    {
+      "en": "test",
+      "ru": "проверять (зрение, слух)"
+    },
+    {
+      "en": "translate",
+      "ru": "переводить (на другой язык)"
+    },
+    {
+      "en": "document",
+      "ru": "документ"
+    },
+    {
+      "en": "service",
+      "ru": "обслуживать, проводить техосмотр"
+    },
+    {
+      "en": "key",
+      "ru": "ключ"
+    },
+    {
+      "en": "frame",
+      "ru": "вставлять в рамку"
+    },
+    {
+      "en": "picture",
+      "ru": "фотография, снимок"
+    },
+    {
+      "en": "heart",
+      "ru": "сердце"
+    },
+    {
+      "en": "fight",
+      "ru": "драка"
+    },
+    {
+      "en": "search",
+      "ru": "обыскивать, досматривать"
+    },
+    {
+      "en": "flight",
+      "ru": "рейс, полёт"
+    }
+  ],
   "items": [
     { "ru": "(в парикмахерской) Я вчера подстригся.", "en": ["I had my hair cut yesterday.", "I got my hair cut yesterday.", "Yesterday I had my hair cut.", "Yesterday I got my hair cut."] },
     { "ru": "(нанимали маляров) Мы покрасили дом в прошлом месяце.", "en": ["We had our house painted last month.", "We had the house painted last month.", "We got our house painted last month.", "We got the house painted last month.", "Last month we had our house painted.", "Last month we had the house painted.", "Last month we got our house painted.", "Last month we got the house painted."] },

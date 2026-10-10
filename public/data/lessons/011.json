@@ -55,6 +55,23 @@
       "text": "Не переводите дословно: «Как давно вы женаты?» — это не <b>How long are you married?</b>, а <b>How long have you been married?</b> И «Они женаты 15 лет» — не <b>They are married for 15 years</b>, а <b>They've been married for 15 years.</b>"
     }
   ],
+  "words": [
+    { "en": "long", "ru": "долго (в вопросах и отрицаниях)" },
+    { "en": "for ages", "ru": "целую вечность, очень давно" },
+    { "en": "for years", "ru": "много лет, годами" },
+    { "en": "married", "ru": "женатый, замужем" },
+    { "en": "in hospital", "ru": "в больнице (на лечении)" },
+    { "en": "live", "ru": "жить" },
+    { "en": "school", "ru": "школа" },
+    { "en": "dog", "ru": "собака" },
+    { "en": "job", "ru": "работа" },
+    { "en": "bank", "ru": "банк" },
+    { "en": "theatre", "ru": "театр" },
+    { "en": "awful", "ru": "ужасный" },
+    { "en": "headache", "ru": "головная боль" },
+    { "en": "Friday", "ru": "пятница" },
+    { "en": "September", "ru": "сентябрь" }
+  ],
   "items": [
     {
       "ru": "Они женаты пятнадцать лет.",

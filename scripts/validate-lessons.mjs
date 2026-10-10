@@ -72,6 +72,23 @@ for (let id = first; id <= last; id++) {
       if (b.type === 'table' && (!Array.isArray(b.head) || !Array.isArray(b.rows))) fail(id, `theory[${i}] needs head and rows`);
       if (b.type === 'table' && b.rows?.some((r) => r.length !== b.head.length)) fail(id, `theory[${i}] row length differs from head`);
     });
+  if (lesson.words !== undefined || process.env.REQUIRE_WORDS) {
+    const list = lesson.words;
+    if (!Array.isArray(list) || list.length < 8 || list.length > 25) fail(id, `words: needs 8-25 entries, has ${list?.length}`);
+    else {
+      const seenWords = new Set();
+      list.forEach((w, i) => {
+        const at = `words[${i}]`;
+        if (typeof w.en !== 'string' || !/^[A-Za-z][A-Za-z' .,-]*$/.test(w.en)) fail(id, `${at}: bad en "${w.en}"`);
+        if (typeof w.ru !== 'string' || !/[а-яё]/i.test(w.ru)) fail(id, `${at}: ru must be Russian text`);
+        if (w.forms !== undefined && (typeof w.forms !== 'string' || /[а-яё]/i.test(w.forms))) fail(id, `${at}: bad forms`);
+        const extra = Object.keys(w).filter((k) => !['en', 'ru', 'forms'].includes(k));
+        if (extra.length) fail(id, `${at}: unknown fields ${extra.join(', ')}`);
+        if (seenWords.has(w.en)) fail(id, `${at}: duplicate "${w.en}"`);
+        seenWords.add(w.en);
+      });
+    }
+  }
   const items = lesson.items;
   if (!Array.isArray(items) || items.length < MIN_ITEMS || items.length > MAX_ITEMS) {
     fail(id, `needs ${MIN_ITEMS}-${MAX_ITEMS} items, has ${items?.length}`);

@@ -61,6 +61,94 @@
       "text": "Не переводите дословно: «позвонить кому-то» — <b>call somebody</b> (не <b>call to</b>), «ответить на письмо» — <b>answer the email</b> или <b>reply to the email</b>, «объясни мне» — <b>explain to me</b>, «слушать радио» — <b>listen to the radio</b>."
     }
   ],
+  "words": [
+    {
+      "en": "talk to",
+      "ru": "разговаривать с"
+    },
+    {
+      "en": "speak to",
+      "forms": "spoke, spoken",
+      "ru": "говорить с"
+    },
+    {
+      "en": "listen to",
+      "ru": "слушать"
+    },
+    {
+      "en": "look at",
+      "ru": "смотреть на"
+    },
+    {
+      "en": "have a look at",
+      "forms": "had, had",
+      "ru": "взглянуть на"
+    },
+    {
+      "en": "apologise to",
+      "ru": "извиняться перед"
+    },
+    {
+      "en": "thank",
+      "ru": "благодарить (thank somebody for)"
+    },
+    {
+      "en": "laugh at",
+      "ru": "смеяться над"
+    },
+    {
+      "en": "explain to",
+      "ru": "объяснять (кому-то)"
+    },
+    {
+      "en": "describe",
+      "ru": "описывать"
+    },
+    {
+      "en": "call",
+      "ru": "звонить (без to)"
+    },
+    {
+      "en": "text",
+      "ru": "написать сообщение"
+    },
+    {
+      "en": "write to",
+      "forms": "wrote, written",
+      "ru": "писать (кому-то)"
+    },
+    {
+      "en": "answer",
+      "ru": "отвечать (без to)"
+    },
+    {
+      "en": "point at",
+      "ru": "направлять на"
+    },
+    {
+      "en": "shoot at",
+      "forms": "shot, shot",
+      "ru": "стрелять в"
+    },
+    {
+      "en": "shout at",
+      "ru": "кричать на (сердито)"
+    },
+    {
+      "en": "shout to",
+      "ru": "кричать (кому-то, чтобы услышал)"
+    },
+    {
+      "en": "throw at",
+      "forms": "threw, thrown",
+      "ru": "бросать в (чтобы попасть)"
+    },
+    {
+      "en": "throw to",
+      "forms": "threw, thrown",
+      "ru": "бросать (кому-то, чтобы поймал)"
+    }
+  ],
   "items": [
     {
       "ru": "С кем ты разговаривал по телефону?",

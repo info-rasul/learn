@@ -17,6 +17,65 @@
     ] },
     { "type": "tip", "text": "Русское «большинство людей», «некоторые студенты» тянет сказать <b>most of people</b>. Без артикля или местоимения of не ставится: <b>most people</b>, но <b>most of the people here</b>. И «половина» — <b>half</b>, без the: <b>half of it</b>, а не <b>the half</b>." }
   ],
+  "words": [
+    {
+      "en": "all",
+      "ru": "все, весь"
+    },
+    {
+      "en": "all of",
+      "ru": "все из"
+    },
+    {
+      "en": "most",
+      "ru": "большинство"
+    },
+    {
+      "en": "most of",
+      "ru": "большинство из, большая часть"
+    },
+    {
+      "en": "some of",
+      "ru": "некоторые из"
+    },
+    {
+      "en": "any of",
+      "ru": "кто-нибудь из, какой-нибудь из"
+    },
+    {
+      "en": "half",
+      "forms": "halves",
+      "ru": "половина"
+    },
+    {
+      "en": "bird",
+      "ru": "птица"
+    },
+    {
+      "en": "sweet",
+      "ru": "сладкий"
+    },
+    {
+      "en": "test",
+      "ru": "тест, контрольная"
+    },
+    {
+      "en": "electric",
+      "ru": "электрический"
+    },
+    {
+      "en": "agree with",
+      "ru": "соглашаться с"
+    },
+    {
+      "en": "yours",
+      "ru": "твой, ваш (без существительного)"
+    },
+    {
+      "en": "soup",
+      "ru": "суп"
+    }
+  ],
   "items": [
     { "ru": "(в целом) Все дети любят играть.", "en": ["All children like playing.", "All children love playing.", "All children like to play.", "All children love to play."] },
     { "ru": "Некоторые люди не любят кофе.", "en": ["Some people don't like coffee."] },

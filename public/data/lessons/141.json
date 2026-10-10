@@ -63,6 +63,72 @@
       "text": "«Мы с ним хорошо ладим» — <b>We get on well</b> / <b>I get on well with him</b>, а не <b>get on with each other good</b>. После <b>go on / carry on / keep on</b> глагол идёт с <b>-ing</b>: <b>keep on asking</b>."
     }
   ],
+  "words": [
+    {
+      "en": "go on",
+      "forms": "went, gone",
+      "ru": "продолжаться; продолжать"
+    },
+    {
+      "en": "keep on",
+      "forms": "kept, kept",
+      "ru": "продолжать, постоянно делать"
+    },
+    {
+      "en": "carry on",
+      "ru": "продолжать"
+    },
+    {
+      "en": "drive on",
+      "forms": "drove, driven",
+      "ru": "ехать дальше"
+    },
+    {
+      "en": "get on",
+      "forms": "got, got",
+      "ru": "ладить; поживать, справляться"
+    },
+    {
+      "en": "get on with",
+      "forms": "got, got",
+      "ru": "продолжать (дело, работу)"
+    },
+    {
+      "en": "doze off",
+      "ru": "задремать"
+    },
+    {
+      "en": "go off",
+      "forms": "went, gone",
+      "ru": "зазвонить, сработать (о будильнике, сигнализации)"
+    },
+    {
+      "en": "show off",
+      "ru": "хвастаться, выпендриваться"
+    },
+    {
+      "en": "tell off",
+      "forms": "told, told",
+      "ru": "ругать, отчитывать"
+    },
+    {
+      "en": "finish off",
+      "ru": "доделывать, доедать"
+    },
+    {
+      "en": "rip off",
+      "ru": "обдирать, надувать (на деньги)"
+    },
+    {
+      "en": "put off",
+      "forms": "put, put",
+      "ru": "отбивать охоту, отталкивать"
+    },
+    {
+      "en": "alarm",
+      "ru": "будильник; сигнализация"
+    }
+  ],
   "items": [
     {
       "ru": "Вечеринка продолжалась до утра.",

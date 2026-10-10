@@ -46,6 +46,76 @@
       "text": "Русское «я видел, как он ушёл» переводится без <b>how</b> и без <b>that</b>: <b>I saw him leave.</b> Конструкция <b>I saw how he left</b> звучит неестественно. Иногда разница не важна: <b>I've never heard her sing / singing.</b>"
     }
   ],
+  "words": [
+    {
+      "en": "see somebody do",
+      "ru": "видеть, как кто-то сделал (целиком)"
+    },
+    {
+      "en": "see somebody doing",
+      "ru": "видеть, как кто-то делает (в процессе)"
+    },
+    {
+      "en": "hear",
+      "forms": "heard, heard",
+      "ru": "слышать"
+    },
+    {
+      "en": "feel",
+      "forms": "felt, felt",
+      "ru": "чувствовать"
+    },
+    {
+      "en": "smell",
+      "ru": "чувствовать запах"
+    },
+    {
+      "en": "listen to",
+      "ru": "слушать"
+    },
+    {
+      "en": "cross",
+      "ru": "переходить (дорогу)"
+    },
+    {
+      "en": "pocket",
+      "ru": "карман"
+    },
+    {
+      "en": "fall off",
+      "forms": "fell off, fallen off",
+      "ru": "упасть с"
+    },
+    {
+      "en": "burn",
+      "ru": "гореть"
+    },
+    {
+      "en": "entrance",
+      "ru": "вход"
+    },
+    {
+      "en": "crawl",
+      "ru": "ползти"
+    },
+    {
+      "en": "ride",
+      "forms": "rode, ridden",
+      "ru": "ехать (на велосипеде, верхом)"
+    },
+    {
+      "en": "along",
+      "ru": "вдоль, по"
+    },
+    {
+      "en": "jump",
+      "ru": "прыгать"
+    },
+    {
+      "en": "climb",
+      "ru": "лезть, перелезать"
+    }
+  ],
   "items": [
     {
       "ru": "Я видел, как Пол перешёл дорогу.",

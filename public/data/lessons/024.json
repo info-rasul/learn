@@ -16,6 +16,21 @@
     { "type": "p", "text": "<b>will have + V3</b> (future perfect) — к какому-то моменту в будущем действие <b>уже завершится</b>: <b>By Monday I'll have finished the book.</b> Часто с <b>by</b> (к) и <b>by the time</b> (к тому времени, как). Так же: <b>In May we'll have lived here for ten years.</b>" },
     { "type": "tip", "text": "Русское «к пятнице я закончу» переводят как «I'll finish by Friday» — это возможно, но если подчёркиваете завершённость к сроку, нужно <b>I'll have finished by Friday</b>. И после <b>by the time</b> — настоящее время: <b>by the time you arrive</b> (не will arrive)." }
   ],
+  "words": [
+    { "en": "by", "ru": "к (сроку): by Friday — к пятнице" },
+    { "en": "by the time", "ru": "к тому времени, как" },
+    { "en": "this time", "ru": "в это время (this time tomorrow — завтра в это время)" },
+    { "en": "ski", "ru": "кататься на лыжах" },
+    { "en": "use", "ru": "пользоваться" },
+    { "en": "pass", "ru": "проезжать мимо" },
+    { "en": "land", "ru": "приземляться" },
+    { "en": "get back", "forms": "got back, got back", "ru": "вернуться" },
+    { "en": "post office", "ru": "почта (отделение)" },
+    { "en": "match", "ru": "матч" },
+    { "en": "end", "ru": "конец" },
+    { "en": "everyone", "ru": "все" },
+    { "en": "later", "ru": "позже" }
+  ],
   "items": [
     { "ru": "Завтра в десять я буду работать.", "en": ["I'll be working at ten tomorrow.", "At ten tomorrow I'll be working.", "I'll be working at 10 tomorrow.", "Tomorrow at ten I'll be working."] },
     { "ru": "В это время на следующей неделе мы будем кататься на лыжах во Франции.", "en": ["This time next week we'll be skiing in France.", "At this time next week we'll be skiing in France.", "We'll be skiing in France this time next week."] },

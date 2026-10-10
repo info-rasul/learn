@@ -37,6 +37,28 @@
       "text": "По-русски «Это первый раз, когда я веду машину» — настоящее время, и хочется сказать <b>It's the first time I drive</b>. Это ошибка: правильно <b>It's the first time I've driven</b>. И не ставьте <b>ever</b> в утвердительное предложение про опыт: <b>I've been to Japan</b>, а не <b>I've ever been</b>."
     }
   ],
+  "words": [
+    { "en": "ever", "ru": "когда-нибудь, когда-либо" },
+    { "en": "never", "ru": "никогда" },
+    { "en": "before", "ru": "раньше, прежде" },
+    { "en": "recently", "ru": "в последнее время, недавно" },
+    { "en": "so far", "ru": "пока что, до сих пор" },
+    { "en": "the first time", "ru": "первый раз, впервые" },
+    { "en": "time", "ru": "раз (three times — три раза)" },
+    { "en": "abroad", "ru": "за границей, за границу" },
+    { "en": "try", "ru": "пробовать" },
+    { "en": "ice cream", "ru": "мороженое" },
+    { "en": "delicious", "ru": "очень вкусный" },
+    { "en": "neighbour", "ru": "сосед" },
+    { "en": "move", "ru": "переезжать" },
+    { "en": "drink", "forms": "drank, drunk", "ru": "пить" },
+    { "en": "fly", "forms": "flew, flown", "ru": "летать" },
+    { "en": "chess", "ru": "шахматы" },
+    { "en": "visit", "ru": "посещать" },
+    { "en": "country", "ru": "страна" },
+    { "en": "anywhere", "ru": "куда-нибудь, где-нибудь" },
+    { "en": "word", "ru": "слово" }
+  ],
   "items": [
     {
       "ru": "Ты когда-нибудь был в Японии?",

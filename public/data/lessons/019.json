@@ -19,6 +19,25 @@
     ] },
     { "type": "tip", "text": "Русское «Что ты делаешь в субботу?» переводят как «What do you do on Saturday?» — это вопрос о привычке. О планах спрашивают <b>What are you doing on Saturday?</b>" }
   ],
+  "words": [
+    { "en": "tomorrow", "ru": "завтра" },
+    { "en": "next", "ru": "следующий" },
+    { "en": "this evening", "ru": "сегодня вечером" },
+    { "en": "get married", "forms": "got married, got married", "ru": "жениться, выйти замуж" },
+    { "en": "ill", "ru": "больной" },
+    { "en": "fly", "forms": "flew, flown", "ru": "лететь" },
+    { "en": "leave", "forms": "left, left", "ru": "уходить, отправляться" },
+    { "en": "open", "ru": "открываться" },
+    { "en": "go to bed", "forms": "went, gone", "ru": "ложиться спать" },
+    { "en": "plane", "ru": "самолёт" },
+    { "en": "noon", "ru": "полдень" },
+    { "en": "birthday", "ru": "день рождения" },
+    { "en": "interview", "ru": "собеседование" },
+    { "en": "summer holidays", "ru": "летние каникулы" },
+    { "en": "Tuesday", "ru": "вторник" },
+    { "en": "June", "ru": "июнь" },
+    { "en": "July", "ru": "июль" }
+  ],
   "items": [
     { "ru": "(уже договорились) В субботу я играю в теннис с Ником.", "en": ["I'm playing tennis with Nick on Saturday.", "On Saturday I'm playing tennis with Nick."] },
     { "ru": "Что ты делаешь сегодня вечером?", "en": ["What are you doing this evening?", "What are you doing tonight?"] },

@@ -21,6 +21,28 @@
     { "type": "p", "text": "Но если речь о <b>конкретном успешном случае</b> («сумел, удалось»), <b>could</b> не используем — нужно <b>was/were able to</b> или <b>managed to</b>: <b>The exam was hard, but I managed to pass.</b> Отрицание <b>couldn't</b> подходит всегда: <b>I tried, but I couldn't open it.</b>" },
     { "type": "tip", "text": "Русское «смог» в смысле «удалось» не переводите как could: «Я смог найти билеты» — <b>I managed to find tickets</b> / <b>I was able to find tickets</b>. А «не смог» — спокойно <b>couldn't</b>." }
   ],
+  "words": [
+    { "en": "be able to", "ru": "мочь, быть в состоянии" },
+    { "en": "could", "ru": "мог, умел (в прошлом)" },
+    { "en": "manage to", "ru": "суметь, удаться" },
+    { "en": "be afraid", "ru": "бояться (I'm afraid — боюсь, к сожалению)" },
+    { "en": "swim", "forms": "swam, swum", "ru": "плавать" },
+    { "en": "concentrate", "ru": "сосредоточиться" },
+    { "en": "reach", "ru": "добраться до, достичь" },
+    { "en": "beat", "forms": "beat, beaten", "ru": "обыграть, победить" },
+    { "en": "smell", "forms": "smelt/smelled, smelt/smelled", "ru": "чувствовать запах" },
+    { "en": "smoke", "ru": "дым" },
+    { "en": "mountain", "ru": "гора" },
+    { "en": "actor", "ru": "актёр" },
+    { "en": "path", "ru": "тропа" },
+    { "en": "top", "ru": "вершина" },
+    { "en": "father", "ru": "отец" },
+    { "en": "difficult", "ru": "трудный" },
+    { "en": "whatever", "ru": "что угодно" },
+    { "en": "anybody", "ru": "кто угодно" },
+    { "en": "because of", "ru": "из-за" },
+    { "en": "in the end", "ru": "в конце концов" }
+  ],
   "items": [
     { "ru": "Из нашего окна видно море.", "en": ["We can see the sea from our window.", "From our window we can see the sea.", "You can see the sea from our window.", "From our window you can see the sea."] },
     { "ru": "Можешь взять мой зонт.", "en": ["You can take my umbrella.", "You can borrow my umbrella.", "You can use my umbrella."] },

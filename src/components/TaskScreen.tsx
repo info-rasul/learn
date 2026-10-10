@@ -13,6 +13,7 @@ import AiExplain from './AiExplain';
 import AskTutor from './AskTutor';
 import Theory from './Theory';
 import VerbHint, { findVerb } from './VerbHint';
+import WordList from './WordList';
 
 type Status = 'answer' | 'correct' | 'wrong';
 type Sheet = 'hint' | 'help' | 'ask' | null;
@@ -372,8 +373,16 @@ export default function TaskScreen(props: Props) {
                   }}
                 />
               ) : sheet === 'hint' ? (
-                hint ? (
-                  <VerbHint verb={hint.verb} pronoun={hint.pronoun} />
+                hint || lesson.words?.length ? (
+                  <>
+                    {hint && <VerbHint verb={hint.verb} pronoun={hint.pronoun} />}
+                    {lesson.words?.length ? (
+                      <>
+                        <h3 className="sheet-subtitle">Новые слова урока</h3>
+                        <WordList words={lesson.words} />
+                      </>
+                    ) : null}
+                  </>
                 ) : (
                   <>
                     <p className="muted">Для этой фразы нет таблицы глагола — вот правила урока.</p>

@@ -79,6 +79,100 @@
       "text": "«Терпеть шум» — <b>put up with the noise</b>: оба слова, <b>up</b> и <b>with</b>, обязательны, и местоимение идёт в конце: <b>I can't put up with it</b>. А вот в <b>look it up</b>, <b>make it up</b> местоимение стоит в середине."
     }
   ],
+  "words": [
+    {
+      "en": "bring up",
+      "forms": "brought, brought",
+      "ru": "поднимать (тему)"
+    },
+    {
+      "en": "come up",
+      "forms": "came, come",
+      "ru": "всплывать, возникать (о вопросе)"
+    },
+    {
+      "en": "come up with",
+      "forms": "came, come",
+      "ru": "придумывать"
+    },
+    {
+      "en": "make up",
+      "forms": "made, made",
+      "ru": "выдумывать"
+    },
+    {
+      "en": "save up",
+      "ru": "копить"
+    },
+    {
+      "en": "tear up",
+      "forms": "tore, torn",
+      "ru": "рвать (на куски)"
+    },
+    {
+      "en": "split up",
+      "forms": "split, split",
+      "ru": "расставаться"
+    },
+    {
+      "en": "break up with",
+      "forms": "broke, broken",
+      "ru": "расстаться с"
+    },
+    {
+      "en": "do up",
+      "forms": "did, done",
+      "ru": "застёгивать; ремонтировать"
+    },
+    {
+      "en": "look up",
+      "ru": "искать (в словаре, в интернете)"
+    },
+    {
+      "en": "put up with",
+      "forms": "put, put",
+      "ru": "терпеть, мириться с"
+    },
+    {
+      "en": "cheer up",
+      "ru": "подбодрить; не грустить"
+    },
+    {
+      "en": "clear up",
+      "ru": "проясняться (о погоде)"
+    },
+    {
+      "en": "blow up",
+      "forms": "blew, blown",
+      "ru": "взрывать"
+    },
+    {
+      "en": "beat up",
+      "forms": "beat, beaten",
+      "ru": "избивать"
+    },
+    {
+      "en": "hold up",
+      "forms": "held, held",
+      "ru": "задерживать"
+    },
+    {
+      "en": "mix up",
+      "ru": "путать"
+    },
+    {
+      "en": "excuse",
+      "ru": "отговорка, оправдание"
+    },
+    {
+      "en": "dictionary",
+      "ru": "словарь"
+    },
+    {
+      "en": "twin",
+      "ru": "близнец"
+    }
+  ],
   "items": [
     {
       "ru": "Пожалуйста, не поднимай эту тему за ужином.",

@@ -16,6 +16,28 @@
     { "type": "p", "text": "О законченном действии можно сказать <b>having done</b>, но обычное <b>-ing</b> тоже верно: <b>He denied taking the money.</b> = <b>He denied having taken the money.</b> После <b>admit, deny, suggest, recommend</b> возможно и <b>that</b>: <b>I recommend that you visit this museum.</b>" },
     { "type": "tip", "text": "Русское «предложить сделать» тянет к <b>suggest to do</b> — это ошибка. Правильно <b>suggest doing</b> или <b>suggest that we do</b>. Так же «бросить курить» — <b>give up smoking</b>, не <b>give up to smoke</b>." }
   ],
+  "words": [
+    { "en": "enjoy", "ru": "получать удовольствие, любить (делать)" },
+    { "en": "mind", "ru": "возражать, быть против" },
+    { "en": "suggest", "ru": "предлагать" },
+    { "en": "stop", "ru": "перестать, прекратить" },
+    { "en": "finish", "ru": "закончить" },
+    { "en": "avoid", "ru": "избегать" },
+    { "en": "fancy", "ru": "хотеться (разг.)" },
+    { "en": "consider", "ru": "обдумывать, рассматривать" },
+    { "en": "deny", "ru": "отрицать" },
+    { "en": "admit", "ru": "признавать(ся)" },
+    { "en": "recommend", "ru": "советовать, рекомендовать" },
+    { "en": "risk", "ru": "рисковать" },
+    { "en": "imagine", "ru": "представлять (себе)" },
+    { "en": "give up", "forms": "gave up, given up", "ru": "бросить (привычку)" },
+    { "en": "put off", "forms": "put off, put off", "ru": "откладывать" },
+    { "en": "go on", "forms": "went on, gone on", "ru": "продолжать" },
+    { "en": "keep", "forms": "kept, kept", "ru": "постоянно (делать), продолжать" },
+    { "en": "laugh", "ru": "смеяться" },
+    { "en": "email", "ru": "электронное письмо" },
+    { "en": "vase", "ru": "ваза" }
+  ],
   "items": [
     { "ru": "Я люблю готовить по выходным.", "en": ["I enjoy cooking at weekends.", "I enjoy cooking on weekends.", "I enjoy cooking at the weekend.", "I like cooking at weekends.", "I love cooking at weekends.", "I like cooking on weekends.", "I love cooking on weekends.", "I like cooking at the weekend.", "I love cooking at the weekend."] },
     { "ru": "Ты не против открыть окно?", "en": ["Would you mind opening the window?", "Do you mind opening the window?"] },

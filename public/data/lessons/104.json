@@ -29,6 +29,53 @@
       "text": "Русское «довольно» не значит «совсем». <b>I'm quite tired</b> — довольно устал, а <b>You're quite right</b> — совершенно прав. Значение зависит от прилагательного, следите за контекстом. И не забывайте порядок: <b>quite a nice day</b> (не a quite nice day)."
     }
   ],
+  "words": [
+    {
+      "en": "quite",
+      "ru": "довольно; совершенно (с right, sure и т. п.)"
+    },
+    {
+      "en": "not quite",
+      "ru": "не совсем"
+    },
+    {
+      "en": "rather",
+      "ru": "довольно (часто о неприятном)"
+    },
+    {
+      "en": "fairly",
+      "ru": "довольно, достаточно (слабее, чем quite)"
+    },
+    {
+      "en": "quite a lot of",
+      "ru": "довольно много"
+    },
+    {
+      "en": "impossible",
+      "ru": "невозможный"
+    },
+    {
+      "en": "song",
+      "ru": "песня"
+    },
+    {
+      "en": "each other",
+      "ru": "друг друга"
+    },
+    {
+      "en": "right",
+      "ru": "правый (о мнении)"
+    },
+    {
+      "en": "sure",
+      "ru": "уверенный"
+    },
+    {
+      "en": "go swimming",
+      "forms": "went swimming, gone swimming",
+      "ru": "пойти поплавать"
+    }
+  ],
   "items": [
     { "ru": "Сегодня довольно тепло.", "en": ["It's quite warm today.", "It's pretty warm today.", "It's fairly warm today.", "Today it's quite warm.", "Today it's pretty warm."] },
     { "ru": "Он довольно хорошо говорит по-английски.", "en": ["He speaks English quite well.", "He speaks English pretty well.", "He speaks English fairly well."] },

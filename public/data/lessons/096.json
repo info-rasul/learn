@@ -15,6 +15,76 @@
     { "type": "p", "text": "<b>which</b> может относиться ко всему предыдущему предложению — «что, и это…»: <b>Alex passed the exam, which surprised everybody.</b> Здесь which = тот факт, что Алекс сдал экзамен." },
     { "type": "tip", "text": "Русское «…, что всех удивило» тянет сказать <b>what</b>. Но <b>what</b> здесь неверно — нужно <b>which</b>: <b>Kate couldn't come, which was a pity</b> (не <b>what was a pity</b>)." }
   ],
+  "words": [
+    {
+      "en": "all of whom",
+      "ru": "все из которых (о людях)"
+    },
+    {
+      "en": "most of which",
+      "ru": "большинство из которых"
+    },
+    {
+      "en": "none of which",
+      "ru": "ни один из которых"
+    },
+    {
+      "en": "neither of whom",
+      "ru": "ни один из двоих"
+    },
+    {
+      "en": "half of which",
+      "ru": "половина из которых"
+    },
+    {
+      "en": "luckily",
+      "ru": "к счастью"
+    },
+    {
+      "en": "be proud of",
+      "ru": "гордиться"
+    },
+    {
+      "en": "hear of",
+      "forms": "heard of, heard of",
+      "ru": "слышать о"
+    },
+    {
+      "en": "pair",
+      "ru": "пара"
+    },
+    {
+      "en": "fit",
+      "ru": "подходить (по размеру)"
+    },
+    {
+      "en": "ride",
+      "forms": "rode, ridden",
+      "ru": "ездить (на велосипеде)"
+    },
+    {
+      "en": "send",
+      "forms": "sent, sent",
+      "ru": "посылать, отправлять"
+    },
+    {
+      "en": "author",
+      "ru": "автор"
+    },
+    {
+      "en": "a pity",
+      "ru": "жаль, досадно"
+    },
+    {
+      "en": "worry",
+      "ru": "беспокоить, волновать"
+    },
+    {
+      "en": "upset",
+      "forms": "upset, upset",
+      "ru": "расстраивать"
+    }
+  ],
   "items": [
     { "ru": "(официально) Дэвид, с которым я говорил на встрече, хочет нам помочь.", "en": ["David, to whom I spoke at the meeting, wants to help us.", "David, with whom I spoke at the meeting, wants to help us.", "David, who I spoke to at the meeting, wants to help us.", "David, who I talked to at the meeting, wants to help us."] },
     { "ru": "(разговорно) Хелен, с которой я работаю, переезжает в Рим.", "en": ["Helen, who I work with, is moving to Rome.", "Helen, with whom I work, is moving to Rome."] },

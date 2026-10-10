@@ -37,6 +37,23 @@
       "text": "Русское «я сделаю» часто переводят как <b>I will</b>. Но если решение принято заранее, нужно <b>I'm going to</b>: «Я в субботу помою машину (уже решил)» — <b>I'm going to wash the car on Saturday.</b>"
     }
   ],
+  "words": [
+    { "en": "be going to", "ru": "собираться (что-то сделать)" },
+    { "en": "look for", "ru": "искать" },
+    { "en": "be late for", "ru": "опаздывать (куда-то)" },
+    { "en": "run out of", "forms": "ran out of, run out of", "ru": "закончиться (о запасах)" },
+    { "en": "have a baby", "ru": "родить ребёнка" },
+    { "en": "change your mind", "ru": "передумать" },
+    { "en": "wear", "forms": "wore, worn", "ru": "носить, надевать (одежду)" },
+    { "en": "clean", "ru": "мыть, чистить" },
+    { "en": "win", "forms": "won, won", "ru": "выигрывать" },
+    { "en": "sofa", "ru": "диван" },
+    { "en": "wedding", "ru": "свадьба" },
+    { "en": "truth", "ru": "правда" },
+    { "en": "team", "ru": "команда" },
+    { "en": "another", "ru": "другой, ещё один" },
+    { "en": "expensive", "ru": "дорогой" }
+  ],
   "items": [
     {
       "ru": "(уже решил) Я собираюсь продать машину.",

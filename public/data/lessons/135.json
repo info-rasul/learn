@@ -63,6 +63,90 @@
       "text": "«Зависит от» — <b>depends on</b>, не <b>depends from</b>. «Заплатить за обед» — <b>pay for lunch</b>, а не <b>pay lunch</b>. «Поздравить с» — <b>congratulate on</b>, не <b>congratulate with</b>."
     }
   ],
+  "words": [
+    {
+      "en": "accuse of",
+      "ru": "обвинять в"
+    },
+    {
+      "en": "suspect of",
+      "ru": "подозревать в"
+    },
+    {
+      "en": "approve of",
+      "ru": "одобрять"
+    },
+    {
+      "en": "die of",
+      "ru": "умереть от"
+    },
+    {
+      "en": "consist of",
+      "ru": "состоять из"
+    },
+    {
+      "en": "pay for",
+      "forms": "paid, paid",
+      "ru": "платить за"
+    },
+    {
+      "en": "thank for",
+      "ru": "благодарить за"
+    },
+    {
+      "en": "forgive for",
+      "forms": "forgave, forgiven",
+      "ru": "прощать за"
+    },
+    {
+      "en": "apologise for",
+      "ru": "извиняться за"
+    },
+    {
+      "en": "blame for",
+      "ru": "винить в"
+    },
+    {
+      "en": "blame on",
+      "ru": "сваливать вину на"
+    },
+    {
+      "en": "suffer from",
+      "ru": "страдать от"
+    },
+    {
+      "en": "protect from",
+      "ru": "защищать от"
+    },
+    {
+      "en": "live on",
+      "ru": "жить на (деньги, еду)"
+    },
+    {
+      "en": "congratulate on",
+      "ru": "поздравлять с"
+    },
+    {
+      "en": "compliment on",
+      "ru": "хвалить за"
+    },
+    {
+      "en": "depend on",
+      "ru": "зависеть от"
+    },
+    {
+      "en": "rely on",
+      "ru": "полагаться на"
+    },
+    {
+      "en": "fine",
+      "ru": "штраф"
+    },
+    {
+      "en": "insomnia",
+      "ru": "бессонница"
+    }
+  ],
   "items": [
     {
       "ru": "Она обвинила меня во лжи.",

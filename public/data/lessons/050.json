@@ -16,6 +16,50 @@
     ] },
     { "type": "tip", "text": "Русская частица «ли» переводится словом <b>if/whether</b> в начале: «Я не знаю, придёт ли Кейт» — <b>I don't know if Kate will come</b>, а не <b>I don't know will Kate come</b>." }
   ],
+  "words": [
+    {
+      "en": "do you know",
+      "ru": "ты знаешь, не знаешь ли"
+    },
+    {
+      "en": "could you tell me",
+      "ru": "не подскажете"
+    },
+    {
+      "en": "wonder",
+      "ru": "интересоваться (I wonder — интересно)"
+    },
+    {
+      "en": "if",
+      "ru": "ли (в косвенном вопросе)"
+    },
+    {
+      "en": "want to know",
+      "ru": "хотеть знать"
+    },
+    {
+      "en": "mean",
+      "forms": "meant, meant",
+      "ru": "иметь в виду"
+    },
+    {
+      "en": "how much",
+      "ru": "сколько (о цене, количестве)"
+    },
+    {
+      "en": "how old",
+      "ru": "сколько лет"
+    },
+    {
+      "en": "how long",
+      "ru": "как долго"
+    },
+    {
+      "en": "woman",
+      "forms": "women",
+      "ru": "женщина"
+    }
+  ],
   "items": [
     { "ru": "Ты знаешь, где живёт Ник?", "en": ["Do you know where Nick lives?"] },
     { "ru": "Не подскажете, где вокзал?", "en": ["Could you tell me where the station is?", "Can you tell me where the station is?", "Could you tell me where the train station is?", "Can you tell me where the train station is?", "Could you tell me where the railway station is?", "Can you tell me where the railway station is?"] },

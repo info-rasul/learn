@@ -30,6 +30,61 @@
       "text": "Русский порядок свободный: «я каждый день хожу в спортзал», «вчера я забыл дома телефон». В английском не ставьте время между глаголом и местом: <b>I go to the gym every day</b>, <b>I left my phone at home yesterday</b>."
     }
   ],
+  "words": [
+    {
+      "en": "very much",
+      "ru": "очень (в конце фразы)"
+    },
+    {
+      "en": "well",
+      "ru": "хорошо"
+    },
+    {
+      "en": "slowly",
+      "ru": "медленно"
+    },
+    {
+      "en": "carefully",
+      "ru": "внимательно, осторожно"
+    },
+    {
+      "en": "again",
+      "ru": "снова, опять"
+    },
+    {
+      "en": "every day",
+      "ru": "каждый день"
+    },
+    {
+      "en": "all day",
+      "ru": "весь день"
+    },
+    {
+      "en": "last night",
+      "ru": "вчера вечером"
+    },
+    {
+      "en": "outside",
+      "ru": "у, возле (снаружи)"
+    },
+    {
+      "en": "leave",
+      "forms": "left, left",
+      "ru": "оставить, забыть (где-то)"
+    },
+    {
+      "en": "contract",
+      "ru": "договор, контракт"
+    },
+    {
+      "en": "gym",
+      "ru": "спортзал"
+    },
+    {
+      "en": "Russian",
+      "ru": "русский язык"
+    }
+  ],
   "items": [
     { "ru": "Мне очень нравится итальянская еда.", "en": ["I like Italian food very much.", "I really like Italian food.", "I love Italian food.", "I like Italian food a lot."] },
     { "ru": "Анна очень хорошо говорит по-английски.", "en": ["Anna speaks English very well.", "Anna speaks very good English."] },

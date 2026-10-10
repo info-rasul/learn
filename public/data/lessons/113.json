@@ -50,6 +50,44 @@
       "text": "Русское «несмотря на то что» подталкивает сказать <b>despite he was tired</b> — это ошибка. Правильно: <b>although he was tired</b>, <b>despite being tired</b> или <b>despite the fact that he was tired</b>. И никогда не говорите <b>despite of</b>."
     }
   ],
+  "words": [
+    {
+      "en": "although",
+      "ru": "хотя"
+    },
+    {
+      "en": "though",
+      "ru": "впрочем, всё-таки (в конце фразы)"
+    },
+    {
+      "en": "in spite of",
+      "ru": "несмотря на"
+    },
+    {
+      "en": "despite",
+      "ru": "несмотря на"
+    },
+    {
+      "en": "despite the fact that",
+      "ru": "несмотря на то что"
+    },
+    {
+      "en": "age",
+      "ru": "возраст"
+    },
+    {
+      "en": "active",
+      "ru": "активный"
+    },
+    {
+      "en": "in a hurry",
+      "ru": "в спешке, торопясь"
+    },
+    {
+      "en": "miss",
+      "ru": "опоздать на (поезд, автобус)"
+    }
+  ],
   "items": [
     {
       "ru": "Хотя я устал, я не мог уснуть.",

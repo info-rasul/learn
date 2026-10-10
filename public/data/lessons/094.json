@@ -15,6 +15,57 @@
     ] },
     { "type": "tip", "text": "«Девушка, у которой собака потерялась» — это <b>whose</b>, а не <b>who her dog</b> или <b>who's dog</b>: <b>the girl whose dog got lost</b>. И «причина, по которой» — просто <b>the reason (why)</b>, без предлогов." }
   ],
+  "words": [
+    {
+      "en": "whose",
+      "ru": "чей, у которого"
+    },
+    {
+      "en": "whom",
+      "ru": "которого, кому (официально)"
+    },
+    {
+      "en": "where",
+      "ru": "где, в котором"
+    },
+    {
+      "en": "reason",
+      "ru": "причина"
+    },
+    {
+      "en": "admire",
+      "ru": "восхищаться"
+    },
+    {
+      "en": "be in love with",
+      "ru": "быть влюблённым в"
+    },
+    {
+      "en": "be born",
+      "ru": "родиться"
+    },
+    {
+      "en": "thin",
+      "ru": "худой"
+    },
+    {
+      "en": "work late",
+      "ru": "работать допоздна"
+    },
+    {
+      "en": "traffic",
+      "ru": "пробки, уличное движение"
+    },
+    {
+      "en": "stay",
+      "ru": "останавливаться, жить (в гостинице)"
+    },
+    {
+      "en": "get lost",
+      "forms": "got lost, got lost",
+      "ru": "потеряться"
+    }
+  ],
   "items": [
     { "ru": "Мы помогли женщине, у которой сломалась машина.", "en": ["We helped a woman whose car had broken down.", "We helped a woman whose car broke down.", "We helped the woman whose car had broken down.", "We helped the woman whose car broke down."] },
     { "ru": "Я знаю девушку, чей отец — пилот.", "en": ["I know a girl whose father is a pilot.", "I know a girl whose dad is a pilot."] },

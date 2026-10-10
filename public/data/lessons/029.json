@@ -21,6 +21,18 @@
     ] },
     { "type": "tip", "text": "Русское «мог» в предположении о прошлом нельзя переводить как <b>could</b> + глагол: «Он мог забыть» = <b>He may/might/could have forgotten</b>, а не «He could forget». Для прошлого всегда нужно <b>have + V3</b>." }
   ],
+  "words": [
+    { "en": "may", "ru": "возможно, может быть" },
+    { "en": "might", "ru": "возможно (менее уверенно)" },
+    { "en": "might not", "ru": "возможно, не" },
+    { "en": "may have done", "ru": "возможно, сделал" },
+    { "en": "couldn't have done", "ru": "не мог (сделать) — исключено" },
+    { "en": "maybe", "ru": "может быть" },
+    { "en": "be right", "ru": "быть правым" },
+    { "en": "work late", "ru": "работать допоздна" },
+    { "en": "story", "ru": "история" },
+    { "en": "asleep", "ru": "спящий" }
+  ],
   "items": [
     { "ru": "Анна, возможно, дома.", "en": ["Anna may be at home.", "Anna might be at home.", "Anna could be at home.", "Maybe Anna is at home.", "Perhaps Anna is at home."] },
     { "ru": "Том, возможно, знает её адрес.", "en": ["Tom might know her address.", "Tom may know her address.", "Maybe Tom knows her address.", "Perhaps Tom knows her address."] },

@@ -58,6 +58,69 @@
       "text": "Русскоговорящие часто ставят the перед аэропортами и университетами: <b>the Heathrow Airport</b>. Ориентир: если первое слово — название города или имя человека, артикля нет (<b>Heathrow Airport, Oxford University</b>); если в названии есть of — артикль есть (<b>the University of Oxford</b>)."
     }
   ],
+  "words": [
+    {
+      "en": "street",
+      "ru": "улица"
+    },
+    {
+      "en": "square",
+      "ru": "площадь"
+    },
+    {
+      "en": "park",
+      "ru": "парк"
+    },
+    {
+      "en": "airport",
+      "ru": "аэропорт"
+    },
+    {
+      "en": "university",
+      "ru": "университет"
+    },
+    {
+      "en": "palace",
+      "ru": "дворец"
+    },
+    {
+      "en": "royal",
+      "ru": "королевский"
+    },
+    {
+      "en": "museum",
+      "ru": "музей"
+    },
+    {
+      "en": "tower",
+      "ru": "башня"
+    },
+    {
+      "en": "cathedral",
+      "ru": "собор"
+    },
+    {
+      "en": "wall",
+      "ru": "стена"
+    },
+    {
+      "en": "the European Union",
+      "ru": "Европейский союз"
+    },
+    {
+      "en": "member",
+      "ru": "член (организации)"
+    },
+    {
+      "en": "president",
+      "ru": "президент"
+    },
+    {
+      "en": "have a picnic",
+      "forms": "had, had",
+      "ru": "устроить пикник"
+    }
+  ],
   "items": [
     {
       "ru": "Мы гуляли по Оксфорд-стрит.",

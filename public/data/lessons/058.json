@@ -12,6 +12,44 @@
     { "type": "p", "text": "<b>would like to have done</b> — сожаление о том, что не получилось: <b>I'd like to have seen the match.</b> (= я бы хотел посмотреть, но не посмотрел). Так же с <b>would love / would hate / would prefer</b>." },
     { "type": "tip", "text": "Не путайте <b>I like</b> (мне нравится вообще) и <b>I'd like</b> (я хочу сейчас). На вопрос «Хочешь чаю?» нельзя сказать <b>I like</b> — нужно <b>I'd like some tea.</b> И никогда не <b>enjoy to do</b> — только <b>enjoy doing</b>." }
   ],
+  "words": [
+    {
+      "en": "like doing",
+      "ru": "любить (что-то делать)"
+    },
+    {
+      "en": "like to do",
+      "ru": "предпочитать (так делать), считать правильным"
+    },
+    {
+      "en": "would like",
+      "ru": "хотел бы"
+    },
+    {
+      "en": "would love",
+      "ru": "с радостью бы"
+    },
+    {
+      "en": "hate",
+      "ru": "ненавидеть, терпеть не мочь"
+    },
+    {
+      "en": "would hate",
+      "ru": "очень не хотелось бы"
+    },
+    {
+      "en": "would like to have done",
+      "ru": "хотел бы (но не получилось)"
+    },
+    {
+      "en": "keep somebody waiting",
+      "ru": "заставлять кого-то ждать"
+    },
+    {
+      "en": "alone",
+      "ru": "один, в одиночестве"
+    }
+  ],
   "items": [
     { "ru": "Я люблю читать в постели.", "en": ["I like reading in bed.", "I like to read in bed.", "I love reading in bed.", "I love to read in bed."] },
     { "ru": "Анна терпеть не может летать.", "en": ["Anna hates flying.", "Anna hates to fly.", "Anna can't stand flying."] },

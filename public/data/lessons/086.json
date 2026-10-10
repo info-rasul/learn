@@ -19,6 +19,58 @@
     ] },
     { "type": "tip", "text": "Русское «Я <b>ничего не</b> сказал» нельзя переводить двумя отрицаниями. Либо <b>I said nothing</b>, либо <b>I didn't say anything</b>, но никогда <b>I didn't say nothing</b>." }
   ],
+  "words": [
+    {
+      "en": "no",
+      "ru": "никакой, нет (перед существительным)"
+    },
+    {
+      "en": "none",
+      "ru": "ни одного, ничего (без существительного)"
+    },
+    {
+      "en": "none of",
+      "ru": "ни один из, никто из"
+    },
+    {
+      "en": "nothing",
+      "ru": "ничего"
+    },
+    {
+      "en": "nobody",
+      "ru": "никто"
+    },
+    {
+      "en": "nowhere",
+      "ru": "нигде, никуда"
+    },
+    {
+      "en": "anywhere",
+      "ru": "где угодно, куда угодно"
+    },
+    {
+      "en": "explanation",
+      "ru": "объяснение"
+    },
+    {
+      "en": "be left",
+      "ru": "оставаться"
+    },
+    {
+      "en": "lose",
+      "forms": "lost, lost",
+      "ru": "терять"
+    },
+    {
+      "en": "shelf",
+      "forms": "shelves",
+      "ru": "полка"
+    },
+    {
+      "en": "letter",
+      "ru": "письмо"
+    }
+  ],
   "items": [
     { "ru": "В этом городе нет кинотеатра.", "en": ["There's no cinema in this town.", "There isn't a cinema in this town.", "There's no cinema in the town.", "There isn't a cinema in the town.", "There's no movie theater in this town.", "There isn't a movie theater in this town."] },
     { "ru": "У меня нет времени.", "en": ["I have no time.", "I've got no time.", "I don't have any time.", "I haven't got any time.", "I don't have time.", "I haven't got time."] },

@@ -4,47 +4,368 @@
   "title": "should 2",
   "subtitle": "suggest/insist that… should, It's important that…, if… should",
   "theory": [
-    { "type": "p", "text": "После глаголов <b>insist, demand, recommend, suggest, propose</b> и выражений <b>It's important / essential / vital / necessary that…</b> можно поставить <b>should</b>: <b>She insisted that I should stay.</b> <b>It's important that everyone should be on time.</b>" },
-    { "type": "table", "head": ["Вариант", "Пример"], "rows": [
-      ["с should", "<b>The doctor recommended that I should walk more.</b>"],
-      ["без should (сослагательное)", "<b>The doctor recommended that I walk more.</b>"],
-      ["обычное время", "<b>The doctor recommended that I walked more.</b>"]
-    ] },
-    { "type": "p", "text": "После <b>suggest</b> не бывает конструкции «suggest somebody to do». Правильно: <b>I suggest you read it.</b>, <b>I suggested that she should buy it.</b>, <b>Where do you suggest we go?</b> или с -ing: <b>He suggested meeting in a cafe.</b>" },
-    { "type": "h", "text": "should после strange, surprised, natural, typical" },
-    { "type": "p", "text": "<b>It's strange that she should say that.</b> <b>I was surprised that he should ask me.</b> <b>It's natural that you should feel nervous.</b> Здесь should подчёркивает наше удивление или оценку." },
-    { "type": "h", "text": "If… should / Should… — «если вдруг»" },
-    { "type": "list", "items": [
-      "<b>If anyone should call, say I'm out.</b> = если вдруг позвонят (вероятность небольшая).",
-      "Более официально — начать с Should: <b>Should you need help, call us.</b>",
-      "В британском английском <b>I should…</b> = совет «я бы на твоём месте…»: <b>I should take a coat.</b>"
-    ] },
-    { "type": "tip", "text": "Русское «Я предложил ему пойти» тянет сказать «I suggested him to go» — это ошибка. Говорите <b>I suggested that he (should) go</b> или <b>I suggested going</b>." }
+    {
+      "type": "p",
+      "text": "После глаголов <b>insist, demand, recommend, suggest, propose</b> и выражений <b>It's important / essential / vital / necessary that…</b> можно поставить <b>should</b>: <b>She insisted that I should stay.</b> <b>It's important that everyone should be on time.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Вариант",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "с should",
+          "<b>The doctor recommended that I should walk more.</b>"
+        ],
+        [
+          "без should (сослагательное)",
+          "<b>The doctor recommended that I walk more.</b>"
+        ],
+        [
+          "обычное время",
+          "<b>The doctor recommended that I walked more.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "После <b>suggest</b> не бывает конструкции «suggest somebody to do». Правильно: <b>I suggest you read it.</b>, <b>I suggested that she should buy it.</b>, <b>Where do you suggest we go?</b> или с -ing: <b>He suggested meeting in a cafe.</b>"
+    },
+    {
+      "type": "h",
+      "text": "should после strange, surprised, natural, typical"
+    },
+    {
+      "type": "p",
+      "text": "<b>It's strange that she should say that.</b> <b>I was surprised that he should ask me.</b> <b>It's natural that you should feel nervous.</b> Здесь should подчёркивает наше удивление или оценку."
+    },
+    {
+      "type": "h",
+      "text": "If… should / Should… — «если вдруг»"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>If anyone should call, say I'm out.</b> = если вдруг позвонят (вероятность небольшая).",
+        "Более официально — начать с Should: <b>Should you need help, call us.</b>",
+        "В британском английском <b>I should…</b> = совет «я бы на твоём месте…»: <b>I should take a coat.</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «Я предложил ему пойти» тянет сказать «I suggested him to go» — это ошибка. Говорите <b>I suggested that he (should) go</b> или <b>I suggested going</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "suggest",
+      "ru": "предлагать"
+    },
+    {
+      "en": "insist",
+      "ru": "настаивать"
+    },
+    {
+      "en": "demand",
+      "ru": "требовать"
+    },
+    {
+      "en": "recommend",
+      "ru": "рекомендовать, советовать"
+    },
+    {
+      "en": "important",
+      "ru": "важный"
+    },
+    {
+      "en": "essential",
+      "ru": "крайне важный, необходимый"
+    },
+    {
+      "en": "strange",
+      "ru": "странный"
+    },
+    {
+      "en": "natural",
+      "ru": "естественный"
+    },
+    {
+      "en": "typical",
+      "ru": "типичный"
+    },
+    {
+      "en": "nervous",
+      "ru": "нервный (feel nervous — волноваться)"
+    },
+    {
+      "en": "surprised",
+      "ru": "удивлённый"
+    },
+    {
+      "en": "boss",
+      "ru": "начальник"
+    },
+    {
+      "en": "bridge",
+      "ru": "мост"
+    },
+    {
+      "en": "scarf",
+      "ru": "шарф"
+    },
+    {
+      "en": "inside",
+      "ru": "внутри, в доме"
+    },
+    {
+      "en": "question",
+      "ru": "вопрос"
+    }
   ],
   "items": [
-    { "ru": "Врач рекомендовал, чтобы я больше ходил пешком.", "en": ["The doctor recommended that I should walk more.", "The doctor recommended that I walk more.", "The doctor recommended I should walk more.", "The doctor recommended I walk more.", "The doctor recommended that I walked more."] },
-    { "ru": "Она настояла, чтобы я остался на ужин.", "en": ["She insisted that I should stay for dinner.", "She insisted that I stay for dinner.", "She insisted that I stayed for dinner.", "She insisted I should stay for dinner.", "She insisted I stay for dinner."] },
-    { "ru": "Они настояли, чтобы мы взяли деньги.", "en": ["They insisted that we should take the money.", "They insisted that we take the money.", "They insisted that we took the money.", "They insisted we should take the money.", "They insisted we take the money."] },
-    { "ru": "Начальник потребовал, чтобы отчёт был готов к пятнице.", "en": ["The boss demanded that the report should be ready by Friday.", "The boss demanded that the report be ready by Friday.", "The boss demanded that the report was ready by Friday.", "The boss demanded the report should be ready by Friday.", "The boss demanded the report be ready by Friday."] },
-    { "ru": "Люди требуют, чтобы с шумом что-то сделали.", "en": ["People are demanding that something should be done about the noise.", "People are demanding that something be done about the noise.", "People demand that something should be done about the noise.", "People demand that something be done about the noise."] },
-    { "ru": "Важно, чтобы все были вовремя.", "en": ["It's important that everyone should be on time.", "It's important that everyone be on time.", "It's important that everyone is on time.", "It's important that everybody should be on time.", "It's important that everybody is on time.", "It's important that everybody be on time."] },
-    { "ru": "Крайне важно, чтобы мост отремонтировали быстро.", "en": ["It's essential that the bridge should be repaired quickly.", "It's essential that the bridge be repaired quickly.", "It's essential that the bridge is repaired quickly.", "It's vital that the bridge should be repaired quickly.", "It's vital that the bridge be repaired quickly.", "It's vital that the bridge is repaired quickly."] },
-    { "ru": "Я предложил, чтобы она купила новый телефон.", "en": ["I suggested that she should buy a new phone.", "I suggested that she buy a new phone.", "I suggested that she bought a new phone.", "I suggested she should buy a new phone.", "I suggested she buy a new phone."] },
-    { "ru": "Том предложил нам встретиться в кафе.", "en": ["Tom suggested that we meet in a cafe.", "Tom suggested that we should meet in a cafe.", "Tom suggested we meet in a cafe.", "Tom suggested we should meet in a cafe.", "Tom suggested that we met in a cafe.", "Tom suggested meeting in a cafe."] },
-    { "ru": "Врач предложил, чтобы Джек отдохнул неделю.", "en": ["The doctor suggested that Jack should rest for a week.", "The doctor suggested that Jack rest for a week.", "The doctor suggested that Jack rested for a week.", "The doctor suggested Jack should rest for a week.", "The doctor suggested Jack rest for a week."] },
-    { "ru": "Куда ты предлагаешь нам пойти?", "en": ["Where do you suggest we go?", "Where do you suggest we should go?"] },
-    { "ru": "Что ты предлагаешь мне купить?", "en": ["What do you suggest I buy?", "What do you suggest I should buy?"] },
-    { "ru": "Предлагаю тебе прочитать эту книгу.", "en": ["I suggest you read this book.", "I suggest that you read this book.", "I suggest you should read this book.", "I suggest that you should read this book.", "I suggest reading this book."] },
-    { "ru": "Ты предлагаешь, чтобы я поговорил с ним?", "en": ["Are you suggesting that I should talk to him?", "Are you suggesting that I talk to him?", "Are you suggesting I talk to him?", "Are you suggesting I should talk to him?", "Are you suggesting that I should speak to him?", "Are you suggesting I speak to him?"] },
-    { "ru": "Странно, что она так говорит.", "en": ["It's strange that she should say that.", "It's strange that she says that.", "It's odd that she should say that.", "It's odd that she says that."] },
-    { "ru": "Я удивился, что Анна попросила у меня денег.", "en": ["I was surprised that Anna should ask me for money.", "I was surprised that Anna asked me for money.", "I was surprised Anna asked me for money."] },
-    { "ru": "Естественно, что ты волнуешься.", "en": ["It's natural that you should feel nervous.", "It's natural that you feel nervous.", "It's natural for you to feel nervous.", "It's only natural that you should feel nervous.", "It's natural that you should worry.", "It's natural that you're worried.", "It's natural that you're nervous."] },
-    { "ru": "Как это типично для Ника — опять опоздать.", "en": ["It's typical of Nick that he should be late again.", "It's typical of Nick to be late again.", "It's typical that Nick should be late again.", "How typical of Nick to be late again!"] },
-    { "ru": "Если вдруг кто-нибудь позвонит, скажи, что меня нет.", "en": ["If anyone should call, say I'm not here.", "If anybody should call, say I'm not here.", "Should anyone call, say I'm not here.", "If anyone calls, say I'm not here.", "If anyone should call, tell them I'm not here.", "Should anyone call, tell them I'm not here.", "If anybody calls, say I'm not here.", "If anyone should call, say I'm out.", "Should anyone call, say I'm out.", "Should anybody call, say I'm not here."] },
-    { "ru": "Если вдруг пойдёт дождь, мы поедим в доме.", "en": ["If it should rain, we'll eat inside.", "Should it rain, we'll eat inside.", "If it rains, we'll eat inside.", "If it should rain, we'll eat indoors.", "Should it rain, we'll eat indoors.", "If it rains, we'll eat indoors.", "If it should rain, we'll eat in the house."] },
-    { "ru": "(официально) Если у вас возникнут вопросы, пожалуйста, звоните нам.", "en": ["Should you have any questions, please call us.", "If you should have any questions, please call us.", "If you have any questions, please call us.", "Should you have any questions, please phone us."] },
-    { "ru": "Если наши планы вдруг изменятся, мы вам скажем.", "en": ["Should our plans change, we'll tell you.", "If our plans should change, we'll tell you.", "If our plans change, we'll tell you.", "Should our plans change, we'll let you know.", "If our plans should change, we'll let you know."] },
-    { "ru": "(совет) На твоём месте я бы надел шарф.", "en": ["I should wear a scarf.", "I'd wear a scarf.", "If I were you, I'd wear a scarf.", "If I was you, I'd wear a scarf."] },
-    { "ru": "(совет) Я бы на твоём месте не покупал эту куртку.", "en": ["I shouldn't buy that jacket.", "I wouldn't buy that jacket.", "If I were you, I wouldn't buy that jacket.", "I shouldn't buy this jacket.", "I wouldn't buy this jacket.", "If I was you, I wouldn't buy that jacket.", "If I were you, I wouldn't buy this jacket."] }
+    {
+      "ru": "Врач рекомендовал, чтобы я больше ходил пешком.",
+      "en": [
+        "The doctor recommended that I should walk more.",
+        "The doctor recommended that I walk more.",
+        "The doctor recommended I should walk more.",
+        "The doctor recommended I walk more.",
+        "The doctor recommended that I walked more."
+      ]
+    },
+    {
+      "ru": "Она настояла, чтобы я остался на ужин.",
+      "en": [
+        "She insisted that I should stay for dinner.",
+        "She insisted that I stay for dinner.",
+        "She insisted that I stayed for dinner.",
+        "She insisted I should stay for dinner.",
+        "She insisted I stay for dinner."
+      ]
+    },
+    {
+      "ru": "Они настояли, чтобы мы взяли деньги.",
+      "en": [
+        "They insisted that we should take the money.",
+        "They insisted that we take the money.",
+        "They insisted that we took the money.",
+        "They insisted we should take the money.",
+        "They insisted we take the money."
+      ]
+    },
+    {
+      "ru": "Начальник потребовал, чтобы отчёт был готов к пятнице.",
+      "en": [
+        "The boss demanded that the report should be ready by Friday.",
+        "The boss demanded that the report be ready by Friday.",
+        "The boss demanded that the report was ready by Friday.",
+        "The boss demanded the report should be ready by Friday.",
+        "The boss demanded the report be ready by Friday."
+      ]
+    },
+    {
+      "ru": "Люди требуют, чтобы с шумом что-то сделали.",
+      "en": [
+        "People are demanding that something should be done about the noise.",
+        "People are demanding that something be done about the noise.",
+        "People demand that something should be done about the noise.",
+        "People demand that something be done about the noise."
+      ]
+    },
+    {
+      "ru": "Важно, чтобы все были вовремя.",
+      "en": [
+        "It's important that everyone should be on time.",
+        "It's important that everyone be on time.",
+        "It's important that everyone is on time.",
+        "It's important that everybody should be on time.",
+        "It's important that everybody is on time.",
+        "It's important that everybody be on time."
+      ]
+    },
+    {
+      "ru": "Крайне важно, чтобы мост отремонтировали быстро.",
+      "en": [
+        "It's essential that the bridge should be repaired quickly.",
+        "It's essential that the bridge be repaired quickly.",
+        "It's essential that the bridge is repaired quickly.",
+        "It's vital that the bridge should be repaired quickly.",
+        "It's vital that the bridge be repaired quickly.",
+        "It's vital that the bridge is repaired quickly."
+      ]
+    },
+    {
+      "ru": "Я предложил, чтобы она купила новый телефон.",
+      "en": [
+        "I suggested that she should buy a new phone.",
+        "I suggested that she buy a new phone.",
+        "I suggested that she bought a new phone.",
+        "I suggested she should buy a new phone.",
+        "I suggested she buy a new phone."
+      ]
+    },
+    {
+      "ru": "Том предложил нам встретиться в кафе.",
+      "en": [
+        "Tom suggested that we meet in a cafe.",
+        "Tom suggested that we should meet in a cafe.",
+        "Tom suggested we meet in a cafe.",
+        "Tom suggested we should meet in a cafe.",
+        "Tom suggested that we met in a cafe.",
+        "Tom suggested meeting in a cafe."
+      ]
+    },
+    {
+      "ru": "Врач предложил, чтобы Джек отдохнул неделю.",
+      "en": [
+        "The doctor suggested that Jack should rest for a week.",
+        "The doctor suggested that Jack rest for a week.",
+        "The doctor suggested that Jack rested for a week.",
+        "The doctor suggested Jack should rest for a week.",
+        "The doctor suggested Jack rest for a week."
+      ]
+    },
+    {
+      "ru": "Куда ты предлагаешь нам пойти?",
+      "en": [
+        "Where do you suggest we go?",
+        "Where do you suggest we should go?"
+      ]
+    },
+    {
+      "ru": "Что ты предлагаешь мне купить?",
+      "en": [
+        "What do you suggest I buy?",
+        "What do you suggest I should buy?"
+      ]
+    },
+    {
+      "ru": "Предлагаю тебе прочитать эту книгу.",
+      "en": [
+        "I suggest you read this book.",
+        "I suggest that you read this book.",
+        "I suggest you should read this book.",
+        "I suggest that you should read this book.",
+        "I suggest reading this book."
+      ]
+    },
+    {
+      "ru": "Ты предлагаешь, чтобы я поговорил с ним?",
+      "en": [
+        "Are you suggesting that I should talk to him?",
+        "Are you suggesting that I talk to him?",
+        "Are you suggesting I talk to him?",
+        "Are you suggesting I should talk to him?",
+        "Are you suggesting that I should speak to him?",
+        "Are you suggesting I speak to him?"
+      ]
+    },
+    {
+      "ru": "Странно, что она так говорит.",
+      "en": [
+        "It's strange that she should say that.",
+        "It's strange that she says that.",
+        "It's odd that she should say that.",
+        "It's odd that she says that."
+      ]
+    },
+    {
+      "ru": "Я удивился, что Анна попросила у меня денег.",
+      "en": [
+        "I was surprised that Anna should ask me for money.",
+        "I was surprised that Anna asked me for money.",
+        "I was surprised Anna asked me for money."
+      ]
+    },
+    {
+      "ru": "Естественно, что ты волнуешься.",
+      "en": [
+        "It's natural that you should feel nervous.",
+        "It's natural that you feel nervous.",
+        "It's natural for you to feel nervous.",
+        "It's only natural that you should feel nervous.",
+        "It's natural that you should worry.",
+        "It's natural that you're worried.",
+        "It's natural that you're nervous."
+      ]
+    },
+    {
+      "ru": "Как это типично для Ника — опять опоздать.",
+      "en": [
+        "It's typical of Nick that he should be late again.",
+        "It's typical of Nick to be late again.",
+        "It's typical that Nick should be late again.",
+        "How typical of Nick to be late again!"
+      ]
+    },
+    {
+      "ru": "Если вдруг кто-нибудь позвонит, скажи, что меня нет.",
+      "en": [
+        "If anyone should call, say I'm not here.",
+        "If anybody should call, say I'm not here.",
+        "Should anyone call, say I'm not here.",
+        "If anyone calls, say I'm not here.",
+        "If anyone should call, tell them I'm not here.",
+        "Should anyone call, tell them I'm not here.",
+        "If anybody calls, say I'm not here.",
+        "If anyone should call, say I'm out.",
+        "Should anyone call, say I'm out.",
+        "Should anybody call, say I'm not here."
+      ]
+    },
+    {
+      "ru": "Если вдруг пойдёт дождь, мы поедим в доме.",
+      "en": [
+        "If it should rain, we'll eat inside.",
+        "Should it rain, we'll eat inside.",
+        "If it rains, we'll eat inside.",
+        "If it should rain, we'll eat indoors.",
+        "Should it rain, we'll eat indoors.",
+        "If it rains, we'll eat indoors.",
+        "If it should rain, we'll eat in the house."
+      ]
+    },
+    {
+      "ru": "(официально) Если у вас возникнут вопросы, пожалуйста, звоните нам.",
+      "en": [
+        "Should you have any questions, please call us.",
+        "If you should have any questions, please call us.",
+        "If you have any questions, please call us.",
+        "Should you have any questions, please phone us."
+      ]
+    },
+    {
+      "ru": "Если наши планы вдруг изменятся, мы вам скажем.",
+      "en": [
+        "Should our plans change, we'll tell you.",
+        "If our plans should change, we'll tell you.",
+        "If our plans change, we'll tell you.",
+        "Should our plans change, we'll let you know.",
+        "If our plans should change, we'll let you know."
+      ]
+    },
+    {
+      "ru": "(совет) На твоём месте я бы надел шарф.",
+      "en": [
+        "I should wear a scarf.",
+        "I'd wear a scarf.",
+        "If I were you, I'd wear a scarf.",
+        "If I was you, I'd wear a scarf."
+      ]
+    },
+    {
+      "ru": "(совет) Я бы на твоём месте не покупал эту куртку.",
+      "en": [
+        "I shouldn't buy that jacket.",
+        "I wouldn't buy that jacket.",
+        "If I were you, I wouldn't buy that jacket.",
+        "I shouldn't buy this jacket.",
+        "I wouldn't buy this jacket.",
+        "If I was you, I wouldn't buy that jacket.",
+        "If I were you, I wouldn't buy this jacket."
+      ]
+    }
   ]
 }

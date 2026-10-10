@@ -54,6 +54,28 @@
       "text": "Не говорите <b>I'm knowing</b>, <b>I'm understanding</b>, <b>it's belonging</b>. И <b>being</b> используйте только о поведении, которое человек контролирует: <b>he's being silly</b>, но не <b>he's being ill</b> или <b>are you being tired</b>."
     }
   ],
+  "words": [
+    { "en": "believe", "ru": "верить" },
+    { "en": "know", "forms": "knew, known", "ru": "знать" },
+    { "en": "belong to", "ru": "принадлежать" },
+    { "en": "need", "ru": "нуждаться; нужно" },
+    { "en": "remember", "ru": "помнить" },
+    { "en": "fit", "ru": "подходить по размеру" },
+    { "en": "seem", "ru": "казаться" },
+    { "en": "prefer", "ru": "предпочитать" },
+    { "en": "think", "forms": "thought, thought", "ru": "думать; считать (иметь мнение)" },
+    { "en": "think of", "ru": "думать о; подумывать (о том, чтобы)" },
+    { "en": "see", "forms": "saw, seen", "ru": "видеть" },
+    { "en": "hear", "forms": "heard, heard", "ru": "слышать" },
+    { "en": "smell", "ru": "пахнуть" },
+    { "en": "taste", "ru": "быть на вкус" },
+    { "en": "look", "ru": "выглядеть" },
+    { "en": "feel", "forms": "felt, felt", "ru": "чувствовать (себя)" },
+    { "en": "be", "forms": "was/were, been", "ru": "быть; вести себя (you're being rude)" },
+    { "en": "rude", "ru": "грубый" },
+    { "en": "patient", "ru": "терпеливый" },
+    { "en": "tired", "ru": "уставший" }
+  ],
   "items": [
     {
       "ru": "Я хочу чашку чая.",

@@ -54,6 +54,83 @@
       "text": "Русское «-ся» не всегда = myself. Не говорите <b>I feel myself bad</b> или <b>relax yourself</b> — правильно <b>I feel bad</b>, <b>relax</b>. А «встретимся» — просто <b>meet</b>."
     }
   ],
+  "words": [
+    {
+      "en": "myself",
+      "ru": "себя, (я) сам"
+    },
+    {
+      "en": "yourself",
+      "ru": "себя, (ты/вы) сам"
+    },
+    {
+      "en": "himself",
+      "ru": "себя, (он) сам"
+    },
+    {
+      "en": "herself",
+      "ru": "себя, (она) сама"
+    },
+    {
+      "en": "itself",
+      "ru": "себя, сам (о предмете)"
+    },
+    {
+      "en": "ourselves",
+      "ru": "себя, (мы) сами"
+    },
+    {
+      "en": "yourselves",
+      "ru": "себя, (вы) сами"
+    },
+    {
+      "en": "themselves",
+      "ru": "себя, (они) сами"
+    },
+    {
+      "en": "each other",
+      "ru": "друг друга"
+    },
+    {
+      "en": "introduce",
+      "ru": "представлять (знакомить)"
+    },
+    {
+      "en": "enjoy yourself",
+      "ru": "хорошо проводить время, веселиться"
+    },
+    {
+      "en": "help yourself",
+      "ru": "угощайся, угощайтесь"
+    },
+    {
+      "en": "hurt",
+      "forms": "hurt, hurt",
+      "ru": "ушибить, поранить"
+    },
+    {
+      "en": "blame",
+      "ru": "винить"
+    },
+    {
+      "en": "concentrate",
+      "ru": "сосредоточиться"
+    },
+    {
+      "en": "get dressed",
+      "forms": "got, got",
+      "ru": "одеваться"
+    },
+    {
+      "en": "mirror",
+      "ru": "зеркало"
+    },
+    {
+      "en": "fall over",
+      "forms": "fell, fallen",
+      "ru": "упасть"
+    }
+  ],
   "items": [
     {
       "ru": "Она сама за себя заплатила.",

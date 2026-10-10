@@ -30,6 +30,23 @@
       "text": "Не ставьте эти наречия между глаголом и дополнением и после глагола: <b>I always drink tea</b> (не I drink always tea), <b>We all went</b> (не We went all). И «тоже» в середине предложения — <b>also</b>, в конце — <b>too / as well</b>."
     }
   ],
+  "words": [
+    { "en": "always", "ru": "всегда" },
+    { "en": "usually", "ru": "обычно" },
+    { "en": "often", "ru": "часто" },
+    { "en": "sometimes", "ru": "иногда" },
+    { "en": "never", "ru": "никогда" },
+    { "en": "almost", "ru": "почти" },
+    { "en": "also", "ru": "тоже, также" },
+    { "en": "probably", "ru": "наверное, вероятно" },
+    { "en": "certainly", "ru": "точно, несомненно" },
+    { "en": "just", "ru": "только что" },
+    { "en": "all", "ru": "все" },
+    { "en": "both", "ru": "оба" },
+    { "en": "eat", "forms": "ate, eaten", "ru": "есть, кушать" },
+    { "en": "have lunch", "ru": "обедать" },
+    { "en": "meat", "ru": "мясо" }
+  ],
   "items": [
     { "ru": "Я всегда пью кофе утром.", "en": ["I always drink coffee in the morning.", "I always have coffee in the morning.", "I always drink coffee in the mornings.", "In the morning I always drink coffee."] },
     { "ru": "Мы обычно ужинаем в семь.", "en": ["We usually have dinner at seven.", "We usually eat dinner at seven.", "We usually have supper at seven.", "We usually have dinner at seven o'clock."] },

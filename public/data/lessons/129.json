@@ -69,6 +69,88 @@
       "text": "Русское «причина чего-то», «решение проблемы», «ответ на вопрос» тянет к <b>of</b> или <b>on</b>. Правильно: <b>the reason for</b>, <b>a solution to the problem</b>, <b>an answer to the question</b>, <b>a reply to my email</b>."
     }
   ],
+  "words": [
+    {
+      "en": "demand for",
+      "ru": "спрос на"
+    },
+    {
+      "en": "need for",
+      "ru": "необходимость в"
+    },
+    {
+      "en": "reason for",
+      "ru": "причина (чего-то)"
+    },
+    {
+      "en": "rise in",
+      "ru": "рост (чего-то)"
+    },
+    {
+      "en": "fall in",
+      "ru": "падение, снижение (чего-то)"
+    },
+    {
+      "en": "relationship with",
+      "ru": "отношения с"
+    },
+    {
+      "en": "contact with",
+      "ru": "связь, контакт с"
+    },
+    {
+      "en": "difference between",
+      "ru": "разница между"
+    },
+    {
+      "en": "connection between",
+      "ru": "связь между"
+    },
+    {
+      "en": "advantage of",
+      "ru": "преимущество (чего-то)"
+    },
+    {
+      "en": "disadvantage of",
+      "ru": "недостаток (чего-то)"
+    },
+    {
+      "en": "solution to",
+      "ru": "решение (проблемы)"
+    },
+    {
+      "en": "key to",
+      "ru": "ключ от"
+    },
+    {
+      "en": "answer to",
+      "ru": "ответ на"
+    },
+    {
+      "en": "reply to",
+      "ru": "ответ на (письмо)"
+    },
+    {
+      "en": "reaction to",
+      "ru": "реакция на"
+    },
+    {
+      "en": "cause of",
+      "ru": "причина (чего-то плохого)"
+    },
+    {
+      "en": "damage to",
+      "ru": "ущерб, повреждение (чему-то)"
+    },
+    {
+      "en": "invitation to",
+      "ru": "приглашение на"
+    },
+    {
+      "en": "attitude to",
+      "ru": "отношение к"
+    }
+  ],
   "items": [
     {
       "ru": "Сейчас большой спрос на электромобили.",

@@ -17,6 +17,24 @@
     { "type": "p", "text": "Глаголы состояния (<b>know, like, want, own, have</b> = иметь) в -ing не ставим: <b>We had known each other for years.</b> (не had been knowing)." },
     { "type": "tip", "text": "Русскоговорящие говорят «He was tired because he worked all day». Если важна длительность до момента в прошлом, нужно <b>he had been working all day</b>." }
   ],
+  "words": [
+    { "en": "out of breath", "ru": "запыхавшийся (be out of breath — запыхаться)" },
+    { "en": "garden", "ru": "работать в саду" },
+    { "en": "eye", "ru": "глаз" },
+    { "en": "red", "ru": "красный" },
+    { "en": "road", "ru": "дорога" },
+    { "en": "wet", "ru": "мокрый" },
+    { "en": "guilty", "ru": "виноватый" },
+    { "en": "finally", "ru": "наконец" },
+    { "en": "smell of", "forms": "smelt/smelled, smelt/smelled", "ru": "пахнуть (чем-то)" },
+    { "en": "food", "ru": "еда" },
+    { "en": "sell", "forms": "sold, sold", "ru": "продавать" },
+    { "en": "company", "ru": "компания, фирма" },
+    { "en": "feel bad", "forms": "felt, felt", "ru": "плохо себя чувствовать" },
+    { "en": "break down", "forms": "broke down, broken down", "ru": "сломаться (о машине)" },
+    { "en": "get dark", "forms": "got, got", "ru": "стемнеть" },
+    { "en": "each other", "ru": "друг друга" }
+  ],
   "items": [
     { "ru": "Её глаза были красными: она плакала.", "en": ["Her eyes were red because she had been crying."] },
     { "ru": "Пол устал, потому что весь день работал в саду.", "en": ["Paul was tired because he had been gardening all day.", "Paul was tired because he had been working in the garden all day."] },

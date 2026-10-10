@@ -14,6 +14,62 @@
     { "type": "p", "text": "<b>what</b> значит «то, что» и не требует слова перед собой: <b>What she said was true.</b> Но после <b>everything, something, anything, the thing</b> и любого существительного — только <b>that</b>: <b>Everything that happened…</b>, <b>the film that I liked</b>." },
     { "type": "tip", "text": "Не говорите <b>the man which</b> или <b>the car who</b> — для людей who/that, для вещей which/that. И частая ошибка: <b>everything what</b>. Правильно: <b>everything that</b>." }
   ],
+  "words": [
+    {
+      "en": "who",
+      "ru": "который (о людях)"
+    },
+    {
+      "en": "that",
+      "ru": "который"
+    },
+    {
+      "en": "what",
+      "ru": "то, что"
+    },
+    {
+      "en": "above",
+      "ru": "над, выше"
+    },
+    {
+      "en": "pilot",
+      "ru": "пилот"
+    },
+    {
+      "en": "race",
+      "ru": "гонка, забег"
+    },
+    {
+      "en": "toy",
+      "ru": "игрушка"
+    },
+    {
+      "en": "ending",
+      "ru": "конец, концовка"
+    },
+    {
+      "en": "break down",
+      "forms": "broke down, broken down",
+      "ru": "сломаться"
+    },
+    {
+      "en": "girl",
+      "ru": "девушка, девочка"
+    },
+    {
+      "en": "certificate",
+      "ru": "сертификат, свидетельство"
+    },
+    {
+      "en": "take photos",
+      "forms": "took photos, taken photos",
+      "ru": "фотографировать"
+    },
+    {
+      "en": "bike",
+      "ru": "велосипед"
+    }
+  ],
   "items": [
     { "ru": "Женщина, которая живёт над нами, — учительница.", "en": ["The woman who lives above us is a teacher.", "The woman that lives above us is a teacher.", "The woman who lives upstairs is a teacher.", "The woman that lives upstairs is a teacher."] },
     { "ru": "Я не люблю людей, которые всегда опаздывают.", "en": ["I don't like people who are always late.", "I don't like people that are always late."] },

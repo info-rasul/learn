@@ -19,6 +19,52 @@
     ] },
     { "type": "tip", "text": "Противоположность «must be» — не «mustn't be» (это запрет), а <b>can't be</b>. И «должно быть, ушёл» — не «must went», а <b>must have gone</b>." }
   ],
+  "words": [
+    {
+      "en": "must",
+      "ru": "должно быть (уверенный вывод)"
+    },
+    {
+      "en": "can't",
+      "ru": "не может быть, чтобы"
+    },
+    {
+      "en": "must have done",
+      "ru": "должно быть, сделал"
+    },
+    {
+      "en": "can't have done",
+      "ru": "не мог (сделать)"
+    },
+    {
+      "en": "sleepy",
+      "ru": "сонный"
+    },
+    {
+      "en": "thirsty",
+      "ru": "испытывающий жажду"
+    },
+    {
+      "en": "be proud of",
+      "ru": "гордиться"
+    },
+    {
+      "en": "remind",
+      "ru": "напоминать"
+    },
+    {
+      "en": "carefully",
+      "ru": "внимательно, осторожно"
+    },
+    {
+      "en": "somewhere",
+      "ru": "где-то"
+    },
+    {
+      "en": "son",
+      "ru": "сын"
+    }
+  ],
   "items": [
     { "ru": "(ты не спал всю ночь) Ты, должно быть, хочешь спать.", "en": ["You must be sleepy.", "You must be very sleepy.", "You must be tired."] },
     { "ru": "(он выиграл в лотерею) Он, должно быть, очень счастлив.", "en": ["He must be very happy.", "He must be really happy."] },

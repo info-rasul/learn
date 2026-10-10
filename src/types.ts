@@ -9,6 +9,14 @@ export interface LessonItem {
   en: string[];
 }
 
+export interface LessonWord {
+  /** Dictionary form, e.g. «go» or «look forward to». */
+  en: string;
+  ru: string;
+  /** Irregular forms: «went, gone» for verbs, the plural for nouns. */
+  forms?: string;
+}
+
 export interface Lesson {
   id: number;
   /** Part of the book the unit belongs to, e.g. «Модальные глаголы». */
@@ -16,6 +24,8 @@ export interface Lesson {
   title: string;
   subtitle: string;
   theory: TheoryBlock[];
+  /** «Новые слова» of the lesson, learnt before practice as in the Polyglot app. */
+  words?: LessonWord[];
   items: LessonItem[];
 }
 

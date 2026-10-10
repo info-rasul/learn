@@ -4,46 +4,304 @@
   "title": "it is said that ... he is said to ... he is supposed to ...",
   "subtitle": "«Говорят, что…» и supposed to: «должен по плану», «нельзя»",
   "theory": [
-    { "type": "p", "text": "Русское «говорят / считается / ожидается, что…» можно передать двумя способами: <b>It is said that he is rich.</b> или <b>He is said to be rich.</b> Смысл одинаковый: так говорят люди. Так же работают <b>believed, thought, known, expected, reported, considered, alleged, understood</b>." },
-    { "type": "table", "head": ["О чём речь", "Форма после to", "Пример"], "rows": [
-      ["настоящее", "to be / to do", "<b>She is known to speak five languages.</b>"],
-      ["процесс сейчас", "to be doing", "<b>He is said to be living in Rome.</b>"],
-      ["прошлое", "to have done", "<b>They are said to have won a lot of money.</b>"],
-      ["прошлое, пассив", "to have been done", "<b>The house is said to have been built in 1700.</b>"]
-    ] },
-    { "type": "p", "text": "«Говорят, что там есть…» — <b>There is said to be a ghost in this house.</b>" },
-    { "type": "h", "text": "supposed to" },
-    { "type": "list", "items": [
-      "= «говорят»: <b>This café is supposed to be very good.</b>",
-      "= «должен (так задумано, договорено)», часто на деле иначе: <b>The bus was supposed to come at six, but it was late.</b>",
-      "<b>not supposed to</b> = нельзя, не положено: <b>You're not supposed to eat in the library.</b>"
-    ] },
-    { "type": "tip", "text": "Не путайте <b>supposed to</b> с <b>suppose</b> (полагать). «Ты должен был мне позвонить» — <b>You were supposed to call me</b>, а не <b>You supposed to call me</b>: глагол <b>be</b> обязателен." }
+    {
+      "type": "p",
+      "text": "Русское «говорят / считается / ожидается, что…» можно передать двумя способами: <b>It is said that he is rich.</b> или <b>He is said to be rich.</b> Смысл одинаковый: так говорят люди. Так же работают <b>believed, thought, known, expected, reported, considered, alleged, understood</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "О чём речь",
+        "Форма после to",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "настоящее",
+          "to be / to do",
+          "<b>She is known to speak five languages.</b>"
+        ],
+        [
+          "процесс сейчас",
+          "to be doing",
+          "<b>He is said to be living in Rome.</b>"
+        ],
+        [
+          "прошлое",
+          "to have done",
+          "<b>They are said to have won a lot of money.</b>"
+        ],
+        [
+          "прошлое, пассив",
+          "to have been done",
+          "<b>The house is said to have been built in 1700.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "«Говорят, что там есть…» — <b>There is said to be a ghost in this house.</b>"
+    },
+    {
+      "type": "h",
+      "text": "supposed to"
+    },
+    {
+      "type": "list",
+      "items": [
+        "= «говорят»: <b>This café is supposed to be very good.</b>",
+        "= «должен (так задумано, договорено)», часто на деле иначе: <b>The bus was supposed to come at six, but it was late.</b>",
+        "<b>not supposed to</b> = нельзя, не положено: <b>You're not supposed to eat in the library.</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Не путайте <b>supposed to</b> с <b>suppose</b> (полагать). «Ты должен был мне позвонить» — <b>You were supposed to call me</b>, а не <b>You supposed to call me</b>: глагол <b>be</b> обязателен."
+    }
+  ],
+  "words": [
+    {
+      "en": "be said to",
+      "ru": "говорят, что (он)…"
+    },
+    {
+      "en": "be supposed to",
+      "ru": "должен (по плану); говорят, что"
+    },
+    {
+      "en": "be not supposed to",
+      "ru": "не положено, нельзя"
+    },
+    {
+      "en": "be expected to",
+      "ru": "ожидается, что"
+    },
+    {
+      "en": "be thought to",
+      "ru": "считается, что"
+    },
+    {
+      "en": "be known to",
+      "ru": "известно, что"
+    },
+    {
+      "en": "be reported to",
+      "ru": "сообщается, что"
+    },
+    {
+      "en": "be believed to",
+      "ru": "полагают, что"
+    },
+    {
+      "en": "be considered",
+      "ru": "считаться"
+    },
+    {
+      "en": "thief",
+      "forms": "thieves",
+      "ru": "вор"
+    },
+    {
+      "en": "ghost",
+      "ru": "привидение"
+    },
+    {
+      "en": "lottery",
+      "ru": "лотерея"
+    },
+    {
+      "en": "surprise",
+      "ru": "сюрприз"
+    },
+    {
+      "en": "chocolate",
+      "ru": "шоколад"
+    }
   ],
   "items": [
-    { "ru": "Говорят, что он очень богат.", "en": ["He is said to be very rich.", "It is said that he is very rich.", "It is said he is very rich."] },
-    { "ru": "Считается, что этот город очень безопасный.", "en": ["This city is thought to be very safe.", "It is thought that this city is very safe.", "This city is believed to be very safe.", "It is believed that this city is very safe.", "This city is considered to be very safe.", "This city is considered very safe."] },
-    { "ru": "Ожидается, что цены вырастут.", "en": ["Prices are expected to rise.", "It is expected that prices will rise.", "Prices are expected to go up.", "It is expected that prices will go up."] },
-    { "ru": "Ожидается, что новый мост откроют в мае.", "en": ["The new bridge is expected to open in May.", "The new bridge is expected to be opened in May.", "It is expected that the new bridge will open in May."] },
-    { "ru": "Известно, что она говорит на пяти языках.", "en": ["She is known to speak five languages.", "It is known that she speaks five languages."] },
-    { "ru": "Сообщается, что в аварии пострадали три человека.", "en": ["Three people are reported to have been hurt in the accident.", "Three people are reported to have been injured in the accident.", "It is reported that three people were hurt in the accident.", "It is reported that three people were injured in the accident."] },
-    { "ru": "Полагают, что вор всё ещё в городе.", "en": ["The thief is believed to be still in the city.", "The thief is believed to still be in the city.", "It is believed that the thief is still in the city."] },
-    { "ru": "Говорят, что этот дом построили 300 лет назад.", "en": ["This house is said to have been built 300 years ago.", "It is said that this house was built 300 years ago."] },
-    { "ru": "Говорят, что в этом доме есть привидение.", "en": ["There is said to be a ghost in this house.", "It is said that there is a ghost in this house."] },
-    { "ru": "Его считают лучшим врачом в городе.", "en": ["He is considered to be the best doctor in town.", "He is considered the best doctor in town.", "He is considered to be the best doctor in the city.", "He is considered the best doctor in the city."] },
-    { "ru": "Говорят, он сейчас работает в Париже.", "en": ["He is said to be working in Paris now.", "It is said that he is working in Paris now.", "He is supposed to be working in Paris now.", "It is said he is working in Paris now."] },
-    { "ru": "Говорят, этот ресторан очень хороший.", "en": ["This restaurant is supposed to be very good.", "This restaurant is said to be very good.", "It is said that this restaurant is very good."] },
-    { "ru": "Говорят, они выиграли в лотерею.", "en": ["They are supposed to have won the lottery.", "They are said to have won the lottery.", "It is said that they won the lottery."] },
-    { "ru": "Говорят, футбол придумали в Англии.", "en": ["Football is supposed to have been invented in England.", "Football is said to have been invented in England.", "It is said that football was invented in England."] },
-    { "ru": "Поезд должен был прибыть в шесть, но опоздал.", "en": ["The train was supposed to arrive at six, but it was late.", "The train was supposed to arrive at six, but was late.", "The train was supposed to come at six, but it was late."] },
-    { "ru": "Ты должен был позвонить мне вчера!", "en": ["You were supposed to call me yesterday!", "You were supposed to phone me yesterday!"] },
-    { "ru": "Это должно было быть сюрпризом.", "en": ["It was supposed to be a surprise."] },
-    { "ru": "(так положено) Ты сейчас должен быть на работе.", "en": ["You're supposed to be at work now."] },
-    { "ru": "(мы договорились) Мы должны встретиться с Анной в пять.", "en": ["We're supposed to be meeting Anna at five.", "We're supposed to meet Anna at five."] },
-    { "ru": "(не положено) Здесь нельзя курить.", "en": ["You're not supposed to smoke here."] },
-    { "ru": "(врач запретил) Ему нельзя есть шоколад.", "en": ["He's not supposed to eat chocolate."] },
-    { "ru": "Мы не должны были об этом знать.", "en": ["We weren't supposed to know about it.", "We weren't supposed to know about this."] },
-    { "ru": "(что от меня ожидается) Что мне делать с этими документами?", "en": ["What am I supposed to do with these documents?", "What am I supposed to do with these papers?"] },
-    { "ru": "Во сколько должна начаться встреча?", "en": ["What time is the meeting supposed to start?", "When is the meeting supposed to start?", "What time is the meeting supposed to begin?"] }
+    {
+      "ru": "Говорят, что он очень богат.",
+      "en": [
+        "He is said to be very rich.",
+        "It is said that he is very rich.",
+        "It is said he is very rich."
+      ]
+    },
+    {
+      "ru": "Считается, что этот город очень безопасный.",
+      "en": [
+        "This city is thought to be very safe.",
+        "It is thought that this city is very safe.",
+        "This city is believed to be very safe.",
+        "It is believed that this city is very safe.",
+        "This city is considered to be very safe.",
+        "This city is considered very safe."
+      ]
+    },
+    {
+      "ru": "Ожидается, что цены вырастут.",
+      "en": [
+        "Prices are expected to rise.",
+        "It is expected that prices will rise.",
+        "Prices are expected to go up.",
+        "It is expected that prices will go up."
+      ]
+    },
+    {
+      "ru": "Ожидается, что новый мост откроют в мае.",
+      "en": [
+        "The new bridge is expected to open in May.",
+        "The new bridge is expected to be opened in May.",
+        "It is expected that the new bridge will open in May."
+      ]
+    },
+    {
+      "ru": "Известно, что она говорит на пяти языках.",
+      "en": [
+        "She is known to speak five languages.",
+        "It is known that she speaks five languages."
+      ]
+    },
+    {
+      "ru": "Сообщается, что в аварии пострадали три человека.",
+      "en": [
+        "Three people are reported to have been hurt in the accident.",
+        "Three people are reported to have been injured in the accident.",
+        "It is reported that three people were hurt in the accident.",
+        "It is reported that three people were injured in the accident."
+      ]
+    },
+    {
+      "ru": "Полагают, что вор всё ещё в городе.",
+      "en": [
+        "The thief is believed to be still in the city.",
+        "The thief is believed to still be in the city.",
+        "It is believed that the thief is still in the city."
+      ]
+    },
+    {
+      "ru": "Говорят, что этот дом построили 300 лет назад.",
+      "en": [
+        "This house is said to have been built 300 years ago.",
+        "It is said that this house was built 300 years ago."
+      ]
+    },
+    {
+      "ru": "Говорят, что в этом доме есть привидение.",
+      "en": [
+        "There is said to be a ghost in this house.",
+        "It is said that there is a ghost in this house."
+      ]
+    },
+    {
+      "ru": "Его считают лучшим врачом в городе.",
+      "en": [
+        "He is considered to be the best doctor in town.",
+        "He is considered the best doctor in town.",
+        "He is considered to be the best doctor in the city.",
+        "He is considered the best doctor in the city."
+      ]
+    },
+    {
+      "ru": "Говорят, он сейчас работает в Париже.",
+      "en": [
+        "He is said to be working in Paris now.",
+        "It is said that he is working in Paris now.",
+        "He is supposed to be working in Paris now.",
+        "It is said he is working in Paris now."
+      ]
+    },
+    {
+      "ru": "Говорят, этот ресторан очень хороший.",
+      "en": [
+        "This restaurant is supposed to be very good.",
+        "This restaurant is said to be very good.",
+        "It is said that this restaurant is very good."
+      ]
+    },
+    {
+      "ru": "Говорят, они выиграли в лотерею.",
+      "en": [
+        "They are supposed to have won the lottery.",
+        "They are said to have won the lottery.",
+        "It is said that they won the lottery."
+      ]
+    },
+    {
+      "ru": "Говорят, футбол придумали в Англии.",
+      "en": [
+        "Football is supposed to have been invented in England.",
+        "Football is said to have been invented in England.",
+        "It is said that football was invented in England."
+      ]
+    },
+    {
+      "ru": "Поезд должен был прибыть в шесть, но опоздал.",
+      "en": [
+        "The train was supposed to arrive at six, but it was late.",
+        "The train was supposed to arrive at six, but was late.",
+        "The train was supposed to come at six, but it was late."
+      ]
+    },
+    {
+      "ru": "Ты должен был позвонить мне вчера!",
+      "en": [
+        "You were supposed to call me yesterday!",
+        "You were supposed to phone me yesterday!"
+      ]
+    },
+    {
+      "ru": "Это должно было быть сюрпризом.",
+      "en": [
+        "It was supposed to be a surprise."
+      ]
+    },
+    {
+      "ru": "(так положено) Ты сейчас должен быть на работе.",
+      "en": [
+        "You're supposed to be at work now."
+      ]
+    },
+    {
+      "ru": "(мы договорились) Мы должны встретиться с Анной в пять.",
+      "en": [
+        "We're supposed to be meeting Anna at five.",
+        "We're supposed to meet Anna at five."
+      ]
+    },
+    {
+      "ru": "(не положено) Здесь нельзя курить.",
+      "en": [
+        "You're not supposed to smoke here."
+      ]
+    },
+    {
+      "ru": "(врач запретил) Ему нельзя есть шоколад.",
+      "en": [
+        "He's not supposed to eat chocolate."
+      ]
+    },
+    {
+      "ru": "Мы не должны были об этом знать.",
+      "en": [
+        "We weren't supposed to know about it.",
+        "We weren't supposed to know about this."
+      ]
+    },
+    {
+      "ru": "(что от меня ожидается) Что мне делать с этими документами?",
+      "en": [
+        "What am I supposed to do with these documents?",
+        "What am I supposed to do with these papers?"
+      ]
+    },
+    {
+      "ru": "Во сколько должна начаться встреча?",
+      "en": [
+        "What time is the meeting supposed to start?",
+        "When is the meeting supposed to start?",
+        "What time is the meeting supposed to begin?"
+      ]
+    }
   ]
 }

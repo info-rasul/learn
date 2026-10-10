@@ -60,6 +60,89 @@
       "text": "«Обсуждать что-то» — <b>discuss something</b>, без <b>about</b>. «Присматривать за ребёнком» — <b>look after</b>, а не <b>look for</b> (это «искать»). «Ждать автобус» — <b>wait for the bus</b>: без for нельзя."
     }
   ],
+  "words": [
+    {
+      "en": "talk about",
+      "ru": "говорить о"
+    },
+    {
+      "en": "read about",
+      "forms": "read, read",
+      "ru": "читать о"
+    },
+    {
+      "en": "do something about",
+      "forms": "did, done",
+      "ru": "что-то предпринять"
+    },
+    {
+      "en": "discuss",
+      "ru": "обсуждать (без about)"
+    },
+    {
+      "en": "discussion",
+      "ru": "обсуждение"
+    },
+    {
+      "en": "ask for",
+      "ru": "просить (что-то)"
+    },
+    {
+      "en": "ask",
+      "ru": "спрашивать (ask somebody the way)"
+    },
+    {
+      "en": "passer-by",
+      "forms": "passers-by",
+      "ru": "прохожий"
+    },
+    {
+      "en": "apply for",
+      "ru": "подавать заявку на"
+    },
+    {
+      "en": "search for",
+      "ru": "обыскивать (в поисках)"
+    },
+    {
+      "en": "look for",
+      "ru": "искать"
+    },
+    {
+      "en": "leave for",
+      "forms": "left, left",
+      "ru": "уезжать в"
+    },
+    {
+      "en": "wait for",
+      "ru": "ждать"
+    },
+    {
+      "en": "take care of",
+      "forms": "took, taken",
+      "ru": "заботиться о, позаботиться"
+    },
+    {
+      "en": "look after",
+      "ru": "присматривать за"
+    },
+    {
+      "en": "care for",
+      "ru": "ухаживать за; (в отрицании) любить"
+    },
+    {
+      "en": "care about",
+      "ru": "беспокоиться о, быть небезразличным"
+    },
+    {
+      "en": "care",
+      "ru": "(в отрицании) волновать: I don't care — мне всё равно"
+    },
+    {
+      "en": "spicy",
+      "ru": "острый (о еде)"
+    }
+  ],
   "items": [
     {
       "ru": "О чём вы говорили на встрече?",

@@ -20,6 +20,28 @@
     ] },
     { "type": "tip", "text": "Ошибки: «Have you a car?» и «I haven't a car» звучат устаревше — говорите <b>Do you have</b> / <b>Have you got</b>. И не «I usually haven't breakfast», а <b>I don't usually have breakfast</b>." }
   ],
+  "words": [
+    { "en": "have", "forms": "had, had", "ru": "иметь, есть (у кого-то)" },
+    { "en": "have got", "ru": "иметь, есть (у кого-то)" },
+    { "en": "have breakfast", "ru": "завтракать" },
+    { "en": "have lunch", "ru": "обедать" },
+    { "en": "have a shower", "ru": "принимать душ" },
+    { "en": "have a good time", "ru": "хорошо проводить время" },
+    { "en": "have a break", "ru": "сделать перерыв" },
+    { "en": "have a look", "ru": "взглянуть, посмотреть" },
+    { "en": "have a party", "ru": "устраивать вечеринку" },
+    { "en": "have trouble", "ru": "иметь проблемы (с чем-то)" },
+    { "en": "any", "ru": "какой-нибудь, нисколько (в вопросах и отрицаниях)" },
+    { "en": "toothache", "ru": "зубная боль" },
+    { "en": "balcony", "ru": "балкон" },
+    { "en": "lesson", "ru": "урок" },
+    { "en": "Thursday", "ru": "четверг" },
+    { "en": "free", "ru": "свободный" },
+    { "en": "room", "ru": "номер (в отеле), комната" },
+    { "en": "hair", "ru": "волосы" },
+    { "en": "umbrella", "ru": "зонт" },
+    { "en": "photo", "ru": "фотография" }
+  ],
   "items": [
     { "ru": "У них новая квартира.", "en": ["They have a new flat.", "They've got a new flat.", "They have a new apartment.", "They've got a new apartment."] },
     { "ru": "У Анны три сестры.", "en": ["Anna has three sisters.", "Anna has got three sisters."] },

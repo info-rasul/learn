@@ -54,6 +54,85 @@
       "text": "Нельзя сказать <b>a French</b> или <b>Frenches</b>. Говорите <b>a French woman / a Frenchman</b> и <b>the French / French people</b>. И с инструментами привыкайте ставить the: <b>play the guitar</b> — это стандартный вариант (без артикля говорят в основном неформально, особенно в американском английском)."
     }
   ],
+  "words": [
+    {
+      "en": "the rich",
+      "ru": "богатые (люди)"
+    },
+    {
+      "en": "the poor",
+      "ru": "бедные (люди)"
+    },
+    {
+      "en": "the unemployed",
+      "ru": "безработные"
+    },
+    {
+      "en": "the elderly",
+      "ru": "пожилые люди"
+    },
+    {
+      "en": "the homeless",
+      "ru": "бездомные"
+    },
+    {
+      "en": "the injured",
+      "ru": "раненые, пострадавшие"
+    },
+    {
+      "en": "the French",
+      "ru": "французы"
+    },
+    {
+      "en": "the English",
+      "ru": "англичане"
+    },
+    {
+      "en": "the Spanish",
+      "ru": "испанцы"
+    },
+    {
+      "en": "the Swiss",
+      "ru": "швейцарцы"
+    },
+    {
+      "en": "elephant",
+      "ru": "слон"
+    },
+    {
+      "en": "tiger",
+      "ru": "тигр"
+    },
+    {
+      "en": "violin",
+      "ru": "скрипка"
+    },
+    {
+      "en": "piano",
+      "ru": "пианино, фортепиано"
+    },
+    {
+      "en": "bicycle",
+      "ru": "велосипед"
+    },
+    {
+      "en": "currency",
+      "ru": "валюта"
+    },
+    {
+      "en": "government",
+      "ru": "правительство"
+    },
+    {
+      "en": "ambulance",
+      "ru": "скорая помощь"
+    },
+    {
+      "en": "take care of",
+      "forms": "took, taken",
+      "ru": "заботиться о"
+    }
+  ],
   "items": [
     {
       "ru": "(как вид) Слон — самое большое наземное животное.",

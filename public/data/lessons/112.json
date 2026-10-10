@@ -32,6 +32,41 @@
       "text": "«Ещё холоднее» — это <b>even colder</b>, а не more colder. И «даже не» по-английски: <b>didn't even</b>, <b>can't even</b> — even стоит после отрицания, а не перед ним."
     }
   ],
+  "words": [
+    {
+      "en": "even",
+      "ru": "даже"
+    },
+    {
+      "en": "not even",
+      "ru": "даже не"
+    },
+    {
+      "en": "even more",
+      "ru": "ещё более, ещё больше"
+    },
+    {
+      "en": "even though",
+      "ru": "хотя, несмотря на то что"
+    },
+    {
+      "en": "even if",
+      "ru": "даже если"
+    },
+    {
+      "en": "even when",
+      "ru": "даже когда"
+    },
+    {
+      "en": "say goodbye",
+      "ru": "попрощаться"
+    },
+    {
+      "en": "stand up",
+      "forms": "stood, stood",
+      "ru": "встать"
+    }
+  ],
   "items": [
     { "ru": "Все пришли, даже Том.", "en": ["Everyone came, even Tom.", "Everybody came, even Tom."] },
     { "ru": "Он работает каждый день, даже по воскресеньям.", "en": ["He works every day, even on Sundays."] },

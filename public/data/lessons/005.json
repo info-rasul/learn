@@ -72,6 +72,28 @@
       "text": "Две типичные ошибки: двойное прошедшее (<b>Did you went?</b>, <b>I didn't saw</b>) — после did только начальная форма. И пропуск <b>was/were</b>: «Фильм был скучным» = <b>The film was boring</b>, а «Ты был дома?» = <b>Were you at home?</b>, без did."
     }
   ],
+  "words": [
+    { "en": "yesterday", "ru": "вчера" },
+    { "en": "last night", "ru": "вчера вечером, прошлой ночью" },
+    { "en": "last", "ru": "прошлый (last week, last year)" },
+    { "en": "until", "ru": "до (какого-то времени)" },
+    { "en": "pass", "ru": "сдать (экзамен)" },
+    { "en": "exam", "ru": "экзамен" },
+    { "en": "invite", "ru": "приглашать" },
+    { "en": "answer", "ru": "отвечать" },
+    { "en": "go", "forms": "went, gone", "ru": "идти, ехать" },
+    { "en": "buy", "forms": "bought, bought", "ru": "покупать" },
+    { "en": "write", "forms": "wrote, written", "ru": "писать" },
+    { "en": "turn on", "ru": "включать" },
+    { "en": "eat", "forms": "ate, eaten", "ru": "есть" },
+    { "en": "come", "forms": "came, come", "ru": "приходить" },
+    { "en": "cost", "forms": "cost, cost", "ru": "стоить" },
+    { "en": "get home", "ru": "добираться домой, возвращаться домой" },
+    { "en": "fall", "forms": "fell, fallen", "ru": "падать" },
+    { "en": "break", "forms": "broke, broken", "ru": "ломать" },
+    { "en": "busy", "ru": "занятой" },
+    { "en": "lovely", "ru": "прекрасный, чудесный" }
+  ],
   "items": [
     {
       "ru": "Вчера я работал до девяти вечера.",

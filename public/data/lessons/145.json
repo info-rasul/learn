@@ -56,6 +56,102 @@
       "text": "«Верни мне книгу» — <b>Give me the book back</b> или <b>Give it back to me</b>, а не <b>Return back</b>: в <b>return</b> «обратно» уже заложено. И местоимение снова в середине: <b>pay it back</b>, <b>put them away</b>."
     }
   ],
+  "words": [
+    {
+      "en": "go away",
+      "forms": "went, gone",
+      "ru": "уезжать, уходить"
+    },
+    {
+      "en": "drive away",
+      "forms": "drove, driven",
+      "ru": "уехать (на машине)"
+    },
+    {
+      "en": "fly away",
+      "forms": "flew, flown",
+      "ru": "улететь"
+    },
+    {
+      "en": "look away",
+      "ru": "отводить взгляд, отворачиваться"
+    },
+    {
+      "en": "take away",
+      "forms": "took, taken",
+      "ru": "уносить, убирать"
+    },
+    {
+      "en": "get back",
+      "forms": "got, got",
+      "ru": "возвращаться"
+    },
+    {
+      "en": "walk back",
+      "ru": "идти пешком обратно"
+    },
+    {
+      "en": "give back",
+      "forms": "gave, given",
+      "ru": "возвращать, отдавать обратно"
+    },
+    {
+      "en": "put back",
+      "forms": "put, put",
+      "ru": "класть обратно"
+    },
+    {
+      "en": "keep away from",
+      "forms": "kept, kept",
+      "ru": "держаться подальше от"
+    },
+    {
+      "en": "give away",
+      "forms": "gave, given",
+      "ru": "отдавать (даром), раздавать"
+    },
+    {
+      "en": "put away",
+      "forms": "put, put",
+      "ru": "убирать (на место)"
+    },
+    {
+      "en": "get away",
+      "forms": "got, got",
+      "ru": "сбежать, скрыться"
+    },
+    {
+      "en": "get away with",
+      "forms": "got, got",
+      "ru": "сойти с рук"
+    },
+    {
+      "en": "smile back",
+      "ru": "улыбнуться в ответ"
+    },
+    {
+      "en": "call back",
+      "ru": "перезванивать"
+    },
+    {
+      "en": "get back to",
+      "forms": "got, got",
+      "ru": "ответить (позже), связаться"
+    },
+    {
+      "en": "look back on",
+      "ru": "вспоминать (прошлое)"
+    },
+    {
+      "en": "pay back",
+      "forms": "paid, paid",
+      "ru": "возвращать долг"
+    },
+    {
+      "en": "edge",
+      "ru": "край"
+    }
+  ],
   "items": [
     {
       "ru": "Мы уезжаем на выходные.",

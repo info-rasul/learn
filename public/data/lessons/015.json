@@ -20,6 +20,28 @@
     ] },
     { "type": "tip", "text": "В русском нет отдельного «предпрошедшего» времени, поэтому русскоговорящие везде ставят past simple. Спросите себя: «Это случилось раньше другого прошлого события?» Если да — <b>had + V3</b>." }
   ],
+  "words": [
+    { "en": "after", "ru": "после того как" },
+    { "en": "still", "ru": "всё ещё" },
+    { "en": "soon after", "ru": "вскоре после этого" },
+    { "en": "get to", "forms": "got to, got to", "ru": "добираться до" },
+    { "en": "get in", "forms": "got in, got in", "ru": "войти, попасть внутрь" },
+    { "en": "realise", "ru": "понимать, осознавать" },
+    { "en": "recognise", "ru": "узнавать" },
+    { "en": "say", "forms": "said, said", "ru": "сказать" },
+    { "en": "fail", "ru": "провалить (экзамен)" },
+    { "en": "prepare for", "ru": "готовиться к" },
+    { "en": "water", "ru": "поливать" },
+    { "en": "station", "ru": "вокзал, станция" },
+    { "en": "trip", "ru": "поездка" },
+    { "en": "garden", "ru": "сад" },
+    { "en": "guest", "ru": "гость" },
+    { "en": "office", "ru": "офис" },
+    { "en": "nobody", "ru": "никто" },
+    { "en": "terrible", "ru": "ужасный" },
+    { "en": "such", "ru": "такой" },
+    { "en": "at once", "ru": "сразу, немедленно" }
+  ],
   "items": [
     { "ru": "Когда я пришёл на вокзал, поезд уже ушёл.", "en": ["When I got to the station, the train had already left.", "When I arrived at the station, the train had already left.", "The train had already left when I got to the station.", "The train had already left when I arrived at the station."] },
     { "ru": "Мы вернулись домой и увидели, что кто-то разбил окно.", "en": ["We got home and saw that somebody had broken the window.", "We got home and saw that someone had broken the window.", "We came home and saw that somebody had broken the window.", "We came home and saw that someone had broken the window.", "We got home and found that somebody had broken the window.", "We got home and found that someone had broken the window."] },

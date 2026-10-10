@@ -30,6 +30,49 @@
       "text": "Русское «достаточно большой» подсказывает порядок <b>enough big</b> — это ошибка. Правильно <b>big enough</b>. И не путайте <b>too</b> со <b>very</b>: «слишком» означает, что что-то мешает: <b>It's too cold to swim.</b>"
     }
   ],
+  "words": [
+    {
+      "en": "enough",
+      "ru": "достаточно"
+    },
+    {
+      "en": "too",
+      "ru": "слишком"
+    },
+    {
+      "en": "too much",
+      "ru": "слишком много (с неисчисляемыми)"
+    },
+    {
+      "en": "too many",
+      "ru": "слишком много (с исчисляемыми)"
+    },
+    {
+      "en": "loudly",
+      "ru": "громко"
+    },
+    {
+      "en": "light",
+      "ru": "светлый"
+    },
+    {
+      "en": "heavy",
+      "ru": "тяжёлый"
+    },
+    {
+      "en": "swim",
+      "forms": "swam, swum",
+      "ru": "плавать"
+    },
+    {
+      "en": "beginning",
+      "ru": "начало"
+    },
+    {
+      "en": "text",
+      "ru": "текст"
+    }
+  ],
   "items": [
     { "ru": "У нас достаточно денег?", "en": ["Do we have enough money?", "Have we got enough money?"] },
     { "ru": "Здесь недостаточно стульев.", "en": ["There aren't enough chairs here."] },
