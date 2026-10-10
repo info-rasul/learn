@@ -1,0 +1,226 @@
+{
+  "id": 77,
+  "section": "Артикли и существительные",
+  "title": "Names with and without the 1",
+  "subtitle": "Страны, горы, моря, реки: где нужен the, а где нет",
+  "theory": [
+    {
+      "type": "p",
+      "text": "С именами людей и с большинством географических названий the не нужен: <b>Africa, Japan, Italy, London, Sicily, Everest</b>. Исключение — названия со словами <b>Republic, Kingdom, States, Union</b>: <b>the United States, the United Kingdom, the Czech Republic</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Титул + имя — без the: <b>Doctor Smith, Mr Jones, Queen Elizabeth, Uncle Tom</b>. Но <b>the doctor</b> — просто врач.",
+        "<b>Mount</b> и <b>Lake</b> + название — без the: <b>Mount Everest, Lake Baikal</b>. Но <b>the lake</b> — просто озеро."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "С the",
+        "Примеры"
+      ],
+      "rows": [
+        [
+          "океаны, моря",
+          "the Atlantic, the Mediterranean, the Black Sea"
+        ],
+        [
+          "реки, каналы",
+          "the Thames, the Volga, the Suez Canal"
+        ],
+        [
+          "пустыни",
+          "the Sahara, the Gobi Desert"
+        ],
+        [
+          "названия во множественном числе",
+          "the Smiths, the Netherlands, the Canaries, the Alps"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Стороны света"
+    },
+    {
+      "type": "p",
+      "text": "<b>the north of Italy</b>, но <b>northern Italy</b> (без the). <b>the south of Spain</b>, но <b>southern Spain</b>. В названиях регионов и стран — без the: <b>North America, South Africa</b>."
+    },
+    {
+      "type": "tip",
+      "text": "Частая ошибка: <b>I live in the north Italy</b>. Правильно либо <b>in the north of Italy</b>, либо <b>in northern Italy</b>. И не забывайте the с США: <b>in the USA</b>, но просто <b>in Canada</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Ты был в Японии?",
+      "en": [
+        "Have you been to Japan?",
+        "Have you ever been to Japan?"
+      ]
+    },
+    {
+      "ru": "Мы хотим поехать в США.",
+      "en": [
+        "We want to go to the United States.",
+        "We want to go to the USA.",
+        "We want to go to the US."
+      ]
+    },
+    {
+      "ru": "Он живёт в Великобритании.",
+      "en": [
+        "He lives in the United Kingdom.",
+        "He lives in the UK."
+      ]
+    },
+    {
+      "ru": "Африка больше Европы.",
+      "en": [
+        "Africa is bigger than Europe.",
+        "Africa is larger than Europe."
+      ]
+    },
+    {
+      "ru": "Доктор Смит сейчас занят.",
+      "en": [
+        "Doctor Smith is busy now.",
+        "Dr Smith is busy now.",
+        "Doctor Smith is busy at the moment."
+      ]
+    },
+    {
+      "ru": "Мне надо вызвать врача.",
+      "en": [
+        "I need to call the doctor.",
+        "I need to call a doctor.",
+        "I have to call the doctor."
+      ]
+    },
+    {
+      "ru": "Мистер Джонс — наш новый учитель.",
+      "en": [
+        "Mr Jones is our new teacher."
+      ]
+    },
+    {
+      "ru": "Королева Елизавета жила в Лондоне.",
+      "en": [
+        "Queen Elizabeth lived in London."
+      ]
+    },
+    {
+      "ru": "Эверест — самая высокая гора в мире.",
+      "en": [
+        "Everest is the highest mountain in the world.",
+        "Mount Everest is the highest mountain in the world."
+      ]
+    },
+    {
+      "ru": "Они живут у озера.",
+      "en": [
+        "They live by the lake.",
+        "They live near the lake."
+      ]
+    },
+    {
+      "ru": "Озеро Байкал находится в России.",
+      "en": [
+        "Lake Baikal is in Russia."
+      ]
+    },
+    {
+      "ru": "Мы летели над Атлантическим океаном.",
+      "en": [
+        "We flew over the Atlantic.",
+        "We flew over the Atlantic Ocean."
+      ]
+    },
+    {
+      "ru": "Темза течёт через Лондон.",
+      "en": [
+        "The Thames flows through London.",
+        "The River Thames flows through London."
+      ]
+    },
+    {
+      "ru": "Волга — самая длинная река в Европе.",
+      "en": [
+        "The Volga is the longest river in Europe."
+      ]
+    },
+    {
+      "ru": "Летом мы ездили на Средиземное море.",
+      "en": [
+        "In summer we went to the Mediterranean.",
+        "We went to the Mediterranean in summer.",
+        "We went to the Mediterranean in the summer."
+      ]
+    },
+    {
+      "ru": "Сахара — огромная пустыня.",
+      "en": [
+        "The Sahara is a huge desert."
+      ]
+    },
+    {
+      "ru": "Смиты пригласили нас на ужин.",
+      "en": [
+        "The Smiths invited us to dinner.",
+        "The Smiths have invited us to dinner.",
+        "The Smiths invited us for dinner."
+      ]
+    },
+    {
+      "ru": "Мы катались на лыжах в Альпах.",
+      "en": [
+        "We went skiing in the Alps.",
+        "We skied in the Alps."
+      ]
+    },
+    {
+      "ru": "Амстердам находится в Нидерландах.",
+      "en": [
+        "Amsterdam is in the Netherlands."
+      ]
+    },
+    {
+      "ru": "Они провели отпуск на Канарских островах.",
+      "en": [
+        "They spent their holiday in the Canaries.",
+        "They spent their holiday in the Canary Islands.",
+        "They spent their holiday on the Canary Islands."
+      ]
+    },
+    {
+      "ru": "Он живёт на севере Италии.",
+      "en": [
+        "He lives in the north of Italy.",
+        "He lives in northern Italy."
+      ]
+    },
+    {
+      "ru": "На юге Испании летом очень жарко.",
+      "en": [
+        "Southern Spain is very hot in summer.",
+        "The south of Spain is very hot in summer.",
+        "It's very hot in southern Spain in summer.",
+        "It's very hot in the south of Spain in summer."
+      ]
+    },
+    {
+      "ru": "Мой брат работает в Южной Африке.",
+      "en": [
+        "My brother works in South Africa."
+      ]
+    },
+    {
+      "ru": "Канада находится в Северной Америке.",
+      "en": [
+        "Canada is in North America."
+      ]
+    }
+  ]
+}

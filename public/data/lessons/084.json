@@ -1,0 +1,227 @@
+{
+  "id": 84,
+  "section": "Местоимения и определители",
+  "title": "there ... and it ...",
+  "subtitle": "There is (есть, существует) или it (это, оно)",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>there is / there are</b> — когда сообщаем, что что-то есть, существует, впервые упоминаем: <b>There's a new cafe on our street.</b> <b>it</b> — когда говорим о конкретной уже известной вещи, месте или ситуации: <b>We went to the new cafe. It's very cosy.</b>"
+    },
+    {
+      "type": "p",
+      "text": "<b>there</b> также значит «там»: <b>The house is empty. Nobody lives there.</b>"
+    },
+    {
+      "type": "h",
+      "text": "there с разными формами"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>there will be, there might be, there wouldn't be</b>: <b>There might be a lot of people at the party.</b>",
+        "<b>there must have been</b>: <b>There must have been somebody home.</b>",
+        "<b>there's bound to be / sure to be</b> (наверняка есть), <b>there used to be</b> (раньше был).",
+        "Сравните: <b>There used to be a cinema here</b> и <b>This building used to be a school</b> (it/this = здание)."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "it в начале предложения"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>It's dangerous to swim here</b> — лучше, чем To swim here is dangerous.",
+        "<b>It took us ten minutes to get here. It's a pity you can't come. It's not worth waiting.</b>",
+        "Расстояние, время, погода: <b>How far is it to the sea? It's been a long time. It was windy.</b> Но: <b>There was a strong wind.</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «было много машин» так и тянет перевести как <b>It was a lot of traffic</b>. Если вы говорите, что что-то существовало или было в наличии, нужно <b>there</b>: <b>There was a lot of traffic.</b>"
+    }
+  ],
+  "items": [
+    {
+      "ru": "На нашей улице открылось новое кафе.",
+      "en": [
+        "There's a new cafe on our street.",
+        "There's a new cafe in our street."
+      ]
+    },
+    {
+      "ru": "Мы сходили в новое кафе. Оно очень уютное.",
+      "en": [
+        "We went to the new cafe. It's very cosy.",
+        "We went to the new cafe. It's very cozy."
+      ]
+    },
+    {
+      "ru": "Мы опоздали, потому что на дорогах было много машин.",
+      "en": [
+        "We were late because there was a lot of traffic.",
+        "We were late because there was heavy traffic."
+      ]
+    },
+    {
+      "ru": "Мне нравится этот район. Здесь много парков.",
+      "en": [
+        "I like this area. There are a lot of parks here.",
+        "I like this area. There are lots of parks here.",
+        "I like this area. There are many parks here."
+      ]
+    },
+    {
+      "ru": "Это интересный город. Здесь всегда есть чем заняться.",
+      "en": [
+        "It's an interesting city. There's always something to do.",
+        "It's an interesting town. There's always something to do."
+      ]
+    },
+    {
+      "ru": "Дом пустой. Там никто не живёт.",
+      "en": [
+        "The house is empty. Nobody lives there.",
+        "The house is empty. No one lives there.",
+        "The house is empty. There's nobody living there."
+      ]
+    },
+    {
+      "ru": "Есть ли сегодня вечером поезд в Париж?",
+      "en": [
+        "Is there a train to Paris this evening?",
+        "Is there a train to Paris tonight?"
+      ]
+    },
+    {
+      "ru": "На вечеринке может быть много людей.",
+      "en": [
+        "There might be a lot of people at the party.",
+        "There may be a lot of people at the party.",
+        "There could be a lot of people at the party."
+      ]
+    },
+    {
+      "ru": "Если бы люди были добрее, не было бы столько войн.",
+      "en": [
+        "If people were kinder, there wouldn't be so many wars.",
+        "If people were kinder, there would be fewer wars."
+      ]
+    },
+    {
+      "ru": "Горел свет. Наверное, кто-то был дома.",
+      "en": [
+        "The lights were on. There must have been somebody home.",
+        "The lights were on. There must have been someone home.",
+        "The lights were on. There must have been somebody at home.",
+        "The lights were on. There must have been someone at home."
+      ]
+    },
+    {
+      "ru": "Где-то рядом наверняка есть банкомат.",
+      "en": [
+        "There's bound to be a cash machine nearby.",
+        "There's sure to be a cash machine nearby.",
+        "There's bound to be an ATM nearby.",
+        "There's sure to be an ATM nearby.",
+        "There's bound to be a cash machine near here."
+      ]
+    },
+    {
+      "ru": "Раньше здесь был кинотеатр.",
+      "en": [
+        "There used to be a cinema here."
+      ]
+    },
+    {
+      "ru": "Это здание раньше было школой.",
+      "en": [
+        "This building used to be a school.",
+        "That building used to be a school."
+      ]
+    },
+    {
+      "ru": "Они живут рядом с вокзалом. Там, должно быть, очень шумно.",
+      "en": [
+        "They live near the station. It must be very noisy.",
+        "They live next to the station. It must be very noisy."
+      ]
+    },
+    {
+      "ru": "Вечером есть рейс, но он наверняка будет полным.",
+      "en": [
+        "There's a flight this evening, but it's sure to be full.",
+        "There's a flight this evening, but it's bound to be full.",
+        "There's a flight tonight, but it's sure to be full."
+      ]
+    },
+    {
+      "ru": "Опасно купаться в этой реке.",
+      "en": [
+        "It's dangerous to swim in this river.",
+        "Swimming in this river is dangerous."
+      ]
+    },
+    {
+      "ru": "Нам понадобилось всего десять минут, чтобы добраться сюда.",
+      "en": [
+        "It only took us ten minutes to get here.",
+        "It took us only ten minutes to get here."
+      ]
+    },
+    {
+      "ru": "Жаль, что ты не можешь прийти.",
+      "en": [
+        "It's a pity you can't come.",
+        "It's a shame you can't come.",
+        "It's a pity that you can't come.",
+        "It's a shame that you can't come."
+      ]
+    },
+    {
+      "ru": "Не стоит ждать автобус. Пойдём пешком.",
+      "en": [
+        "It's not worth waiting for the bus. Let's walk.",
+        "It isn't worth waiting for the bus. Let's walk."
+      ]
+    },
+    {
+      "ru": "Как далеко отсюда до моря?",
+      "en": [
+        "How far is it from here to the sea?",
+        "How far is the sea from here?",
+        "How far is it to the sea?"
+      ]
+    },
+    {
+      "ru": "Мы очень давно не виделись.",
+      "en": [
+        "It's been a long time since we last met.",
+        "It's a long time since we last met.",
+        "It's been a long time since we saw each other."
+      ]
+    },
+    {
+      "ru": "Вчера было ветрено.",
+      "en": [
+        "It was windy yesterday.",
+        "Yesterday it was windy."
+      ]
+    },
+    {
+      "ru": "Вчера был сильный ветер.",
+      "en": [
+        "There was a strong wind yesterday.",
+        "Yesterday there was a strong wind."
+      ]
+    },
+    {
+      "ru": "Сегодня очень холодно, но снега нет.",
+      "en": [
+        "It's very cold today, but there isn't any snow.",
+        "It's very cold today, but there's no snow."
+      ]
+    }
+  ]
+}

@@ -5,7 +5,18 @@ export interface Tile {
   word: string;
 }
 
-const KEEP_CASE = /^(I|I'm|I'll|I've|I'd|Moscow|London|Paris|America|English|Russian|Chinese|China|Monday|TV|OK)$/;
+const KEEP_CASE = new RegExp(
+  '^(' +
+    [
+      "I|I'm|I'll|I've|I'd|TV|OK",
+      'Tom|Anna|Kate|Mike|Sarah|Paul|Lisa|John|Emma|Alex|Ben|Nick|Helen|Jack|Mary|Dan|Kevin|Jane|David|Laura',
+      'London|Paris|Moscow|Rome|Berlin|Spain|Italy|France|Germany|Japan|Canada|Australia|England|America|China',
+      'English|Russian|Spanish|French|Italian|Chinese|German|Japanese',
+      'Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday',
+      'January|February|March|April|June|July|August|September|October|November|December|Christmas',
+    ].join('|') +
+    ")('s)?$",
+);
 
 export function shuffle<T>(items: T[]): T[] {
   const a = items.slice();
@@ -23,8 +34,10 @@ export function splitWords(sentence: string): string[] {
     .filter(Boolean);
 }
 
+export const keepsCase = (word: string) => KEEP_CASE.test(word);
+
 export function tileWord(word: string, isFirst: boolean): string {
-  return isFirst && !KEEP_CASE.test(word) ? word.charAt(0).toLowerCase() + word.slice(1) : word;
+  return isFirst && !keepsCase(word) ? word.charAt(0).toLowerCase() + word.slice(1) : word;
 }
 
 /** Words of the reference answer plus a few distractors taken from other phrases of the same lesson. */

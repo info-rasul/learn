@@ -5,6 +5,9 @@ import { isPassing, pushResult } from './scoring';
 
 const HISTORY_LIMIT = 5000;
 
+/** Progress of the Murphy course is kept apart from the old 16-lesson course: lesson ids overlap. */
+const courseKey = (email: string, name: string) => userKey(email, `murphy:${name}`);
+
 export const DEFAULT_SETTINGS: UserSettings = { mode: 'tiles', autoSpeak: true, speechRate: 0.9 };
 
 interface UserDataValue {
@@ -34,33 +37,33 @@ function resultsFromHistory(history: Attempt[]): LessonResults {
 }
 
 function loadResults(email: string, history: Attempt[]): LessonResults {
-  const stored = readJSON<LessonResults | null>(userKey(email, 'results'), null);
+  const stored = readJSON<LessonResults | null>(courseKey(email, 'results'), null);
   return stored ?? resultsFromHistory(history);
 }
 
 function loadPassed(email: string, results: LessonResults): number[] {
-  const stored = readJSON<number[] | null>(userKey(email, 'passed'), null);
+  const stored = readJSON<number[] | null>(courseKey(email, 'passed'), null);
   return stored ?? Object.keys(results).map(Number).filter((id) => isPassing(results[id]));
 }
 
 /** All learning data lives in this browser only, namespaced by the signed-in email. */
 export function UserDataProvider({ email, children }: { email: string; children: ReactNode }) {
-  const [history, setHistory] = useState<Attempt[]>(() => readJSON(userKey(email, 'history'), []));
+  const [history, setHistory] = useState<Attempt[]>(() => readJSON(courseKey(email, 'history'), []));
   const [results, setResults] = useState<LessonResults>(() => loadResults(email, history));
   const [passed, setPassed] = useState<number[]>(() => loadPassed(email, results));
   const [settings, setSettings] = useState<UserSettings>(() => ({
     ...DEFAULT_SETTINGS,
     ...readJSON<Partial<UserSettings>>(userKey(email, 'settings'), {}),
   }));
-  const [analysis, setAnalysis] = useState<SavedAnalysis | null>(() => readJSON(userKey(email, 'analysis'), null));
-  const [lastExam, setLastExam] = useState<ExamResult | null>(() => readJSON(userKey(email, 'exam'), null));
+  const [analysis, setAnalysis] = useState<SavedAnalysis | null>(() => readJSON(courseKey(email, 'analysis'), null));
+  const [lastExam, setLastExam] = useState<ExamResult | null>(() => readJSON(courseKey(email, 'exam'), null));
 
-  useEffect(() => writeJSON(userKey(email, 'history'), history), [email, history]);
-  useEffect(() => writeJSON(userKey(email, 'results'), results), [email, results]);
-  useEffect(() => writeJSON(userKey(email, 'passed'), passed), [email, passed]);
+  useEffect(() => writeJSON(courseKey(email, 'history'), history), [email, history]);
+  useEffect(() => writeJSON(courseKey(email, 'results'), results), [email, results]);
+  useEffect(() => writeJSON(courseKey(email, 'passed'), passed), [email, passed]);
   useEffect(() => writeJSON(userKey(email, 'settings'), settings), [email, settings]);
-  useEffect(() => writeJSON(userKey(email, 'analysis'), analysis), [email, analysis]);
-  useEffect(() => writeJSON(userKey(email, 'exam'), lastExam), [email, lastExam]);
+  useEffect(() => writeJSON(courseKey(email, 'analysis'), analysis), [email, analysis]);
+  useEffect(() => writeJSON(courseKey(email, 'exam'), lastExam), [email, lastExam]);
 
   // A lesson stays passed even if its score later drops, so the next lesson never re-locks.
   useEffect(() => {

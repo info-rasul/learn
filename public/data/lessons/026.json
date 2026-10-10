@@ -1,0 +1,50 @@
+{
+  "id": 26,
+  "section": "Модальные глаголы",
+  "title": "can, could and (be) able to",
+  "subtitle": "Умею, могу, смог: can, could, be able to, managed to",
+  "theory": [
+    { "type": "p", "text": "<b>can</b> + глагол — умение, возможность или разрешение: <b>She can ski.</b> <b>You can sit here.</b> <b>Can you hear me?</b> Отрицание — <b>can't / cannot</b>." },
+    { "type": "p", "text": "У <b>can</b> всего две формы: <b>can</b> и <b>could</b>. Во всех остальных случаях (после will, might, must, в present perfect, после to) нужно <b>be able to</b>." },
+    { "type": "table", "head": ["Нужна форма", "Пример"], "rows": [
+      ["будущее", "<b>You'll be able to drive soon.</b>"],
+      ["present perfect", "<b>I haven't been able to sleep.</b>"],
+      ["после might / must", "<b>She might be able to help.</b>"],
+      ["после to", "<b>I'd like to be able to swim.</b>"]
+    ] },
+    { "type": "h", "text": "could в прошлом" },
+    { "type": "list", "items": [
+      "Общая способность в прошлом: <b>At six, Tom could read.</b>",
+      "С глаголами восприятия <b>see, hear, smell, taste, feel, remember, understand</b>: <b>I could hear music.</b>",
+      "Разрешение в прошлом: <b>At school we could wear what we wanted.</b>"
+    ] },
+    { "type": "p", "text": "Но если речь о <b>конкретном успешном случае</b> («сумел, удалось»), <b>could</b> не используем — нужно <b>was/were able to</b> или <b>managed to</b>: <b>The exam was hard, but I managed to pass.</b> Отрицание <b>couldn't</b> подходит всегда: <b>I tried, but I couldn't open it.</b>" },
+    { "type": "tip", "text": "Русское «смог» в смысле «удалось» не переводите как could: «Я смог найти билеты» — <b>I managed to find tickets</b> / <b>I was able to find tickets</b>. А «не смог» — спокойно <b>couldn't</b>." }
+  ],
+  "items": [
+    { "ru": "Из нашего окна видно море.", "en": ["We can see the sea from our window.", "From our window we can see the sea."] },
+    { "ru": "Можешь взять мой зонт.", "en": ["You can take my umbrella.", "You can borrow my umbrella.", "You can use my umbrella."] },
+    { "ru": "Ты умеешь плавать?", "en": ["Can you swim?"] },
+    { "ru": "Я могу помочь тебе завтра, если хочешь.", "en": ["I can help you tomorrow if you like.", "I can help you tomorrow if you want."] },
+    { "ru": "Боюсь, я не смогу прийти в субботу.", "en": ["I'm afraid I can't come on Saturday.", "I'm afraid I won't be able to come on Saturday."] },
+    { "ru": "В последнее время я не могу сосредоточиться.", "en": ["I haven't been able to concentrate recently.", "I haven't been able to concentrate lately.", "Recently I haven't been able to concentrate."] },
+    { "ru": "Возможно, Сара сможет нам помочь.", "en": ["Sarah might be able to help us.", "Sarah may be able to help us.", "Maybe Sarah will be able to help us.", "Perhaps Sarah will be able to help us."] },
+    { "ru": "Скоро ты сможешь говорить по-французски.", "en": ["Soon you'll be able to speak French.", "You'll soon be able to speak French.", "You'll be able to speak French soon."] },
+    { "ru": "Я хотел бы уметь играть на пианино.", "en": ["I'd like to be able to play the piano.", "I would like to be able to play the piano."] },
+    { "ru": "Я не мог найти ключи.", "en": ["I couldn't find my keys.", "I couldn't find the keys.", "I wasn't able to find my keys."] },
+    { "ru": "Из нашего номера были видны горы.", "en": ["We could see the mountains from our room.", "From our room we could see the mountains."] },
+    { "ru": "Я почувствовал запах дыма.", "en": ["I could smell smoke.", "I could smell something burning."] },
+    { "ru": "Мы сидели далеко и плохо слышали актёров.", "en": ["We were sitting far away and couldn't hear the actors well.", "We were sitting far away and couldn't hear the actors very well.", "We were sitting a long way away and couldn't hear the actors well."] },
+    { "ru": "В пять лет Эмма уже умела читать.", "en": ["Emma could already read when she was five.", "Emma could read when she was five.", "Emma could already read at five.", "Emma could read at the age of five."] },
+    { "ru": "В детстве нам разрешали делать что угодно.", "en": ["As children we could do whatever we wanted.", "When we were children, we could do whatever we wanted.", "As children we could do what we wanted.", "When we were children, we could do what we wanted."] },
+    { "ru": "Все смогли выбраться из здания.", "en": ["Everybody was able to get out of the building.", "Everyone was able to get out of the building.", "Everybody managed to get out of the building.", "Everyone managed to get out of the building."] },
+    { "ru": "Тропа была трудной, но мы сумели дойти до вершины.", "en": ["The path was difficult, but we managed to reach the top.", "The path was difficult, but we were able to reach the top.", "The path was difficult, but we managed to get to the top.", "The path was hard, but we managed to reach the top."] },
+    { "ru": "В конце концов мне удалось найти Тома.", "en": ["In the end I managed to find Tom.", "I managed to find Tom in the end.", "In the end I was able to find Tom.", "Finally I managed to find Tom."] },
+    { "ru": "(вообще, в те годы) Ник мог обыграть кого угодно в шахматы.", "en": ["Nick could beat anybody at chess.", "Nick could beat anyone at chess."] },
+    { "ru": "(в одной партии вчера) Ник играл хорошо, но Бен сумел его обыграть.", "en": ["Nick played well, but Ben managed to beat him.", "Nick played well, but Ben was able to beat him."] },
+    { "ru": "Бен играл хорошо, но не смог обыграть Ника.", "en": ["Ben played well, but he couldn't beat Nick.", "Ben played well, but he wasn't able to beat Nick.", "Ben played well, but couldn't beat Nick."] },
+    { "ru": "Мой отец не умел водить машину.", "en": ["My father couldn't drive.", "My dad couldn't drive."] },
+    { "ru": "Ты сможешь прийти завтра?", "en": ["Will you be able to come tomorrow?", "Can you come tomorrow?"] },
+    { "ru": "Я не мог уснуть из-за шума.", "en": ["I couldn't sleep because of the noise.", "I wasn't able to sleep because of the noise.", "I couldn't get to sleep because of the noise."] }
+  ]
+}

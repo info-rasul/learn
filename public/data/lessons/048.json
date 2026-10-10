@@ -1,0 +1,44 @@
+{
+  "id": 48,
+  "section": "Косвенная речь",
+  "title": "Reported speech 2",
+  "subtitle": "Когда время не меняется; say или tell; tell/ask somebody to",
+  "theory": [
+    { "type": "p", "text": "Если сказанное <b>до сих пор верно</b>, время можно не сдвигать: <b>Anna said her job is boring.</b> (работа и сейчас скучная). Сдвиг тоже не ошибка: <b>Anna said her job was boring.</b> Но если ситуация уже закончилась, нужно прошедшее: <b>He said he had to go.</b>" },
+    { "type": "p", "text": "Прошедшее обязательно, когда сказанное оказалось <b>неправдой</b>: <b>But you said Ben was in Paris!</b> — а Бен стоит рядом, значит, is здесь невозможно." },
+    { "type": "h", "text": "say и tell" },
+    { "type": "list", "items": [
+      "<b>tell</b> + кому: <b>She told me the news.</b> <b>What did you tell your parents?</b> (не said me)",
+      "<b>say</b> без указания, кому: <b>She said that she was ill.</b> <b>What did she say?</b> (не told that)",
+      "Если хочется назвать адресата после say, нужен <b>to</b>: <b>He said goodbye to us.</b>"
+    ] },
+    { "type": "p", "text": "Просьбы и приказы: <b>tell/ask somebody (not) to do</b>. <b>The doctor told me to rest.</b> — Врач велел мне отдыхать. <b>She asked us not to make any noise.</b> Можно и без адресата: <b>He said not to wait for him.</b>" },
+    { "type": "tip", "text": "Русское «сказал, чтобы я…» переводится через <b>told me to</b>, а не <b>said me that I…</b>. Например: «Он сказал мне подождать» — <b>He told me to wait.</b>" }
+  ],
+  "items": [
+    { "ru": "(работа и сейчас такая) Анна сказала, что её работа скучная.", "en": ["Anna said her job is boring.", "Anna said her job was boring.", "Anna said that her job is boring.", "Anna said that her job was boring."] },
+    { "ru": "(он всё ещё хочет) Том сказал, что хочет поехать в Канаду в следующем году.", "en": ["Tom said he wants to go to Canada next year.", "Tom said he wanted to go to Canada next year.", "Tom said that he wants to go to Canada next year.", "Tom said that he wanted to go to Canada next year."] },
+    { "ru": "(это и сейчас так) Майк сказал, что живёт рядом с парком.", "en": ["Mike said he lives near the park.", "Mike said he lived near the park.", "Mike said that he lives near the park.", "Mike said that he lived near the park."] },
+    { "ru": "Пол вдруг встал и сказал, что ему нужно уйти.", "en": ["Paul suddenly stood up and said he had to go.", "Paul suddenly stood up and said that he had to go.", "Paul suddenly stood up and said he had to leave."] },
+    { "ru": "(а Бен стоит перед нами) Ты же сказала, что Бен в Париже!", "en": ["But you said Ben was in Paris!", "You said Ben was in Paris!", "But you said that Ben was in Paris!"] },
+    { "ru": "(а ты прекрасно водишь) Ты говорил, что не умеешь водить!", "en": ["You said you couldn't drive!", "But you said you couldn't drive!", "You said that you couldn't drive!"] },
+    { "ru": "Сара сказала мне, что ты болеешь.", "en": ["Sarah told me you were ill.", "Sarah told me that you were ill.", "Sarah told me you were sick."] },
+    { "ru": "Что ты сказал своим родителям?", "en": ["What did you tell your parents?", "What did you say to your parents?"] },
+    { "ru": "Скажи мне правду.", "en": ["Tell me the truth."] },
+    { "ru": "Он попрощался с нами и ушёл.", "en": ["He said goodbye to us and left."] },
+    { "ru": "Она ничего мне не сказала.", "en": ["She didn't say anything to me.", "She didn't tell me anything.", "She said nothing to me.", "She told me nothing."] },
+    { "ru": "Что он тебе сказал?", "en": ["What did he tell you?", "What did he say to you?"] },
+    { "ru": "Джон сказал нам, что опоздает.", "en": ["John told us he would be late.", "John told us that he would be late."] },
+    { "ru": "Врач велел мне больше отдыхать.", "en": ["The doctor told me to rest more.", "The doctor told me to get more rest."] },
+    { "ru": "Я сказал Алексу не волноваться.", "en": ["I told Alex not to worry."] },
+    { "ru": "Мама попросила меня купить хлеба.", "en": ["My mum asked me to buy some bread.", "My mother asked me to buy some bread.", "Mum asked me to buy some bread.", "My mum asked me to buy bread."] },
+    { "ru": "Она попросила нас не шуметь.", "en": ["She asked us not to make any noise.", "She asked us not to make noise.", "She asked us to be quiet."] },
+    { "ru": "Учитель велел нам закрыть книги.", "en": ["The teacher told us to close our books.", "The teacher told us to shut our books."] },
+    { "ru": "Охранник попросил меня показать паспорт.", "en": ["The guard asked me to show my passport.", "The guard asked me to show him my passport."] },
+    { "ru": "Лиза попросила меня помочь ей.", "en": ["Lisa asked me to help her."] },
+    { "ru": "Он сказал не ждать его.", "en": ["He said not to wait for him."] },
+    { "ru": "Я сказал Джеку, чтобы он не опаздывал.", "en": ["I told Jack not to be late."] },
+    { "ru": "Кто тебе это сказал?", "en": ["Who told you that?", "Who told you this?", "Who said that to you?"] },
+    { "ru": "Почему ты ничего не сказал?", "en": ["Why didn't you say anything?", "Why did you say nothing?"] }
+  ]
+}

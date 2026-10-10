@@ -1,0 +1,214 @@
+{
+  "id": 127,
+  "section": "Предлоги",
+  "title": "in/on/at (other uses)",
+  "subtitle": "in the rain, on holiday, at the age of: другие устойчивые сочетания",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Сочетания"
+      ],
+      "rows": [
+        [
+          "in",
+          "in the rain / sun / shade / dark, in pen / pencil, in capital letters, in cash, in love (with), in my opinion"
+        ],
+        [
+          "on",
+          "on holiday, on business, on a trip / tour / cruise, on TV, on the radio, on the phone, on strike, on a diet, on fire, on purpose, on the whole"
+        ],
+        [
+          "at",
+          "at the age of 20, at 100 km an hour, at a speed of, at a temperature of"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Погода и освещение — <b>in</b>: <b>Don't wait in the rain.</b> <b>Let's sit in the shade.</b> Способ письма и оплаты — тоже <b>in</b>: <b>in ink</b>, <b>in cash</b>."
+    },
+    {
+      "type": "p",
+      "text": "<b>on</b> описывает состояние или занятие: <b>on holiday</b> (в отпуске), <b>on strike</b> (бастует), <b>on fire</b> (горит), <b>on a diet</b> (на диете), <b>on purpose</b> (нарочно). Медиа: <b>on TV</b>, <b>on the radio</b>, <b>on the phone</b>."
+    },
+    {
+      "type": "p",
+      "text": "<b>at</b> — возраст, скорость, температура: <b>at sixteen</b>, <b>at the age of sixteen</b>, <b>at 90 km an hour</b>."
+    },
+    {
+      "type": "tip",
+      "text": "«По телевизору» и «по радио» — <b>on TV</b>, <b>on the radio</b>, а «по телефону» — <b>on the phone</b>. Никакого by! И «в возрасте 20 лет» — <b>at the age of 20</b>, а не in the age."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Не стой под дождём.",
+      "en": [
+        "Don't stand in the rain."
+      ]
+    },
+    {
+      "ru": "Давай посидим в тени.",
+      "en": [
+        "Let's sit in the shade."
+      ]
+    },
+    {
+      "ru": "Я не люблю сидеть на солнце.",
+      "en": [
+        "I don't like sitting in the sun.",
+        "I don't like to sit in the sun."
+      ]
+    },
+    {
+      "ru": "Она боится ходить в темноте.",
+      "en": [
+        "She's afraid of walking in the dark.",
+        "She's afraid to walk in the dark."
+      ]
+    },
+    {
+      "ru": "Пиши ручкой, а не карандашом.",
+      "en": [
+        "Write in pen, not in pencil.",
+        "Write in pen, not pencil.",
+        "Write with a pen, not a pencil."
+      ]
+    },
+    {
+      "ru": "Напишите своё имя заглавными буквами.",
+      "en": [
+        "Write your name in capital letters.",
+        "Write your name in capitals."
+      ]
+    },
+    {
+      "ru": "Можно заплатить наличными?",
+      "en": [
+        "Can I pay in cash?"
+      ]
+    },
+    {
+      "ru": "Они влюблены друг в друга.",
+      "en": [
+        "They're in love with each other."
+      ]
+    },
+    {
+      "ru": "По-моему, это отличная идея.",
+      "en": [
+        "In my opinion, it's a great idea.",
+        "In my opinion, this is a great idea.",
+        "In my opinion, that's a great idea."
+      ]
+    },
+    {
+      "ru": "Она начала работать в шестнадцать лет.",
+      "en": [
+        "She started work at the age of sixteen.",
+        "She started working at the age of sixteen.",
+        "She started work at sixteen."
+      ]
+    },
+    {
+      "ru": "Мы ехали со скоростью шестьдесят километров в час.",
+      "en": [
+        "We were driving at sixty kilometres an hour.",
+        "We were driving at sixty kilometers an hour.",
+        "We were going at sixty kilometres an hour.",
+        "We were driving at 60 kilometres an hour."
+      ]
+    },
+    {
+      "ru": "Храните это при температуре пять градусов.",
+      "en": [
+        "Keep it at a temperature of five degrees.",
+        "Store it at a temperature of five degrees.",
+        "Keep it at five degrees."
+      ]
+    },
+    {
+      "ru": "Мы в отпуске в Испании.",
+      "en": [
+        "We're on holiday in Spain."
+      ]
+    },
+    {
+      "ru": "Пол в Берлине по работе.",
+      "en": [
+        "Paul is in Berlin on business.",
+        "Paul is on business in Berlin."
+      ]
+    },
+    {
+      "ru": "Ты когда-нибудь был в круизе?",
+      "en": [
+        "Have you ever been on a cruise?"
+      ]
+    },
+    {
+      "ru": "Мы поехали на экскурсию по городу.",
+      "en": [
+        "We went on a tour of the city.",
+        "We went on a city tour."
+      ]
+    },
+    {
+      "ru": "Что сегодня вечером по телевизору?",
+      "en": [
+        "What's on TV tonight?",
+        "What's on television tonight?",
+        "What's on TV this evening?"
+      ]
+    },
+    {
+      "ru": "Я слышал эту песню по радио.",
+      "en": [
+        "I heard this song on the radio.",
+        "I heard that song on the radio."
+      ]
+    },
+    {
+      "ru": "(не мешай) Я разговариваю по телефону.",
+      "en": [
+        "I'm on the phone.",
+        "I'm talking on the phone."
+      ]
+    },
+    {
+      "ru": "Водители автобусов бастуют.",
+      "en": [
+        "The bus drivers are on strike.",
+        "Bus drivers are on strike."
+      ]
+    },
+    {
+      "ru": "Я на диете.",
+      "en": [
+        "I'm on a diet."
+      ]
+    },
+    {
+      "ru": "Смотри, дом горит!",
+      "en": [
+        "Look, the house is on fire!"
+      ]
+    },
+    {
+      "ru": "Ты сделал это нарочно!",
+      "en": [
+        "You did it on purpose!",
+        "You did that on purpose!"
+      ]
+    },
+    {
+      "ru": "В целом мне понравилась поездка.",
+      "en": [
+        "On the whole, I enjoyed the trip.",
+        "On the whole, I liked the trip."
+      ]
+    }
+  ]
+}

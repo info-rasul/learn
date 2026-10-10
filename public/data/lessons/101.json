@@ -1,0 +1,64 @@
+{
+  "id": 101,
+  "section": "Прилагательные и наречия",
+  "title": "Adjectives and adverbs 2 (well, fast, late, hard/hardly)",
+  "subtitle": "well, fast, hard, late, lately и hardly",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>good</b> — прилагательное, <b>well</b> — наречие: <b>She's a good singer. She sings well.</b> С причастиями: <b>well-known</b>, <b>well-paid</b>, <b>well-dressed</b>. Но <b>well</b> бывает и прилагательным со значением «здоров»: <b>I don't feel well. Is your father well?</b>"
+    },
+    {
+      "type": "p",
+      "text": "<b>fast, hard, late, early</b> — и прилагательные, и наречия, без -ly: <b>a fast car / He runs fast</b>, <b>hard work / They work hard</b>, <b>a late train / I got up late</b>."
+    },
+    {
+      "type": "table",
+      "head": ["Слово", "Значение", "Пример"],
+      "rows": [
+        ["late", "поздно", "<b>She came home late.</b>"],
+        ["lately", "в последнее время (= recently)", "<b>Have you seen Ben lately?</b>"],
+        ["hard", "усердно, сильно", "<b>He studies hard.</b>"],
+        ["hardly", "почти не, едва", "<b>I hardly know him.</b>"]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>hardly any / anyone / anything</b> = почти никакой / никто / ничего: <b>There's hardly any milk left.</b>",
+        "<b>hardly ever</b> = почти никогда: <b>We hardly ever eat out.</b>",
+        "<b>can hardly</b> = едва могу: <b>I can hardly see.</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "<b>hardly</b> — это не «усердно», а «почти не». <b>He works hard</b> — он много работает; <b>He hardly works</b> — он почти не работает. И не ставьте с hardly второе отрицание: <b>I hardly know her</b> (не I don't hardly know)."
+    }
+  ],
+  "items": [
+    { "ru": "Она хорошо говорит по-французски.", "en": ["She speaks French well."] },
+    { "ru": "Ты хорошо спал?", "en": ["Did you sleep well?"] },
+    { "ru": "Он хорошо готовит.", "en": ["He cooks well."] },
+    { "ru": "Это хорошо оплачиваемая работа.", "en": ["It's a well-paid job.", "This is a well-paid job."] },
+    { "ru": "Этот писатель хорошо известен во Франции.", "en": ["This writer is well known in France."] },
+    { "ru": "Она всегда хорошо одета.", "en": ["She is always well dressed."] },
+    { "ru": "(о здоровье) Мне нехорошо.", "en": ["I don't feel well.", "I'm not well.", "I'm not feeling well."] },
+    { "ru": "Надеюсь, твоя мама здорова.", "en": ["I hope your mother is well.", "I hope your mum is well."] },
+    { "ru": "Ты хорошо сдал экзамен.", "en": ["You did well in the exam.", "You did well on the exam.", "You did well in your exam."] },
+    { "ru": "Не езди так быстро!", "en": ["Don't drive so fast!"] },
+    { "ru": "Это быстрый поезд.", "en": ["It's a fast train.", "This is a fast train."] },
+    { "ru": "Пол много и усердно работает.", "en": ["Paul works hard.", "Paul works very hard."] },
+    { "ru": "Вчера мы усердно работали.", "en": ["We worked hard yesterday.", "Yesterday we worked hard."] },
+    { "ru": "Я поздно лёг спать.", "en": ["I went to bed late."] },
+    { "ru": "Поезд пришёл поздно.", "en": ["The train arrived late.", "The train came late."] },
+    { "ru": "Ты видел Тома в последнее время?", "en": ["Have you seen Tom lately?", "Have you seen Tom recently?"] },
+    { "ru": "В последнее время я очень устаю.", "en": ["I've been very tired lately.", "I've been very tired recently.", "Lately I've been very tired."] },
+    { "ru": "Я почти не знаю её.", "en": ["I hardly know her."] },
+    { "ru": "Он почти ничего не сказал.", "en": ["He hardly said anything.", "He said hardly anything."] },
+    { "ru": "У нас почти нет денег.", "en": ["We have hardly any money.", "We've got hardly any money.", "We hardly have any money."] },
+    { "ru": "Почти никто не пришёл на вечеринку.", "en": ["Hardly anyone came to the party.", "Hardly anybody came to the party."] },
+    { "ru": "Мы почти никогда не ходим в кино.", "en": ["We hardly ever go to the cinema.", "We hardly ever go to the movies."] },
+    { "ru": "Я едва тебя слышу.", "en": ["I can hardly hear you."] },
+    { "ru": "Прошлой ночью я почти не спал.", "en": ["I hardly slept last night.", "Last night I hardly slept."] }
+  ]
+}

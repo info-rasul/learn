@@ -1,0 +1,215 @@
+{
+  "id": 123,
+  "section": "Предлоги",
+  "title": "in/at/on (position) 1",
+  "subtitle": "Где находится: внутри (in), у точки (at), на поверхности (on)",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Идея",
+        "Примеры"
+      ],
+      "rows": [
+        [
+          "in",
+          "внутри, в пространстве",
+          "in the box, in the kitchen, in the garden, in the sea, in the pool"
+        ],
+        [
+          "at",
+          "в точке, рядом с местом",
+          "at the door, at the window, at the bus stop, at the top / bottom / end of"
+        ],
+        [
+          "on",
+          "на поверхности",
+          "on the table, on the wall, on the floor, on the ceiling, on page 5, on the map"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>in the corner of the room</b> — в углу комнаты (внутри), но <b>on / at the corner of the street</b> — на углу улицы.",
+        "<b>in the front / back of the car</b> — на переднем / заднем сиденье машины.",
+        "<b>at the front / back of a building, cinema, class</b> — впереди / сзади (в здании, зале, группе).",
+        "<b>on the left / on the right</b> — слева / справа."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Картинка в книге или на фото — <b>in the photo / in the picture</b>, а вот страница и карта — <b>on page 10</b>, <b>on the map</b>."
+    },
+    {
+      "type": "tip",
+      "text": "Русское «на» не всегда on. «На автобусной остановке» — <b>at the bus stop</b>, «на углу улицы» — <b>on the corner</b>, а «на фото» — <b>in the photo</b>. Думайте о том, точка это, поверхность или пространство."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Ключи в ящике.",
+      "en": [
+        "The keys are in the drawer."
+      ]
+    },
+    {
+      "ru": "В комнате никого нет.",
+      "en": [
+        "There's nobody in the room.",
+        "There's no one in the room.",
+        "There isn't anybody in the room."
+      ]
+    },
+    {
+      "ru": "Дети играют в саду.",
+      "en": [
+        "The children are playing in the garden.",
+        "The kids are playing in the garden."
+      ]
+    },
+    {
+      "ru": "Не плавай в реке.",
+      "en": [
+        "Don't swim in the river."
+      ]
+    },
+    {
+      "ru": "В этой бутылке есть вода?",
+      "en": [
+        "Is there any water in this bottle?",
+        "Is there water in this bottle?"
+      ]
+    },
+    {
+      "ru": "В бассейне много людей.",
+      "en": [
+        "There are a lot of people in the pool.",
+        "There are many people in the pool.",
+        "There are a lot of people in the swimming pool."
+      ]
+    },
+    {
+      "ru": "Кто-то стоит у двери.",
+      "en": [
+        "Somebody is standing at the door.",
+        "Someone is standing at the door."
+      ]
+    },
+    {
+      "ru": "Я жду тебя на автобусной остановке.",
+      "en": [
+        "I'm waiting for you at the bus stop."
+      ]
+    },
+    {
+      "ru": "Номер телефона вверху письма.",
+      "en": [
+        "The phone number is at the top of the letter."
+      ]
+    },
+    {
+      "ru": "Наш офис в конце коридора.",
+      "en": [
+        "Our office is at the end of the corridor."
+      ]
+    },
+    {
+      "ru": "На стене висит картина.",
+      "en": [
+        "There's a picture on the wall.",
+        "A picture is hanging on the wall."
+      ]
+    },
+    {
+      "ru": "Твоя сумка на полу.",
+      "en": [
+        "Your bag is on the floor."
+      ]
+    },
+    {
+      "ru": "На потолке паук.",
+      "en": [
+        "There's a spider on the ceiling."
+      ]
+    },
+    {
+      "ru": "На столе лежат книги.",
+      "en": [
+        "There are some books on the table.",
+        "There are books on the table."
+      ]
+    },
+    {
+      "ru": "На двери написано его имя.",
+      "en": [
+        "His name is on the door."
+      ]
+    },
+    {
+      "ru": "Посмотри на фото на странице десять.",
+      "en": [
+        "Look at the photo on page ten.",
+        "Look at the picture on page ten.",
+        "Look at the photo on page 10."
+      ]
+    },
+    {
+      "ru": "Найди Италию на карте.",
+      "en": [
+        "Find Italy on the map."
+      ]
+    },
+    {
+      "ru": "Кто этот мужчина на фотографии?",
+      "en": [
+        "Who is that man in the photo?",
+        "Who is the man in the photo?",
+        "Who is that man in the picture?"
+      ]
+    },
+    {
+      "ru": "Кресло стоит в углу комнаты.",
+      "en": [
+        "The armchair is in the corner of the room."
+      ]
+    },
+    {
+      "ru": "На углу улицы есть кафе.",
+      "en": [
+        "There's a cafe on the corner of the street.",
+        "There's a café on the corner of the street.",
+        "There's a cafe at the corner of the street."
+      ]
+    },
+    {
+      "ru": "Сядь сзади в машине.",
+      "en": [
+        "Sit in the back of the car.",
+        "Sit in the back seat of the car."
+      ]
+    },
+    {
+      "ru": "Мы сидели впереди в кинотеатре.",
+      "en": [
+        "We sat at the front of the cinema.",
+        "We sat at the front in the cinema."
+      ]
+    },
+    {
+      "ru": "Гараж находится позади дома.",
+      "en": [
+        "The garage is at the back of the house.",
+        "The garage is behind the house."
+      ]
+    },
+    {
+      "ru": "Аптека слева.",
+      "en": [
+        "The pharmacy is on the left.",
+        "The chemist's is on the left."
+      ]
+    }
+  ]
+}

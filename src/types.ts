@@ -11,6 +11,8 @@ export interface LessonItem {
 
 export interface Lesson {
   id: number;
+  /** Part of the book the unit belongs to, e.g. «Модальные глаголы». */
+  section: string;
   title: string;
   subtitle: string;
   theory: TheoryBlock[];

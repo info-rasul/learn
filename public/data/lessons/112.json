@@ -1,0 +1,61 @@
+{
+  "id": 112,
+  "section": "Прилагательные и наречия",
+  "title": "even",
+  "subtitle": "Даже: even, not even, even + сравнение, even if/though",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>even</b> = «даже»: подчёркивает что-то неожиданное. Перед существительным или местоимением: <b>Even Mike laughed.</b> <b>They work every day, even on holidays.</b>"
+    },
+    {
+      "type": "p",
+      "text": "Как и другие «средние» наречия, even стоит перед глаголом, после be и после первого вспомогательного: <b>She even cooked dinner.</b> <b>He is even nicer now.</b> <b>I can't even swim.</b>"
+    },
+    {
+      "type": "table",
+      "head": ["Конструкция", "Пример"],
+      "rows": [
+        ["not even = даже не", "<b>He didn't even say thank you.</b>"],
+        ["even + сравн. степень = ещё (более)", "<b>Today is even hotter.</b> <b>even more expensive</b>"],
+        ["even though = хотя (факт)", "<b>Even though I was tired, I went out.</b>"],
+        ["even if = даже если (возможность)", "<b>Even if it snows, we'll go.</b>"],
+        ["even when = даже когда", "<b>She smiles even when she's sad.</b>"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>even</b> сам по себе не соединяет предложения: нужно <b>even though / even if / even when</b>."
+    },
+    {
+      "type": "tip",
+      "text": "«Ещё холоднее» — это <b>even colder</b>, а не more colder или still colder. И «даже не» по-английски: <b>didn't even</b>, <b>can't even</b> — even стоит после отрицания, а не перед ним."
+    }
+  ],
+  "items": [
+    { "ru": "Все пришли, даже Том.", "en": ["Everyone came, even Tom.", "Everybody came, even Tom."] },
+    { "ru": "Он работает каждый день, даже по воскресеньям.", "en": ["He works every day, even on Sundays."] },
+    { "ru": "Даже дети это знают.", "en": ["Even children know that.", "Even children know this.", "Even the children know that."] },
+    { "ru": "Даже я это понял.", "en": ["Even I understood it.", "Even I understood that."] },
+    { "ru": "Здесь холодно даже летом.", "en": ["It's cold here even in summer.", "Even in summer it's cold here.", "It's cold here even in the summer."] },
+    { "ru": "Он даже помнит мой день рождения.", "en": ["He even remembers my birthday."] },
+    { "ru": "Она говорит на пяти языках, даже по-русски.", "en": ["She speaks five languages, even Russian."] },
+    { "ru": "Она даже не попрощалась.", "en": ["She didn't even say goodbye."] },
+    { "ru": "Я даже не знаю его имени.", "en": ["I don't even know his name."] },
+    { "ru": "Ты даже не попробовал!", "en": ["You didn't even try!", "You haven't even tried!"] },
+    { "ru": "Он не мог даже встать.", "en": ["He couldn't even stand up.", "He couldn't even get up."] },
+    { "ru": "У меня даже нет машины.", "en": ["I don't even have a car.", "I haven't even got a car."] },
+    { "ru": "Она даже не посмотрела на меня.", "en": ["She didn't even look at me."] },
+    { "ru": "Я не мог даже думать об этом.", "en": ["I couldn't even think about it."] },
+    { "ru": "Даже Лиза не смогла ответить.", "en": ["Even Lisa couldn't answer.", "Even Lisa wasn't able to answer."] },
+    { "ru": "Вчера было холодно, а сегодня ещё холоднее.", "en": ["It was cold yesterday, but today it's even colder.", "It was cold yesterday and today it's even colder."] },
+    { "ru": "Этот ресторан даже лучше, чем тот.", "en": ["This restaurant is even better than that one."] },
+    { "ru": "Новый телефон ещё дороже.", "en": ["The new phone is even more expensive."] },
+    { "ru": "Сегодня я устал ещё больше, чем вчера.", "en": ["I'm even more tired today than yesterday.", "I'm even more tired today than I was yesterday.", "Today I'm even more tired than yesterday."] },
+    { "ru": "Хотя было поздно, мы продолжали работать.", "en": ["Even though it was late, we kept working.", "Even though it was late, we continued working.", "We kept working even though it was late."] },
+    { "ru": "Он пришёл на работу, хотя был болен.", "en": ["He came to work even though he was ill.", "He came to work even though he was sick."] },
+    { "ru": "Даже если пойдёт дождь, мы пойдём гулять.", "en": ["Even if it rains, we'll go for a walk.", "We'll go for a walk even if it rains."] },
+    { "ru": "Я не поеду туда, даже если ты попросишь.", "en": ["I won't go there even if you ask me.", "I won't go there even if you ask.", "Even if you ask me, I won't go there."] },
+    { "ru": "Он носит куртку, даже когда жарко.", "en": ["He wears a jacket even when it's hot.", "Even when it's hot, he wears a jacket."] }
+  ]
+}

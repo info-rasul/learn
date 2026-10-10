@@ -1,0 +1,231 @@
+{
+  "id": 107,
+  "section": "Прилагательные и наречия",
+  "title": "Comparative 3 (as ... as / than)",
+  "subtitle": "Такой же, как; не такой, как; the same as; than me",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>as … as</b> — «такой же …, как»: <b>Ben is as tall as his father.</b> В отрицании — <b>not as … as</b> (или <b>not so … as</b>): <b>The bus isn't as fast as the train</b> = the train is faster."
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>as much / as many … as</b>: <b>I don't have as much free time as you.</b>",
+        "<b>twice / three times as … as</b>: <b>Their flat is twice as big as ours.</b>",
+        "<b>just as / nearly as / not nearly as</b>: <b>It's just as good. It isn't nearly as cheap.</b>",
+        "<b>as soon as possible</b>, <b>as quickly as I can</b>"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "«Такой же, как» без прилагательного — <b>the same as</b>: <b>My bag is the same as yours.</b> Не путайте с <b>as … as</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Разговорно",
+        "Полный вариант"
+      ],
+      "rows": [
+        [
+          "<b>She's older than me.</b>",
+          "<b>She's older than I am.</b>"
+        ],
+        [
+          "<b>He drives better than me.</b>",
+          "<b>He drives better than I do.</b>"
+        ],
+        [
+          "<b>You're as tired as me.</b>",
+          "<b>You're as tired as I am.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Противоположность more — <b>less … than</b>: <b>This task is less difficult than the last one.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Не смешивайте конструкции: <b>as big as</b>, но <b>bigger than</b> (не as bigger as / big than). И «такой же, как» с существительным — <b>the same as</b>, а не the same like."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я не такой высокий, как мой брат.",
+      "en": [
+        "I'm not as tall as my brother.",
+        "I'm not so tall as my brother."
+      ]
+    },
+    {
+      "ru": "Этот фильм не такой интересный, как книга.",
+      "en": [
+        "This film isn't as interesting as the book.",
+        "This movie isn't as interesting as the book.",
+        "This film isn't so interesting as the book."
+      ]
+    },
+    {
+      "ru": "Сегодня не так холодно, как вчера.",
+      "en": [
+        "It isn't as cold today as yesterday.",
+        "It isn't as cold today as it was yesterday.",
+        "Today isn't as cold as yesterday."
+      ]
+    },
+    {
+      "ru": "Поезд не такой быстрый, как самолёт.",
+      "en": [
+        "The train isn't as fast as the plane.",
+        "A train isn't as fast as a plane."
+      ]
+    },
+    {
+      "ru": "Он работает не так усердно, как раньше.",
+      "en": [
+        "He doesn't work as hard as before.",
+        "He doesn't work as hard as he used to.",
+        "He doesn't work as hard as he did before."
+      ]
+    },
+    {
+      "ru": "Это было не так трудно, как я ожидал.",
+      "en": [
+        "It wasn't as difficult as I expected.",
+        "It wasn't as hard as I expected.",
+        "It wasn't so difficult as I expected."
+      ]
+    },
+    {
+      "ru": "Он не такой умный, как думает.",
+      "en": [
+        "He isn't as clever as he thinks.",
+        "He isn't as smart as he thinks."
+      ]
+    },
+    {
+      "ru": "У меня не так много денег, как у тебя.",
+      "en": [
+        "I don't have as much money as you.",
+        "I haven't got as much money as you.",
+        "I don't have as much money as you do."
+      ]
+    },
+    {
+      "ru": "У нас не так много друзей, как у них.",
+      "en": [
+        "We don't have as many friends as them.",
+        "We don't have as many friends as they do.",
+        "We haven't got as many friends as them."
+      ]
+    },
+    {
+      "ru": "Её квартира такая же большая, как наша.",
+      "en": [
+        "Her flat is as big as ours.",
+        "Her apartment is as big as ours."
+      ]
+    },
+    {
+      "ru": "Он такого же роста, как я.",
+      "en": [
+        "He's as tall as me.",
+        "He's as tall as I am."
+      ]
+    },
+    {
+      "ru": "Ты бегаешь так же быстро, как Ник?",
+      "en": [
+        "Can you run as fast as Nick?",
+        "Do you run as fast as Nick?"
+      ]
+    },
+    {
+      "ru": "Приходи как можно скорее.",
+      "en": [
+        "Come as soon as possible.",
+        "Come as soon as you can."
+      ]
+    },
+    {
+      "ru": "Наш дом в два раза больше их дома.",
+      "en": [
+        "Our house is twice as big as theirs."
+      ]
+    },
+    {
+      "ru": "Билет на поезд стоит в два раза больше, чем на автобус.",
+      "en": [
+        "A train ticket costs twice as much as a bus ticket.",
+        "The train ticket costs twice as much as the bus ticket."
+      ]
+    },
+    {
+      "ru": "Я устал так же, как и ты.",
+      "en": [
+        "I'm just as tired as you.",
+        "I'm just as tired as you are.",
+        "I'm as tired as you."
+      ]
+    },
+    {
+      "ru": "Новый фильм почти такой же хороший, как первый.",
+      "en": [
+        "The new film is nearly as good as the first one.",
+        "The new film is almost as good as the first one.",
+        "The new movie is nearly as good as the first one."
+      ]
+    },
+    {
+      "ru": "Автобус далеко не такой быстрый, как поезд.",
+      "en": [
+        "The bus isn't nearly as fast as the train.",
+        "The bus is nowhere near as fast as the train."
+      ]
+    },
+    {
+      "ru": "Её телефон такой же, как мой.",
+      "en": [
+        "Her phone is the same as mine."
+      ]
+    },
+    {
+      "ru": "Она приехала в то же время, что и я.",
+      "en": [
+        "She arrived at the same time as me.",
+        "She arrived at the same time as I did."
+      ]
+    },
+    {
+      "ru": "Твой брат старше меня.",
+      "en": [
+        "Your brother is older than me.",
+        "Your brother is older than I am."
+      ]
+    },
+    {
+      "ru": "Она водит машину лучше, чем я.",
+      "en": [
+        "She drives better than me.",
+        "She drives better than I do."
+      ]
+    },
+    {
+      "ru": "Сегодня я менее занят, чем вчера.",
+      "en": [
+        "I'm less busy today than yesterday.",
+        "I'm less busy today than I was yesterday.",
+        "Today I'm less busy than yesterday."
+      ]
+    },
+    {
+      "ru": "Он тратит меньше денег, чем я.",
+      "en": [
+        "He spends less money than me.",
+        "He spends less money than I do."
+      ]
+    }
+  ]
+}

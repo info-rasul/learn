@@ -1,0 +1,244 @@
+{
+  "id": 142,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 6 up/down",
+  "subtitle": "up и down: pick up, turn down, slow down, break down, let down…",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "up",
+        "down"
+      ],
+      "rows": [
+        [
+          "<b>put something up</b> — повесить (на стену)",
+          "<b>take something down</b> — снять (со стены)"
+        ],
+        [
+          "<b>pick something up</b> — поднять",
+          "<b>put something down</b> — положить"
+        ],
+        [
+          "<b>stand up</b> — встать",
+          "<b>sit down / lie down / bend down</b> — сесть, лечь, нагнуться"
+        ],
+        [
+          "<b>turn something up</b> — сделать громче/сильнее",
+          "<b>turn something down</b> — сделать тише/слабее"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Разрушение"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>knock down</b> a building — снести; <b>be knocked down</b> by a car — быть сбитым машиной.",
+        "<b>cut down</b> a tree — срубить; <b>blow down</b> — повалить (ветром); <b>burn down</b> — сгореть дотла."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Down = меньше"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>slow down</b> — замедлиться; <b>calm (somebody) down</b> — успокоиться, успокоить.",
+        "<b>cut down (on)</b> — сократить потребление: <b>cut down on sugar</b>."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Другие глаголы с down"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>close down / shut down</b> — закрыться (о бизнесе).",
+        "<b>break down</b> — сломаться (о машине), распасться (об отношениях).",
+        "<b>let somebody down</b> — подвести.",
+        "<b>turn somebody/something down</b> — отклонить, отказать.",
+        "<b>write something down</b> — записать."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Отказаться от предложения» — <b>turn down the offer</b> или <b>turn it down</b>, не <b>turn down it</b>. «Ты меня подвёл» — <b>You let me down</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Давай повесим эту карту на стену.",
+      "en": [
+        "Let's put this map up on the wall.",
+        "Let's put up this map on the wall."
+      ]
+    },
+    {
+      "ru": "Плакаты сняли после выборов.",
+      "en": [
+        "The posters were taken down after the election.",
+        "They took the posters down after the election.",
+        "They took down the posters after the election."
+      ]
+    },
+    {
+      "ru": "Я уронил ручку, можешь поднять её?",
+      "en": [
+        "I've dropped my pen, can you pick it up?",
+        "I dropped my pen, can you pick it up?"
+      ]
+    },
+    {
+      "ru": "Положи нож, это опасно.",
+      "en": [
+        "Put the knife down, it's dangerous.",
+        "Put down the knife, it's dangerous."
+      ]
+    },
+    {
+      "ru": "Все встали, когда она вошла.",
+      "en": [
+        "Everyone stood up when she came in.",
+        "Everybody stood up when she came in.",
+        "Everyone stood up when she walked in."
+      ]
+    },
+    {
+      "ru": "Садитесь, пожалуйста.",
+      "en": [
+        "Please sit down.",
+        "Sit down, please."
+      ]
+    },
+    {
+      "ru": "У меня болит голова, мне нужно прилечь.",
+      "en": [
+        "I have a headache, I need to lie down.",
+        "I've got a headache, I need to lie down."
+      ]
+    },
+    {
+      "ru": "Сделай музыку погромче.",
+      "en": [
+        "Turn the music up.",
+        "Turn up the music."
+      ]
+    },
+    {
+      "ru": "Слишком жарко, убавь отопление.",
+      "en": [
+        "It's too hot, turn the heating down.",
+        "It's too hot, turn down the heating."
+      ]
+    },
+    {
+      "ru": "Старую фабрику снесли в прошлом году.",
+      "en": [
+        "The old factory was knocked down last year."
+      ]
+    },
+    {
+      "ru": "Мою собаку сбила машина.",
+      "en": [
+        "My dog was knocked down by a car.",
+        "My dog got knocked down by a car."
+      ]
+    },
+    {
+      "ru": "Зачем они срубили эти деревья?",
+      "en": [
+        "Why did they cut down these trees?",
+        "Why did they cut these trees down?",
+        "Why did they cut down those trees?"
+      ]
+    },
+    {
+      "ru": "Ветер повалил наш забор.",
+      "en": [
+        "The wind blew our fence down.",
+        "The wind blew down our fence."
+      ]
+    },
+    {
+      "ru": "Старая церковь сгорела дотла.",
+      "en": [
+        "The old church burnt down.",
+        "The old church burned down."
+      ]
+    },
+    {
+      "ru": "Притормози, здесь школа.",
+      "en": [
+        "Slow down, there's a school here."
+      ]
+    },
+    {
+      "ru": "Успокойся и расскажи мне всё.",
+      "en": [
+        "Calm down and tell me everything."
+      ]
+    },
+    {
+      "ru": "Я пытаюсь меньше есть сладкого.",
+      "en": [
+        "I'm trying to cut down on sweets.",
+        "I'm trying to cut down on sweet things."
+      ]
+    },
+    {
+      "ru": "Магазин на углу закрылся.",
+      "en": [
+        "The shop on the corner has closed down.",
+        "The shop on the corner closed down.",
+        "The shop on the corner has shut down."
+      ]
+    },
+    {
+      "ru": "Лифт опять сломался.",
+      "en": [
+        "The lift has broken down again.",
+        "The lift broke down again.",
+        "The elevator has broken down again."
+      ]
+    },
+    {
+      "ru": "Их отношения распались через год.",
+      "en": [
+        "Their relationship broke down after a year."
+      ]
+    },
+    {
+      "ru": "Я на тебя рассчитывал, а ты меня подвёл.",
+      "en": [
+        "I was counting on you, and you let me down.",
+        "I relied on you, but you let me down."
+      ]
+    },
+    {
+      "ru": "Ей предложили работу в Риме, но она отказалась.",
+      "en": [
+        "She was offered a job in Rome, but she turned it down.",
+        "She was offered a job in Rome, but she turned the offer down."
+      ]
+    },
+    {
+      "ru": "Меня не взяли на эту должность.",
+      "en": [
+        "I was turned down for the job.",
+        "I was turned down for this job."
+      ]
+    },
+    {
+      "ru": "Запиши мой номер телефона.",
+      "en": [
+        "Write down my phone number.",
+        "Write my phone number down."
+      ]
+    }
+  ]
+}

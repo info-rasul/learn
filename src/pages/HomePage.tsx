@@ -1,7 +1,9 @@
 import { Link } from 'react-router-dom';
+import type { Lesson, LessonResults } from '../types';
 import { useLessons } from '../lib/content';
 import { useUserData } from '../lib/userData';
 import { correctCount, formatScore, isUnlocked, lessonScore, PASS_SCORE } from '../lib/scoring';
+import { groupBySection } from '../lib/sections';
 import ScoreMeter from '../components/ScoreMeter';
 
 export default function HomePage() {
@@ -18,10 +20,10 @@ export default function HomePage() {
   return (
     <div className="home">
       <section className="hero">
-        <h1>Английский за 16 уроков</h1>
+        <h1>Грамматика Мёрфи по методу «Полиглот»</h1>
         <p className="muted">
-          Следующий урок открывается, когда в предыдущем набрано {formatScore(PASS_SCORE)} балла — это 90 правильных
-          ответов из последних 100.
+          {lessons.length} уроков по разделам English Grammar in Use. Следующий урок открывается, когда в предыдущем
+          набрано {formatScore(PASS_SCORE)} балла — это 90 правильных ответов из последних 100.
         </p>
         <div className="hero-progress">
           <div className="progress">
@@ -43,42 +45,73 @@ export default function HomePage() {
         </div>
       </section>
 
-      <div className="lesson-grid">
-        {lessons.map((lesson, i) => {
-          const unlocked = isUnlocked(lessons, i, passed);
-          const done = passed.includes(lesson.id);
-          const score = lessonScore(results[lesson.id]);
-          const className = ['lesson-card', done && 'complete', !unlocked && 'locked'].filter(Boolean).join(' ');
-          const content = (
-            <>
-              <span className="lesson-num">{done ? '✓' : unlocked ? lesson.id : <LockIcon />}</span>
-              <span className="lesson-info">
-                <span className="lesson-title">
-                  {lesson.id}. {lesson.title}
-                </span>
-                <span className="lesson-sub">{lesson.subtitle}</span>
-                {unlocked ? (
-                  <span className="lesson-progress">
-                    <ScoreMeter correct={correctCount(results[lesson.id])} />
-                    <span className="score-badge">{formatScore(score)}</span>
-                  </span>
-                ) : (
-                  <span className="lesson-locked-note">Откроется после {formatScore(PASS_SCORE)} балла в уроке {lessons[i - 1].id}</span>
-                )}
+      {groupBySection(lessons).map((section) => {
+        const done = section.lessons.filter((l) => passed.includes(l.id)).length;
+        const first = section.lessons[0].id;
+        const last = section.lessons[section.lessons.length - 1].id;
+        return (
+          <details key={section.name} className="home-section" open={section.lessons.includes(current)}>
+            <summary>
+              <span className="home-section-name">{section.name}</span>
+              <span className="muted small nowrap">
+                {first === last ? `урок ${first}` : `уроки ${first}–${last}`} · {done}/{section.lessons.length}
               </span>
-            </>
-          );
-          return unlocked ? (
-            <Link key={lesson.id} to={`/lesson/${lesson.id}`} className={className}>
-              {content}
-            </Link>
-          ) : (
-            <div key={lesson.id} className={className} aria-disabled="true">
-              {content}
+            </summary>
+            <div className="lesson-grid">
+              {section.lessons.map((lesson) => (
+                <LessonCard key={lesson.id} lessons={lessons} lesson={lesson} results={results} passed={passed} />
+              ))}
             </div>
-          );
-        })}
-      </div>
+          </details>
+        );
+      })}
+    </div>
+  );
+}
+
+function LessonCard({
+  lessons,
+  lesson,
+  results,
+  passed,
+}: {
+  lessons: Lesson[];
+  lesson: Lesson;
+  results: LessonResults;
+  passed: number[];
+}) {
+  const i = lessons.indexOf(lesson);
+  const unlocked = isUnlocked(lessons, i, passed);
+  const done = passed.includes(lesson.id);
+  const className = ['lesson-card', done && 'complete', !unlocked && 'locked'].filter(Boolean).join(' ');
+  const content = (
+    <>
+      <span className="lesson-num">{done ? '✓' : unlocked ? lesson.id : <LockIcon />}</span>
+      <span className="lesson-info">
+        <span className="lesson-title">
+          {lesson.id}. {lesson.title}
+        </span>
+        <span className="lesson-sub">{lesson.subtitle}</span>
+        {unlocked ? (
+          <span className="lesson-progress">
+            <ScoreMeter correct={correctCount(results[lesson.id])} />
+            <span className="score-badge">{formatScore(lessonScore(results[lesson.id]))}</span>
+          </span>
+        ) : (
+          <span className="lesson-locked-note">
+            Откроется после {formatScore(PASS_SCORE)} балла в уроке {lessons[i - 1].id}
+          </span>
+        )}
+      </span>
+    </>
+  );
+  return unlocked ? (
+    <Link to={`/lesson/${lesson.id}`} className={className}>
+      {content}
+    </Link>
+  ) : (
+    <div className={className} aria-disabled="true">
+      {content}
     </div>
   );
 }

@@ -1,0 +1,231 @@
+{
+  "id": 79,
+  "section": "Артикли и существительные",
+  "title": "Singular and plural",
+  "subtitle": "Jeans, news, police, people: единственное или множественное",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Предметы из двух частей — всегда во множественном числе: <b>jeans, trousers, shorts, glasses, scissors, pyjamas</b>. <b>My jeans are too long.</b> Про одну вещь можно сказать <b>a pair of</b>: <b>a pair of shorts</b> (не a shorts)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Слова на <b>-ics</b> — единственное число: <b>Maths is easy. Politics doesn't interest me. Gymnastics is a hard sport.</b>",
+        "<b>news</b> — единственное число и неисчисляемое: <b>The news is bad.</b>",
+        "<b>means, series, species</b> — одинаковы в обоих числах: <b>a means of transport, two TV series, many species of fish</b>."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Группы людей"
+    },
+    {
+      "type": "p",
+      "text": "<b>government, team, staff, family, company</b> можно согласовать и с единственным, и с множественным глаголом: <b>The staff are friendly / The staff is friendly</b>. А <b>police</b> — только множественное: <b>The police are looking for him.</b> Один человек — <b>a police officer</b> (не a police)."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Один",
+        "Много"
+      ],
+      "rows": [
+        [
+          "a person",
+          "people (не persons)"
+        ],
+        [
+          "a police officer",
+          "the police"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Сумма денег, время, расстояние — как одно целое, глагол в единственном числе: <b>Five hours is a long time. Three kilometres isn't far.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "В русском «новости» — множественное, а «полиция» — единственное. В английском наоборот: <b>The news is good</b>, <b>The police are here</b>. А «люди» — <b>people are</b>, <b>people don't</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мои джинсы слишком длинные.",
+      "en": [
+        "My jeans are too long."
+      ]
+    },
+    {
+      "ru": "Где мои очки?",
+      "en": [
+        "Where are my glasses?"
+      ]
+    },
+    {
+      "ru": "Мне нужны новые брюки.",
+      "en": [
+        "I need some new trousers.",
+        "I need new trousers.",
+        "I need a new pair of trousers."
+      ]
+    },
+    {
+      "ru": "Она купила шорты.",
+      "en": [
+        "She bought a pair of shorts.",
+        "She bought some shorts."
+      ]
+    },
+    {
+      "ru": "Эти ножницы не очень острые.",
+      "en": [
+        "These scissors aren't very sharp."
+      ]
+    },
+    {
+      "ru": "Математика — мой любимый предмет.",
+      "en": [
+        "Maths is my favourite subject.",
+        "Math is my favorite subject.",
+        "Maths is my favorite subject.",
+        "Math is my favourite subject."
+      ]
+    },
+    {
+      "ru": "Политика меня не интересует.",
+      "en": [
+        "Politics doesn't interest me.",
+        "I'm not interested in politics."
+      ]
+    },
+    {
+      "ru": "Гимнастика — очень трудный вид спорта.",
+      "en": [
+        "Gymnastics is a very difficult sport.",
+        "Gymnastics is a very hard sport."
+      ]
+    },
+    {
+      "ru": "У меня хорошие новости!",
+      "en": [
+        "I have good news!",
+        "I've got good news!",
+        "I have some good news!",
+        "I've got some good news!"
+      ]
+    },
+    {
+      "ru": "Сегодня новости плохие.",
+      "en": [
+        "The news is bad today.",
+        "Today the news is bad."
+      ]
+    },
+    {
+      "ru": "Велосипед — дешёвое средство передвижения.",
+      "en": [
+        "A bike is a cheap means of transport.",
+        "A bicycle is a cheap means of transport.",
+        "The bicycle is a cheap means of transport."
+      ]
+    },
+    {
+      "ru": "Я смотрю новый сериал.",
+      "en": [
+        "I'm watching a new TV series.",
+        "I'm watching a new series."
+      ]
+    },
+    {
+      "ru": "В этом озере живёт много видов рыб.",
+      "en": [
+        "Many species of fish live in this lake.",
+        "There are many species of fish in this lake.",
+        "A lot of species of fish live in this lake."
+      ]
+    },
+    {
+      "ru": "Правительство хочет повысить налоги.",
+      "en": [
+        "The government wants to raise taxes.",
+        "The government want to raise taxes.",
+        "The government wants to increase taxes.",
+        "The government want to increase taxes."
+      ]
+    },
+    {
+      "ru": "Наша команда играет в воскресенье.",
+      "en": [
+        "Our team is playing on Sunday.",
+        "Our team are playing on Sunday."
+      ]
+    },
+    {
+      "ru": "Персонал в этом отеле очень дружелюбный.",
+      "en": [
+        "The staff in this hotel are very friendly.",
+        "The staff at this hotel are very friendly.",
+        "The staff in this hotel is very friendly.",
+        "The staff at this hotel is very friendly."
+      ]
+    },
+    {
+      "ru": "Полиция ищет водителя.",
+      "en": [
+        "The police are looking for the driver."
+      ]
+    },
+    {
+      "ru": "Полиция ещё не нашла его машину.",
+      "en": [
+        "The police haven't found his car yet."
+      ]
+    },
+    {
+      "ru": "На углу стоял полицейский.",
+      "en": [
+        "There was a police officer on the corner.",
+        "A police officer was standing on the corner.",
+        "There was a policeman on the corner.",
+        "A policeman was standing on the corner."
+      ]
+    },
+    {
+      "ru": "Они очень приятные люди.",
+      "en": [
+        "They're very nice people."
+      ]
+    },
+    {
+      "ru": "Многие люди не завтракают.",
+      "en": [
+        "Many people don't have breakfast.",
+        "A lot of people don't have breakfast.",
+        "Lots of people don't have breakfast.",
+        "Many people don't eat breakfast."
+      ]
+    },
+    {
+      "ru": "Двести евро — это слишком много за эти туфли.",
+      "en": [
+        "Two hundred euros is too much for these shoes.",
+        "200 euros is too much for these shoes."
+      ]
+    },
+    {
+      "ru": "Пять часов — это долго, чтобы ждать.",
+      "en": [
+        "Five hours is a long time to wait."
+      ]
+    },
+    {
+      "ru": "Три километра — это не очень далеко.",
+      "en": [
+        "Three kilometres isn't very far.",
+        "Three kilometers isn't very far."
+      ]
+    }
+  ]
+}

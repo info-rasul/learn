@@ -1,5 +1,5 @@
 import type { LessonItem } from '../types';
-import { shuffle, splitWords, tileWord } from './tiles';
+import { keepsCase, shuffle, splitWords, tileWord } from './tiles';
 import { thirdPersonForm, VERBS } from './verbs';
 
 /** How many options are offered for each next word. */
@@ -20,8 +20,23 @@ const GROUPS: string[][] = [
   ['in', 'on', 'at', 'to', 'into', 'from', 'under', 'near', 'behind', 'for', 'with', 'by', 'of'],
   ['this', 'that', 'these', 'those'],
   ['much', 'many', 'some', 'any', 'no', 'few', 'little', 'a lot'],
-  ['there', 'here'],
+  ['there', 'here', 'it'],
   ['not', 'no', 'never'],
+  ['will', 'would', 'shall', 'should', 'could', 'might', 'may', 'can'],
+  ['be', 'been', 'being', 'was', 'were', 'is'],
+  ['who', 'which', 'that', 'whose', 'whom', 'where', 'what'],
+  ['for', 'since', 'ago', 'during', 'while', 'until', 'by'],
+  ['already', 'yet', 'still', 'just', 'ever', 'never', 'any more'],
+  ['to', 'for', 'of', 'about', 'with', 'on', 'at', 'from'],
+  ['up', 'down', 'out', 'off', 'on', 'away', 'back', 'in', 'over'],
+  ['all', 'every', 'each', 'both', 'either', 'neither', 'none', 'most', 'whole'],
+  ['so', 'such', 'too', 'enough', 'very', 'quite', 'rather', 'pretty'],
+  ['although', 'though', 'despite', 'unless', 'because', 'if', 'when', 'in case'],
+  ['myself', 'yourself', 'himself', 'herself', 'itself', 'ourselves', 'themselves'],
+  ['some', 'any', 'no', 'none', 'nothing', 'anything', 'something', 'nobody', 'anybody'],
+  ['more', 'most', 'less', 'than', 'as', 'better', 'worse'],
+  ['like', 'as', 'as if', 'than'],
+  ['used', 'use', 'using', 'get', 'got', 'getting'],
 ];
 
 function ingForm(v: string): string {
@@ -31,8 +46,6 @@ function ingForm(v: string): string {
 }
 
 const VERB_FORMS: string[][] = VERBS.map((v) => [v.base, v.past, thirdPersonForm(v.base), ingForm(v.base)]);
-
-const lower = (w: string) => (w === 'I' || w.startsWith("I'") ? w : w.toLowerCase());
 
 function relatedWords(word: string): string[] {
   const w = word.toLowerCase();
@@ -47,9 +60,17 @@ function relatedWords(word: string): string[] {
  * (same grammar group or other forms of the same verb), topped up with words from the lesson.
  */
 export function buildSteps(items: LessonItem[], index: number): { answer: string[]; options: string[][] } {
-  const answer = splitWords(items[index].en[0]).map((w, i) => tileWord(w, i === 0));
+  // A word written with a capital letter in the middle of any phrase of the lesson is a name.
+  const names = new Set<string>();
+  items.forEach((item) =>
+    splitWords(item.en[0]).forEach((w, i) => i > 0 && /^[A-Z]/.test(w) && w !== 'I' && names.add(w)),
+  );
+  const tile = (w: string, isFirst: boolean) => (names.has(w) ? w : tileWord(w, isFirst));
+  const lower = (w: string) => (keepsCase(w) || names.has(w) ? w : w.toLowerCase());
+
+  const answer = splitWords(items[index].en[0]).map((w, i) => tile(w, i === 0));
   const lessonWords = new Set<string>();
-  items.forEach((item) => splitWords(item.en[0]).forEach((w, i) => lessonWords.add(lower(tileWord(w, i === 0)))));
+  items.forEach((item) => splitWords(item.en[0]).forEach((w, i) => lessonWords.add(lower(tile(w, i === 0)))));
 
   const options = answer.map((word) => {
     const picked = new Map<string, string>([[word.toLowerCase(), word]]);

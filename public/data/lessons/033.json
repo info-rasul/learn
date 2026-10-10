@@ -1,0 +1,48 @@
+{
+  "id": 33,
+  "section": "Модальные глаголы",
+  "title": "should 1",
+  "subtitle": "Совет и ожидание: should, should have done, ought to",
+  "theory": [
+    { "type": "p", "text": "<b>should + глагол</b> = «следует, стоит, лучше бы»: совет или мнение, как правильно. <b>You should see a doctor.</b> <b>You shouldn't work so much.</b> Часто с <b>I think / I don't think / Do you think…?</b>: <b>I don't think you should call him.</b> <b>Do you think I should buy it?</b>" },
+    { "type": "p", "text": "<b>should</b> мягче, чем <b>must / have to</b>: <b>You should apologise.</b> — было бы правильно; <b>You must apologise.</b> — другого выхода нет." },
+    { "type": "h", "text": "Ожидание: «должно быть, по идее»" },
+    { "type": "list", "items": [
+      "Что-то не так, как ожидалось: <b>Ben should be here by now.</b> (его всё ещё нет, а пора бы).",
+      "Ожидаем, что так будет: <b>She worked hard, so she should pass.</b> <b>It shouldn't take long.</b>"
+    ] },
+    { "type": "h", "text": "should have done — упрёк и сожаление о прошлом" },
+    { "type": "table", "head": ["Форма", "Значение", "Пример"], "rows": [
+      ["should have + V3", "не сделал, а стоило", "<b>We should have booked a table.</b>"],
+      ["shouldn't have + V3", "сделал, а не стоило", "<b>You shouldn't have told her.</b>"]
+    ] },
+    { "type": "p", "text": "Вместо <b>should</b> можно сказать <b>ought to</b> (с to!): <b>You ought to rest.</b> <b>He ought not to drive.</b> <b>You ought to have asked me.</b>" },
+    { "type": "tip", "text": "«Тебе надо было прийти» нельзя переводить как «You should come yesterday». О прошлом всегда <b>should have + V3</b>: <b>You should have come yesterday.</b> И не ставьте to после should: <b>should go</b>, а не «should to go»." }
+  ],
+  "items": [
+    { "ru": "Тебе следует сходить к врачу.", "en": ["You should see a doctor.", "You should go to the doctor.", "You ought to see a doctor.", "You ought to go to the doctor.", "You should go to a doctor."] },
+    { "ru": "Тебе не следует так много работать.", "en": ["You shouldn't work so much.", "You shouldn't work so hard.", "You ought not to work so much.", "You ought not to work so hard."] },
+    { "ru": "Тебе не стоит верить всему, что он говорит.", "en": ["You shouldn't believe everything he says.", "You ought not to believe everything he says."] },
+    { "ru": "Я думаю, тебе стоит извиниться.", "en": ["I think you should apologise.", "I think you should apologize.", "I think you ought to apologise.", "I think you ought to apologize."] },
+    { "ru": "Я не думаю, что тебе стоит ему звонить.", "en": ["I don't think you should call him.", "I don't think you should phone him."] },
+    { "ru": "Как ты думаешь, мне стоит купить эту машину?", "en": ["Do you think I should buy this car?", "Do you think I ought to buy this car?", "Do you think I should buy that car?"] },
+    { "ru": "Нам стоит пригласить Анну?", "en": ["Should we invite Anna?", "Do you think we should invite Anna?"] },
+    { "ru": "Как ты думаешь, что мне делать?", "en": ["What do you think I should do?", "What do you think I ought to do?"] },
+    { "ru": "(другого выхода нет) Ты должен заплатить штраф.", "en": ["You must pay the fine.", "You have to pay the fine."] },
+    { "ru": "Бен уже должен быть здесь (а его всё нет).", "en": ["Ben should be here by now.", "Ben ought to be here by now."] },
+    { "ru": "Цена неправильная, должно быть десять фунтов.", "en": ["The price is wrong, it should be ten pounds.", "The price is wrong, it should be 10 pounds.", "The price is wrong because it should be ten pounds."] },
+    { "ru": "Она много занималась, так что должна сдать экзамен.", "en": ["She has studied a lot, so she should pass the exam.", "She's studied hard, so she should pass the exam.", "She studied a lot, so she should pass the exam.", "She studied hard, so she should pass the exam."] },
+    { "ru": "Найти гостиницу не должно быть трудно.", "en": ["It shouldn't be difficult to find a hotel.", "It shouldn't be hard to find a hotel."] },
+    { "ru": "Посылка должна прийти завтра.", "en": ["The parcel should arrive tomorrow.", "The package should arrive tomorrow.", "The parcel ought to arrive tomorrow."] },
+    { "ru": "Тебе надо было прийти вчера, было весело.", "en": ["You should have come yesterday, it was fun.", "You should have come yesterday because it was fun."] },
+    { "ru": "Зря я выпил столько кофе.", "en": ["I shouldn't have drunk so much coffee.", "I ought not to have drunk so much coffee."] },
+    { "ru": "Нам надо было забронировать столик.", "en": ["We should have booked a table.", "We should have reserved a table.", "We ought to have booked a table."] },
+    { "ru": "Тебе не следовало говорить ей это.", "en": ["You shouldn't have told her that.", "You shouldn't have said that to her."] },
+    { "ru": "Они должны были приехать час назад.", "en": ["They should have arrived an hour ago.", "They should have been here an hour ago.", "They ought to have arrived an hour ago."] },
+    { "ru": "(а он ехал) Ему не следовало ехать так быстро.", "en": ["He shouldn't have driven so fast.", "He ought not to have driven so fast."] },
+    { "ru": "Тебе надо было лечь спать раньше вчера вечером.", "en": ["You should have gone to bed earlier last night.", "You ought to have gone to bed earlier last night."] },
+    { "ru": "Тебе следует больше заниматься спортом.", "en": ["You ought to do more exercise.", "You should do more exercise.", "You ought to exercise more.", "You should exercise more.", "You should do more sport."] },
+    { "ru": "Ему не следует так поздно ложиться.", "en": ["He shouldn't stay up so late.", "He ought not to stay up so late.", "He shouldn't go to bed so late."] },
+    { "ru": "Тебе надо было спросить меня.", "en": ["You ought to have asked me.", "You should have asked me."] }
+  ]
+}

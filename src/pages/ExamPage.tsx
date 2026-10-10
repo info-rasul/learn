@@ -4,6 +4,7 @@ import type { ExamResult, Lesson } from '../types';
 import { useLessons } from '../lib/content';
 import { useUserData } from '../lib/userData';
 import { shuffle } from '../lib/tiles';
+import { groupBySection } from '../lib/sections';
 import { formatScore, gradeOf, isUnlocked, PASS_SCORE } from '../lib/scoring';
 import TaskScreen from '../components/TaskScreen';
 import { CheckIcon, CrossIcon } from '../components/Practice';
@@ -31,11 +32,18 @@ export default function ExamPage() {
   if (!lessons) return <div className="loading">Загрузка…</div>;
 
   const available = lessons.filter((_, i) => isUnlocked(lessons, i, passed));
-  const chosen = selected ?? available.map((l) => l.id);
+  const sections = groupBySection(available);
+  const currentSection = sections[sections.length - 1];
+  const chosen = selected ?? (currentSection?.lessons ?? []).map((l) => l.id);
   const lessonById = (id: number) => lessons.find((l) => l.id === id) as Lesson;
 
   function toggle(id: number) {
     setSelected(chosen.includes(id) ? chosen.filter((x) => x !== id) : [...chosen, id]);
+  }
+
+  function toggleSection(ids: number[]) {
+    const all = ids.every((id) => chosen.includes(id));
+    setSelected(all ? chosen.filter((id) => !ids.includes(id)) : [...new Set([...chosen, ...ids])]);
   }
 
   function start() {
@@ -160,14 +168,38 @@ export default function ExamPage() {
             {chosen.length === available.length ? 'Снять все' : 'Выбрать все'}
           </button>
         </div>
-        <div className="exam-lessons">
-          {available.map((l) => (
-            <label key={l.id} className="check">
-              <input type="checkbox" checked={chosen.includes(l.id)} onChange={() => toggle(l.id)} />
-              {l.id}. {l.title}
-            </label>
-          ))}
-        </div>
+        {sections.map((section) => {
+          const ids = section.lessons.map((l) => l.id);
+          const count = ids.filter((id) => chosen.includes(id)).length;
+          return (
+            <details key={section.name} className="exam-section" open={section === currentSection}>
+              <summary>
+                <label className="check" onClick={(e) => e.stopPropagation()}>
+                  <input
+                    type="checkbox"
+                    checked={count === ids.length}
+                    ref={(el) => {
+                      if (el) el.indeterminate = count > 0 && count < ids.length;
+                    }}
+                    onChange={() => toggleSection(ids)}
+                  />
+                  {section.name}
+                </label>
+                <span className="muted small nowrap">
+                  {count}/{ids.length}
+                </span>
+              </summary>
+              <div className="exam-lessons">
+                {section.lessons.map((l) => (
+                  <label key={l.id} className="check">
+                    <input type="checkbox" checked={chosen.includes(l.id)} onChange={() => toggle(l.id)} />
+                    {l.id}. {l.title}
+                  </label>
+                ))}
+              </div>
+            </details>
+          );
+        })}
         {available.length < lessons.length && (
           <p className="muted small">Закрытые уроки появятся здесь, когда вы их откроете.</p>
         )}

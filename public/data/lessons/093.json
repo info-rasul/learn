@@ -1,0 +1,48 @@
+{
+  "id": 93,
+  "section": "Придаточные определительные",
+  "title": "Relative clauses 2: clauses with and without who/that/which",
+  "subtitle": "Когда «который» можно опустить, и предлог в конце",
+  "theory": [
+    { "type": "p", "text": "Если <b>who/that/which</b> — подлежащее придаточного (сам выполняет действие), его опускать нельзя: <b>The man who sells tickets is ill.</b> (who = he sells)." },
+    { "type": "p", "text": "Если <b>who/that/which</b> — дополнение (действие выполняет кто-то другой, и после «который» стоит своё подлежащее), его можно опустить: <b>The cake (that) you made was great.</b> (you made it), <b>The teacher (who) I wanted to see was ill.</b> В разговорной речи так и говорят — без that." },
+    { "type": "table", "head": ["Подлежащее — нужно who/that", "Дополнение — можно опустить"], "rows": [
+      ["<b>the girl who called me</b>", "<b>the girl (who) I called</b>"],
+      ["<b>the car that broke down</b>", "<b>the car (that) we rented</b>"]
+    ] },
+    { "type": "h", "text": "Предлог в конце" },
+    { "type": "p", "text": "Предлог обычно остаётся после глагола в конце придаточного: <b>the girl Paul is talking to</b> (девушка, с которой говорит Пол), <b>the sofa I slept on</b>, <b>the job I applied for</b>." },
+    { "type": "list", "items": [
+      "Не повторяйте местоимение: <b>the phone you lost</b>, а не <b>the phone you lost it</b>.",
+      "<b>everything/all/anything (that)…</b>: <b>everything you said</b>, <b>all the money I have</b>.",
+      "<b>what</b> = то, что: <b>Tell me what you need.</b>"
+    ] },
+    { "type": "tip", "text": "Русскоязычные часто переносят предлог вперёд («с которой»): <b>the girl with who Paul…</b> — так не говорят. Естественно: <b>the girl Paul is talking to</b>. И не забудьте: <b>everything that</b>, не <b>everything what</b>." }
+  ],
+  "items": [
+    { "ru": "Женщина, которая работает в этом кафе, — сестра Джона.", "en": ["The woman who works in this cafe is John's sister.", "The woman that works in this cafe is John's sister."] },
+    { "ru": "Люди, которые живут рядом с нами, очень шумные.", "en": ["The people who live next to us are very noisy.", "The people that live next to us are very noisy.", "The people who live next door to us are very noisy."] },
+    { "ru": "Учитель, которого я хотел увидеть, был болен.", "en": ["The teacher I wanted to see was ill.", "The teacher who I wanted to see was ill.", "The teacher that I wanted to see was ill.", "The teacher I wanted to see was sick."] },
+    { "ru": "Ты нашёл телефон, который потерял?", "en": ["Did you find the phone you lost?", "Did you find the phone that you lost?", "Have you found the phone you lost?", "Have you found the phone that you lost?"] },
+    { "ru": "Куртка, которую купил Ник, ему велика.", "en": ["The jacket Nick bought is too big for him.", "The jacket that Nick bought is too big for him.", "The jacket which Nick bought is too big for him."] },
+    { "ru": "Я могу чем-нибудь помочь?", "en": ["Is there anything I can do to help?", "Is there anything that I can do to help?", "Can I do anything to help?"] },
+    { "ru": "Мне понравился торт, который ты испекла.", "en": ["I liked the cake you made.", "I liked the cake that you made.", "I liked the cake you baked.", "I liked the cake that you baked."] },
+    { "ru": "Люди, с которыми мы познакомились в Риме, были очень дружелюбными.", "en": ["The people we met in Rome were very friendly.", "The people who we met in Rome were very friendly.", "The people that we met in Rome were very friendly."] },
+    { "ru": "Какой самый лучший фильм, который ты видел?", "en": ["What's the best film you've ever seen?", "What's the best film that you've ever seen?", "What's the best movie you've ever seen?", "What's the best film you've seen?"] },
+    { "ru": "Где деньги, которые я тебе дал?", "en": ["Where's the money I gave you?", "Where's the money that I gave you?"] },
+    { "ru": "Машина, которую мы арендовали, сломалась.", "en": ["The car we rented broke down.", "The car that we rented broke down.", "The car we hired broke down.", "The car that we hired broke down."] },
+    { "ru": "Ты знаешь девушку, с которой разговаривает Пол?", "en": ["Do you know the girl Paul is talking to?", "Do you know the girl who Paul is talking to?", "Do you know the girl that Paul is talking to?"] },
+    { "ru": "Диван, на котором я спал, был очень удобный.", "en": ["The sofa I slept on was very comfortable.", "The sofa that I slept on was very comfortable.", "The sofa which I slept on was very comfortable."] },
+    { "ru": "Это та книга, которую ты искал?", "en": ["Is this the book you were looking for?", "Is this the book that you were looking for?"] },
+    { "ru": "Город, в котором я вырос, очень маленький.", "en": ["The town I grew up in is very small.", "The town that I grew up in is very small.", "The town where I grew up is very small."] },
+    { "ru": "Люди, с которыми я работаю, очень милые.", "en": ["The people I work with are very nice.", "The people who I work with are very nice.", "The people that I work with are very nice."] },
+    { "ru": "Я получил работу, на которую подавал заявку.", "en": ["I got the job I applied for.", "I got the job that I applied for."] },
+    { "ru": "Отель, о котором ты мне рассказывал, закрылся.", "en": ["The hotel you told me about has closed.", "The hotel that you told me about has closed.", "The hotel you told me about closed."] },
+    { "ru": "Всё, что ты сказал, было интересно.", "en": ["Everything you said was interesting.", "Everything that you said was interesting."] },
+    { "ru": "Я дам тебе все деньги, которые у меня есть.", "en": ["I'll give you all the money I have.", "I'll give you all the money that I have.", "I'll give you all the money I've got."] },
+    { "ru": "Она даёт сыну всё, что он хочет.", "en": ["She gives her son everything he wants.", "She gives her son everything that he wants."] },
+    { "ru": "То, что ты сказал, меня удивило.", "en": ["What you said surprised me."] },
+    { "ru": "Скажи мне, что тебе нужно.", "en": ["Tell me what you need."] },
+    { "ru": "Я сделаю всё, что смогу.", "en": ["I'll do everything I can.", "I'll do everything that I can.", "I'll do what I can.", "I'll do all I can."] }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 91,
+  "section": "Местоимения и определители",
+  "title": "each and every",
+  "subtitle": "each и every: по отдельности или все вместе",
+  "theory": [
+    { "type": "p", "text": "Часто подходят оба слова: <b>Each time / Every time I see her, she smiles.</b> Но есть разница. <b>each</b> — каждый по отдельности, один за другим (обычно о небольшом количестве): <b>Check each answer.</b> <b>every</b> — все вместе, как группа, близко к <b>all</b> (обычно о большом количестве): <b>Every shop in town was closed.</b>" },
+    { "type": "list", "items": [
+      "О двух предметах — только <b>each</b>: <b>There were trees on each side of the road.</b>",
+      "Как часто — только <b>every</b>: <b>every day</b>, <b>every ten minutes</b> (не each day)."
+    ] },
+    { "type": "table", "head": ["", "each", "every"], "rows": [
+      ["с существительным", "<b>each room</b>", "<b>every room</b>"],
+      ["без существительного", "<b>Each is different.</b> / <b>each one</b>", "только <b>every one</b>"],
+      ["с of", "<b>each of the rooms / each of them</b>", "<b>every one of the rooms / every one of them</b> (не every of)"]
+    ] },
+    { "type": "p", "text": "<b>each</b> может стоять в середине или в конце: <b>We were each given a map.</b>, <b>The tickets are five euros each</b> (по пять евро за штуку)." },
+    { "type": "p", "text": "<b>everyone</b> (одним словом) — только о людях, = everybody: <b>Everyone was happy.</b> <b>every one</b> (двумя словами) — каждый из (людей или предметов): <b>I read his books — every one.</b>" },
+    { "type": "tip", "text": "Русское «каждый из нас», «каждая из книг» нельзя переводить как <b>every of</b>. Правильно: <b>each of us</b> или <b>every one of us</b>. И «по десять евро» — это <b>ten euros each</b>, без предлога." }
+  ],
+  "items": [
+    { "ru": "Каждый раз, когда я вижу Лору, она улыбается.", "en": ["Every time I see Laura, she smiles.", "Each time I see Laura, she smiles.", "Laura smiles every time I see her."] },
+    { "ru": "(по очереди, по одному) Внимательно прочитай каждый вопрос.", "en": ["Read each question carefully.", "Read every question carefully."] },
+    { "ru": "(на столе три чашки) Каждая чашка была другого цвета.", "en": ["Each cup was a different colour.", "Each cup was a different color."] },
+    { "ru": "В начале игры каждый игрок получает пять карт.", "en": ["At the start of the game, each player gets five cards.", "At the beginning of the game, each player gets five cards.", "Each player gets five cards at the start of the game."] },
+    { "ru": "Каждое окно в доме было закрыто.", "en": ["Every window in the house was closed.", "Every window in the house was shut."] },
+    { "ru": "Я хочу побывать в каждой стране Европы.", "en": ["I want to visit every country in Europe.", "I'd like to visit every country in Europe."] },
+    { "ru": "По обеим сторонам дороги росли деревья.", "en": ["There were trees on each side of the road.", "There were trees on both sides of the road."] },
+    { "ru": "В баскетболе у каждой команды пять игроков.", "en": ["In basketball, each team has five players."] },
+    { "ru": "Я езжу на работу каждый день.", "en": ["I drive to work every day.", "I go to work every day."] },
+    { "ru": "Поезд ходит каждые полчаса.", "en": ["There's a train every half an hour.", "There's a train every half hour.", "The train runs every half hour.", "There's a train every thirty minutes."] },
+    { "ru": "Каждая комната в отеле разная.", "en": ["Each room in the hotel is different.", "Every room in the hotel is different."] },
+    { "ru": "(о комнатах) Каждая из них разная.", "en": ["Each of them is different.", "Each one is different.", "Each is different."] },
+    { "ru": "Каждый из студентов получил книгу.", "en": ["Each of the students got a book.", "Each of the students received a book.", "Each student got a book."] },
+    { "ru": "Прочитай каждое из этих писем.", "en": ["Read each of these letters.", "Read every one of these letters."] },
+    { "ru": "(Ты читал все эти журналы?) Да, каждый.", "en": ["Yes, every one.", "Yes, every one of them.", "Yes, each one."] },
+    { "ru": "Я посмотрел каждый из этих фильмов.", "en": ["I've seen every one of these films.", "I've watched every one of these films.", "I've seen every one of these movies.", "I saw every one of these films."] },
+    { "ru": "Она ответила на каждый из моих вопросов.", "en": ["She answered every one of my questions.", "She answered each of my questions."] },
+    { "ru": "Каждому ребёнку дали по яблоку.", "en": ["The children were each given an apple.", "Each of the children was given an apple.", "Each child was given an apple.", "Each of the children were given an apple."] },
+    { "ru": "Эти билеты стоят по десять евро.", "en": ["These tickets are ten euros each.", "These tickets cost ten euros each."] },
+    { "ru": "Мы заплатили по двадцать фунтов.", "en": ["We paid twenty pounds each.", "We each paid twenty pounds."] },
+    { "ru": "Всем понравился концерт.", "en": ["Everyone enjoyed the concert.", "Everybody enjoyed the concert.", "Everyone liked the concert.", "Everybody liked the concert."] },
+    { "ru": "Я получил пять имейлов и ответил на каждый.", "en": ["I got five emails and I answered every one.", "I got five emails and answered every one.", "I received five emails and answered every one.", "I got five emails and replied to every one."] },
+    { "ru": "Каждый водитель должен знать правила.", "en": ["Every driver should know the rules.", "Every driver must know the rules.", "Each driver should know the rules."] },
+    { "ru": "Все в моём классе знают Джека.", "en": ["Everyone in my class knows Jack.", "Everybody in my class knows Jack."] }
+  ]
+}

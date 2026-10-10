@@ -1,0 +1,43 @@
+{
+  "id": 92,
+  "section": "Придаточные определительные",
+  "title": "Relative clauses 1: clauses with who/that/which",
+  "subtitle": "«Который»: who для людей, which/that для вещей, what = то, что",
+  "theory": [
+    { "type": "p", "text": "Определительное придаточное (relative clause) уточняет, о каком человеке или предмете идёт речь: <b>the man who lives upstairs</b> — какой именно мужчина; <b>people who are always late</b> — какие люди. По-русски это предложения со словом «который»." },
+    { "type": "table", "head": ["О ком / о чём", "Слово", "Пример"], "rows": [
+      ["люди", "<b>who</b> или <b>that</b> (не which)", "<b>The girl who/that works here is Italian.</b>"],
+      ["вещи, животные", "<b>that</b> или <b>which</b> (не who)", "<b>The bus that/which goes to the airport is late.</b>"]
+    ] },
+    { "type": "p", "text": "Для вещей <b>that</b> обычно звучит естественнее, чем which. Слово «который» заменяет собой he/she/it/they — поэтому повторять местоимение нельзя: <b>the keys that were on the table</b>, а не <b>the keys they were on the table</b>." },
+    { "type": "h", "text": "what = то, что" },
+    { "type": "p", "text": "<b>what</b> значит «то, что» и не требует слова перед собой: <b>What she said was true.</b> Но после <b>everything, something, anything, the thing</b> и любого существительного — только <b>that</b>: <b>Everything that happened…</b>, <b>the film that I liked</b>." },
+    { "type": "tip", "text": "Не говорите <b>the man which</b> или <b>the car who</b> — для людей who/that, для вещей which/that. И частая ошибка: <b>everything what</b>. Правильно: <b>everything that</b>." }
+  ],
+  "items": [
+    { "ru": "Женщина, которая живёт над нами, — учительница.", "en": ["The woman who lives above us is a teacher.", "The woman that lives above us is a teacher."] },
+    { "ru": "Я не люблю людей, которые всегда опаздывают.", "en": ["I don't like people who are always late.", "I don't like people that are always late."] },
+    { "ru": "Пилот — это человек, который управляет самолётом.", "en": ["A pilot is someone who flies a plane.", "A pilot is a person who flies a plane.", "A pilot is someone who flies planes.", "A pilot is a person who flies planes.", "A pilot is someone that flies planes."] },
+    { "ru": "Как звали человека, который тебе звонил?", "en": ["What was the name of the person who called you?", "What was the name of the person that called you?", "What was the name of the person who phoned you?"] },
+    { "ru": "Ты знаешь кого-нибудь, кто говорит по-японски?", "en": ["Do you know anyone who speaks Japanese?", "Do you know anybody who speaks Japanese?", "Do you know anyone that speaks Japanese?", "Do you know anybody that speaks Japanese?"] },
+    { "ru": "Это мальчик, который выиграл гонку.", "en": ["That's the boy who won the race.", "This is the boy who won the race.", "That's the boy that won the race."] },
+    { "ru": "Я работаю в компании, которая делает игрушки.", "en": ["I work for a company that makes toys.", "I work for a company which makes toys.", "I work at a company that makes toys."] },
+    { "ru": "Мне нравятся фильмы, у которых счастливый конец.", "en": ["I like films that have happy endings.", "I like films which have happy endings.", "I like movies that have happy endings.", "I like films with happy endings."] },
+    { "ru": "Автобус, который идёт в аэропорт, отправляется каждый час.", "en": ["The bus that goes to the airport leaves every hour.", "The bus which goes to the airport leaves every hour."] },
+    { "ru": "Где письмо, которое лежало на столе?", "en": ["Where's the letter that was on the table?", "Where's the letter which was on the table?"] },
+    { "ru": "Компьютер, который сломался, снова работает.", "en": ["The computer that broke down is working again.", "The computer which broke down is working again.", "The computer that broke is working again."] },
+    { "ru": "Я познакомился с девушкой, которая учится в Париже.", "en": ["I met a girl who studies in Paris.", "I met a girl that studies in Paris.", "I met a girl who is studying in Paris."] },
+    { "ru": "Это книга, которая изменила мою жизнь.", "en": ["This is the book that changed my life.", "This is the book which changed my life."] },
+    { "ru": "Человек, который нашёл мою сумку, был очень добр.", "en": ["The man who found my bag was very kind.", "The person who found my bag was very kind.", "The man that found my bag was very kind."] },
+    { "ru": "Ресторан, который открылся на нашей улице, очень хороший.", "en": ["The restaurant that opened in our street is very good.", "The restaurant which opened in our street is very good.", "The restaurant that opened on our street is very good."] },
+    { "ru": "Студенты, которые сдали экзамен, получат сертификат.", "en": ["The students who passed the exam will get a certificate.", "The students that passed the exam will get a certificate.", "The students who passed the exam will receive a certificate."] },
+    { "ru": "Мне нужен телефон, который хорошо фотографирует.", "en": ["I need a phone that takes good photos.", "I need a phone which takes good photos.", "I need a phone that takes good pictures."] },
+    { "ru": "Мы остановились в отеле, который был у моря.", "en": ["We stayed at a hotel that was by the sea.", "We stayed at a hotel which was by the sea.", "We stayed in a hotel that was by the sea.", "We stayed at a hotel that was near the sea."] },
+    { "ru": "Ты видел ключи, которые были в моей куртке?", "en": ["Have you seen the keys that were in my jacket?", "Did you see the keys that were in my jacket?", "Have you seen the keys which were in my jacket?"] },
+    { "ru": "То, что он сказал, — правда.", "en": ["What he said is true.", "What he said was true."] },
+    { "ru": "То, что случилось вчера, — не твоя вина.", "en": ["What happened yesterday wasn't your fault.", "What happened yesterday isn't your fault."] },
+    { "ru": "Всё, что случилось, было ошибкой.", "en": ["Everything that happened was a mistake."] },
+    { "ru": "Мне не понравилось то, что она приготовила.", "en": ["I didn't like what she cooked.", "I didn't like what she made."] },
+    { "ru": "Как называется магазин, который продаёт велосипеды?", "en": ["What's the name of the shop that sells bikes?", "What's the name of the shop which sells bikes?", "What's the name of the shop that sells bicycles?", "What's the name of the shop which sells bicycles?"] }
+  ]
+}

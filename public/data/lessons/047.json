@@ -1,0 +1,50 @@
+{
+  "id": 47,
+  "section": "Косвенная речь",
+  "title": "Reported speech 1 (he said that ...)",
+  "subtitle": "Косвенная речь: после said время сдвигается в прошлое",
+  "theory": [
+    { "type": "p", "text": "Чужие слова можно передать прямо: <b>Paul said, I'm tired.</b> — или косвенно: <b>Paul said that he was tired.</b> — Пол сказал, что устал. Слово <b>that</b> можно опустить: <b>Paul said he was tired.</b>" },
+    { "type": "p", "text": "Если главный глагол в прошедшем (<b>said, told</b>), то и в придаточном время обычно «отъезжает» на шаг назад. В русском так не делают, поэтому это главная трудность." },
+    { "type": "table", "head": ["Прямая речь", "Косвенная речь"], "rows": [
+      ["am / is / are", "was / were"],
+      ["do / does, like, live", "did, liked, lived"],
+      ["have / has done", "had done"],
+      ["will", "would"],
+      ["can", "could"],
+      ["am going to", "was going to"]
+    ] },
+    { "type": "p", "text": "Прошедшее простое (<b>lost, missed</b>) можно оставить как есть или превратить в past perfect: <b>She said she lost her phone.</b> = <b>She said she had lost her phone.</b>" },
+    { "type": "list", "items": [
+      "Местоимения меняются по смыслу: <b>I</b> → <b>he/she</b>, <b>my</b> → <b>his/her</b>.",
+      "<b>said</b> — просто «сказал»; <b>told me / told her</b> — «сказал мне / ей»."
+    ] },
+    { "type": "tip", "text": "«Он сказал, что живёт в Лондоне» — по-русски «живёт» в настоящем. По-английски обычно сдвигаем: <b>He said he lived in London</b>, а не <b>He said he lives</b> (это возможно, только если важно, что это верно и сейчас — см. следующий урок)." }
+  ],
+  "items": [
+    { "ru": "Пол сказал, что устал.", "en": ["Paul said he was tired.", "Paul said that he was tired."] },
+    { "ru": "Анна сказала, что не любит кофе.", "en": ["Anna said she didn't like coffee.", "Anna said that she didn't like coffee."] },
+    { "ru": "Том сказал, что живёт в Лондоне.", "en": ["Tom said he lived in London.", "Tom said that he lived in London."] },
+    { "ru": "Она сказала, что может нам помочь.", "en": ["She said she could help us.", "She said that she could help us."] },
+    { "ru": "Кейт сказала, что не придёт на вечеринку.", "en": ["Kate said she wouldn't come to the party.", "Kate said that she wouldn't come to the party.", "Kate said she wasn't coming to the party.", "Kate said that she wasn't coming to the party."] },
+    { "ru": "Майк сказал, что позвонит мне позже.", "en": ["Mike said he would call me later.", "Mike said that he would call me later.", "Mike said he would phone me later."] },
+    { "ru": "Он сказал, что потерял ключи.", "en": ["He said he had lost his keys.", "He said that he had lost his keys."] },
+    { "ru": "Сара сказала, что никогда не была в Японии.", "en": ["Sarah said she had never been to Japan.", "Sarah said that she had never been to Japan."] },
+    { "ru": "Они сказали, что едут во Францию.", "en": ["They said they were going to France.", "They said that they were going to France."] },
+    { "ru": "Я сказал ей, что у меня нет денег.", "en": ["I told her I didn't have any money.", "I told her that I didn't have any money.", "I told her I had no money.", "I told her that I had no money."] },
+    { "ru": "Она сказала мне, что её родители в Испании.", "en": ["She told me her parents were in Spain.", "She told me that her parents were in Spain."] },
+    { "ru": "Бен сказал, что хочет купить новый велосипед.", "en": ["Ben said he wanted to buy a new bike.", "Ben said that he wanted to buy a new bike.", "Ben said he wanted to buy a new bicycle."] },
+    { "ru": "Джон сказал, что учит испанский.", "en": ["John said he was learning Spanish.", "John said that he was learning Spanish."] },
+    { "ru": "Лиза сказала, что не знает ответа.", "en": ["Lisa said she didn't know the answer.", "Lisa said that she didn't know the answer."] },
+    { "ru": "Ты сказал, что будешь дома в шесть.", "en": ["You said you would be home at six.", "You said that you would be home at six.", "You said you would be at home at six."] },
+    { "ru": "Он сказал, что уже поел.", "en": ["He said he had already eaten.", "He said that he had already eaten."] },
+    { "ru": "Эмма сказала, что потеряла телефон в автобусе.", "en": ["Emma said she lost her phone on the bus.", "Emma said she had lost her phone on the bus.", "Emma said that she lost her phone on the bus.", "Emma said that she had lost her phone on the bus."] },
+    { "ru": "Дэн сказал, что опоздал на поезд и взял такси.", "en": ["Dan said he missed the train and took a taxi.", "Dan said he had missed the train and taken a taxi.", "Dan said that he missed the train and took a taxi.", "Dan said that he had missed the train and taken a taxi."] },
+    { "ru": "Они сказали, что им понравился фильм.", "en": ["They said they enjoyed the film.", "They said they had enjoyed the film.", "They said they liked the film.", "They said they had liked the film.", "They said that they enjoyed the film.", "They said that they had enjoyed the film."] },
+    { "ru": "Хелен сказала, что не может найти свою сумку.", "en": ["Helen said she couldn't find her bag.", "Helen said that she couldn't find her bag."] },
+    { "ru": "Ник сказал, что очень занят.", "en": ["Nick said he was very busy.", "Nick said that he was very busy."] },
+    { "ru": "Он сказал, что вернётся через час.", "en": ["He said he would be back in an hour.", "He said that he would be back in an hour.", "He said he would come back in an hour."] },
+    { "ru": "Ты не сказал мне, что женат!", "en": ["You didn't tell me you were married!", "You didn't tell me that you were married!"] },
+    { "ru": "Учитель сказал, что мы хорошо поработали.", "en": ["The teacher said we had worked well.", "The teacher said that we had worked well.", "The teacher said we had done well."] }
+  ]
+}

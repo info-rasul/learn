@@ -12,7 +12,7 @@ interface Props {
 export default function ScoreChart({ lessons, results, passed }: Props) {
   const passLine = (PASS_SCORE / MAX_SCORE) * 100;
   return (
-    <div className="score-chart">
+    <div className={lessons.length > 30 ? 'score-chart dense' : 'score-chart'}>
       <div className="score-chart-plot">
         <div className="score-chart-line" style={{ bottom: `${passLine}%` }}>
           <span>{formatScore(PASS_SCORE)}</span>
@@ -37,7 +37,7 @@ export default function ScoreChart({ lessons, results, passed }: Props) {
       </div>
       <div className="score-chart-axis">
         {lessons.map((lesson) => (
-          <span key={lesson.id}>{lesson.id}</span>
+          <span key={lesson.id}>{lessons.length <= 30 || lesson.id === 1 || lesson.id % 20 === 0 ? lesson.id : ''}</span>
         ))}
       </div>
     </div>

@@ -1,0 +1,208 @@
+{
+  "id": 49,
+  "section": "Вопросы и вспомогательные глаголы",
+  "title": "Questions 1",
+  "subtitle": "Порядок слов в вопросе, who/what как подлежащее, отрицательные вопросы",
+  "theory": [
+    {
+      "type": "p",
+      "text": "В вопросе подлежащее стоит <b>после первого (вспомогательного) глагола</b>: <b>Kate will be here.</b> → <b>Will Kate be here?</b> <b>Is Tom working today?</b> (не Is working Tom). <b>When was this bridge built?</b>"
+    },
+    {
+      "type": "p",
+      "text": "В Present и Past Simple нужен <b>do/does/did</b>, а основной глагол — в начальной форме: <b>Where do your parents live?</b> <b>Why did you sell your car?</b> (не Why did you sold)."
+    },
+    {
+      "type": "table",
+      "head": [
+        "who/what — дополнение",
+        "who/what — подлежащее"
+      ],
+      "rows": [
+        [
+          "Anna called somebody. → <b>Who did Anna call?</b>",
+          "Somebody called Anna. → <b>Who called Anna?</b>"
+        ],
+        [
+          "Кому звонила Анна?",
+          "Кто звонил Анне?"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Если <b>who/what/which/how many</b> — подлежащее, do/does/did не нужен: <b>What happened?</b> <b>Which bus goes to the centre?</b>",
+        "Предлог обычно в конце: <b>Who are you waiting for?</b> <b>What are you thinking about?</b> <b>What was the weather like?</b>"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Отрицательные вопросы выражают удивление или ожидание согласия: <b>Didn't you hear the phone?</b> — Разве ты не слышал телефон? С <b>why</b>: <b>Why don't we go out?</b> <b>Why wasn't Dan at school?</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русские часто строят вопрос без перестановки: <b>Why you didn't come?</b> Правильно: <b>Why didn't you come?</b> И помните: «Кто это сделал?» — <b>Who did it?</b>, а не <b>Who did do it?</b>"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Кейт будет здесь завтра?",
+      "en": [
+        "Will Kate be here tomorrow?"
+      ]
+    },
+    {
+      "ru": "Ты долго ждал?",
+      "en": [
+        "Have you been waiting long?",
+        "Have you been waiting for a long time?",
+        "Did you wait long?"
+      ]
+    },
+    {
+      "ru": "Когда построили этот мост?",
+      "en": [
+        "When was this bridge built?"
+      ]
+    },
+    {
+      "ru": "Том сегодня работает?",
+      "en": [
+        "Is Tom working today?"
+      ]
+    },
+    {
+      "ru": "Где живут твои родители?",
+      "en": [
+        "Where do your parents live?"
+      ]
+    },
+    {
+      "ru": "Во сколько закрывается магазин?",
+      "en": [
+        "What time does the shop close?",
+        "When does the shop close?"
+      ]
+    },
+    {
+      "ru": "Почему ты продал свою машину?",
+      "en": [
+        "Why did you sell your car?"
+      ]
+    },
+    {
+      "ru": "Кто звонил Анне?",
+      "en": [
+        "Who called Anna?",
+        "Who phoned Anna?"
+      ]
+    },
+    {
+      "ru": "Кому звонила Анна?",
+      "en": [
+        "Who did Anna call?",
+        "Who did Anna phone?"
+      ]
+    },
+    {
+      "ru": "Что случилось вчера вечером?",
+      "en": [
+        "What happened last night?",
+        "What happened yesterday evening?"
+      ]
+    },
+    {
+      "ru": "Что тебе сказал Пол?",
+      "en": [
+        "What did Paul tell you?",
+        "What did Paul say to you?"
+      ]
+    },
+    {
+      "ru": "Кто хочет чаю?",
+      "en": [
+        "Who wants some tea?",
+        "Who wants tea?"
+      ]
+    },
+    {
+      "ru": "Какой поезд идёт в Париж?",
+      "en": [
+        "Which train goes to Paris?"
+      ]
+    },
+    {
+      "ru": "Сколько человек пришло на встречу?",
+      "en": [
+        "How many people came to the meeting?"
+      ]
+    },
+    {
+      "ru": "Откуда родом твоя жена?",
+      "en": [
+        "Where is your wife from?",
+        "Where does your wife come from?"
+      ]
+    },
+    {
+      "ru": "С кем вы разговаривали вчера вечером?",
+      "en": [
+        "Who were you talking to last night?",
+        "Who were you speaking to last night?",
+        "Who did you talk to last night?",
+        "Who did you speak to last night?"
+      ]
+    },
+    {
+      "ru": "Какая погода была в Риме?",
+      "en": [
+        "What was the weather like in Rome?"
+      ]
+    },
+    {
+      "ru": "О чём ты мечтаешь?",
+      "en": [
+        "What are you dreaming about?",
+        "What do you dream about?"
+      ]
+    },
+    {
+      "ru": "Кого ты ждёшь?",
+      "en": [
+        "Who are you waiting for?"
+      ]
+    },
+    {
+      "ru": "Разве ты не слышал телефон?",
+      "en": [
+        "Didn't you hear the phone?"
+      ]
+    },
+    {
+      "ru": "Разве ты не знаешь Лору?",
+      "en": [
+        "Don't you know Laura?"
+      ]
+    },
+    {
+      "ru": "Почему бы нам не пойти в кино?",
+      "en": [
+        "Why don't we go to the cinema?",
+        "Why don't we go to the movies?"
+      ]
+    },
+    {
+      "ru": "Почему Дэна вчера не было в школе?",
+      "en": [
+        "Why wasn't Dan at school yesterday?"
+      ]
+    },
+    {
+      "ru": "Почему ты не пришёл на вечеринку?",
+      "en": [
+        "Why didn't you come to the party?"
+      ]
+    }
+  ]
+}

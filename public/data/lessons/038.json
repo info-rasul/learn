@@ -1,0 +1,47 @@
+{
+  "id": 38,
+  "section": "If и wish",
+  "title": "if I do ... and if I did ...",
+  "subtitle": "Реальное условие (if I go) и воображаемое (if I went)",
+  "theory": [
+    { "type": "p", "text": "Если что-то вполне может случиться, говорим <b>if + настоящее</b>, <b>will</b> в главной части: <b>If we go by train, it will be faster.</b> (может, и поедем)." },
+    { "type": "p", "text": "Если мы только воображаем то, что не случится или вряд ли случится, — <b>if + прошедшее</b>, <b>would</b> в главной части: <b>If we went by train, it would be faster.</b> (но мы не поедем). Форма прошедшая, а смысл — настоящий или будущий." },
+    { "type": "table", "head": ["", "if-часть", "главная часть"], "rows": [
+      ["Реально возможно", "if you find", "will / can / imperative"],
+      ["Воображаемое", "if you found", "would / could / might"]
+    ] },
+    { "type": "list", "items": [
+      "<b>If you find my glasses, call me.</b> — вполне можешь найти.",
+      "<b>If you found money in the street, would you keep it?</b> — чистая фантазия."
+    ] },
+    { "type": "h", "text": "would — только в главной части" },
+    { "type": "p", "text": "В части с <b>if</b> обычно не ставят would: <b>I'd be scared if I saw a snake.</b> (не «if I would see»). Вместо <b>would</b> можно <b>could</b> (смог бы) или <b>might</b> (может быть): <b>If the weather was better, we could go to the beach.</b> <b>If I had a lot of money, I might buy a boat.</b>" },
+    { "type": "tip", "text": "В русском «бы» стоит в обеих частях: «если бы я увидел…, я бы испугался». В английском «бы» (would) — только в одной части, а в if-части — простое прошедшее: <b>If I saw…, I would…</b>" }
+  ],
+  "items": [
+    { "ru": "(может, и поедем) Если мы поедем на поезде, будет быстрее.", "en": ["If we go by train, it will be faster.", "If we go by train, it'll be quicker.", "If we take the train, it will be faster.", "If we take the train, it will be quicker."] },
+    { "ru": "(но мы не поедем) Если бы мы поехали на поезде, было бы быстрее.", "en": ["If we went by train, it would be faster.", "If we went by train, it would be quicker.", "If we took the train, it would be faster.", "If we took the train, it would be quicker."] },
+    { "ru": "(может, найдёшь) Если найдёшь мои очки, позвони мне.", "en": ["If you find my glasses, call me.", "If you find my glasses, phone me.", "If you find my glasses, give me a call."] },
+    { "ru": "Если бы ты нашёл на улице деньги, ты бы оставил их себе?", "en": ["If you found money in the street, would you keep it?", "If you found money on the street, would you keep it?", "If you found some money in the street, would you keep it?"] },
+    { "ru": "(она может позвонить) Если Хелен позвонит, я расскажу ей новости.", "en": ["If Helen calls, I'll tell her the news.", "If Helen phones, I'll tell her the news."] },
+    { "ru": "(реально) Если завтра будет солнечно, мы пойдём на пляж.", "en": ["If it's sunny tomorrow, we'll go to the beach."] },
+    { "ru": "Что бы ты сделал, если бы выиграл миллион?", "en": ["What would you do if you won a million?", "What would you do if you won a million pounds?", "What would you do if you won a million dollars?"] },
+    { "ru": "Кому бы ты позвонил, если бы потерял телефон?", "en": ["Who would you call if you lost your phone?", "Who would you phone if you lost your phone?"] },
+    { "ru": "Я бы удивился, если бы Пол не пришёл.", "en": ["I'd be surprised if Paul didn't come."] },
+    { "ru": "Если бы я сейчас выпил кофе, я бы не уснул.", "en": ["If I drank coffee now, I wouldn't sleep.", "If I had coffee now, I wouldn't sleep.", "If I drank coffee now, I wouldn't be able to sleep.", "If I had a coffee now, I wouldn't sleep."] },
+    { "ru": "Я бы очень испугался, если бы увидел змею.", "en": ["I'd be very scared if I saw a snake.", "I'd be very frightened if I saw a snake.", "I'd be very afraid if I saw a snake."] },
+    { "ru": "Если бы мы переехали в Лондон, мы бы платили за квартиру больше.", "en": ["If we moved to London, we would pay more rent.", "If we moved to London, we'd pay more for a flat.", "If we moved to London, we would pay more for an apartment."] },
+    { "ru": "Если бы Кейт попросила меня, я бы ей помог.", "en": ["If Kate asked me, I would help her."] },
+    { "ru": "Если бы кто-нибудь дал мне машину, я бы поехал во Францию.", "en": ["If somebody gave me a car, I'd drive to France.", "If someone gave me a car, I'd drive to France.", "If somebody gave me a car, I'd go to France.", "If someone gave me a car, I'd go to France."] },
+    { "ru": "Если бы они пригласили меня, я бы пошёл.", "en": ["If they invited me, I would go."] },
+    { "ru": "Если бы Джек ушёл с работы, он бы легко нашёл другую.", "en": ["If Jack left his job, he'd find another one easily.", "If Jack left his job, he'd easily find another one.", "If Jack left his job, he would find another easily."] },
+    { "ru": "Если бы я не любил свою работу, я бы там не работал.", "en": ["If I didn't like my job, I wouldn't work there."] },
+    { "ru": "Если бы я жил в центре, мне не нужна была бы машина.", "en": ["If I lived in the centre, I wouldn't need a car.", "If I lived in the center, I wouldn't need a car.", "If I lived in the city centre, I wouldn't need a car.", "If I lived in the town centre, I wouldn't need a car."] },
+    { "ru": "Ты бы рассердился, если бы я не пришёл?", "en": ["Would you be angry if I didn't come?"] },
+    { "ru": "Что бы ты сказал, если бы Джон предложил тебе работу?", "en": ["What would you say if John offered you a job?"] },
+    { "ru": "Если бы они продали дом, куда бы они переехали?", "en": ["If they sold their house, where would they move?", "If they sold their house, where would they move to?", "If they sold the house, where would they move?", "If they sold the house, where would they move to?"] },
+    { "ru": "Было бы лучше, если бы ты поговорил с ним.", "en": ["It would be better if you talked to him.", "It would be better if you spoke to him."] },
+    { "ru": "Если бы погода была лучше, мы могли бы пойти на пляж.", "en": ["If the weather was better, we could go to the beach.", "If the weather were better, we could go to the beach."] },
+    { "ru": "Если бы у меня было много денег, я, может быть, купил бы яхту.", "en": ["If I had a lot of money, I might buy a boat.", "If I had a lot of money, I might buy a yacht.", "If I had lots of money, I might buy a boat.", "If I had lots of money, I might buy a yacht."] }
+  ]
+}

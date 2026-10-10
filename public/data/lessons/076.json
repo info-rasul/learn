@@ -1,0 +1,236 @@
+{
+  "id": 76,
+  "section": "Артикли и существительные",
+  "title": "the 4 (the giraffe / the telephone / the old etc.)",
+  "subtitle": "The для видов и изобретений, the rich, the French",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>the</b> + единственное число может обозначать целый вид животных или тип изобретения, а не одну штуку: <b>The elephant is the largest land animal. When was the computer invented?</b> Так же с музыкальными инструментами: <b>play the piano, play the violin</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Сравните: <b>We have a piano at home</b> (один предмет), но <b>She plays the piano</b> (инструмент).",
+        "<b>We saw a tiger at the zoo</b>, но <b>The tiger is my favourite animal</b>.",
+        "<b>man</b> без артикля = человечество: <b>Man first landed on the moon in 1969.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "the + прилагательное = группа людей"
+    },
+    {
+      "type": "p",
+      "text": "<b>the rich, the poor, the old, the elderly, the young, the sick, the injured, the homeless, the unemployed</b> — это всегда множественное число (не the poors). Про одного человека: <b>a rich man, a homeless person</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Народ в целом",
+        "Один человек"
+      ],
+      "rows": [
+        [
+          "the French, the English, the Spanish",
+          "a French woman, an English man"
+        ],
+        [
+          "the Swiss, the Chinese, the Japanese",
+          "a Swiss, a Japanese man"
+        ],
+        [
+          "Italians, Germans, Canadians",
+          "an Italian, a German"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Всегда можно сказать и через people: <b>French people, Spanish people, Italian people</b>."
+    },
+    {
+      "type": "tip",
+      "text": "Нельзя сказать <b>a French</b> или <b>Frenches</b>. Говорите <b>a French woman / a Frenchman</b> и <b>the French / French people</b>. И не забывайте the с инструментами: <b>play the guitar</b>, а не play guitar."
+    }
+  ],
+  "items": [
+    {
+      "ru": "(как вид) Слон — самое большое наземное животное.",
+      "en": [
+        "The elephant is the largest land animal.",
+        "The elephant is the biggest land animal."
+      ]
+    },
+    {
+      "ru": "Когда был изобретён компьютер?",
+      "en": [
+        "When was the computer invented?"
+      ]
+    },
+    {
+      "ru": "Велосипед — отличный способ передвигаться по городу.",
+      "en": [
+        "The bicycle is a great way to get around the city.",
+        "The bike is a great way to get around the city.",
+        "The bicycle is a great way to get around town."
+      ]
+    },
+    {
+      "ru": "Ты умеешь играть на скрипке?",
+      "en": [
+        "Can you play the violin?"
+      ]
+    },
+    {
+      "ru": "Моя дочь играет на пианино.",
+      "en": [
+        "My daughter plays the piano."
+      ]
+    },
+    {
+      "ru": "У нас дома есть пианино.",
+      "en": [
+        "We have a piano at home.",
+        "We've got a piano at home.",
+        "There's a piano in our house."
+      ]
+    },
+    {
+      "ru": "Мы видели в зоопарке тигра.",
+      "en": [
+        "We saw a tiger at the zoo.",
+        "We saw a tiger in the zoo."
+      ]
+    },
+    {
+      "ru": "Тигр — моё любимое животное.",
+      "en": [
+        "The tiger is my favourite animal.",
+        "The tiger is my favorite animal."
+      ]
+    },
+    {
+      "ru": "Евро — валюта Франции и Германии.",
+      "en": [
+        "The euro is the currency of France and Germany."
+      ]
+    },
+    {
+      "ru": "Богатые должны помогать бедным.",
+      "en": [
+        "The rich should help the poor."
+      ]
+    },
+    {
+      "ru": "Правительство должно больше помогать безработным.",
+      "en": [
+        "The government should do more to help the unemployed.",
+        "The government should help the unemployed more."
+      ]
+    },
+    {
+      "ru": "Скорая помощь отвезла раненых в больницу.",
+      "en": [
+        "The ambulance took the injured to hospital.",
+        "An ambulance took the injured to hospital.",
+        "The ambulance took the injured to the hospital."
+      ]
+    },
+    {
+      "ru": "Нам нужно заботиться о пожилых.",
+      "en": [
+        "We need to take care of the elderly.",
+        "We need to look after the elderly.",
+        "We must take care of the elderly.",
+        "We must look after the elderly.",
+        "We should look after the elderly.",
+        "We need to take care of the old."
+      ]
+    },
+    {
+      "ru": "Он очень богатый человек.",
+      "en": [
+        "He's a very rich man.",
+        "He's a very rich person."
+      ]
+    },
+    {
+      "ru": "Бездомным зимой нужна помощь.",
+      "en": [
+        "The homeless need help in winter.",
+        "The homeless need help in the winter."
+      ]
+    },
+    {
+      "ru": "У вокзала спал бездомный.",
+      "en": [
+        "A homeless man was sleeping near the station.",
+        "A homeless person was sleeping near the station."
+      ]
+    },
+    {
+      "ru": "Французы любят хорошую еду.",
+      "en": [
+        "The French love good food.",
+        "The French like good food.",
+        "French people love good food.",
+        "French people like good food."
+      ]
+    },
+    {
+      "ru": "Англичане любят говорить о погоде.",
+      "en": [
+        "The English love talking about the weather.",
+        "The English like talking about the weather.",
+        "The English love to talk about the weather.",
+        "English people love talking about the weather."
+      ]
+    },
+    {
+      "ru": "Я познакомился с француженкой в Риме.",
+      "en": [
+        "I met a French woman in Rome.",
+        "I met a Frenchwoman in Rome."
+      ]
+    },
+    {
+      "ru": "Испанцы ужинают очень поздно.",
+      "en": [
+        "The Spanish have dinner very late.",
+        "Spanish people have dinner very late.",
+        "The Spanish eat dinner very late."
+      ]
+    },
+    {
+      "ru": "Швейцарцы делают отличные часы.",
+      "en": [
+        "The Swiss make excellent watches.",
+        "The Swiss make great watches.",
+        "Swiss people make excellent watches."
+      ]
+    },
+    {
+      "ru": "Итальянцы обожают футбол.",
+      "en": [
+        "Italians love football.",
+        "Italian people love football."
+      ]
+    },
+    {
+      "ru": "Я знаю нескольких немцев.",
+      "en": [
+        "I know some Germans.",
+        "I know a few Germans.",
+        "I know some German people."
+      ]
+    },
+    {
+      "ru": "(человечество) Человек впервые высадился на Луне в 1969 году.",
+      "en": [
+        "Man first landed on the moon in 1969.",
+        "Man first walked on the moon in 1969."
+      ]
+    }
+  ]
+}

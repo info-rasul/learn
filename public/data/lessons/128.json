@@ -1,0 +1,227 @@
+{
+  "id": 128,
+  "section": "Предлоги",
+  "title": "by",
+  "subtitle": "by car, by email, by mistake, written by, by the window",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>by</b> + вид транспорта или способ связи и оплаты — без артикля: <b>by car</b>, <b>by train</b>, <b>by plane / by air</b>, <b>by email</b>, <b>by post</b>, <b>by card</b>. Пешком — <b>on foot</b>. Наличными — <b>in cash</b>."
+    },
+    {
+      "type": "p",
+      "text": "Если транспорт конкретный (с my, the, this), by уже не используется: <b>in my car</b>, <b>in a taxi</b>, <b>on the bus</b>, <b>on the morning train</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>by chance</b> (случайно, по стечению обстоятельств), <b>by accident</b> (нечаянно), <b>by mistake</b> (по ошибке). Но нарочно — <b>on purpose</b>.",
+        "Автор и исполнитель действия: <b>a song by a French singer</b>, <b>The bridge was built by Romans.</b>",
+        "<b>by myself / by herself</b> = «сам, один»: <b>I fixed it by myself.</b>",
+        "<b>by</b> = «рядом, у»: <b>by the window</b>, <b>by the sea</b>.",
+        "Разница: <b>Prices went up by 5 percent.</b> <b>We lost by one goal.</b> <b>I missed the bus by a minute.</b>",
+        "Держать за что-то: <b>take somebody by the arm / hand</b>."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Общий способ",
+        "Конкретный случай"
+      ],
+      "rows": [
+        [
+          "by car",
+          "in my car, in Tom's car"
+        ],
+        [
+          "by train",
+          "on the 6 o'clock train"
+        ],
+        [
+          "by bus",
+          "on the number 9 bus"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «на машине» соблазняет сказать <b>by the car</b> или <b>on car</b>. Правильно: <b>by car</b> (без артикля) или <b>in my car</b>. «Пешком» — только <b>on foot</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я езжу на работу на автобусе.",
+      "en": [
+        "I go to work by bus.",
+        "I get to work by bus."
+      ]
+    },
+    {
+      "ru": "Мы поехали в Париж на поезде.",
+      "en": [
+        "We went to Paris by train.",
+        "We travelled to Paris by train."
+      ]
+    },
+    {
+      "ru": "Ты приехал на машине?",
+      "en": [
+        "Did you come by car?"
+      ]
+    },
+    {
+      "ru": "Они путешествуют самолётом.",
+      "en": [
+        "They travel by plane.",
+        "They travel by air."
+      ]
+    },
+    {
+      "ru": "Ты поедешь на такси или на автобусе?",
+      "en": [
+        "Are you going by taxi or by bus?",
+        "Will you go by taxi or by bus?",
+        "Are you going by taxi or bus?"
+      ]
+    },
+    {
+      "ru": "Я хожу в школу пешком.",
+      "en": [
+        "I go to school on foot.",
+        "I walk to school."
+      ]
+    },
+    {
+      "ru": "Мы поехали в аэропорт на моей машине.",
+      "en": [
+        "We went to the airport in my car.",
+        "We drove to the airport in my car."
+      ]
+    },
+    {
+      "ru": "Я поеду утренним поездом.",
+      "en": [
+        "I'll go on the morning train.",
+        "I'm going on the morning train.",
+        "I'll take the morning train."
+      ]
+    },
+    {
+      "ru": "Пришли мне это по электронной почте.",
+      "en": [
+        "Send it to me by email.",
+        "Send me it by email.",
+        "Email it to me."
+      ]
+    },
+    {
+      "ru": "Я отправлю документы по почте.",
+      "en": [
+        "I'll send the documents by post.",
+        "I'll send the documents by mail."
+      ]
+    },
+    {
+      "ru": "Можно оплатить картой?",
+      "en": [
+        "Can I pay by card?",
+        "Can I pay by credit card?"
+      ]
+    },
+    {
+      "ru": "Я нечаянно разбил чашку.",
+      "en": [
+        "I broke the cup by accident.",
+        "I accidentally broke the cup.",
+        "I broke the cup by mistake."
+      ]
+    },
+    {
+      "ru": "Он взял мою сумку по ошибке.",
+      "en": [
+        "He took my bag by mistake."
+      ]
+    },
+    {
+      "ru": "Мы встретились в Риме случайно.",
+      "en": [
+        "We met in Rome by chance.",
+        "We met by chance in Rome."
+      ]
+    },
+    {
+      "ru": "Эту картину нарисовала моя бабушка.",
+      "en": [
+        "This picture was painted by my grandmother.",
+        "My grandmother painted this picture."
+      ]
+    },
+    {
+      "ru": "Меня укусила собака.",
+      "en": [
+        "I was bitten by a dog.",
+        "A dog bit me."
+      ]
+    },
+    {
+      "ru": "Я читаю роман одного французского писателя.",
+      "en": [
+        "I'm reading a novel by a French writer.",
+        "I'm reading a novel by a French author."
+      ]
+    },
+    {
+      "ru": "Кейт живёт одна.",
+      "en": [
+        "Kate lives by herself.",
+        "Kate lives alone.",
+        "Kate lives on her own."
+      ]
+    },
+    {
+      "ru": "Я сделал это сам.",
+      "en": [
+        "I did it by myself.",
+        "I did it myself.",
+        "I did it on my own."
+      ]
+    },
+    {
+      "ru": "Сядь у окна.",
+      "en": [
+        "Sit by the window.",
+        "Sit next to the window."
+      ]
+    },
+    {
+      "ru": "Цены выросли на десять процентов.",
+      "en": [
+        "Prices have gone up by ten percent.",
+        "Prices have gone up by ten per cent.",
+        "Prices have risen by ten percent.",
+        "Prices went up by ten percent.",
+        "Prices have increased by ten percent."
+      ]
+    },
+    {
+      "ru": "Мы выиграли с разницей в два очка.",
+      "en": [
+        "We won by two points."
+      ]
+    },
+    {
+      "ru": "Я опоздал на поезд на пять минут.",
+      "en": [
+        "I missed the train by five minutes."
+      ]
+    },
+    {
+      "ru": "Он взял меня за руку.",
+      "en": [
+        "He took me by the hand.",
+        "He took my hand."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": 130,
+  "section": "Предлоги",
+  "title": "Adjective + preposition 1",
+  "subtitle": "nice of you / nice to me, pleased with, sorry about/for, angry with",
+  "theory": [
+    {
+      "type": "p",
+      "text": "После прилагательных тоже стоят «свои» предлоги. Одно и то же прилагательное может менять предлог в зависимости от смысла."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Конструкция",
+        "Смысл",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "kind / nice / stupid OF somebody (to do)",
+          "оценка поступка",
+          "<b>It was kind of you to call.</b>"
+        ],
+        [
+          "kind / nice / rude TO somebody",
+          "как человек обращается с другим",
+          "<b>She was rude to me.</b>"
+        ],
+        [
+          "pleased / happy / disappointed WITH something",
+          "довольны тем, что получили",
+          "<b>I'm happy with my new phone.</b>"
+        ],
+        [
+          "surprised / shocked / amazed AT or BY",
+          "удивлены чем-то",
+          "<b>We were surprised at/by the price.</b>"
+        ],
+        [
+          "excited / worried / nervous ABOUT",
+          "переживания о чём-то",
+          "<b>He's nervous about the interview.</b>"
+        ],
+        [
+          "impressed WITH or BY",
+          "впечатлены",
+          "<b>I was impressed with/by his work.</b>"
+        ],
+        [
+          "fed up / bored WITH; tired OF",
+          "надоело",
+          "<b>I'm tired of this rain.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Angry и sorry"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>angry / annoyed / upset ABOUT something</b> — злиться из-за чего-то; <b>angry WITH somebody FOR doing</b> — злиться на человека за поступок.",
+        "<b>sorry ABOUT</b> ситуацию: <b>Sorry about the noise.</b>",
+        "<b>sorry FOR / ABOUT</b> то, что сделал сам: <b>Sorry for being late.</b> Или: <b>I'm sorry I was late.</b>",
+        "<b>feel sorry FOR somebody</b> — жалеть человека: <b>I feel sorry for him.</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Добр ко мне» — <b>kind to me</b>, а не <b>kind with me</b>. «Злюсь на тебя» — <b>angry with you</b>, а не <b>angry on you</b>. «Мне жаль его» — <b>I feel sorry for him</b>, а не <b>sorry about him</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Очень мило с твоей стороны прийти.",
+      "en": [
+        "It's very nice of you to come.",
+        "It was very nice of you to come.",
+        "It's very kind of you to come."
+      ]
+    },
+    {
+      "ru": "Было глупо с моей стороны забыть паспорт.",
+      "en": [
+        "It was stupid of me to forget my passport.",
+        "It was silly of me to forget my passport."
+      ]
+    },
+    {
+      "ru": "Как щедро с его стороны оплатить ужин!",
+      "en": [
+        "How generous of him to pay for dinner!",
+        "It was very generous of him to pay for dinner."
+      ]
+    },
+    {
+      "ru": "Соседи всегда были добры к нам.",
+      "en": [
+        "Our neighbours have always been kind to us.",
+        "The neighbours have always been kind to us.",
+        "Our neighbours have always been nice to us.",
+        "Our neighbors have always been kind to us."
+      ]
+    },
+    {
+      "ru": "Почему ты был так груб с официантом?",
+      "en": [
+        "Why were you so rude to the waiter?"
+      ]
+    },
+    {
+      "ru": "Ты доволен своей новой машиной?",
+      "en": [
+        "Are you happy with your new car?",
+        "Are you pleased with your new car?",
+        "Are you satisfied with your new car?"
+      ]
+    },
+    {
+      "ru": "Мы были разочарованы гостиницей.",
+      "en": [
+        "We were disappointed with the hotel."
+      ]
+    },
+    {
+      "ru": "Все были удивлены его ответом.",
+      "en": [
+        "Everyone was surprised at his answer.",
+        "Everyone was surprised by his answer.",
+        "Everybody was surprised at his answer.",
+        "Everybody was surprised by his answer."
+      ]
+    },
+    {
+      "ru": "Я был шокирован ценами в Лондоне.",
+      "en": [
+        "I was shocked by the prices in London.",
+        "I was shocked at the prices in London."
+      ]
+    },
+    {
+      "ru": "Извините за беспорядок на кухне.",
+      "en": [
+        "Sorry about the mess in the kitchen.",
+        "I'm sorry about the mess in the kitchen."
+      ]
+    },
+    {
+      "ru": "Прости, что я опоздал вчера.",
+      "en": [
+        "I'm sorry for being late yesterday.",
+        "I'm sorry about being late yesterday.",
+        "I'm sorry I was late yesterday.",
+        "Sorry for being late yesterday."
+      ]
+    },
+    {
+      "ru": "Извините за ожидание.",
+      "en": [
+        "Sorry for the wait.",
+        "Sorry about the wait.",
+        "I'm sorry for the wait.",
+        "I'm sorry about the wait."
+      ]
+    },
+    {
+      "ru": "Она злится из-за счёта за телефон.",
+      "en": [
+        "She's angry about the phone bill.",
+        "She is annoyed about the phone bill."
+      ]
+    },
+    {
+      "ru": "Ты на меня злишься?",
+      "en": [
+        "Are you angry with me?",
+        "Are you annoyed with me?"
+      ]
+    },
+    {
+      "ru": "Пол рассердился на меня за то, что я взял его машину.",
+      "en": [
+        "Paul was angry with me for taking his car.",
+        "Paul got angry with me for taking his car.",
+        "Paul was annoyed with me for taking his car."
+      ]
+    },
+    {
+      "ru": "Лиза расстроена из-за того, что провалила тест.",
+      "en": [
+        "Lisa is upset about failing the test.",
+        "Lisa is upset about failing her test."
+      ]
+    },
+    {
+      "ru": "Дети в восторге от поездки.",
+      "en": [
+        "The children are excited about the trip.",
+        "The kids are excited about the trip."
+      ]
+    },
+    {
+      "ru": "Ты волнуешься из-за собеседования?",
+      "en": [
+        "Are you nervous about the interview?",
+        "Are you worried about the interview?",
+        "Are you nervous about your interview?",
+        "Are you worried about your interview?"
+      ]
+    },
+    {
+      "ru": "Я впечатлён твоим французским.",
+      "en": [
+        "I'm impressed with your French.",
+        "I'm impressed by your French."
+      ]
+    },
+    {
+      "ru": "Мне жаль Бена, он потерял работу.",
+      "en": [
+        "I feel sorry for Ben, he lost his job.",
+        "I feel sorry for Ben, he has lost his job.",
+        "I'm sorry for Ben, he lost his job."
+      ]
+    },
+    {
+      "ru": "Мне надоела эта песня.",
+      "en": [
+        "I'm fed up with this song.",
+        "I'm bored with this song.",
+        "I'm tired of this song."
+      ]
+    },
+    {
+      "ru": "Джек устал ждать автобус.",
+      "en": [
+        "Jack is tired of waiting for the bus.",
+        "Jack got tired of waiting for the bus."
+      ]
+    },
+    {
+      "ru": "Тебе не надоела твоя работа?",
+      "en": [
+        "Aren't you bored with your job?",
+        "Aren't you fed up with your job?",
+        "Aren't you tired of your job?"
+      ]
+    },
+    {
+      "ru": "Было так мило с вашей стороны помочь нам, спасибо.",
+      "en": [
+        "It was so nice of you to help us, thank you.",
+        "It was so kind of you to help us, thank you.",
+        "It was so nice of you to help us, thanks."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": 120,
+  "section": "Союзы и предлоги",
+  "title": "by and until, by the time ...",
+  "subtitle": "К сроку или до момента: by, until, by the time, by then",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>by</b> + время = «к, не позже чем». Действие случится в какой-то момент до этого срока: <b>Send me the file by Thursday.</b> <b>I'll be home by seven.</b>"
+    },
+    {
+      "type": "p",
+      "text": "<b>until</b> (разговорно <b>till</b>) = «до (какого-то момента)». Ситуация продолжается вплоть до этого момента: <b>I'll be at work until seven.</b> С отрицанием — «только (тогда)»: <b>I didn't find out until Monday.</b> = узнал только в понедельник."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Вопрос",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "by Friday",
+          "к какому сроку?",
+          "Finish the essay by Friday."
+        ],
+        [
+          "until Friday",
+          "как долго длится?",
+          "I'm on holiday until Friday."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>by the time</b> + предложение = «к тому времени как». Часто с Past Perfect или Future Perfect: <b>By the time we got there, the shop had closed.</b> <b>by then</b> = «к тому времени»: <b>Come at nine. I'll have finished by then.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русское «до пятницы» бывает двух видов. «Сдай отчёт до пятницы» (не позже) — <b>by Friday</b>. «Я здесь до пятницы» (всё это время) — <b>until Friday</b>. Спросите себя: это срок или продолжительность?"
+    }
+  ],
+  "items": [
+    {
+      "ru": "(не позже) Пожалуйста, верни книгу до пятницы.",
+      "en": [
+        "Please return the book by Friday.",
+        "Please give the book back by Friday.",
+        "Please give back the book by Friday."
+      ]
+    },
+    {
+      "ru": "Мне нужно закончить отчёт к понедельнику.",
+      "en": [
+        "I need to finish the report by Monday.",
+        "I have to finish the report by Monday."
+      ]
+    },
+    {
+      "ru": "Я вернусь к пяти часам.",
+      "en": [
+        "I'll be back by five o'clock.",
+        "I'll be back by five."
+      ]
+    },
+    {
+      "ru": "Дети должны быть дома к восьми.",
+      "en": [
+        "The children must be home by eight.",
+        "The children must be at home by eight.",
+        "The children have to be home by eight."
+      ]
+    },
+    {
+      "ru": "Ты сможешь сделать это к завтрашнему дню?",
+      "en": [
+        "Can you do it by tomorrow?",
+        "Could you do it by tomorrow?",
+        "Will you be able to do it by tomorrow?"
+      ]
+    },
+    {
+      "ru": "Тебе нужно оплатить счёт до конца месяца.",
+      "en": [
+        "You need to pay the bill by the end of the month.",
+        "You have to pay the bill by the end of the month."
+      ]
+    },
+    {
+      "ru": "Ты будешь дома к ужину?",
+      "en": [
+        "Will you be home by dinner time?",
+        "Will you be home by dinnertime?",
+        "Will you be at home by dinner time?"
+      ]
+    },
+    {
+      "ru": "Я подожду до шести.",
+      "en": [
+        "I'll wait until six.",
+        "I'll wait till six.",
+        "I'll wait until six o'clock."
+      ]
+    },
+    {
+      "ru": "Магазин открыт до девяти.",
+      "en": [
+        "The shop is open until nine.",
+        "The shop is open till nine.",
+        "The shop is open until nine o'clock."
+      ]
+    },
+    {
+      "ru": "Мы остались до конца фильма.",
+      "en": [
+        "We stayed until the end of the film.",
+        "We stayed till the end of the film.",
+        "We stayed until the end of the movie."
+      ]
+    },
+    {
+      "ru": "Анна будет в Москве до июня.",
+      "en": [
+        "Anna will be in Moscow until June.",
+        "Anna will be in Moscow till June.",
+        "Anna is going to be in Moscow until June."
+      ]
+    },
+    {
+      "ru": "Не открывай подарок до Рождества.",
+      "en": [
+        "Don't open the present until Christmas.",
+        "Don't open the present till Christmas.",
+        "Don't open the gift until Christmas."
+      ]
+    },
+    {
+      "ru": "Подожди, пока я не вернусь.",
+      "en": [
+        "Wait until I come back.",
+        "Wait until I get back.",
+        "Wait till I come back."
+      ]
+    },
+    {
+      "ru": "Ты будешь здесь до выходных?",
+      "en": [
+        "Will you be here until the weekend?",
+        "Will you be here till the weekend?",
+        "Are you here until the weekend?"
+      ]
+    },
+    {
+      "ru": "Мы ждали до полуночи, но он не пришёл.",
+      "en": [
+        "We waited until midnight, but he didn't come.",
+        "We waited till midnight, but he didn't come."
+      ]
+    },
+    {
+      "ru": "Я не знал об этом до вчерашнего дня.",
+      "en": [
+        "I didn't know about it until yesterday.",
+        "I didn't know about it till yesterday."
+      ]
+    },
+    {
+      "ru": "Он позвонил только в десять.",
+      "en": [
+        "He didn't call until ten o'clock.",
+        "He didn't call until ten.",
+        "He didn't phone until ten o'clock.",
+        "He didn't call till ten."
+      ]
+    },
+    {
+      "ru": "К тому времени как мы пришли, фильм уже начался.",
+      "en": [
+        "By the time we arrived, the film had already started.",
+        "By the time we got there, the film had already started.",
+        "By the time we arrived, the film had started."
+      ]
+    },
+    {
+      "ru": "К тому времени как я проснулся, все уже ушли.",
+      "en": [
+        "By the time I woke up, everyone had already left.",
+        "By the time I woke up, everybody had already left.",
+        "By the time I woke up, everyone had left."
+      ]
+    },
+    {
+      "ru": "К тому времени как она закончила, было уже поздно.",
+      "en": [
+        "By the time she finished, it was already late.",
+        "By the time she had finished, it was already late.",
+        "By the time she finished, it was late."
+      ]
+    },
+    {
+      "ru": "К тому времени как ты получишь это письмо, я буду в Канаде.",
+      "en": [
+        "By the time you get this letter, I'll be in Canada.",
+        "By the time you receive this letter, I'll be in Canada."
+      ]
+    },
+    {
+      "ru": "(приходи в семь) К тому времени я уже поужинаю.",
+      "en": [
+        "By then I'll have had dinner.",
+        "I'll have had dinner by then.",
+        "By then I'll have eaten."
+      ]
+    },
+    {
+      "ru": "Поезд опоздал, и к тому времени собрание закончилось.",
+      "en": [
+        "The train was late, and by then the meeting had finished.",
+        "The train was late, and by then the meeting had ended."
+      ]
+    },
+    {
+      "ru": "(не позже) Позвони мне до обеда, хорошо?",
+      "en": [
+        "Call me by lunchtime, OK?",
+        "Phone me by lunchtime, OK?",
+        "Call me by lunch, OK?"
+      ]
+    }
+  ]
+}

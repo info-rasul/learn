@@ -1,0 +1,225 @@
+{
+  "id": 137,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 1 Introduction",
+  "subtitle": "Что такое фразовый глагол и куда ставить дополнение",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Фразовый глагол — это глагол + наречие-частица: <b>in, out, on, off, up, down, away, back, over, through, round/around, along, forward, by, about</b>."
+    },
+    {
+      "type": "h",
+      "text": "Движение и новое значение"
+    },
+    {
+      "type": "list",
+      "items": [
+        "С глаголами движения частица показывает направление: <b>get on</b> (сесть в автобус), <b>drive off</b> (уехать), <b>come back</b> (вернуться), <b>turn round</b> (обернуться).",
+        "Часто частица полностью меняет смысл: <b>break down</b> — сломаться, <b>find out</b> — узнать, <b>take off</b> — взлететь, <b>give up</b> — бросить, сдаться, <b>get on</b> — справляться, <b>get by</b> — обходиться, сводить концы с концами."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "После фразового глагола может стоять ещё и предлог: <b>run away from</b>, <b>keep up with</b>, <b>look forward to</b>, <b>look up at</b>."
+    },
+    {
+      "type": "h",
+      "text": "Место дополнения"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Дополнение",
+        "Варианты"
+      ],
+      "rows": [
+        [
+          "существительное",
+          "<b>Turn off the TV.</b> = <b>Turn the TV off.</b>"
+        ],
+        [
+          "местоимение (it, them, me…)",
+          "только <b>Turn it off.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Нельзя говорить <b>take off them</b> или <b>wake up her</b>. Местоимение всегда встаёт между глаголом и частицей: <b>take them off</b>, <b>wake her up</b>, <b>throw it away</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Автобус был переполнен, и я не смог сесть.",
+      "en": [
+        "The bus was full and I couldn't get on.",
+        "The bus was full, so I couldn't get on."
+      ]
+    },
+    {
+      "ru": "Мужчина сел в машину и уехал.",
+      "en": [
+        "The man got into the car and drove off.",
+        "The man got in the car and drove off.",
+        "The man got into the car and drove away."
+      ]
+    },
+    {
+      "ru": "Когда ты вернёшься?",
+      "en": [
+        "When will you come back?",
+        "When are you coming back?",
+        "When will you be back?"
+      ]
+    },
+    {
+      "ru": "Она услышала своё имя и обернулась.",
+      "en": [
+        "She heard her name and turned round.",
+        "She heard her name and turned around."
+      ]
+    },
+    {
+      "ru": "Моя машина сломалась по дороге на работу.",
+      "en": [
+        "My car broke down on the way to work."
+      ]
+    },
+    {
+      "ru": "Как ты узнал мой номер?",
+      "en": [
+        "How did you find out my number?"
+      ]
+    },
+    {
+      "ru": "Самолёт взлетел вовремя.",
+      "en": [
+        "The plane took off on time."
+      ]
+    },
+    {
+      "ru": "Не сдавайся!",
+      "en": [
+        "Don't give up!"
+      ]
+    },
+    {
+      "ru": "Как ты справился на собеседовании?",
+      "en": [
+        "How did you get on at the interview?",
+        "How did you get on in the interview?"
+      ]
+    },
+    {
+      "ru": "Денег у нас немного, но нам хватает.",
+      "en": [
+        "We don't have much money, but we get by.",
+        "We haven't got much money, but we get by."
+      ]
+    },
+    {
+      "ru": "Мы посмотрели вверх на звёзды.",
+      "en": [
+        "We looked up at the stars."
+      ]
+    },
+    {
+      "ru": "Собака убежала от меня в парке.",
+      "en": [
+        "The dog ran away from me in the park."
+      ]
+    },
+    {
+      "ru": "Ты идёшь слишком быстро, я не успеваю за тобой.",
+      "en": [
+        "You're walking too fast, I can't keep up with you.",
+        "You're going too fast, I can't keep up with you."
+      ]
+    },
+    {
+      "ru": "Я с нетерпением жду выходных.",
+      "en": [
+        "I'm looking forward to the weekend."
+      ]
+    },
+    {
+      "ru": "Включи свет, пожалуйста.",
+      "en": [
+        "Turn on the light, please.",
+        "Turn the light on, please.",
+        "Please turn on the light.",
+        "Please turn the light on.",
+        "Switch on the light, please.",
+        "Switch the light on, please."
+      ]
+    },
+    {
+      "ru": "Здесь темно, включи его.",
+      "en": [
+        "It's dark here, turn it on.",
+        "It's dark in here, turn it on.",
+        "It's dark here, switch it on."
+      ]
+    },
+    {
+      "ru": "Сними куртку.",
+      "en": [
+        "Take off your jacket.",
+        "Take your jacket off."
+      ]
+    },
+    {
+      "ru": "Ботинки мокрые, сними их.",
+      "en": [
+        "Your shoes are wet, take them off.",
+        "Your boots are wet, take them off."
+      ]
+    },
+    {
+      "ru": "Не буди детей.",
+      "en": [
+        "Don't wake up the children.",
+        "Don't wake the children up.",
+        "Don't wake up the kids.",
+        "Don't wake the kids up."
+      ]
+    },
+    {
+      "ru": "Ребёнок спит, не буди его.",
+      "en": [
+        "The baby is asleep, don't wake him up.",
+        "The baby is asleep, don't wake her up.",
+        "The baby is sleeping, don't wake him up.",
+        "The baby is sleeping, don't wake her up."
+      ]
+    },
+    {
+      "ru": "Можно выбросить эти старые журналы?",
+      "en": [
+        "Can I throw away these old magazines?",
+        "Can I throw these old magazines away?"
+      ]
+    },
+    {
+      "ru": "Это моё письмо, не выбрасывай его!",
+      "en": [
+        "It's my letter, don't throw it away!",
+        "That's my letter, don't throw it away!"
+      ]
+    },
+    {
+      "ru": "Почему ты убежал?",
+      "en": [
+        "Why did you run away?"
+      ]
+    },
+    {
+      "ru": "Я так и не узнал, кто это сделал.",
+      "en": [
+        "I never found out who did it.",
+        "I never found out who did that."
+      ]
+    }
+  ]
+}

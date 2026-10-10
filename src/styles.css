@@ -520,6 +520,48 @@ button:disabled {
   gap: 0.75rem;
 }
 
+.home-section {
+  margin-bottom: 0.75rem;
+  border-radius: var(--radius);
+  background: var(--card);
+  box-shadow: var(--shadow);
+}
+
+.home-section > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.9rem 1rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+.home-section > summary::-webkit-details-marker {
+  display: none;
+}
+
+.home-section > summary::before {
+  content: '›';
+  font-size: 1.3rem;
+  line-height: 1;
+  color: var(--muted);
+  transition: transform 0.15s;
+}
+
+.home-section[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.home-section-name {
+  flex: 1;
+  font-weight: 600;
+}
+
+.home-section > .lesson-grid {
+  padding: 0 0.75rem 0.75rem;
+}
+
 @media (min-width: 600px) {
   .lesson-grid {
     grid-template-columns: 1fr 1fr;
@@ -2018,6 +2060,13 @@ body.task-open {
   text-align: center;
   font-size: 0.7rem;
   color: var(--muted);
+  overflow: visible;
+  white-space: nowrap;
+}
+
+.score-chart.dense .score-chart-plot,
+.score-chart.dense .score-chart-axis {
+  gap: 1px;
 }
 
 /* ---------- Exam ---------- */
@@ -2036,7 +2085,34 @@ body.task-open {
 .exam-lessons {
   display: grid;
   gap: 0.4rem;
-  margin: 0.75rem 0 1rem;
+  margin: 0.5rem 0 0.75rem 1.9rem;
+}
+
+.exam-section {
+  border-bottom: 1px solid var(--line);
+}
+
+.exam-section > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.6rem 0;
+  cursor: pointer;
+  list-style: none;
+}
+
+.exam-section > summary::-webkit-details-marker {
+  display: none;
+}
+
+.exam-section > summary .check {
+  margin: 0;
+  font-weight: 600;
+}
+
+.exam-section:last-of-type {
+  margin-bottom: 1rem;
 }
 
 @media (min-width: 600px) {

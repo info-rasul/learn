@@ -1,0 +1,228 @@
+{
+  "id": 73,
+  "section": "Артикли и существительные",
+  "title": "the 1",
+  "subtitle": "The с единственными в своём роде вещами, the same, sky, TV, обед",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>the</b> ставим, когда предмет единственный в своём роде или единственный в данной ситуации: <b>the capital of Italy, the end of the week, the fifth floor</b>. С превосходной степенью — всегда the: <b>the highest mountain, the best way</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Всегда с the: <b>the sun, the moon, the earth, the sky, the sea, the world, the ground, the country</b> (= за городом).",
+        "<b>the same</b> — «такой же, тот же»: <b>the same colour as mine</b> (не same colour).",
+        "<b>Earth</b> без the — как планета среди других: <b>the nearest planet to Earth</b>.",
+        "<b>space</b> (космос) — без the: <b>go into space</b>; но <b>the space</b> = конкретное свободное место."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "С the",
+        "Без the"
+      ],
+      "rows": [
+        [
+          "the cinema, the theatre",
+          "TV / television (смотреть)"
+        ],
+        [
+          "the radio, the internet",
+          "breakfast, lunch, dinner"
+        ],
+        [
+          "the TV (сам телевизор)",
+          "platform 4, page 30, size 40, room 215"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Приёмы пищи — без артикля: <b>Have you had lunch?</b> Но если есть прилагательное — <b>a</b>: <b>We had a great dinner.</b>"
+    },
+    {
+      "type": "p",
+      "text": "Номер после существительного «съедает» артикль: <b>platform 4, page 30, size 40, room 215</b> (не the platform 4)."
+    },
+    {
+      "type": "tip",
+      "text": "Русскоговорящие часто говорят <b>in sky</b>, <b>same colour</b>, <b>listen radio</b>. Запомните готовые блоки: <b>in the sky</b>, <b>the same colour</b>, <b>listen to the radio</b>, но <b>watch TV</b> без артикля."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Луна меньше Земли.",
+      "en": [
+        "The moon is smaller than the earth.",
+        "The moon is smaller than Earth."
+      ]
+    },
+    {
+      "ru": "Наш офис на пятом этаже.",
+      "en": [
+        "Our office is on the fifth floor."
+      ]
+    },
+    {
+      "ru": "Рим — столица Италии.",
+      "en": [
+        "Rome is the capital of Italy."
+      ]
+    },
+    {
+      "ru": "Я уезжаю в конце недели.",
+      "en": [
+        "I'm going away at the end of the week.",
+        "I'm leaving at the end of the week."
+      ]
+    },
+    {
+      "ru": "Какая самая высокая гора в Японии?",
+      "en": [
+        "What's the highest mountain in Japan?",
+        "Which is the highest mountain in Japan?"
+      ]
+    },
+    {
+      "ru": "У вас есть эта рубашка в размере 40?",
+      "en": [
+        "Do you have this shirt in size 40?",
+        "Have you got this shirt in size 40?"
+      ]
+    },
+    {
+      "ru": "У меня такой же телефон, как у тебя.",
+      "en": [
+        "I have the same phone as you.",
+        "I've got the same phone as you."
+      ]
+    },
+    {
+      "ru": "Твоя куртка того же цвета, что и моя.",
+      "en": [
+        "Your jacket is the same colour as mine.",
+        "Your jacket is the same color as mine."
+      ]
+    },
+    {
+      "ru": "Посмотри на звёзды в небе!",
+      "en": [
+        "Look at the stars in the sky!"
+      ]
+    },
+    {
+      "ru": "Мы хотим жить за городом.",
+      "en": [
+        "We want to live in the country.",
+        "We'd like to live in the country."
+      ]
+    },
+    {
+      "ru": "Земля вращается вокруг Солнца.",
+      "en": [
+        "The earth goes around the sun.",
+        "The earth goes round the sun.",
+        "The earth moves around the sun."
+      ]
+    },
+    {
+      "ru": "Марс — ближайшая к Земле планета?",
+      "en": [
+        "Is Mars the nearest planet to Earth?",
+        "Is Mars the closest planet to Earth?",
+        "Is Mars the planet nearest to Earth?"
+      ]
+    },
+    {
+      "ru": "Она мечтает полететь в космос.",
+      "en": [
+        "She dreams of going into space.",
+        "She dreams of flying into space.",
+        "She dreams about going into space.",
+        "She dreams about flying into space."
+      ]
+    },
+    {
+      "ru": "(о месте для парковки) Место было слишком маленьким для нашей машины.",
+      "en": [
+        "The space was too small for our car."
+      ]
+    },
+    {
+      "ru": "Мы ходим в кино каждую пятницу.",
+      "en": [
+        "We go to the cinema every Friday.",
+        "We go to the movies every Friday."
+      ]
+    },
+    {
+      "ru": "Он не был в театре много лет.",
+      "en": [
+        "He hasn't been to the theatre for years.",
+        "He hasn't been to the theater for years.",
+        "He hasn't been to the theatre for many years."
+      ]
+    },
+    {
+      "ru": "Вечером я смотрю телевизор.",
+      "en": [
+        "I watch TV in the evening.",
+        "In the evening I watch TV.",
+        "I watch television in the evening."
+      ]
+    },
+    {
+      "ru": "Ты слушаешь радио?",
+      "en": [
+        "Do you listen to the radio?"
+      ]
+    },
+    {
+      "ru": "Выключи, пожалуйста, телевизор.",
+      "en": [
+        "Turn off the TV, please.",
+        "Please turn off the TV.",
+        "Turn the TV off, please.",
+        "Switch off the TV, please.",
+        "Turn off the television, please."
+      ]
+    },
+    {
+      "ru": "Я нашёл эту информацию в интернете.",
+      "en": [
+        "I found this information on the internet.",
+        "I found this information online."
+      ]
+    },
+    {
+      "ru": "Ты уже обедал?",
+      "en": [
+        "Have you had lunch yet?",
+        "Have you had lunch?"
+      ]
+    },
+    {
+      "ru": "Вчера у нас был отличный ужин.",
+      "en": [
+        "We had a great dinner yesterday.",
+        "We had a wonderful dinner yesterday.",
+        "Yesterday we had a great dinner."
+      ]
+    },
+    {
+      "ru": "Поезд отправляется с платформы 4.",
+      "en": [
+        "The train leaves from platform 4.",
+        "The train departs from platform 4."
+      ]
+    },
+    {
+      "ru": "Ответы на странице 30.",
+      "en": [
+        "The answers are on page 30."
+      ]
+    }
+  ]
+}

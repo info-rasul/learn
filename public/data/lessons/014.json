@@ -1,0 +1,234 @@
+{
+  "id": 14,
+  "section": "Present perfect и прошедшее время",
+  "title": "Present perfect and past 2 (I have done and I did)",
+  "subtitle": "Законченное время или период до сейчас: yesterday или today",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Если время действия <b>закончилось</b> — <b>yesterday, last week, two days ago, in 2015, when I was a child</b> — present perfect нельзя, нужен past simple: <b>It was very hot yesterday.</b> <b>Tom and Anna arrived five minutes ago.</b>"
+    },
+    {
+      "type": "p",
+      "text": "Вопросы <b>When…?</b> и <b>What time…?</b> тоже требуют past simple: <b>When did your parents come back?</b> <b>What time did the concert start?</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Present perfect — период ещё идёт",
+        "Past simple — период закончился"
+      ],
+      "rows": [
+        [
+          "<b>I've made a lot of calls today.</b>",
+          "<b>I made a lot of calls yesterday.</b>"
+        ],
+        [
+          "<b>It has been very cold this week.</b>",
+          "<b>It was very cold last week.</b>"
+        ],
+        [
+          "<b>Have you seen Ben this morning?</b> (ещё утро)",
+          "<b>Did you see Ben this morning?</b> (уже вечер)"
+        ],
+        [
+          "<b>Have you seen Lisa recently?</b>",
+          "<b>Did you see Lisa on Sunday?</b>"
+        ],
+        [
+          "<b>I've worked at this school since 2019.</b> (работаю)",
+          "<b>I worked at this school from 2010 to 2015.</b> (уже нет)"
+        ],
+        [
+          "<b>I've never been to Spain.</b> (за всю жизнь)",
+          "<b>I never went to the sea when I was a child.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "То же с впечатлениями: в последний день отпуска — <b>It's been a great holiday</b>, а после возвращения — <b>It was a great holiday</b>."
+    },
+    {
+      "type": "tip",
+      "text": "Самая частая ошибка — перфект с законченным временем: <b>I have seen him yesterday</b>, <b>She has left two hours ago</b>. Если в предложении есть <b>yesterday, ago, last…, in 2015</b> или вопрос <b>When…?</b>, ставьте только past simple."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Вчера было очень жарко.",
+      "en": [
+        "It was very hot yesterday.",
+        "Yesterday it was very hot."
+      ]
+    },
+    {
+      "ru": "Том и Анна приехали пять минут назад.",
+      "en": [
+        "Tom and Anna arrived five minutes ago.",
+        "Tom and Anna came five minutes ago."
+      ]
+    },
+    {
+      "ru": "Ты много читал, когда был ребёнком?",
+      "en": [
+        "Did you read a lot when you were a child?",
+        "Did you read much when you were a child?"
+      ]
+    },
+    {
+      "ru": "Вчера я поздно лёг спать.",
+      "en": [
+        "I went to bed late last night.",
+        "I went to bed late yesterday.",
+        "Yesterday I went to bed late."
+      ]
+    },
+    {
+      "ru": "Когда вернулись твои родители?",
+      "en": [
+        "When did your parents come back?",
+        "When did your parents get back?",
+        "When did your parents return?"
+      ]
+    },
+    {
+      "ru": "Во сколько начался концерт?",
+      "en": [
+        "What time did the concert start?",
+        "When did the concert start?",
+        "What time did the concert begin?"
+      ]
+    },
+    {
+      "ru": "(до сих пор не может попасть домой) Майк потерял ключи.",
+      "en": [
+        "Mike has lost his keys."
+      ]
+    },
+    {
+      "ru": "Майк потерял ключи вчера.",
+      "en": [
+        "Mike lost his keys yesterday.",
+        "Yesterday Mike lost his keys."
+      ]
+    },
+    {
+      "ru": "Сегодня я сделал много звонков.",
+      "en": [
+        "I've made a lot of calls today.",
+        "I've made a lot of phone calls today.",
+        "Today I've made a lot of calls."
+      ]
+    },
+    {
+      "ru": "Вчера я сделал много звонков.",
+      "en": [
+        "I made a lot of calls yesterday.",
+        "I made a lot of phone calls yesterday.",
+        "Yesterday I made a lot of calls."
+      ]
+    },
+    {
+      "ru": "На этой неделе было очень холодно.",
+      "en": [
+        "It has been very cold this week.",
+        "This week it has been very cold."
+      ]
+    },
+    {
+      "ru": "На прошлой неделе было очень холодно.",
+      "en": [
+        "It was very cold last week.",
+        "Last week it was very cold."
+      ]
+    },
+    {
+      "ru": "(сейчас ещё утро) Ты видел Бена сегодня утром?",
+      "en": [
+        "Have you seen Ben this morning?"
+      ]
+    },
+    {
+      "ru": "(сейчас уже вечер) Ты видел Бена сегодня утром?",
+      "en": [
+        "Did you see Ben this morning?"
+      ]
+    },
+    {
+      "ru": "Ты видел Тома в последнее время?",
+      "en": [
+        "Have you seen Tom recently?",
+        "Have you seen Tom lately?"
+      ]
+    },
+    {
+      "ru": "Ты видел Лизу в воскресенье?",
+      "en": [
+        "Did you see Lisa on Sunday?"
+      ]
+    },
+    {
+      "ru": "Я работаю в этой школе с 2019 года.",
+      "en": [
+        "I've worked at this school since 2019.",
+        "I've been working at this school since 2019.",
+        "I've worked in this school since 2019."
+      ]
+    },
+    {
+      "ru": "Я работал в этой школе с 2010 по 2015 год.",
+      "en": [
+        "I worked at this school from 2010 to 2015.",
+        "I worked in this school from 2010 to 2015.",
+        "I worked at this school from 2010 until 2015."
+      ]
+    },
+    {
+      "ru": "Джон живёт в Берлине восемь лет.",
+      "en": [
+        "John has lived in Berlin for eight years.",
+        "John has been living in Berlin for eight years.",
+        "John has lived in Berlin for 8 years."
+      ]
+    },
+    {
+      "ru": "До этого он пять лет жил в Риме.",
+      "en": [
+        "Before that he lived in Rome for five years.",
+        "He lived in Rome for five years before that."
+      ]
+    },
+    {
+      "ru": "Я никогда не был в Испании.",
+      "en": [
+        "I've never been to Spain."
+      ]
+    },
+    {
+      "ru": "В детстве я ни разу не ездил на море.",
+      "en": [
+        "I never went to the sea when I was a child.",
+        "When I was a child, I never went to the sea.",
+        "I never went to the seaside when I was a child.",
+        "When I was a child I never went to the seaside."
+      ]
+    },
+    {
+      "ru": "(последний день отпуска) Отпуск получился отличным.",
+      "en": [
+        "It's been a great holiday.",
+        "It's been a wonderful holiday.",
+        "It's been a great vacation."
+      ]
+    },
+    {
+      "ru": "(уже вернулись домой) Отпуск получился отличным.",
+      "en": [
+        "It was a great holiday.",
+        "It was a wonderful holiday.",
+        "It was a great vacation."
+      ]
+    }
+  ]
+}

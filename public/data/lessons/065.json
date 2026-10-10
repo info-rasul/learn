@@ -1,0 +1,222 @@
+{
+  "id": 65,
+  "section": "-ing и to",
+  "title": "Adjective + to ...",
+  "subtitle": "hard to read, kind of you to, glad to, the first to, bound to",
+  "theory": [
+    {
+      "type": "h",
+      "text": "hard to understand, easy to use"
+    },
+    {
+      "type": "p",
+      "text": "<b>It's easy to use this app.</b> = <b>This app is easy to use.</b> Во втором варианте объект в конце НЕ повторяется: не <b>easy to use it</b>. Так же с <b>difficult, hard, nice, safe, cheap, expensive, interesting, impossible</b>. Можно и с существительным: <b>It's a hard word to spell.</b>"
+    },
+    {
+      "type": "h",
+      "text": "nice of you to ..."
+    },
+    {
+      "type": "p",
+      "text": "<b>It's kind / nice / silly / stupid / careless / generous / unfair of somebody to do</b> — оценка поступка человека: <b>It was kind of you to wait for me.</b>"
+    },
+    {
+      "type": "h",
+      "text": "Реакция и порядок"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>sorry / glad / pleased / surprised / relieved / disappointed / sad to ...</b>: <b>I was surprised to see him there.</b>",
+        "<b>the first / the second / the last / the only / the next to ...</b>: <b>She was the last to leave.</b>",
+        "<b>sure / bound / likely to ...</b> — наверняка, вероятно: <b>It's bound to rain.</b> <b>He's not likely to come.</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русские часто добавляют лишнее местоимение: <b>This book is easy to read it</b> — ошибка. Правильно: <b>This book is easy to read.</b> А «было мило с твоей стороны» — <b>nice of you</b>, не <b>nice from you</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Её почерк трудно читать.",
+      "en": [
+        "Her handwriting is hard to read.",
+        "Her handwriting is difficult to read.",
+        "It's hard to read her handwriting."
+      ]
+    },
+    {
+      "ru": "Эту воду безопасно пить?",
+      "en": [
+        "Is this water safe to drink?",
+        "Is it safe to drink this water?"
+      ]
+    },
+    {
+      "ru": "На этот вопрос было легко ответить.",
+      "en": [
+        "This question was easy to answer.",
+        "It was easy to answer this question."
+      ]
+    },
+    {
+      "ru": "С Сарой интересно разговаривать.",
+      "en": [
+        "Sarah is interesting to talk to.",
+        "It's interesting to talk to Sarah."
+      ]
+    },
+    {
+      "ru": "Эту машину дорого содержать.",
+      "en": [
+        "This car is expensive to run.",
+        "This car is expensive to maintain.",
+        "It's expensive to run this car."
+      ]
+    },
+    {
+      "ru": "Это слово трудно перевести.",
+      "en": [
+        "It's a difficult word to translate.",
+        "It's a hard word to translate.",
+        "This word is difficult to translate.",
+        "This word is hard to translate."
+      ]
+    },
+    {
+      "ru": "Это хорошее место для жизни.",
+      "en": [
+        "It's a good place to live.",
+        "This is a good place to live.",
+        "It's a nice place to live."
+      ]
+    },
+    {
+      "ru": "Очень мило с твоей стороны помочь мне.",
+      "en": [
+        "It's very kind of you to help me.",
+        "It's very nice of you to help me."
+      ]
+    },
+    {
+      "ru": "Было глупо с моей стороны поверить ему.",
+      "en": [
+        "It was stupid of me to believe him.",
+        "It was silly of me to believe him."
+      ]
+    },
+    {
+      "ru": "Было нечестно с его стороны так говорить.",
+      "en": [
+        "It was unfair of him to say that.",
+        "It was unfair of him to say so."
+      ]
+    },
+    {
+      "ru": "Было небрежно с её стороны оставить дверь открытой.",
+      "en": [
+        "It was careless of her to leave the door open."
+      ]
+    },
+    {
+      "ru": "Очень щедро с вашей стороны заплатить за всех.",
+      "en": [
+        "It's very generous of you to pay for everyone.",
+        "It's very generous of you to pay for everybody."
+      ]
+    },
+    {
+      "ru": "Мне жаль слышать, что ты болеешь.",
+      "en": [
+        "I'm sorry to hear that you're ill.",
+        "I'm sorry to hear you're ill.",
+        "I'm sorry to hear that you're sick.",
+        "I'm sorry to hear you're sick."
+      ]
+    },
+    {
+      "ru": "Мы были рады вас видеть.",
+      "en": [
+        "We were glad to see you.",
+        "We were pleased to see you.",
+        "We were happy to see you."
+      ]
+    },
+    {
+      "ru": "Ты удивился, увидев её там?",
+      "en": [
+        "Were you surprised to see her there?"
+      ]
+    },
+    {
+      "ru": "Ей было грустно узнать, что он уехал.",
+      "en": [
+        "She was sad to hear that he had left.",
+        "She was sad to hear he had left.",
+        "She was sad to learn that he had left."
+      ]
+    },
+    {
+      "ru": "Я с облегчением узнал, что все в порядке.",
+      "en": [
+        "I was relieved to hear that everyone was OK.",
+        "I was relieved to hear everyone was OK.",
+        "I was relieved to hear that everybody was OK.",
+        "I was relieved to hear that everyone was all right."
+      ]
+    },
+    {
+      "ru": "Он пришёл первым.",
+      "en": [
+        "He was the first to arrive.",
+        "He was the first person to arrive.",
+        "He was the first one to arrive."
+      ]
+    },
+    {
+      "ru": "Я был единственным, кто сдал экзамен.",
+      "en": [
+        "I was the only one to pass the exam.",
+        "I was the only person to pass the exam."
+      ]
+    },
+    {
+      "ru": "Кейт ушла последней.",
+      "en": [
+        "Kate was the last to leave.",
+        "Kate was the last person to leave.",
+        "Kate was the last one to leave."
+      ]
+    },
+    {
+      "ru": "Она финишировала второй.",
+      "en": [
+        "She was the second to finish.",
+        "She was the second person to finish.",
+        "She was the second one to finish."
+      ]
+    },
+    {
+      "ru": "Он обязательно опоздает.",
+      "en": [
+        "He's bound to be late.",
+        "He's sure to be late."
+      ]
+    },
+    {
+      "ru": "Вряд ли завтра пойдёт снег.",
+      "en": [
+        "It isn't likely to snow tomorrow.",
+        "It's unlikely to snow tomorrow."
+      ]
+    },
+    {
+      "ru": "Ты наверняка найдёшь работу.",
+      "en": [
+        "You're sure to find a job.",
+        "You're bound to find a job."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": 140,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 4 on/off (1)",
+  "subtitle": "Свет и техника, события, одежда, off = прочь: put off, set off…",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Свет и приборы: <b>The light is on/off</b>, <b>turn/switch the light on/off</b>, <b>leave the TV on</b>. Также <b>put some music on</b> — включить музыку, <b>put the kettle on</b> — поставить чайник."
+    },
+    {
+      "type": "h",
+      "text": "События"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>go on</b> — происходить: <b>What's going on?</b>",
+        "<b>call off</b> — отменить: <b>The match was called off.</b>",
+        "<b>put off</b> / <b>put off doing</b> — отложить: <b>Don't put off calling her.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Одежда"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>put on</b> — надеть (одежду, очки, ремень безопасности); <b>put on weight</b> — поправиться.",
+        "<b>try on</b> — примерить; <b>take off</b> — снять."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Off = прочь, от места"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>be off (to)</b> — уезжать, отправляться: <b>I'm off to Rome.</b>",
+        "<b>walk / run / drive / ride / go off</b> — уйти, убежать, уехать.",
+        "<b>set off</b> — отправиться в путь; <b>take off</b> — взлететь (о самолёте); <b>see somebody off</b> — проводить."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Надеть» — <b>put on</b> (действие), а «носить, быть в чём-то» — <b>wear</b>. «Отложить» — <b>put off</b>, «отменить совсем» — <b>call off</b>. И помните: <b>put it on</b>, <b>take them off</b>, а не <b>put on it</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Оставить свет включённым или выключить?",
+      "en": [
+        "Shall I leave the light on or turn it off?",
+        "Should I leave the light on or turn it off?",
+        "Shall I leave the light on or switch it off?"
+      ]
+    },
+    {
+      "ru": "Отопление включено?",
+      "en": [
+        "Is the heating on?"
+      ]
+    },
+    {
+      "ru": "Выключи телевизор, пожалуйста.",
+      "en": [
+        "Turn off the TV, please.",
+        "Turn the TV off, please.",
+        "Switch off the TV, please.",
+        "Switch the TV off, please.",
+        "Please turn off the TV.",
+        "Please turn the TV off."
+      ]
+    },
+    {
+      "ru": "Давай включим какую-нибудь спокойную музыку.",
+      "en": [
+        "Let's put on some quiet music.",
+        "Let's put some quiet music on.",
+        "Let's put on some calm music."
+      ]
+    },
+    {
+      "ru": "Я поставлю чайник.",
+      "en": [
+        "I'll put the kettle on."
+      ]
+    },
+    {
+      "ru": "Что здесь происходит?",
+      "en": [
+        "What's going on here?"
+      ]
+    },
+    {
+      "ru": "Концерт отменили из-за дождя.",
+      "en": [
+        "The concert was called off because of the rain.",
+        "They called off the concert because of the rain."
+      ]
+    },
+    {
+      "ru": "Давай не будем отменять вечеринку.",
+      "en": [
+        "Let's not call off the party.",
+        "Let's not call the party off."
+      ]
+    },
+    {
+      "ru": "Встречу перенесли на следующую неделю.",
+      "en": [
+        "The meeting has been put off until next week.",
+        "The meeting was put off until next week.",
+        "The meeting has been put off till next week."
+      ]
+    },
+    {
+      "ru": "Перестань откладывать визит к врачу.",
+      "en": [
+        "Stop putting off going to the doctor.",
+        "Stop putting off your visit to the doctor."
+      ]
+    },
+    {
+      "ru": "На улице холодно, надень шапку.",
+      "en": [
+        "It's cold outside, put on your hat.",
+        "It's cold outside, put your hat on."
+      ]
+    },
+    {
+      "ru": "Пристегни ремень безопасности.",
+      "en": [
+        "Put on your seat belt.",
+        "Put your seat belt on."
+      ]
+    },
+    {
+      "ru": "Я поправился на три килограмма.",
+      "en": [
+        "I've put on three kilos.",
+        "I put on three kilos."
+      ]
+    },
+    {
+      "ru": "Можно мне примерить эти джинсы?",
+      "en": [
+        "Can I try on these jeans?",
+        "Can I try these jeans on?",
+        "Could I try on these jeans?"
+      ]
+    },
+    {
+      "ru": "Я примерил платье, но оно было мало.",
+      "en": [
+        "I tried the dress on, but it was too small.",
+        "I tried on the dress, but it was too small."
+      ]
+    },
+    {
+      "ru": "Сними очки, пожалуйста.",
+      "en": [
+        "Take off your glasses, please.",
+        "Take your glasses off, please.",
+        "Please take off your glasses."
+      ]
+    },
+    {
+      "ru": "Завтра я уезжаю в Берлин.",
+      "en": [
+        "I'm off to Berlin tomorrow.",
+        "Tomorrow I'm off to Berlin."
+      ]
+    },
+    {
+      "ru": "Ну всё, я пошёл.",
+      "en": [
+        "Well, I'm off now.",
+        "Right, I'm off now.",
+        "Well, I'm off.",
+        "OK, I'm off now."
+      ]
+    },
+    {
+      "ru": "Девушка села на велосипед и уехала.",
+      "en": [
+        "The girl got on her bike and rode off.",
+        "The girl got on her bicycle and rode off."
+      ]
+    },
+    {
+      "ru": "Он развернулся и ушёл, не сказав ни слова.",
+      "en": [
+        "He turned and walked off without a word.",
+        "He turned round and walked off without saying a word."
+      ]
+    },
+    {
+      "ru": "Мы отправились в путь в шесть утра.",
+      "en": [
+        "We set off at six in the morning.",
+        "We set off at 6 in the morning.",
+        "We set off at six am."
+      ]
+    },
+    {
+      "ru": "Самолёт взлетел с опозданием на час.",
+      "en": [
+        "The plane took off an hour late."
+      ]
+    },
+    {
+      "ru": "Родители проводили меня в аэропорту.",
+      "en": [
+        "My parents saw me off at the airport."
+      ]
+    },
+    {
+      "ru": "Ты придёшь на вокзал проводить нас?",
+      "en": [
+        "Will you come to the station to see us off?",
+        "Are you coming to the station to see us off?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": 138,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 2 in/out",
+  "subtitle": "get in / get out, move in, check out, fill in, drop out, leave out…",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>In</b> — внутрь (в комнату, здание, машину), <b>out</b> — наружу. <b>Get in / get out</b>, <b>come in / go out</b>, <b>move in / move out</b> (въехать / съехать), <b>check in / check out</b> (зарегистрироваться / выписаться), <b>let somebody in / out</b>, <b>be locked out</b> (не попасть домой без ключа)."
+    },
+    {
+      "type": "p",
+      "text": "Если дальше называется место, нужен предлог: <b>in → into</b>, <b>out → out of</b>. <b>We moved in.</b> — <b>We moved into a new flat.</b> <b>She got out.</b> — <b>She got out of the car.</b>"
+    },
+    {
+      "type": "h",
+      "text": "Другие глаголы с in"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>fill in / fill out a form</b> — заполнить анкету.",
+        "<b>drop in</b> — заглянуть к кому-то без договорённости.",
+        "<b>join in</b> — присоединиться к тому, что уже идёт.",
+        "<b>plug in</b> — включить в розетку.",
+        "<b>take somebody in</b> — обмануть: <b>I was taken in.</b> — меня провели."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Другие глаголы с out"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>eat out</b> — поесть в ресторане, не дома.",
+        "<b>drop out (of a course / university)</b> — бросить, не закончив.",
+        "<b>get out of something</b> — увильнуть от обещанного.",
+        "<b>leave out</b> — пропустить, не включить; <b>cross out</b> — зачеркнуть."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Не путайте: <b>I'm moving in on Monday</b> (без места), но <b>I'm moving into a new house</b> (с местом). Аналогично <b>climb out</b>, но <b>climb out of the window</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Как ты попал внутрь?",
+      "en": [
+        "How did you get in?"
+      ]
+    },
+    {
+      "ru": "Дверь открыта, заходи.",
+      "en": [
+        "The door is open, come in."
+      ]
+    },
+    {
+      "ru": "Не выходи из машины.",
+      "en": [
+        "Don't get out of the car."
+      ]
+    },
+    {
+      "ru": "Я забыл ключи и не смог попасть домой.",
+      "en": [
+        "I forgot my keys and was locked out.",
+        "I forgot my keys and got locked out.",
+        "I forgot my keys and couldn't get in."
+      ]
+    },
+    {
+      "ru": "Вот ключ, ты можешь войти сам.",
+      "en": [
+        "Here's a key, you can let yourself in.",
+        "Here is the key, you can let yourself in."
+      ]
+    },
+    {
+      "ru": "Мы въезжаем в следующую субботу.",
+      "en": [
+        "We're moving in next Saturday."
+      ]
+    },
+    {
+      "ru": "Когда вы переезжаете в новый дом?",
+      "en": [
+        "When are you moving into the new house?",
+        "When are you moving into your new house?"
+      ]
+    },
+    {
+      "ru": "Мои соседи съехали в прошлом месяце.",
+      "en": [
+        "My neighbours moved out last month.",
+        "My neighbors moved out last month."
+      ]
+    },
+    {
+      "ru": "Нам нужно зарегистрироваться за два часа до вылета.",
+      "en": [
+        "We need to check in two hours before the flight.",
+        "We have to check in two hours before the flight."
+      ]
+    },
+    {
+      "ru": "Во сколько нам нужно выехать из отеля?",
+      "en": [
+        "What time do we have to check out?",
+        "What time do we need to check out?",
+        "What time do we have to check out of the hotel?"
+      ]
+    },
+    {
+      "ru": "Кошка хочет на улицу, выпусти её.",
+      "en": [
+        "The cat wants to go out, let it out.",
+        "The cat wants to go outside, let it out."
+      ]
+    },
+    {
+      "ru": "Он выбрался из бассейна и вытерся.",
+      "en": [
+        "He climbed out of the pool and dried himself.",
+        "He got out of the pool and dried himself."
+      ]
+    },
+    {
+      "ru": "Заполните эту анкету до пятницы, пожалуйста.",
+      "en": [
+        "Please fill in this form by Friday.",
+        "Please fill out this form by Friday.",
+        "Fill in this form by Friday, please.",
+        "Fill out this form by Friday, please."
+      ]
+    },
+    {
+      "ru": "Заходи к нам, когда будешь рядом.",
+      "en": [
+        "Drop in when you're nearby.",
+        "Drop in when you're in the area."
+      ]
+    },
+    {
+      "ru": "Давай в субботу поужинаем в ресторане.",
+      "en": [
+        "Let's eat out on Saturday.",
+        "Let's eat out on Saturday evening."
+      ]
+    },
+    {
+      "ru": "Бен бросил университет после первого курса.",
+      "en": [
+        "Ben dropped out of university after the first year.",
+        "Ben dropped out of university after his first year."
+      ]
+    },
+    {
+      "ru": "Я обещал помочь и теперь не могу отвертеться.",
+      "en": [
+        "I promised to help and now I can't get out of it."
+      ]
+    },
+    {
+      "ru": "Не пропускай ни одного слова.",
+      "en": [
+        "Don't leave out any words.",
+        "Don't leave any words out."
+      ]
+    },
+    {
+      "ru": "Почему меня не включили в список?",
+      "en": [
+        "Why was I left out of the list?",
+        "Why did they leave me out of the list?"
+      ]
+    },
+    {
+      "ru": "Зачеркни ошибку и напиши правильный ответ.",
+      "en": [
+        "Cross out the mistake and write the correct answer.",
+        "Cross the mistake out and write the correct answer.",
+        "Cross out the mistake and write the right answer."
+      ]
+    },
+    {
+      "ru": "Дети играли в футбол, и я присоединился.",
+      "en": [
+        "The children were playing football and I joined in.",
+        "The kids were playing football and I joined in.",
+        "The children were playing football, so I joined in."
+      ]
+    },
+    {
+      "ru": "Телевизор не работает, ты его не включил в розетку.",
+      "en": [
+        "The TV isn't working, you haven't plugged it in.",
+        "The TV doesn't work, you haven't plugged it in.",
+        "The TV isn't working, you didn't plug it in."
+      ]
+    },
+    {
+      "ru": "Он казался честным, и нас обманули.",
+      "en": [
+        "He seemed honest and we were taken in.",
+        "He seemed honest, and we were completely taken in."
+      ]
+    },
+    {
+      "ru": "Не дай ему себя обмануть.",
+      "en": [
+        "Don't let him take you in.",
+        "Don't be taken in by him."
+      ]
+    }
+  ]
+}

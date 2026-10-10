@@ -1,0 +1,227 @@
+{
+  "id": 13,
+  "section": "Present perfect и прошедшее время",
+  "title": "Present perfect and past 1 (I have done and I did)",
+  "subtitle": "Ситуация сейчас или только прошлое; новость и подробности",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Present perfect — это по сути настоящее время: он сообщает о ситуации <b>сейчас</b>. Past simple рассказывает только о прошлом и ничего не говорит о том, что сейчас."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Present perfect — важно сейчас",
+        "Past simple — только прошлое"
+      ],
+      "rows": [
+        [
+          "<b>Kate has lost her bag.</b> (сумки нет до сих пор)",
+          "<b>Kate lost her bag, but then she found it.</b>"
+        ],
+        [
+          "<b>They've gone away.</b> (их сейчас нет)",
+          "<b>They went away, but now they're back home.</b>"
+        ],
+        [
+          "<b>It has stopped snowing.</b> (снега нет)",
+          "<b>It stopped snowing for a while, but now it's snowing again.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Новости и давние события"
+    },
+    {
+      "type": "p",
+      "text": "О свежих событиях можно сказать обоими способами: <b>I've repaired the TV</b> или <b>I repaired the TV</b>. Но о давнем, не новом — только past simple: <b>My grandmother grew up in France.</b> <b>Shakespeare wrote a lot of plays.</b> <b>Who invented the radio?</b> (но <b>Scientists have invented a new medicine</b> — это новость)."
+    },
+    {
+      "type": "h",
+      "text": "Новость → подробности"
+    },
+    {
+      "type": "p",
+      "text": "Новость сообщаем в present perfect, а когда продолжаем разговор о ней — переходим на past simple: <b>I've burnt my hand!</b> — <b>How did it happen?</b> — <b>I picked up a hot pan.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Не задавайте вопрос о подробностях в перфекте: «Как это случилось?», «Где ты его нашёл?» — это <b>How did it happen?</b>, <b>Where did you find it?</b>, а не <b>has it happened</b>. И «Где ты родился?» — всегда <b>Where were you born?</b>"
+    }
+  ],
+  "items": [
+    {
+      "ru": "(и до сих пор не нашла) Кейт потеряла сумку.",
+      "en": [
+        "Kate has lost her bag."
+      ]
+    },
+    {
+      "ru": "Кейт потеряла сумку, но потом нашла её.",
+      "en": [
+        "Kate lost her bag, but then she found it.",
+        "Kate lost her bag, but later she found it.",
+        "Kate lost her bag, but then found it."
+      ]
+    },
+    {
+      "ru": "Они уехали и вернутся только в понедельник.",
+      "en": [
+        "They've gone away and won't be back until Monday.",
+        "They've gone away and will be back on Monday.",
+        "They've gone away and won't be back till Monday."
+      ]
+    },
+    {
+      "ru": "Они уезжали, но сейчас уже дома.",
+      "en": [
+        "They went away, but now they're back home.",
+        "They went away, but they're back home now.",
+        "They went away, but now they're at home."
+      ]
+    },
+    {
+      "ru": "(сейчас снега нет) Снег прекратился, так что можно идти.",
+      "en": [
+        "It has stopped snowing, so we can go.",
+        "It's stopped snowing, so we can go now."
+      ]
+    },
+    {
+      "ru": "Снег ненадолго прекратился, но теперь снова идёт.",
+      "en": [
+        "It stopped snowing for a while, but now it's snowing again.",
+        "It stopped snowing for a bit, but now it's snowing again."
+      ]
+    },
+    {
+      "ru": "Я починил телевизор, теперь он работает.",
+      "en": [
+        "I've repaired the TV, and it works now.",
+        "I repaired the TV, and it works now.",
+        "I've fixed the TV, and it works now.",
+        "I fixed the TV, and now it works."
+      ]
+    },
+    {
+      "ru": "У Лизы родился ребёнок!",
+      "en": [
+        "Lisa has had a baby!",
+        "Lisa had a baby!"
+      ]
+    },
+    {
+      "ru": "Моя бабушка выросла во Франции.",
+      "en": [
+        "My grandmother grew up in France.",
+        "My grandma grew up in France."
+      ]
+    },
+    {
+      "ru": "Шекспир написал много пьес.",
+      "en": [
+        "Shakespeare wrote a lot of plays.",
+        "Shakespeare wrote many plays."
+      ]
+    },
+    {
+      "ru": "Кто изобрёл радио?",
+      "en": [
+        "Who invented the radio?"
+      ]
+    },
+    {
+      "ru": "Учёные изобрели новое лекарство.",
+      "en": [
+        "Scientists have invented a new medicine.",
+        "Scientists have developed a new medicine.",
+        "Scientists have invented a new drug."
+      ]
+    },
+    {
+      "ru": "Я обжёг руку!",
+      "en": [
+        "I've burnt my hand!",
+        "I've burned my hand!"
+      ]
+    },
+    {
+      "ru": "Как это случилось?",
+      "en": [
+        "How did it happen?",
+        "How did that happen?"
+      ]
+    },
+    {
+      "ru": "Я взял горячую сковородку.",
+      "en": [
+        "I picked up a hot pan.",
+        "I took a hot pan.",
+        "I picked up a hot frying pan."
+      ]
+    },
+    {
+      "ru": "Смотри, кто-то пролил кофе на ковёр.",
+      "en": [
+        "Look, somebody has spilt coffee on the carpet.",
+        "Look, someone has spilt coffee on the carpet.",
+        "Look, somebody has spilled coffee on the carpet.",
+        "Look, someone has spilled coffee on the carpet."
+      ]
+    },
+    {
+      "ru": "Это был не я, я этого не делал.",
+      "en": [
+        "It wasn't me, I didn't do it."
+      ]
+    },
+    {
+      "ru": "Где ты нашёл свой телефон?",
+      "en": [
+        "Where did you find your phone?"
+      ]
+    },
+    {
+      "ru": "(теперь он совсем другой) Город сильно изменился.",
+      "en": [
+        "The town has changed a lot.",
+        "The city has changed a lot."
+      ]
+    },
+    {
+      "ru": "Я учил французский в школе, но почти всё забыл.",
+      "en": [
+        "I studied French at school, but I've forgotten almost everything.",
+        "I learnt French at school, but I've forgotten almost everything.",
+        "I learned French at school, but I've forgotten almost everything.",
+        "I studied French at school, but I've forgotten most of it."
+      ]
+    },
+    {
+      "ru": "(рука в гипсе) Бен сломал руку.",
+      "en": [
+        "Ben has broken his arm."
+      ]
+    },
+    {
+      "ru": "(рассказываю, как это было) Он упал с велосипеда.",
+      "en": [
+        "He fell off his bike.",
+        "He fell off his bicycle."
+      ]
+    },
+    {
+      "ru": "Где родились твои родители?",
+      "en": [
+        "Where were your parents born?"
+      ]
+    },
+    {
+      "ru": "Эйнштейн был великим учёным.",
+      "en": [
+        "Einstein was a great scientist."
+      ]
+    }
+  ]
+}

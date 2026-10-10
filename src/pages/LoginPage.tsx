@@ -15,9 +15,9 @@ export default function LoginPage() {
     <div className="login">
       <div className="login-card">
         <div className="brand big">
-          <span className="brand-logo">16</span>
+          <span className="brand-logo">EG</span>
           <span className="brand-text">
-            Полиглот<small>английский за 16 уроков</small>
+            Мёрфи<small>грамматика по методу «Полиглот»</small>
           </span>
         </div>
 

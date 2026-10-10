@@ -1,0 +1,41 @@
+{
+  "id": 60,
+  "section": "-ing и to",
+  "title": "Preposition (in/for/about etc.) + -ing",
+  "subtitle": "После предлога глагол всегда с -ing: by, without, before, to",
+  "theory": [
+    { "type": "p", "text": "Главное правило: если после <b>предлога</b> (in, at, of, for, about, with, instead of, in spite of и т. д.) идёт глагол, он принимает форму <b>-ing</b>: <b>She's good at drawing.</b> <b>Thanks for calling.</b> <b>How about meeting tomorrow?</b> Можно вставить и человека: <b>I'm tired of people asking me that.</b>" },
+    { "type": "h", "text": "before / after / by / without + -ing" },
+    { "type": "list", "items": ["<b>before -ing</b>, <b>after -ing</b>: <b>Before leaving, check the windows.</b> Можно и с подлежащим: <b>Before you leave, ...</b>", "<b>by -ing</b> — каким способом: <b>He learned to cook by watching videos.</b>", "<b>without -ing</b> — не сделав что-то: <b>She left without paying.</b>"] },
+    { "type": "h", "text": "to как предлог" },
+    { "type": "p", "text": "Обычно <b>to</b> — часть инфинитива (<b>I want to go</b>). Но иногда <b>to</b> — предлог, и тогда после него <b>-ing</b>: <b>look forward to</b>, <b>prefer A to B</b>." },
+    { "type": "table", "head": ["Инфинитив", "Предлог to + -ing"], "rows": [["I hope to see you.", "I'm looking forward to seeing you."], ["I want to cycle.", "I prefer cycling to driving."]] },
+    { "type": "tip", "text": "Русские часто переводят «перед тем как выйти» как <b>before to go</b>, а «жду с нетерпением встречи» — <b>looking forward to meet</b>. Правильно: <b>before going</b>, <b>looking forward to meeting</b>." }
+  ],
+  "items": [
+    { "ru": "Тебе интересно изучать японский?", "en": ["Are you interested in learning Japanese?"] },
+    { "ru": "Я не очень хорошо запоминаю имена.", "en": ["I'm not very good at remembering names."] },
+    { "ru": "Мне надоело ждать.", "en": ["I'm fed up with waiting.", "I'm tired of waiting.", "I'm sick of waiting."] },
+    { "ru": "Какие плюсы у жизни в большом городе?", "en": ["What are the advantages of living in a big city?"] },
+    { "ru": "Спасибо, что помог мне.", "en": ["Thanks for helping me.", "Thank you for helping me."] },
+    { "ru": "Как насчёт того, чтобы пойти поплавать?", "en": ["How about going swimming?", "What about going swimming?", "How about going for a swim?", "What about going for a swim?"] },
+    { "ru": "Почему бы тебе не поехать на автобусе вместо того, чтобы идти пешком?", "en": ["Why don't you take the bus instead of walking?", "Why don't you go by bus instead of walking?"] },
+    { "ru": "Том пошёл в школу, несмотря на то что плохо себя чувствовал.", "en": ["Tom went to school in spite of feeling ill.", "Tom went to school despite feeling ill.", "Tom went to school in spite of feeling unwell.", "Tom went to school despite feeling unwell.", "Tom went to school in spite of feeling sick.", "Tom went to school despite feeling sick."] },
+    { "ru": "Перед тем как выйти, я выключил свет.", "en": ["Before going out, I turned off the light.", "Before going out, I switched off the light.", "Before leaving, I turned off the light.", "Before leaving, I switched off the light.", "Before I went out, I turned off the light.", "Before I left, I turned off the light."] },
+    { "ru": "Что ты делал после окончания университета?", "en": ["What did you do after finishing university?", "What did you do after leaving university?", "What did you do after you finished university?", "What did you do after you left university?"] },
+    { "ru": "Пообедав, мы пошли гулять.", "en": ["After having lunch, we went for a walk.", "After eating lunch, we went for a walk.", "After we had lunch, we went for a walk."] },
+    { "ru": "Можно выучить много новых слов, смотря фильмы.", "en": ["You can learn a lot of new words by watching films.", "You can learn a lot of new words by watching movies.", "You can learn lots of new words by watching films."] },
+    { "ru": "Он похудел, перестав есть сладкое.", "en": ["He lost weight by not eating sweets.", "He lost weight by giving up sweets.", "He lost weight by stopping eating sweets."] },
+    { "ru": "Этот телефон включается нажатием этой кнопки.", "en": ["You turn on this phone by pressing this button.", "You turn this phone on by pressing this button.", "You switch on this phone by pressing this button.", "You switch this phone on by pressing this button."] },
+    { "ru": "Она заработала деньги, продавая старые книги.", "en": ["She made money by selling old books.", "She earned money by selling old books."] },
+    { "ru": "Он ушёл, не попрощавшись.", "en": ["He left without saying goodbye."] },
+    { "ru": "Я подписал бумаги, не прочитав их.", "en": ["I signed the papers without reading them.", "I signed the documents without reading them."] },
+    { "ru": "Мы проехали пятьсот километров без остановки.", "en": ["We drove five hundred kilometres without stopping.", "We drove 500 kilometres without stopping.", "We drove five hundred kilometers without stopping.", "We drove 500 kilometers without stopping."] },
+    { "ru": "Она вошла, не постучав.", "en": ["She came in without knocking.", "She walked in without knocking.", "She went in without knocking."] },
+    { "ru": "Я с нетерпением жду встречи с тобой.", "en": ["I'm looking forward to seeing you.", "I'm looking forward to meeting you."] },
+    { "ru": "Ты с нетерпением ждёшь поездки в Италию?", "en": ["Are you looking forward to going to Italy?", "Are you looking forward to travelling to Italy?", "Are you looking forward to your trip to Italy?"] },
+    { "ru": "Я предпочитаю ездить на велосипеде, а не на машине.", "en": ["I prefer cycling to driving.", "I prefer riding a bike to driving.", "I prefer cycling rather than driving."] },
+    { "ru": "(меня это не радует) Мне совсем не хочется идти завтра к врачу.", "en": ["I'm not looking forward to going to the doctor tomorrow.", "I'm not looking forward to seeing the doctor tomorrow."] },
+    { "ru": "Мне надоело, что соседи шумят по ночам.", "en": ["I'm fed up with the neighbours making noise at night.", "I'm tired of the neighbours making noise at night.", "I'm fed up with the neighbors making noise at night."] }
+  ]
+}

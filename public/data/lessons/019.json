@@ -1,0 +1,48 @@
+{
+  "id": 19,
+  "section": "Будущее время",
+  "title": "Present tenses (I am doing / I do) for the future",
+  "subtitle": "Договорённости (I'm meeting) и расписания (the train leaves)",
+  "theory": [
+    { "type": "p", "text": "Present continuous (<b>I'm doing</b>) говорит о будущем, если всё уже <b>решено и договорено</b>: билеты куплены, встреча назначена. <b>I'm seeing the doctor on Monday.</b> <b>We're flying to Rome next week.</b>" },
+    { "type": "list", "items": [
+      "Вопрос о планах: <b>What are you doing this weekend?</b> (не What do you do / What will you do)",
+      "Отрицание: <b>I'm not working tomorrow.</b>",
+      "Для уже договорённого <b>will</b> обычно не используем: <b>Mike is getting married in May.</b> (не will get)"
+    ] },
+    { "type": "p", "text": "Так же говорим о действии, которое вот-вот начнётся, особенно с <b>go, come, leave</b>: <b>I'm going home now.</b> <b>Wait, I'm coming!</b>" },
+    { "type": "h", "text": "Present simple для будущего" },
+    { "type": "p", "text": "Present simple (<b>I do</b>) — для <b>расписаний и программ</b>: транспорт, кино, уроки, магазины. <b>The bus leaves at six.</b> <b>When does the course begin?</b> Так можно сказать и о человеке, если его план жёсткий, как расписание: <b>Jane starts her new job on Monday.</b>" },
+    { "type": "table", "head": ["Личная договорённость", "Расписание"], "rows": [
+      ["<b>What time are you leaving?</b>", "<b>What time does the bus leave?</b>"],
+      ["<b>I'm going to the theatre tonight.</b>", "<b>The play starts at seven.</b>"]
+    ] },
+    { "type": "tip", "text": "Русское «Что ты делаешь в субботу?» переводят как «What do you do on Saturday?» — это вопрос о привычке. О планах спрашивают <b>What are you doing on Saturday?</b>" }
+  ],
+  "items": [
+    { "ru": "(уже договорились) В субботу я играю в теннис с Ником.", "en": ["I'm playing tennis with Nick on Saturday.", "On Saturday I'm playing tennis with Nick."] },
+    { "ru": "Что ты делаешь сегодня вечером?", "en": ["What are you doing this evening?", "What are you doing tonight?"] },
+    { "ru": "(договорились) Мы встречаемся с Анной в шесть.", "en": ["We're meeting Anna at six.", "We're meeting Anna at 6."] },
+    { "ru": "Во сколько завтра приезжает твой брат?", "en": ["What time is your brother arriving tomorrow?", "What time is your brother coming tomorrow?", "When is your brother arriving tomorrow?"] },
+    { "ru": "(уже решено) Завтра я не работаю.", "en": ["I'm not working tomorrow.", "Tomorrow I'm not working."] },
+    { "ru": "В следующем месяце Хелен выходит замуж.", "en": ["Helen is getting married next month."] },
+    { "ru": "Кевин не придёт на вечеринку, потому что заболел.", "en": ["Kevin isn't coming to the party because he's ill.", "Kevin isn't coming to the party because he's sick."] },
+    { "ru": "(билеты уже куплены) В июле мы летим в Японию.", "en": ["We're flying to Japan in July.", "We're going to Japan in July.", "In July we're flying to Japan."] },
+    { "ru": "Ты идёшь на день рождения к Саре?", "en": ["Are you going to Sarah's birthday party?", "Are you going to Sarah's party?"] },
+    { "ru": "Я устал, так что иду спать.", "en": ["I'm tired, so I'm going to bed.", "I'm tired so I'm going to bed now."] },
+    { "ru": "Подожди, я иду!", "en": ["Wait, I'm coming!", "Wait a minute, I'm coming!"] },
+    { "ru": "Ну всё, я ухожу.", "en": ["Well, I'm leaving now.", "OK, I'm leaving now.", "I'm leaving now."] },
+    { "ru": "(по расписанию) Мой поезд отходит в десять.", "en": ["My train leaves at ten.", "My train leaves at 10.", "My train departs at ten."] },
+    { "ru": "Во сколько завтра начинается концерт?", "en": ["What time does the concert start tomorrow?", "What time does the concert begin tomorrow?", "When does the concert start tomorrow?"] },
+    { "ru": "Магазин завтра открывается в девять.", "en": ["The shop opens at nine tomorrow.", "The shop opens at 9 tomorrow.", "Tomorrow the shop opens at nine."] },
+    { "ru": "Самолёт прилетает в Рим в полдень.", "en": ["The plane arrives in Rome at noon.", "The plane arrives in Rome at midday.", "The plane gets to Rome at noon."] },
+    { "ru": "(по расписанию) Урок заканчивается в три.", "en": ["The lesson finishes at three.", "The lesson ends at three.", "The lesson finishes at 3."] },
+    { "ru": "Эмма начинает новую работу во вторник.", "en": ["Emma starts her new job on Tuesday.", "Emma is starting her new job on Tuesday."] },
+    { "ru": "Во сколько Пол завтра заканчивает работу?", "en": ["What time does Paul finish work tomorrow?", "When does Paul finish work tomorrow?", "What time is Paul finishing work tomorrow?"] },
+    { "ru": "Во сколько ты встречаешься с Дэном?", "en": ["What time are you meeting Dan?", "When are you meeting Dan?"] },
+    { "ru": "В пятницу у меня собеседование.", "en": ["I have a job interview on Friday.", "I've got a job interview on Friday.", "I have an interview on Friday.", "I've got an interview on Friday."] },
+    { "ru": "Летние каникулы начинаются в июне.", "en": ["The summer holidays start in June.", "The summer holidays begin in June."] },
+    { "ru": "Ты что-нибудь делаешь в воскресенье?", "en": ["Are you doing anything on Sunday?"] },
+    { "ru": "(уже известно) Джон не едет с нами в Париж.", "en": ["John isn't coming to Paris with us.", "John isn't going to Paris with us."] }
+  ]
+}

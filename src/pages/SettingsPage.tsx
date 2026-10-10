@@ -43,7 +43,7 @@ export default function SettingsPage() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `poliglot16-${user?.email ?? 'user'}.json`;
+    a.download = `murphy-${user?.email ?? 'user'}.json`;
     a.click();
     URL.revokeObjectURL(url);
   }

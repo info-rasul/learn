@@ -1,0 +1,227 @@
+{
+  "id": 7,
+  "section": "Present perfect и прошедшее время",
+  "title": "Present perfect 1 (I have done)",
+  "subtitle": "Результат к настоящему моменту: gone/been, just, already, yet",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Present perfect связывает прошлое действие с настоящим: важен <b>результат сейчас</b>. <b>I've lost my phone</b> = я его потерял, и сейчас его у меня нет. Форма: <b>have/has + третья форма глагола</b> (finished, lost, done, broken)."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Утверждение",
+        "Отрицание",
+        "Вопрос"
+      ],
+      "rows": [
+        [
+          "I/we/you/they",
+          "I've finished",
+          "I haven't finished",
+          "Have you finished?"
+        ],
+        [
+          "he/she/it",
+          "she's left",
+          "she hasn't left",
+          "Has she left?"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Часто это свежая новость: <b>Petrol prices have gone up.</b> <b>Somebody has broken the window.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "gone to",
+        "been to"
+      ],
+      "rows": [
+        [
+          "<b>Tom has gone to Paris.</b> — уехал и сейчас там (или в пути)",
+          "<b>Lisa has been to Spain.</b> — съездила и уже вернулась"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>just</b> = только что: <b>I've just had breakfast.</b>",
+        "<b>already</b> = уже (раньше, чем ждали): <b>The train has already left.</b>",
+        "<b>yet</b> = уже? / ещё не — в вопросах и отрицаниях, в конце фразы: <b>Has the film started yet?</b> <b>I haven't finished yet.</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "В русском нет перфекта, поэтому тянет сказать <b>I lost my phone</b> или <b>Did you see my glasses?</b> Если важно состояние сейчас (телефона нет, очки ищу), британский вариант — <b>I've lost…</b>, <b>Have you seen…?</b> И не путайте «ещё не» (<b>not … yet</b>) со «всё ещё» (<b>still</b>)."
+    }
+  ],
+  "items": [
+    {
+      "ru": "(и не могу его найти) Я потерял кошелёк.",
+      "en": [
+        "I've lost my wallet.",
+        "I've lost my purse."
+      ]
+    },
+    {
+      "ru": "(сейчас в гипсе) Анна сломала ногу.",
+      "en": [
+        "Anna has broken her leg."
+      ]
+    },
+    {
+      "ru": "Кто-то разбил окно.",
+      "en": [
+        "Somebody has broken the window.",
+        "Someone has broken the window."
+      ]
+    },
+    {
+      "ru": "Цены на бензин выросли.",
+      "en": [
+        "Petrol prices have gone up.",
+        "The price of petrol has gone up.",
+        "Petrol prices have risen.",
+        "The price of petrol has risen."
+      ]
+    },
+    {
+      "ru": "Он сказал мне свой адрес, но я его забыл.",
+      "en": [
+        "He told me his address, but I've forgotten it."
+      ]
+    },
+    {
+      "ru": "(не могу их найти) Ты видел мои очки?",
+      "en": [
+        "Have you seen my glasses?"
+      ]
+    },
+    {
+      "ru": "(она ещё здесь) Кейт не ушла домой.",
+      "en": [
+        "Kate hasn't gone home."
+      ]
+    },
+    {
+      "ru": "(он сейчас там) Том уехал в Париж.",
+      "en": [
+        "Tom has gone to Paris."
+      ]
+    },
+    {
+      "ru": "(уже вернулась) Лиза съездила в Испанию.",
+      "en": [
+        "Lisa has been to Spain."
+      ]
+    },
+    {
+      "ru": "Где ты был всё это время?",
+      "en": [
+        "Where have you been all this time?"
+      ]
+    },
+    {
+      "ru": "Я только что позавтракал.",
+      "en": [
+        "I've just had breakfast."
+      ]
+    },
+    {
+      "ru": "Мы только что приехали.",
+      "en": [
+        "We've just arrived."
+      ]
+    },
+    {
+      "ru": "Пол только что тебе звонил.",
+      "en": [
+        "Paul has just called you.",
+        "Paul has just phoned you.",
+        "Paul has just rung you."
+      ]
+    },
+    {
+      "ru": "Я уже оплатил счёт.",
+      "en": [
+        "I've already paid the bill."
+      ]
+    },
+    {
+      "ru": "Поезд уже ушёл.",
+      "en": [
+        "The train has already left.",
+        "The train has already gone."
+      ]
+    },
+    {
+      "ru": "Я уже прочитал эту книгу.",
+      "en": [
+        "I've already read this book.",
+        "I've already read that book."
+      ]
+    },
+    {
+      "ru": "Фильм уже начался?",
+      "en": [
+        "Has the film started yet?",
+        "Has the movie started yet?",
+        "Has the film already started?"
+      ]
+    },
+    {
+      "ru": "Я ещё не закончил.",
+      "en": [
+        "I haven't finished yet."
+      ]
+    },
+    {
+      "ru": "Ты уже сделал домашнее задание?",
+      "en": [
+        "Have you done your homework yet?",
+        "Have you finished your homework yet?",
+        "Have you already done your homework?"
+      ]
+    },
+    {
+      "ru": "Они ещё не решили, куда поехать.",
+      "en": [
+        "They haven't decided where to go yet.",
+        "They haven't yet decided where to go."
+      ]
+    },
+    {
+      "ru": "Я купил билеты, но ещё не забронировал отель.",
+      "en": [
+        "I've bought the tickets, but I haven't booked the hotel yet.",
+        "I've bought the tickets, but I haven't booked a hotel yet."
+      ]
+    },
+    {
+      "ru": "Её английский улучшился.",
+      "en": [
+        "Her English has improved.",
+        "Her English has got better.",
+        "Her English has gotten better."
+      ]
+    },
+    {
+      "ru": "Погода изменилась.",
+      "en": [
+        "The weather has changed."
+      ]
+    },
+    {
+      "ru": "(его сейчас нет) Бен вышел.",
+      "en": [
+        "Ben has gone out."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": 122,
+  "section": "Предлоги",
+  "title": "on time and in time, at the end and in the end",
+  "subtitle": "Вовремя или успеть; в конце чего-то или в итоге",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "Выражение",
+        "Значение",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "on time",
+          "точно по плану, не опоздав",
+          "The meeting started on time."
+        ],
+        [
+          "in time (for / to do)",
+          "успеть, достаточно рано",
+          "We got there in time for the show."
+        ],
+        [
+          "just in time",
+          "в последний момент, еле успели",
+          "I caught the bus just in time."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>on time</b> — про расписание и пунктуальность (противоположность — late). <b>in time</b> — про то, что успели к чему-то или сделать что-то (противоположность — too late): <b>in time for dinner</b>, <b>in time to help</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Выражение",
+        "Значение",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "at the end (of)",
+          "в конце чего-то (во времени или месте)",
+          "at the end of the month, at the end of the road"
+        ],
+        [
+          "in the end",
+          "в итоге, в конце концов",
+          "In the end, we stayed at home."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>in the end</b> стоит без of: оно подводит итог после сомнений или трудностей. Аналогично <b>at the beginning of</b> = «в начале чего-то»."
+    },
+    {
+      "type": "tip",
+      "text": "Русское «в конце» не всегда <b>in the end</b>. «В конце фильма» — <b>at the end of the film</b>. <b>In the end</b> — только в смысле «в итоге, в результате»."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Поезд пришёл точно по расписанию.",
+      "en": [
+        "The train arrived on time.",
+        "The train came on time."
+      ]
+    },
+    {
+      "ru": "Встреча началась вовремя.",
+      "en": [
+        "The meeting started on time.",
+        "The meeting began on time."
+      ]
+    },
+    {
+      "ru": "Пожалуйста, приходи на собрание вовремя.",
+      "en": [
+        "Please come to the meeting on time.",
+        "Please be on time for the meeting."
+      ]
+    },
+    {
+      "ru": "Автобусы здесь редко приходят вовремя.",
+      "en": [
+        "The buses here are rarely on time.",
+        "The buses are rarely on time here."
+      ]
+    },
+    {
+      "ru": "Майк никогда не приходит на работу вовремя.",
+      "en": [
+        "Mike never gets to work on time.",
+        "Mike never arrives at work on time.",
+        "Mike never comes to work on time."
+      ]
+    },
+    {
+      "ru": "Мы успели домой к ужину.",
+      "en": [
+        "We got home in time for dinner."
+      ]
+    },
+    {
+      "ru": "Я хочу успеть к началу фильма.",
+      "en": [
+        "I want to be in time for the start of the film.",
+        "I want to be in time for the beginning of the film."
+      ]
+    },
+    {
+      "ru": "Ты успеешь на поезд?",
+      "en": [
+        "Will you be in time for the train?",
+        "Will you be in time to catch the train?"
+      ]
+    },
+    {
+      "ru": "Врач приехал вовремя, чтобы спасти его.",
+      "en": [
+        "The doctor arrived in time to save him.",
+        "The doctor came in time to save him."
+      ]
+    },
+    {
+      "ru": "Я не успел туда, чтобы попрощаться.",
+      "en": [
+        "I didn't get there in time to say goodbye."
+      ]
+    },
+    {
+      "ru": "Мы добрались до аэропорта в последний момент.",
+      "en": [
+        "We got to the airport just in time.",
+        "We arrived at the airport just in time."
+      ]
+    },
+    {
+      "ru": "(мы как раз начинаем) Ты как раз вовремя.",
+      "en": [
+        "You're just in time."
+      ]
+    },
+    {
+      "ru": "Я плачу за квартиру в конце месяца.",
+      "en": [
+        "I pay the rent at the end of the month.",
+        "I pay my rent at the end of the month."
+      ]
+    },
+    {
+      "ru": "В конце фильма все плакали.",
+      "en": [
+        "At the end of the film, everybody cried.",
+        "At the end of the film, everyone cried.",
+        "Everybody cried at the end of the film."
+      ]
+    },
+    {
+      "ru": "Анна живёт в конце этой дороги.",
+      "en": [
+        "Anna lives at the end of this road."
+      ]
+    },
+    {
+      "ru": "В конце недели я еду в Париж.",
+      "en": [
+        "I'm going to Paris at the end of the week.",
+        "At the end of the week I'm going to Paris.",
+        "I'll go to Paris at the end of the week."
+      ]
+    },
+    {
+      "ru": "Прочитай вопросы в конце главы.",
+      "en": [
+        "Read the questions at the end of the chapter."
+      ]
+    },
+    {
+      "ru": "В начале урока учитель проверил домашнее задание.",
+      "en": [
+        "At the beginning of the lesson, the teacher checked the homework.",
+        "At the beginning of the lesson, the teacher checked our homework.",
+        "At the start of the lesson, the teacher checked the homework."
+      ]
+    },
+    {
+      "ru": "В конце концов мы решили остаться дома.",
+      "en": [
+        "In the end, we decided to stay at home.",
+        "In the end, we decided to stay home.",
+        "We decided to stay at home in the end."
+      ]
+    },
+    {
+      "ru": "В итоге он согласился прийти.",
+      "en": [
+        "In the end, he agreed to come.",
+        "He agreed to come in the end."
+      ]
+    },
+    {
+      "ru": "В конце концов мы нашли ключи.",
+      "en": [
+        "In the end, we found the keys.",
+        "We found the keys in the end."
+      ]
+    },
+    {
+      "ru": "Так кто выиграл в итоге?",
+      "en": [
+        "So who won in the end?",
+        "Who won in the end?"
+      ]
+    },
+    {
+      "ru": "В конце концов всё было хорошо.",
+      "en": [
+        "In the end, everything was fine.",
+        "Everything was fine in the end.",
+        "In the end, everything was OK."
+      ]
+    },
+    {
+      "ru": "В итоге Лондон мне понравился.",
+      "en": [
+        "In the end, I liked London.",
+        "I liked London in the end."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 17,
+  "section": "Present perfect и прошедшее время",
+  "title": "have and have got",
+  "subtitle": "«У меня есть»: have и have got; have breakfast, have a shower",
+  "theory": [
+    { "type": "p", "text": "Когда речь о владении, родственниках, болезнях, встречах по расписанию, можно сказать <b>have</b> или <b>have got</b> — смысл одинаковый: <b>I have a bike = I've got a bike</b>, <b>She has a cold = She's got a cold</b>." },
+    { "type": "table", "head": ["", "have", "have got"], "rows": [
+      ["Вопрос", "<b>Do you have a car?</b>", "<b>Have you got a car?</b>"],
+      ["Отрицание", "<b>He doesn't have a car.</b>", "<b>He hasn't got a car.</b>"],
+      ["Прошлое", "<b>I had a car. Did you have...? I didn't have...</b>", "— (got в прошлом обычно не используем)"]
+    ] },
+    { "type": "p", "text": "В значении «иметь» <b>have</b> не ставится в -ing: <b>We have a big flat</b> (не we're having)." },
+    { "type": "h", "text": "have = действие или переживание" },
+    { "type": "list", "items": [
+      "<b>have breakfast / lunch / a coffee</b> — завтракать, обедать, выпить кофе",
+      "<b>have a shower / a bath / a rest / a break / a party / a holiday</b>",
+      "<b>have a good time / fun / trouble / a chat / a look / a dream / an accident</b>",
+      "Здесь <b>have got</b> нельзя, зато можно -ing: <b>She's having a shower.</b> Вопросы и отрицания — через <b>do/does/did</b>: <b>Did you have fun?</b>"
+    ] },
+    { "type": "tip", "text": "Ошибки: «Have you a car?» и «I haven't a car» звучат устаревше — говорите <b>Do you have</b> / <b>Have you got</b>. И не «I usually haven't breakfast», а <b>I don't usually have breakfast</b>." }
+  ],
+  "items": [
+    { "ru": "У них новая квартира.", "en": ["They have a new flat.", "They've got a new flat.", "They have a new apartment.", "They've got a new apartment."] },
+    { "ru": "У Анны три сестры.", "en": ["Anna has three sisters.", "Anna has got three sisters."] },
+    { "ru": "У меня болит зуб.", "en": ["I have toothache.", "I've got toothache.", "I have a toothache.", "I've got a toothache."] },
+    { "ru": "В нашей квартире есть балкон.", "en": ["Our flat has a balcony.", "Our flat has got a balcony.", "Our apartment has a balcony.", "Our apartment has got a balcony."] },
+    { "ru": "В четверг у меня урок английского.", "en": ["I have an English lesson on Thursday.", "I've got an English lesson on Thursday.", "On Thursday I have an English lesson.", "On Thursday I've got an English lesson."] },
+    { "ru": "У тебя есть ручка?", "en": ["Do you have a pen?", "Have you got a pen?"] },
+    { "ru": "У Кевина есть машина?", "en": ["Does Kevin have a car?", "Has Kevin got a car?"] },
+    { "ru": "У меня сейчас нет свободного времени.", "en": ["I don't have any free time now.", "I haven't got any free time now.", "I don't have any free time at the moment.", "I haven't got any free time at the moment."] },
+    { "ru": "У неё нет братьев.", "en": ["She doesn't have any brothers.", "She hasn't got any brothers.", "She has no brothers.", "She's got no brothers."] },
+    { "ru": "У нас в отеле хороший номер.", "en": ["We have a nice room in the hotel.", "We've got a nice room in the hotel.", "We have a good room in the hotel.", "We've got a good room in the hotel."] },
+    { "ru": "В детстве у Мэри были длинные волосы.", "en": ["Mary had long hair when she was a child.", "When Mary was a child, she had long hair.", "Mary had long hair as a child."] },
+    { "ru": "У тебя была собака, когда ты жил в Берлине?", "en": ["Did you have a dog when you lived in Berlin?", "Did you have a dog when you were living in Berlin?"] },
+    { "ru": "У меня не было зонта, и я промок.", "en": ["I didn't have an umbrella, so I got wet.", "I didn't have an umbrella and I got wet."] },
+    { "ru": "Я обычно завтракаю в семь.", "en": ["I usually have breakfast at seven.", "I usually have breakfast at 7."] },
+    { "ru": "Я обычно не обедаю.", "en": ["I don't usually have lunch.", "I usually don't have lunch."] },
+    { "ru": "Алекс сейчас принимает душ.", "en": ["Alex is having a shower now.", "Alex is taking a shower now.", "Alex is having a shower at the moment."] },
+    { "ru": "Мы отлично проводим время в Испании.", "en": ["We're having a great time in Spain.", "We are having a wonderful time in Spain."] },
+    { "ru": "Давай сделаем перерыв.", "en": ["Let's have a break.", "Let's take a break."] },
+    { "ru": "Ты хорошо провёл время на вечеринке?", "en": ["Did you have a good time at the party?", "Did you have fun at the party?"] },
+    { "ru": "У нас были проблемы с поиском отеля.", "en": ["We had trouble finding a hotel.", "We had problems finding a hotel.", "We had difficulty finding a hotel."] },
+    { "ru": "Можно я взгляну на твои фотографии?", "en": ["Can I have a look at your photos?", "Can I have a look at your pictures?", "Could I have a look at your photos?"] },
+    { "ru": "Когда вы обычно ужинаете?", "en": ["When do you usually have dinner?", "What time do you usually have dinner?"] },
+    { "ru": "Прошлой ночью мне приснился странный сон.", "en": ["I had a strange dream last night.", "Last night I had a strange dream."] },
+    { "ru": "В субботу Сара устраивает вечеринку.", "en": ["Sarah is having a party on Saturday."] }
+  ]
+}

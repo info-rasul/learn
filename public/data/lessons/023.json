@@ -1,0 +1,44 @@
+{
+  "id": 23,
+  "section": "Будущее время",
+  "title": "I will and I'm going to",
+  "subtitle": "Новое решение (will) или решено заранее (going to)",
+  "theory": [
+    { "type": "h", "text": "Будущие действия: когда принято решение?" },
+    { "type": "list", "items": [
+      "<b>will</b> — решаю <b>прямо сейчас</b>: «Кейт звонила». — «Да? Тогда я ей перезвоню» — <b>OK, I'll call her back.</b>",
+      "<b>going to</b> — решил <b>раньше</b>: «Кейт звонила». — «Знаю, я собираюсь ей перезвонить» — <b>I know. I'm going to call her back.</b>"
+    ] },
+    { "type": "p", "text": "Проверка: если вы уже обдумали это до разговора — <b>going to</b>. Если мысль пришла только что — <b>will</b>." },
+    { "type": "h", "text": "Прогнозы" },
+    { "type": "p", "text": "Для прогнозов годятся обе формы: <b>I think the party will be fun = I think the party is going to be fun.</b>" },
+    { "type": "p", "text": "Но если вывод сделан по тому, что <b>видно сейчас</b>, говорим <b>going to</b>: <b>Look at the traffic. We're going to miss the plane.</b> Если прогноз — это просто наше мнение или знание о человеке, обычно <b>will</b>: <b>Don't wait for Dan. He'll be late, as usual.</b>" },
+    { "type": "tip", "text": "Русское будущее «я сделаю» одно на все случаи, поэтому легко везде ставить will. Сначала спросите себя: решение новое или уже было? Есть ли признаки прямо сейчас?" }
+  ],
+  "items": [
+    { "ru": "(решил только что) Хорошо, тогда я позвоню друзьям.", "en": ["OK, I'll call my friends then.", "OK, then I'll call my friends.", "OK, I'll phone my friends then."] },
+    { "ru": "(уже решили) Мы собираемся пригласить всех соседей.", "en": ["We're going to invite all the neighbours.", "We're going to invite all our neighbours.", "We're going to invite all the neighbors."] },
+    { "ru": "(узнал только что) Ладно, я ему перезвоню.", "en": ["OK, I'll call him back.", "OK, I'll phone him back.", "OK, I'll ring him back."] },
+    { "ru": "(уже знал и решил) Да, знаю, я собираюсь ему перезвонить.", "en": ["Yes, I know, I'm going to call him back.", "Yes, I know, I'm going to phone him back.", "Yes, I know, I'm going to ring him back."] },
+    { "ru": "(только что узнал, что он болен) Я навещу Пола завтра.", "en": ["I'll visit Paul tomorrow.", "I'll go and see Paul tomorrow.", "I'll go and visit Paul tomorrow."] },
+    { "ru": "(решил ещё вчера) Я собираюсь навестить Пола сегодня вечером.", "en": ["I'm going to visit Paul this evening.", "I'm going to visit Paul tonight.", "I'm going to see Paul this evening."] },
+    { "ru": "(для этого и включил компьютер) Я собираюсь проверить почту.", "en": ["I'm going to check my email.", "I'm going to check my emails.", "I'm going to check my mail."] },
+    { "ru": "(решил сейчас) Не беда, я одолжу тебе немного денег.", "en": ["No problem, I'll lend you some money.", "Don't worry, I'll lend you some money."] },
+    { "ru": "(решил заранее) Я собираюсь покрасить эту комнату в синий цвет.", "en": ["I'm going to paint this room blue."] },
+    { "ru": "В какой цвет ты собираешься её покрасить?", "en": ["What colour are you going to paint it?", "What color are you going to paint it?"] },
+    { "ru": "(в ресторане, решил сейчас) Я возьму рыбу.", "en": ["I'll have the fish.", "I'll have fish.", "I'll take the fish."] },
+    { "ru": "(решил вчера) Завтра я собираюсь встать рано.", "en": ["I'm going to get up early tomorrow.", "Tomorrow I'm going to get up early."] },
+    { "ru": "(ты не знаешь, как это работает) Не волнуйся, я тебе покажу.", "en": ["Don't worry, I'll show you."] },
+    { "ru": "Думаю, завтра будет тепло.", "en": ["I think it will be warm tomorrow.", "I think it's going to be warm tomorrow."] },
+    { "ru": "Эти ботинки прослужат долго.", "en": ["These boots will last a long time.", "These boots are going to last a long time.", "These shoes will last a long time.", "These shoes are going to last a long time."] },
+    { "ru": "(пробка, а встреча через пять минут) Мы не успеем.", "en": ["We're not going to make it.", "We're not going to get there in time."] },
+    { "ru": "(Ник всегда опаздывает) Ник опоздает.", "en": ["Nick will be late."] },
+    { "ru": "(тучи уже на небе) Скоро будет гроза.", "en": ["There's going to be a storm soon."] },
+    { "ru": "(машина едет прямо на столб) Осторожно, он врежется!", "en": ["Look out, he's going to crash!", "Careful, he's going to crash!", "Watch out, he's going to crash!"] },
+    { "ru": "Думаю, тебе понравится этот город.", "en": ["I think you'll like this city.", "I think you're going to like this city.", "I think you'll like this town.", "I think you're going to like this town."] },
+    { "ru": "(решил сейчас) Пожалуй, я надену синюю рубашку.", "en": ["I think I'll wear the blue shirt.", "I think I'll wear my blue shirt."] },
+    { "ru": "(она давно решила) Анна собирается стать врачом.", "en": ["Anna is going to be a doctor.", "Anna is going to become a doctor."] },
+    { "ru": "(уже решил?) Ты собираешься продавать квартиру?", "en": ["Are you going to sell your flat?", "Are you going to sell your apartment?", "Are you going to sell the flat?"] },
+    { "ru": "(решил только что) Ладно, я куплю тебе мороженое.", "en": ["OK, I'll buy you an ice cream.", "OK, I'll buy you some ice cream.", "OK, I'll get you an ice cream."] }
+  ]
+}

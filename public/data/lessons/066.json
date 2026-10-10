@@ -1,0 +1,42 @@
+{
+  "id": 66,
+  "section": "-ing и to",
+  "title": "to ... (afraid to do) and preposition + -ing (afraid of -ing)",
+  "subtitle": "afraid to / of, interested in / to, sorry for / to",
+  "theory": [
+    { "type": "h", "text": "afraid to do и afraid of doing" },
+    { "type": "list", "items": ["<b>afraid to do</b> — боюсь и поэтому не делаю (сознательный выбор): <b>I was afraid to say no.</b>", "<b>afraid of doing</b> — боюсь, что что-то случится само (невольно): <b>I'm afraid of forgetting my passport.</b>", "Вместе: <b>I was afraid to climb higher because I was afraid of falling.</b>"] },
+    { "type": "h", "text": "interested in doing и interested to hear" },
+    { "type": "p", "text": "<b>interested in doing</b> — хочу это сделать, подумываю: <b>Are you interested in buying my car?</b> <b>interested to hear / see / know</b> — мне было интересно узнать: <b>I was interested to read your article.</b> (как <b>surprised to</b>, <b>glad to</b>)." },
+    { "type": "h", "text": "sorry for doing и sorry to ..." },
+    { "type": "list", "items": ["<b>sorry for doing</b> — извинение за то, что сделал: <b>Sorry for interrupting.</b> = <b>I'm sorry I interrupted.</b>", "<b>sorry to hear / to leave</b> — сожаление о том, что происходит: <b>I'm sorry to hear about your dog.</b>", "<b>Sorry to bother you</b> — извинение в момент действия."] },
+    { "type": "table", "head": ["to + инфинитив", "предлог + -ing"], "rows": [["I hope to win.", "I dream of winning."], ["I failed to win.", "I succeeded in winning."], ["I plan to travel.", "I'm thinking of travelling."], ["They allowed us to stay.", "They prevented us from staying."]] },
+    { "type": "tip", "text": "«Боюсь упасть» — это страх, что случится само: <b>afraid of falling</b>, а не <b>afraid to fall</b>. А «извини, что опоздал» — <b>sorry for being late</b> или <b>sorry I'm late</b>, но не <b>sorry to be late</b> о прошлом." }
+  ],
+  "items": [
+    { "ru": "Дети боятся плавать в этой реке.", "en": ["The children are afraid to swim in this river.", "Children are afraid to swim in this river."] },
+    { "ru": "Я боялся сказать ей правду.", "en": ["I was afraid to tell her the truth."] },
+    { "ru": "Не бойся задавать вопросы.", "en": ["Don't be afraid to ask questions."] },
+    { "ru": "Она боялась открыть дверь.", "en": ["She was afraid to open the door."] },
+    { "ru": "Я боюсь опоздать на поезд.", "en": ["I'm afraid of missing the train.", "I'm afraid of missing my train."] },
+    { "ru": "Он боится потерять работу.", "en": ["He's afraid of losing his job."] },
+    { "ru": "Я боюсь уронить телефон в воду.", "en": ["I'm afraid of dropping my phone in the water.", "I'm afraid of dropping my phone into the water."] },
+    { "ru": "Она боится заблудиться в большом городе.", "en": ["She's afraid of getting lost in a big city.", "She's afraid of getting lost in the big city."] },
+    { "ru": "Тебе интересно вступить в наш клуб?", "en": ["Are you interested in joining our club?"] },
+    { "ru": "Никто не захотел покупать мой старый велосипед.", "en": ["Nobody was interested in buying my old bike.", "No one was interested in buying my old bike.", "Nobody was interested in buying my old bicycle."] },
+    { "ru": "Лиза подумывает открыть своё кафе.", "en": ["Lisa is interested in opening her own cafe.", "Lisa is thinking of opening her own cafe."] },
+    { "ru": "Мне было интересно услышать твоё мнение.", "en": ["I was interested to hear your opinion."] },
+    { "ru": "Мне было бы интересно узнать, где он живёт.", "en": ["I'd be interested to know where he lives."] },
+    { "ru": "Мы удивились, узнав, что Ник женится.", "en": ["We were surprised to hear that Nick is getting married.", "We were surprised to hear Nick is getting married.", "We were surprised to hear that Nick was getting married."] },
+    { "ru": "Извини, что накричал на тебя.", "en": ["I'm sorry for shouting at you.", "I'm sorry I shouted at you.", "Sorry for shouting at you."] },
+    { "ru": "Простите, что опоздал.", "en": ["I'm sorry for being late.", "Sorry for being late.", "I'm sorry I'm late.", "Sorry I'm late."] },
+    { "ru": "Извини, что я это сказал.", "en": ["I'm sorry for saying that.", "I'm sorry I said that.", "Sorry for saying that."] },
+    { "ru": "Мне жаль слышать, что ты потерял работу.", "en": ["I'm sorry to hear that you lost your job.", "I'm sorry to hear you lost your job.", "I'm sorry to hear that you've lost your job.", "I'm sorry to hear you've lost your job."] },
+    { "ru": "Мне будет жаль уезжать отсюда.", "en": ["I'll be sorry to leave this place.", "I'll be sorry to leave here."] },
+    { "ru": "Извините за беспокойство, можно задать вопрос?", "en": ["I'm sorry to bother you, but can I ask a question?", "Sorry to bother you, but can I ask a question?", "I'm sorry to disturb you, but can I ask a question?"] },
+    { "ru": "Я подумываю съездить в Италию.", "en": ["I'm thinking of going to Italy.", "I'm thinking about going to Italy."] },
+    { "ru": "Я планирую поехать в Италию.", "en": ["I'm planning to go to Italy.", "I plan to go to Italy."] },
+    { "ru": "Ей удалось сдать экзамен.", "en": ["She succeeded in passing the exam.", "She managed to pass the exam."] },
+    { "ru": "Ему не удалось решить задачу.", "en": ["He failed to solve the problem.", "He didn't manage to solve the problem."] }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 16,
+  "section": "Present perfect и прошедшее время",
+  "title": "Past perfect continuous (I had been doing)",
+  "subtitle": "Действие длилось какое-то время до момента в прошлом",
+  "theory": [
+    { "type": "p", "text": "Past perfect continuous = <b>had been</b> + глагол с <b>-ing</b>: <b>I had been working, she'd been crying</b>. Он показывает действие, которое <b>длилось</b> какое-то время до момента в прошлом (и часто оставило видимый след)." },
+    { "type": "list", "items": [
+      "След от действия: <b>Her eyes were red. She'd been crying.</b> — Она плакала (до того, как я её увидел).",
+      "Сколько длилось до события: <b>We'd been walking for an hour when it got dark.</b>",
+      "Отрицание и вопрос: <b>hadn't been waiting</b>, <b>Had you been waiting long?</b>"
+    ] },
+    { "type": "h", "text": "have been -ing ↔ had been -ing" },
+    { "type": "p", "text": "<b>I've been waiting for an hour.</b> — жду до сих пор (до «сейчас»). <b>I'd been waiting for an hour when he came.</b> — ждал до момента в прошлом." },
+    { "type": "h", "text": "was -ing ↔ had been -ing" },
+    { "type": "p", "text": "<b>She was cooking</b> — в тот момент она готовила (процесс шёл). <b>She had been cooking</b> — до того момента она готовила (может, уже закончила)." },
+    { "type": "p", "text": "Глаголы состояния (<b>know, like, want, own, have</b> = иметь) в -ing не ставим: <b>We had known each other for years.</b> (не had been knowing)." },
+    { "type": "tip", "text": "Русскоговорящие говорят «He was tired because he worked all day». Если важна длительность до момента в прошлом, нужно <b>he had been working all day</b>." }
+  ],
+  "items": [
+    { "ru": "Её глаза были красными: она плакала.", "en": ["Her eyes were red because she had been crying."] },
+    { "ru": "Пол устал, потому что весь день работал в саду.", "en": ["Paul was tired because he had been gardening all day.", "Paul was tired because he had been working in the garden all day."] },
+    { "ru": "Дорога была мокрой: шёл дождь.", "en": ["The road was wet because it had been raining."] },
+    { "ru": "Мы гуляли уже час, когда стемнело.", "en": ["We had been walking for an hour when it got dark.", "We had been walking for an hour when it became dark."] },
+    { "ru": "Руки у Ника были грязные: он чинил машину.", "en": ["Nick's hands were dirty because he had been fixing the car.", "Nick's hands were dirty because he had been repairing the car."] },
+    { "ru": "Дети выглядели виноватыми: они играли с моим телефоном.", "en": ["The children looked guilty because they had been playing with my phone."] },
+    { "ru": "(до сих пор) Я жду тебя уже двадцать минут.", "en": ["I've been waiting for you for twenty minutes.", "I've been waiting for you for 20 minutes."] },
+    { "ru": "(тогда) Я ждал уже двадцать минут, когда она наконец пришла.", "en": ["I had been waiting for twenty minutes when she finally came.", "I had been waiting for twenty minutes when she finally arrived.", "I had been waiting for 20 minutes when she finally came.", "I had been waiting for her for twenty minutes when she finally came."] },
+    { "ru": "(сейчас) Эмма запыхалась: она бежала.", "en": ["Emma is out of breath because she has been running.", "Emma is out of breath because she's been running."] },
+    { "ru": "(тогда) Эмма запыхалась: она бежала.", "en": ["Emma was out of breath because she had been running."] },
+    { "ru": "Как долго ты учил английский до переезда в Лондон?", "en": ["How long had you been learning English before you moved to London?", "How long had you been studying English before you moved to London?"] },
+    { "ru": "Когда родился Бен, они уже пять лет жили в Канаде.", "en": ["They'd been living in Canada for five years when Ben was born.", "They'd lived in Canada for five years when Ben was born.", "When Ben was born, they'd been living in Canada for five years."] },
+    { "ru": "Ты долго ждал, когда пришёл автобус?", "en": ["Had you been waiting long when the bus came?", "Had you been waiting for a long time when the bus came?"] },
+    { "ru": "Она не очень устала: она спала весь день.", "en": ["She wasn't very tired because she had been sleeping all day.", "She wasn't very tired because she'd slept all day."] },
+    { "ru": "Мы не так долго ехали, когда сломалась машина.", "en": ["We hadn't been driving for long when the car broke down.", "We hadn't been driving long when the car broke down."] },
+    { "ru": "(в тот момент) Когда я пришёл домой, Кейт готовила ужин.", "en": ["When I got home, Kate was cooking dinner.", "When I came home, Kate was cooking dinner.", "Kate was cooking dinner when I got home."] },
+    { "ru": "(до этого, уже закончила) Когда я пришёл домой, на кухне пахло едой: Кейт готовила.", "en": ["The kitchen smelled of food because Kate had been cooking.", "The kitchen smelt of food because Kate had been cooking."] },
+    { "ru": "(в тот момент) Светило солнце, но до этого шёл дождь.", "en": ["The sun was shining, but it had been raining before.", "The sun was shining, but before that it had been raining.", "The sun was shining, but earlier it had been raining."] },
+    { "ru": "(к тому моменту) Мы знали друг друга уже много лет.", "en": ["We had known each other for many years.", "We had known each other for years."] },
+    { "ru": "У Джона была эта машина десять лет, прежде чем он её продал.", "en": ["John had had the car for ten years before he sold it.", "John had had this car for ten years before he sold it."] },
+    { "ru": "Мы играли в футбол уже час, когда начался дождь.", "en": ["We'd been playing football for an hour when it started raining.", "We'd been playing football for an hour when it started to rain.", "We'd been playing football for an hour when it began to rain."] },
+    { "ru": "Лора работала там восемь лет, когда компания закрылась.", "en": ["Laura had been working there for eight years when the company closed.", "Laura had worked there for eight years when the company closed."] },
+    { "ru": "Чем ты занимался до того, как я пришёл?", "en": ["What had you been doing before I came?", "What had you been doing before I arrived?"] },
+    { "ru": "Я плохо себя чувствовал: я слишком много работал.", "en": ["I felt bad because I had been working too much.", "I felt ill because I had been working too much.", "I didn't feel well because I had been working too much."] }
+  ]
+}

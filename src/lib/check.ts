@@ -5,15 +5,24 @@ const CONTRACTIONS: [RegExp, string][] = [
   [/\bshan't\b/g, 'shall not'],
   [/n't\b/g, ' not'],
   [/\blet's\b/g, 'let us'],
-  [/\b(he|she|it|that|what|who|where|there|here|how)'s\b/g, '$1 is'],
+  [/\b(he|she|it|that|what|who|where|there|here|how|everyone|everybody|nobody|nothing)'s\b/g, "$1 's"],
   [/'m\b/g, ' am'],
   [/'re\b/g, ' are'],
   [/'ll\b/g, ' will'],
   [/'ve\b/g, ' have'],
-  [/'d\b/g, ' would'],
+  [/\b(i|you|he|she|it|we|they|that|there|who)'d\b/g, "$1 'd"],
 ];
 
-/** Lowercase, expand contractions and strip punctuation so that "I don't" equals "i do not". */
+/** Short forms that stand for more than one full word: 's = is/has, 'd = had/would. */
+const AMBIGUOUS: Record<string, string[]> = { "'s": ['is', 'has'], "'d": ['had', 'would'] };
+
+const sameWord = (a: string, b: string) =>
+  a === b || (AMBIGUOUS[a]?.includes(b) ?? false) || (AMBIGUOUS[b]?.includes(a) ?? false);
+
+/**
+ * Lowercase, expand contractions and strip punctuation so that "I don't" equals "i do not".
+ * Ambiguous short forms stay as the tokens 's and 'd and match either full word.
+ */
 export function normalize(text: string): string {
   let t = text.toLowerCase().replace(/[’‘`]/g, "'");
   for (const [re, replacement] of CONTRACTIONS) t = t.replace(re, replacement);
@@ -25,9 +34,14 @@ export function normalize(text: string): string {
 
 export const tokens = (text: string) => normalize(text).split(' ').filter(Boolean);
 
+export function sameAnswer(a: string, b: string): boolean {
+  const x = tokens(a);
+  const y = tokens(b);
+  return x.length > 0 && x.length === y.length && x.every((w, i) => sameWord(w, y[i]));
+}
+
 export function isCorrect(answer: string, expected: string[]): boolean {
-  const n = normalize(answer);
-  return n.length > 0 && expected.some((e) => normalize(e) === n);
+  return expected.some((e) => sameAnswer(answer, e));
 }
 
 export interface DiffOp {
@@ -42,15 +56,15 @@ export function diffWords(answer: string, expected: string): DiffOp[] {
   const dp = Array.from({ length: a.length + 1 }, () => new Array<number>(b.length + 1).fill(0));
   for (let i = a.length - 1; i >= 0; i--) {
     for (let j = b.length - 1; j >= 0; j--) {
-      dp[i][j] = a[i] === b[j] ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
+      dp[i][j] = sameWord(a[i], b[j]) ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
     }
   }
   const ops: DiffOp[] = [];
   let i = 0;
   let j = 0;
   while (i < a.length && j < b.length) {
-    if (a[i] === b[j]) {
-      ops.push({ type: 'same', word: a[i] });
+    if (sameWord(a[i], b[j])) {
+      ops.push({ type: 'same', word: b[j] });
       i++;
       j++;
     } else if (dp[i + 1][j] >= dp[i][j + 1]) {

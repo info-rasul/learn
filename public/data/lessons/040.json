@@ -1,0 +1,48 @@
+{
+  "id": 40,
+  "section": "If и wish",
+  "title": "if I had known ... I wish I had known ...",
+  "subtitle": "Нереальное прошлое: if I had known, I wish I hadn't…",
+  "theory": [
+    { "type": "p", "text": "Чтобы представить, как могло быть в прошлом (но не было), ставим <b>if + had + V3</b>, а в главной части <b>would have + V3</b>: <b>If I'd known about the party, I'd have come.</b> (я не знал и не пришёл)." },
+    { "type": "table", "head": ["", "if-часть", "главная часть"], "rows": [
+      ["Сейчас", "<b>If I had a car,</b>", "<b>I would give you a lift.</b>"],
+      ["В прошлом", "<b>If I had had a car,</b>", "<b>I would have given you a lift.</b>"]
+    ] },
+    { "type": "list", "items": [
+      "В if-части не бывает would have: <b>If I had seen her…</b>, а не «If I would have seen her».",
+      "<b>'d</b> бывает и had, и would: <b>If I'd seen her</b> (= had), <b>I'd have told her</b> (= would).",
+      "Вместо would have — <b>could have</b> (смог бы) или <b>might have</b> (может быть): <b>If it hadn't rained, we could have gone to the beach.</b>"
+    ] },
+    { "type": "p", "text": "Можно смешивать: условие в прошлом, результат сейчас — <b>If I'd gone to bed earlier, I wouldn't be so tired now.</b>" },
+    { "type": "h", "text": "I wish + had done" },
+    { "type": "p", "text": "<b>I wish I had known.</b> — жаль, что я не знал. <b>I wish I hadn't told her.</b> — зря я ей сказал. Сравните: <b>I'm glad I saw the match.</b> (видел) — <b>I wish I'd seen the match.</b> (не видел). Не говорят «I wish I would have…»." },
+    { "type": "tip", "text": "Русское «если бы я знал, я бы пришёл» одинаково и про сейчас, и про прошлое. Смотрите на время: если речь о прошлом — <b>had + V3</b> в if-части и <b>would have + V3</b> в главной." }
+  ],
+  "items": [
+    { "ru": "Если бы я знал о вечеринке, я бы пришёл.", "en": ["If I'd known about the party, I'd have come.", "If I'd known about the party, I'd have gone.", "I would have come if I'd known about the party.", "I would have gone if I'd known about the party."] },
+    { "ru": "Если бы я увидел Анну, я бы ей сказал.", "en": ["If I had seen Anna, I would have told her."] },
+    { "ru": "Если бы я знал её номер, я бы ей позвонил.", "en": ["If I had known her number, I would have called her.", "If I had known her number, I would have phoned her."] },
+    { "ru": "Мы бы выиграли, если бы Ник не заболел.", "en": ["We would have won if Nick hadn't been ill.", "We would have won if Nick hadn't been sick.", "If Nick hadn't been ill, we would have won.", "We would have won if Nick hadn't got ill."] },
+    { "ru": "Если бы ты был осторожнее, ты бы не упал.", "en": ["If you had been more careful, you wouldn't have fallen.", "You wouldn't have fallen if you had been more careful."] },
+    { "ru": "Если бы у меня был с собой телефон, я бы тебе позвонил.", "en": ["If I'd had my phone with me, I would have called you.", "If I'd had my phone with me, I would have phoned you.", "If I'd had my phone, I would have called you."] },
+    { "ru": "Если бы ты меня попросил, я бы одолжил тебе денег.", "en": ["If you'd asked me, I'd have lent you some money.", "If you'd asked me, I'd have lent you money."] },
+    { "ru": "(сейчас) Если бы у меня была машина, я бы тебя подвёз.", "en": ["If I had a car, I would give you a lift.", "If I had a car, I would give you a ride."] },
+    { "ru": "(тогда) Если бы у меня была машина, я бы тебя подвёз.", "en": ["If I'd had a car, I would have given you a lift.", "If I'd had a car, I would have given you a ride."] },
+    { "ru": "Если бы не было таких пробок, мы бы не опоздали.", "en": ["If there hadn't been so much traffic, we wouldn't have been late."] },
+    { "ru": "Если бы Кевин не проспал, он бы успел на автобус.", "en": ["If Kevin hadn't overslept, he would have caught the bus."] },
+    { "ru": "(в той поездке) Что бы ты сделал, если бы потерял паспорт?", "en": ["What would you have done if you had lost your passport?"] },
+    { "ru": "Если бы не было дождя, мы могли бы пойти на пляж.", "en": ["If it hadn't rained, we could have gone to the beach.", "If it hadn't been raining, we could have gone to the beach."] },
+    { "ru": "Если бы ты пришёл раньше, ты, может быть, встретил бы Джека.", "en": ["If you had come earlier, you might have met Jack.", "If you had come earlier, you might have seen Jack.", "If you'd arrived earlier, you might have met Jack."] },
+    { "ru": "Если бы я вчера лёг пораньше, я бы сейчас не был таким уставшим.", "en": ["If I'd gone to bed earlier, I wouldn't be so tired now.", "If I'd gone to bed earlier last night, I wouldn't be so tired."] },
+    { "ru": "Если бы Том согласился на ту работу, он бы сейчас был богат.", "en": ["If Tom had taken that job, he would be rich now.", "If Tom had accepted that job, he would be rich now.", "If Tom had taken the job, he would be rich now."] },
+    { "ru": "Жаль, что я не знал об этом раньше.", "en": ["I wish I'd known about it earlier.", "I wish I'd known about it before.", "I wish I'd known about this earlier.", "I wish I'd known about this before."] },
+    { "ru": "Зря я сказал ей правду.", "en": ["I wish I hadn't told her the truth."] },
+    { "ru": "Жаль, что я не учил испанский в школе.", "en": ["I wish I had learned Spanish at school.", "I wish I had learnt Spanish at school.", "I wish I had studied Spanish at school."] },
+    { "ru": "Жаль, что я не видел этот матч.", "en": ["I wish I had seen that match.", "I wish I had seen the match.", "I wish I had seen that game.", "I wish I had watched that match."] },
+    { "ru": "Жаль, что отпуск не был длиннее.", "en": ["I wish the holiday had been longer.", "I wish our holiday had been longer.", "I wish the vacation had been longer."] },
+    { "ru": "Жаль, что мы не поехали поездом.", "en": ["I wish we had gone by train.", "I wish we had taken the train."] },
+    { "ru": "Жаль, что ты мне не сказал.", "en": ["I wish you had told me."] },
+    { "ru": "Ты жалеешь, что не стал врачом?", "en": ["Do you wish you'd become a doctor?"] }
+  ]
+}

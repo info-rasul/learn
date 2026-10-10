@@ -1,0 +1,254 @@
+{
+  "id": 5,
+  "section": "Настоящее и прошедшее время",
+  "title": "Past simple (I did)",
+  "subtitle": "Прошлое: -ed, неправильные глаголы, did/didn’t, was/were",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Past simple — завершённое действие или состояние в прошлом, обычно с указанием времени: <b>yesterday, last week, in 2010, two days ago</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Правильные глаголы: <b>-ed</b> — work → <b>worked</b>, invite → <b>invited</b>, stop → <b>stopped</b>, study → <b>studied</b>.",
+        "Неправильные глаголы нужно запомнить: go → <b>went</b>, see → <b>saw</b>, buy → <b>bought</b>, write → <b>wrote</b>, fall → <b>fell</b>."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Утверждение",
+        "Отрицание",
+        "Вопрос"
+      ],
+      "rows": [
+        [
+          "I went",
+          "I didn't go",
+          "Did you go?"
+        ],
+        [
+          "she bought",
+          "she didn't buy",
+          "Did she buy?"
+        ],
+        [
+          "I did it",
+          "I didn't do it",
+          "What did you do?"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "После <b>did/didn't</b> глагол стоит в начальной форме: <b>Did you enjoy…?</b>, <b>She didn't come.</b> Если основной глагол — <b>do</b>, он тоже нужен: <b>What did you do?</b>, <b>I didn't do anything.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "be",
+        "Утверждение",
+        "Отрицание",
+        "Вопрос"
+      ],
+      "rows": [
+        [
+          "I/he/she/it",
+          "was",
+          "wasn't",
+          "Was he…?"
+        ],
+        [
+          "we/you/they",
+          "were",
+          "weren't",
+          "Were you…?"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Две типичные ошибки: двойное прошедшее (<b>Did you went?</b>, <b>I didn't saw</b>) — после did только начальная форма. И пропуск <b>was/were</b>: «Фильм был скучным» = <b>The film was boring</b>, а «Ты был дома?» = <b>Were you at home?</b>, без did."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Вчера я работал до девяти вечера.",
+      "en": [
+        "Yesterday I worked until nine in the evening.",
+        "I worked until nine in the evening yesterday.",
+        "Yesterday I worked till nine in the evening.",
+        "Yesterday I worked until 9 pm."
+      ]
+    },
+    {
+      "ru": "Мы смотрели фильм вчера вечером.",
+      "en": [
+        "We watched a film last night.",
+        "We watched a film yesterday evening.",
+        "We watched a movie last night.",
+        "We watched a movie yesterday evening."
+      ]
+    },
+    {
+      "ru": "Лиза сдала экзамен в прошлом месяце.",
+      "en": [
+        "Lisa passed her exam last month.",
+        "Lisa passed the exam last month."
+      ]
+    },
+    {
+      "ru": "Они пригласили нас на ужин.",
+      "en": [
+        "They invited us to dinner.",
+        "They invited us for dinner."
+      ]
+    },
+    {
+      "ru": "Я позвонил Тому, но он не ответил.",
+      "en": [
+        "I called Tom, but he didn't answer.",
+        "I phoned Tom, but he didn't answer.",
+        "I rang Tom, but he didn't answer."
+      ]
+    },
+    {
+      "ru": "В прошлом году мы ездили в Италию.",
+      "en": [
+        "We went to Italy last year.",
+        "Last year we went to Italy."
+      ]
+    },
+    {
+      "ru": "Кейт купила новое платье.",
+      "en": [
+        "Kate bought a new dress."
+      ]
+    },
+    {
+      "ru": "Я видел Пола в магазине в понедельник.",
+      "en": [
+        "I saw Paul in the shop on Monday.",
+        "I saw Paul at the shop on Monday.",
+        "On Monday I saw Paul in the shop."
+      ]
+    },
+    {
+      "ru": "Он написал письмо своей бабушке.",
+      "en": [
+        "He wrote a letter to his grandmother.",
+        "He wrote his grandmother a letter.",
+        "He wrote a letter to his grandma."
+      ]
+    },
+    {
+      "ru": "Было темно, поэтому я включил свет.",
+      "en": [
+        "It was dark, so I turned on the light.",
+        "It was dark, so I switched on the light.",
+        "It was dark, so I turned the light on.",
+        "It was dark, so I switched the light on."
+      ]
+    },
+    {
+      "ru": "Тебе понравился концерт?",
+      "en": [
+        "Did you enjoy the concert?",
+        "Did you like the concert?"
+      ]
+    },
+    {
+      "ru": "Куда вы ходили в субботу?",
+      "en": [
+        "Where did you go on Saturday?"
+      ]
+    },
+    {
+      "ru": "Я не ел, потому что не был голоден.",
+      "en": [
+        "I didn't eat because I wasn't hungry."
+      ]
+    },
+    {
+      "ru": "Она не пришла на вечеринку.",
+      "en": [
+        "She didn't come to the party."
+      ]
+    },
+    {
+      "ru": "Что вы делали вчера вечером?",
+      "en": [
+        "What did you do last night?",
+        "What did you do yesterday evening?"
+      ]
+    },
+    {
+      "ru": "Я ничего не делал весь день.",
+      "en": [
+        "I didn't do anything all day.",
+        "I did nothing all day."
+      ]
+    },
+    {
+      "ru": "Сколько стоил твой телефон?",
+      "en": [
+        "How much did your phone cost?"
+      ]
+    },
+    {
+      "ru": "Когда ты вернулся домой?",
+      "en": [
+        "When did you get home?",
+        "When did you come home?",
+        "When did you come back home?",
+        "When did you get back home?"
+      ]
+    },
+    {
+      "ru": "Вчера погода была прекрасной.",
+      "en": [
+        "The weather was lovely yesterday.",
+        "The weather was beautiful yesterday.",
+        "Yesterday the weather was lovely.",
+        "Yesterday the weather was beautiful.",
+        "The weather was wonderful yesterday."
+      ]
+    },
+    {
+      "ru": "Мы были очень заняты на прошлой неделе.",
+      "en": [
+        "We were very busy last week.",
+        "Last week we were very busy."
+      ]
+    },
+    {
+      "ru": "Ты был дома вчера?",
+      "en": [
+        "Were you at home yesterday?",
+        "Were you home yesterday?"
+      ]
+    },
+    {
+      "ru": "Фильм был не очень интересным.",
+      "en": [
+        "The film wasn't very interesting.",
+        "The movie wasn't very interesting."
+      ]
+    },
+    {
+      "ru": "Почему они вчера не были на работе?",
+      "en": [
+        "Why weren't they at work yesterday?"
+      ]
+    },
+    {
+      "ru": "Бен упал и сломал руку.",
+      "en": [
+        "Ben fell and broke his arm.",
+        "Ben fell over and broke his arm.",
+        "Ben fell down and broke his arm."
+      ]
+    }
+  ]
+}

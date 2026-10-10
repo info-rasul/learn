@@ -1,0 +1,212 @@
+{
+  "id": 124,
+  "section": "Предлоги",
+  "title": "in/at/on (position) 2",
+  "subtitle": "in bed, at work, on the train: устойчивые сочетания с местом",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Многие сочетания с местом нужно просто запомнить. Обратите внимание: часто артикль не нужен — <b>in bed</b>, <b>at home</b>, <b>at work</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Сочетания"
+      ],
+      "rows": [
+        [
+          "in",
+          "in bed, in hospital, in prison, in a queue / line, in the sky, in the world, in the country(side), in the middle, in a newspaper / book / photo, in a car / taxi"
+        ],
+        [
+          "at",
+          "at home, at work, at school, at university, at the station, at the airport, at a party, at a concert, at a meeting"
+        ],
+        [
+          "on",
+          "on a farm, on the ground / first floor, on the list, on the menu, on the way, on a bus / train / plane / ship, on a bike"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Транспорт: в большой общественный транспорт и на велосипед — <b>on</b> (<b>on the bus</b>, <b>on a plane</b>), в машину и такси — <b>in</b> (<b>in the car</b>, <b>in a taxi</b>)."
+    },
+    {
+      "type": "p",
+      "text": "Мероприятия — <b>at</b>: <b>at a party</b>, <b>at the concert</b>, <b>at a conference</b>. «По дороге» — <b>on the way</b>: <b>on the way home</b> (без to перед home)."
+    },
+    {
+      "type": "tip",
+      "text": "Русский «первый этаж» — это британский <b>ground floor</b>; <b>first floor</b> в Британии — наш второй. И «в автобусе» — <b>on the bus</b>, а не in the bus."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мы стояли в очереди полчаса.",
+      "en": [
+        "We stood in a queue for half an hour.",
+        "We waited in a queue for half an hour.",
+        "We stood in line for half an hour."
+      ]
+    },
+    {
+      "ru": "Мой дедушка в больнице.",
+      "en": [
+        "My grandfather is in hospital.",
+        "My grandfather is in the hospital.",
+        "My grandad is in hospital."
+      ]
+    },
+    {
+      "ru": "Ты всё ещё в постели?",
+      "en": [
+        "Are you still in bed?"
+      ]
+    },
+    {
+      "ru": "Посмотри на звёзды в небе.",
+      "en": [
+        "Look at the stars in the sky."
+      ]
+    },
+    {
+      "ru": "Это самое высокое здание в мире.",
+      "en": [
+        "This is the tallest building in the world.",
+        "It's the tallest building in the world."
+      ]
+    },
+    {
+      "ru": "Я прочитал об этом в газете.",
+      "en": [
+        "I read about it in the newspaper.",
+        "I read about it in the paper.",
+        "I read about it in a newspaper."
+      ]
+    },
+    {
+      "ru": "Мои родители живут за городом.",
+      "en": [
+        "My parents live in the country.",
+        "My parents live in the countryside."
+      ]
+    },
+    {
+      "ru": "Она сидела в середине ряда.",
+      "en": [
+        "She was sitting in the middle of the row.",
+        "She sat in the middle of the row."
+      ]
+    },
+    {
+      "ru": "Они живут на ферме.",
+      "en": [
+        "They live on a farm."
+      ]
+    },
+    {
+      "ru": "Наша квартира на первом этаже.",
+      "en": [
+        "Our flat is on the ground floor.",
+        "Our apartment is on the ground floor."
+      ]
+    },
+    {
+      "ru": "Твоего имени нет в списке.",
+      "en": [
+        "Your name isn't on the list."
+      ]
+    },
+    {
+      "ru": "Что есть в меню?",
+      "en": [
+        "What's on the menu?"
+      ]
+    },
+    {
+      "ru": "Я купил хлеба по дороге домой.",
+      "en": [
+        "I bought some bread on the way home.",
+        "I bought some bread on my way home.",
+        "I bought bread on the way home."
+      ]
+    },
+    {
+      "ru": "Я встретил Тома в поезде.",
+      "en": [
+        "I met Tom on the train."
+      ]
+    },
+    {
+      "ru": "Она читала книгу в автобусе.",
+      "en": [
+        "She was reading a book on the bus.",
+        "She read a book on the bus."
+      ]
+    },
+    {
+      "ru": "Ты уже в самолёте?",
+      "en": [
+        "Are you on the plane yet?",
+        "Are you already on the plane?"
+      ]
+    },
+    {
+      "ru": "Дети в машине.",
+      "en": [
+        "The children are in the car.",
+        "The kids are in the car."
+      ]
+    },
+    {
+      "ru": "Я оставил сумку в такси.",
+      "en": [
+        "I left my bag in the taxi.",
+        "I left my bag in the cab."
+      ]
+    },
+    {
+      "ru": "Ты на работе?",
+      "en": [
+        "Are you at work?"
+      ]
+    },
+    {
+      "ru": "Я весь день был дома.",
+      "en": [
+        "I was at home all day.",
+        "I've been at home all day.",
+        "I was home all day."
+      ]
+    },
+    {
+      "ru": "Мой брат учится в университете.",
+      "en": [
+        "My brother is at university.",
+        "My brother studies at university.",
+        "My brother is studying at university."
+      ]
+    },
+    {
+      "ru": "Я встречу тебя на вокзале.",
+      "en": [
+        "I'll meet you at the station."
+      ]
+    },
+    {
+      "ru": "Мы познакомились на вечеринке.",
+      "en": [
+        "We met at a party."
+      ]
+    },
+    {
+      "ru": "На концерте было много людей.",
+      "en": [
+        "There were a lot of people at the concert.",
+        "There were many people at the concert."
+      ]
+    }
+  ]
+}

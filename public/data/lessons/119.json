@@ -1,0 +1,225 @@
+{
+  "id": 119,
+  "section": "Союзы и предлоги",
+  "title": "during / for / while",
+  "subtitle": "Во время, в течение, пока: during, for и while",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>during</b> + существительное = «во время чего-то», отвечает на вопрос «когда?»: <b>during the lesson</b>, <b>during the summer</b>, <b>during the night</b>."
+    },
+    {
+      "type": "p",
+      "text": "<b>for</b> + период времени = «в течение, (на протяжении)», отвечает на вопрос «как долго?»: <b>for two hours</b>, <b>for a week</b>, <b>for years</b>. Можно сочетать: <b>It snowed for two days during our trip.</b>"
+    },
+    {
+      "type": "p",
+      "text": "<b>while</b> + подлежащее + глагол = «пока, в то время как»: <b>while I was cooking</b>, <b>while we were in Spain</b>. О будущем после while — настоящее время: <b>I'll feed the cat while you're away.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Слово",
+        "После него",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "during",
+          "существительное (событие)",
+          "during the concert"
+        ],
+        [
+          "for",
+          "длительность",
+          "for three hours"
+        ],
+        [
+          "while",
+          "подлежащее + глагол",
+          "while I was waiting"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «в течение трёх дней» — это <b>for three days</b>, а не during three days. А «пока я ждал» — <b>while I was waiting</b>, а не during I was waiting: после during не бывает подлежащего с глаголом."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мой телефон зазвонил во время концерта.",
+      "en": [
+        "My phone rang during the concert."
+      ]
+    },
+    {
+      "ru": "Во время урока нельзя есть.",
+      "en": [
+        "You can't eat during the lesson.",
+        "You mustn't eat during the lesson."
+      ]
+    },
+    {
+      "ru": "Мы много путешествовали во время каникул.",
+      "en": [
+        "We travelled a lot during the holidays.",
+        "We traveled a lot during the holidays.",
+        "We travelled a lot during the holiday."
+      ]
+    },
+    {
+      "ru": "Во время войны мой дедушка жил в Лондоне.",
+      "en": [
+        "During the war, my grandfather lived in London.",
+        "My grandfather lived in London during the war."
+      ]
+    },
+    {
+      "ru": "Ночью кто-то позвонил.",
+      "en": [
+        "Somebody called during the night.",
+        "Someone called during the night.",
+        "Somebody phoned during the night."
+      ]
+    },
+    {
+      "ru": "Во время встречи Пол ничего не сказал.",
+      "en": [
+        "Paul didn't say anything during the meeting.",
+        "Paul said nothing during the meeting."
+      ]
+    },
+    {
+      "ru": "Свет погас во время грозы.",
+      "en": [
+        "The lights went out during the storm.",
+        "The light went out during the storm.",
+        "The lights went out during the thunderstorm."
+      ]
+    },
+    {
+      "ru": "Что ты делал во время каникул?",
+      "en": [
+        "What did you do during the holidays?",
+        "What did you do during the holiday?"
+      ]
+    },
+    {
+      "ru": "Я ждал два часа.",
+      "en": [
+        "I waited for two hours.",
+        "I waited two hours."
+      ]
+    },
+    {
+      "ru": "Мы жили в Испании пять лет.",
+      "en": [
+        "We lived in Spain for five years."
+      ]
+    },
+    {
+      "ru": "Она будет в Париже неделю.",
+      "en": [
+        "She'll be in Paris for a week.",
+        "She's going to be in Paris for a week."
+      ]
+    },
+    {
+      "ru": "Я не видел Бена несколько месяцев.",
+      "en": [
+        "I haven't seen Ben for several months.",
+        "I haven't seen Ben for a few months."
+      ]
+    },
+    {
+      "ru": "Дождь шёл три дня.",
+      "en": [
+        "It rained for three days."
+      ]
+    },
+    {
+      "ru": "Ты останешься здесь на месяц?",
+      "en": [
+        "Will you stay here for a month?",
+        "Are you staying here for a month?"
+      ]
+    },
+    {
+      "ru": "Во время поездки мы два дня провели в Риме.",
+      "en": [
+        "During the trip, we spent two days in Rome.",
+        "We spent two days in Rome during the trip."
+      ]
+    },
+    {
+      "ru": "Я читал книгу, пока ждал поезд.",
+      "en": [
+        "I read a book while I was waiting for the train.",
+        "I was reading a book while I was waiting for the train.",
+        "I read a book while waiting for the train."
+      ]
+    },
+    {
+      "ru": "Пока ты спал, звонила Кейт.",
+      "en": [
+        "Kate called while you were sleeping.",
+        "While you were sleeping, Kate called.",
+        "Kate called while you were asleep.",
+        "Kate phoned while you were sleeping."
+      ]
+    },
+    {
+      "ru": "Пока мы были в Японии, мы ели много рыбы.",
+      "en": [
+        "While we were in Japan, we ate a lot of fish.",
+        "We ate a lot of fish while we were in Japan."
+      ]
+    },
+    {
+      "ru": "Кто-то украл мою сумку, пока я обедал.",
+      "en": [
+        "Somebody stole my bag while I was having lunch.",
+        "Someone stole my bag while I was having lunch.",
+        "Somebody stole my bag while I was eating lunch."
+      ]
+    },
+    {
+      "ru": "Пол уснул, пока я говорил.",
+      "en": [
+        "Paul fell asleep while I was talking.",
+        "Paul fell asleep while I was speaking."
+      ]
+    },
+    {
+      "ru": "Не разговаривай по телефону, пока ведёшь машину.",
+      "en": [
+        "Don't talk on the phone while you're driving.",
+        "Don't talk on the phone while driving."
+      ]
+    },
+    {
+      "ru": "Я присмотрю за собакой, пока тебя не будет.",
+      "en": [
+        "I'll look after the dog while you're away.",
+        "I'll take care of the dog while you're away."
+      ]
+    },
+    {
+      "ru": "Пока я буду в Берлине, я навещу Ника.",
+      "en": [
+        "While I'm in Berlin, I'll visit Nick.",
+        "I'll visit Nick while I'm in Berlin."
+      ]
+    },
+    {
+      "ru": "Я выучил испанский, пока жил в Испании.",
+      "en": [
+        "I learnt Spanish while I was living in Spain.",
+        "I learned Spanish while I was living in Spain.",
+        "I learnt Spanish while I lived in Spain.",
+        "I learned Spanish while I lived in Spain."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": 1,
+  "section": "Настоящее и прошедшее время",
+  "title": "Present continuous (I am doing)",
+  "subtitle": "Действие в процессе: сейчас, в этот период, изменения",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Present continuous показывает действие, которое уже началось, но ещё не закончилось — мы находимся «в середине» процесса. Форма: <b>am/is/are + глагол-ing</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Утверждение",
+        "Отрицание",
+        "Вопрос"
+      ],
+      "rows": [
+        [
+          "I",
+          "I'm reading",
+          "I'm not reading",
+          "Am I reading?"
+        ],
+        [
+          "he/she/it",
+          "she's cooking",
+          "she isn't cooking",
+          "Is she cooking?"
+        ],
+        [
+          "we/you/they",
+          "they're waiting",
+          "they aren't waiting",
+          "Are they waiting?"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Прямо сейчас, в момент речи: <b>Tom is talking on the phone.</b>",
+        "В текущий период, даже если не в эту секунду: <b>I'm reading a great book</b> (читаю в эти дни, но не прямо сейчас).",
+        "Со словами <b>today, this week, this year</b>, когда период ещё идёт: <b>Paul is studying in London this year.</b>",
+        "Изменения, которые уже начались: <b>getting, becoming, starting, improving, rising, growing</b> — <b>It's getting dark.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Изменения и тенденции"
+    },
+    {
+      "type": "p",
+      "text": "Когда что-то постепенно меняется прямо сейчас, по-русски мы говорим «становится», «растёт», «начинаю». По-английски это всегда continuous: <b>Prices are rising.</b> <b>I'm starting to understand.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "В русском нет отдельной формы для «сейчас», поэтому часто говорят <b>I work now</b> или <b>It rains</b>. Если действие идёт в этот момент или в этот период — нужен <b>am/is/are + -ing</b>: <b>I'm working now</b>, <b>It's raining</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "(сейчас) Анна готовит ужин.",
+      "en": [
+        "Anna is cooking dinner.",
+        "Anna is making dinner."
+      ]
+    },
+    {
+      "ru": "Тише, пожалуйста! Ребёнок спит.",
+      "en": [
+        "Please be quiet! The baby is sleeping.",
+        "Quiet, please! The baby is sleeping."
+      ]
+    },
+    {
+      "ru": "Я не смотрю телевизор, так что можешь его выключить.",
+      "en": [
+        "I'm not watching TV, so you can turn it off.",
+        "I'm not watching TV, so you can switch it off.",
+        "I'm not watching the TV, so you can turn it off."
+      ]
+    },
+    {
+      "ru": "Что ты ищешь?",
+      "en": [
+        "What are you looking for?"
+      ]
+    },
+    {
+      "ru": "(сейчас) На улице идёт снег?",
+      "en": [
+        "Is it snowing outside?"
+      ]
+    },
+    {
+      "ru": "Почему ты улыбаешься?",
+      "en": [
+        "Why are you smiling?"
+      ]
+    },
+    {
+      "ru": "Том сейчас разговаривает по телефону.",
+      "en": [
+        "Tom is talking on the phone right now.",
+        "Tom is talking on the phone at the moment.",
+        "Tom is speaking on the phone right now.",
+        "Tom is speaking on the phone at the moment.",
+        "Tom is talking on the phone now."
+      ]
+    },
+    {
+      "ru": "Мы ждём автобус.",
+      "en": [
+        "We're waiting for the bus.",
+        "We're waiting for a bus."
+      ]
+    },
+    {
+      "ru": "Они не слушают учителя.",
+      "en": [
+        "They aren't listening to the teacher."
+      ]
+    },
+    {
+      "ru": "(в эти дни) Я читаю очень интересную книгу.",
+      "en": [
+        "I'm reading a very interesting book.",
+        "I'm reading a really interesting book."
+      ]
+    },
+    {
+      "ru": "Кейт учит испанский, потому что хочет жить в Испании.",
+      "en": [
+        "Kate is learning Spanish because she wants to live in Spain.",
+        "Kate is studying Spanish because she wants to live in Spain."
+      ]
+    },
+    {
+      "ru": "(в последнее время) Где ты сейчас работаешь?",
+      "en": [
+        "Where are you working these days?",
+        "Where are you working now?",
+        "Where are you working at the moment?"
+      ]
+    },
+    {
+      "ru": "Мои друзья строят дом за городом.",
+      "en": [
+        "My friends are building a house in the country.",
+        "My friends are building a house outside the city.",
+        "My friends are building a house outside town."
+      ]
+    },
+    {
+      "ru": "В этом году Пол учится в Лондоне.",
+      "en": [
+        "Paul is studying in London this year.",
+        "This year Paul is studying in London."
+      ]
+    },
+    {
+      "ru": "Ты сегодня много работаешь.",
+      "en": [
+        "You're working a lot today.",
+        "You're working hard today."
+      ]
+    },
+    {
+      "ru": "На этой неделе я не пью кофе.",
+      "en": [
+        "I'm not drinking coffee this week.",
+        "This week I'm not drinking coffee."
+      ]
+    },
+    {
+      "ru": "Тебе нравится твоя новая работа?",
+      "en": [
+        "Are you enjoying your new job?",
+        "Do you like your new job?"
+      ]
+    },
+    {
+      "ru": "Твой английский становится лучше.",
+      "en": [
+        "Your English is getting better.",
+        "Your English is improving."
+      ]
+    },
+    {
+      "ru": "Становится темно, пойдём домой.",
+      "en": [
+        "It's getting dark, let's go home."
+      ]
+    },
+    {
+      "ru": "Цены растут очень быстро.",
+      "en": [
+        "Prices are rising very fast.",
+        "Prices are rising very quickly.",
+        "Prices are going up very fast.",
+        "Prices are going up very quickly."
+      ]
+    },
+    {
+      "ru": "Я начинаю понимать эту игру.",
+      "en": [
+        "I'm starting to understand this game.",
+        "I'm beginning to understand this game."
+      ]
+    },
+    {
+      "ru": "Население нашего города растёт.",
+      "en": [
+        "The population of our town is growing.",
+        "The population of our city is growing.",
+        "The population of our town is increasing.",
+        "The population of our city is increasing."
+      ]
+    },
+    {
+      "ru": "Почему ты идёшь так медленно?",
+      "en": [
+        "Why are you walking so slowly?"
+      ]
+    },
+    {
+      "ru": "Они сейчас не разговаривают друг с другом.",
+      "en": [
+        "They aren't speaking to each other now.",
+        "They aren't talking to each other now.",
+        "They aren't speaking to one another now.",
+        "They aren't talking to each other at the moment."
+      ]
+    }
+  ]
+}

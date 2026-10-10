@@ -1,0 +1,248 @@
+{
+  "id": 9,
+  "section": "Present perfect и прошедшее время",
+  "title": "Present perfect continuous (I have been doing)",
+  "subtitle": "Действие длилось до сих пор: видны следы, how long, for, since",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Present perfect continuous — действие, которое длилось какое-то время и продолжается до сих пор или только что закончилось. Форма: <b>have/has been + -ing</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Утверждение",
+        "Вопрос"
+      ],
+      "rows": [
+        [
+          "I/we/you/they",
+          "I've been working",
+          "Have you been working?"
+        ],
+        [
+          "he/she/it",
+          "she's been working",
+          "Has she been working?"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Только что закончилось — видны следы"
+    },
+    {
+      "type": "p",
+      "text": "Мы видим результат процесса: мокрая земля, красные глаза, усталость. <b>It's been raining.</b> <b>Have you been crying?</b> <b>Anna is tired because she's been working hard.</b>"
+    },
+    {
+      "type": "h",
+      "text": "Длится до сих пор: how long, for, since"
+    },
+    {
+      "type": "p",
+      "text": "Русское настоящее время «я жду уже час», «он работает здесь с мая» по-английски — present perfect continuous: <b>We've been waiting for twenty minutes.</b> <b>How long have you been learning French?</b> Это касается и повторяющихся действий: <b>I've been going to this gym for two years.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "am doing — прямо сейчас",
+        "have been doing — до сих пор, с какого-то момента"
+      ],
+      "rows": [
+        [
+          "<b>Hurry up, we're waiting for you!</b>",
+          "<b>We've been waiting for an hour.</b>"
+        ],
+        [
+          "<b>Be quiet, I'm on the phone.</b>",
+          "<b>I've been working a lot, and now I want to rest.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Главная ошибка — переводить «я живу здесь пять лет» как <b>I live here for five years</b> или <b>I am living here for five years</b>. Если есть «сколько», «уже», «с…», «в течение…» до настоящего момента, нужен перфект: <b>I've been living here for five years.</b>"
+    }
+  ],
+  "items": [
+    {
+      "ru": "(земля мокрая) Шёл дождь.",
+      "en": [
+        "It's been raining."
+      ]
+    },
+    {
+      "ru": "(у тебя красные глаза) Ты плакала?",
+      "en": [
+        "Have you been crying?"
+      ]
+    },
+    {
+      "ru": "Анна устала, потому что много работала.",
+      "en": [
+        "Anna is tired because she's been working hard.",
+        "Anna is tired because she's been working a lot."
+      ]
+    },
+    {
+      "ru": "(руки в краске) Ты красил забор?",
+      "en": [
+        "Have you been painting the fence?"
+      ]
+    },
+    {
+      "ru": "Я звоню тебе весь день!",
+      "en": [
+        "I've been calling you all day!",
+        "I've been phoning you all day!",
+        "I've been trying to call you all day!",
+        "I've been ringing you all day!"
+      ]
+    },
+    {
+      "ru": "(всё это время) Я думал о твоём предложении.",
+      "en": [
+        "I've been thinking about your offer.",
+        "I've been thinking about your suggestion.",
+        "I've been thinking about your proposal."
+      ]
+    },
+    {
+      "ru": "Снег идёт с самого утра.",
+      "en": [
+        "It's been snowing since the morning.",
+        "It's been snowing since this morning.",
+        "It's been snowing since early morning."
+      ]
+    },
+    {
+      "ru": "Сколько ты уже изучаешь французский?",
+      "en": [
+        "How long have you been learning French?",
+        "How long have you been studying French?"
+      ]
+    },
+    {
+      "ru": "Мы ждём уже двадцать минут.",
+      "en": [
+        "We've been waiting for twenty minutes.",
+        "We've been waiting for 20 minutes.",
+        "We've been waiting twenty minutes."
+      ]
+    },
+    {
+      "ru": "Майк смотрит телевизор весь вечер.",
+      "en": [
+        "Mike has been watching TV all evening.",
+        "Mike has been watching television all evening."
+      ]
+    },
+    {
+      "ru": "Я живу здесь с 2015 года.",
+      "en": [
+        "I've been living here since 2015.",
+        "I've lived here since 2015."
+      ]
+    },
+    {
+      "ru": "Лиза работает в этом кафе три месяца.",
+      "en": [
+        "Lisa has been working in this cafe for three months.",
+        "Lisa has been working at this cafe for three months.",
+        "Lisa has worked in this cafe for three months.",
+        "Lisa has worked at this cafe for three months."
+      ]
+    },
+    {
+      "ru": "Как долго вы ждёте автобус?",
+      "en": [
+        "How long have you been waiting for the bus?"
+      ]
+    },
+    {
+      "ru": "В последнее время я плохо сплю.",
+      "en": [
+        "I haven't been sleeping well recently.",
+        "I haven't been sleeping well lately."
+      ]
+    },
+    {
+      "ru": "Она играет на пианино с шести лет.",
+      "en": [
+        "She's been playing the piano since she was six.",
+        "She has played the piano since she was six.",
+        "She's been playing the piano since the age of six."
+      ]
+    },
+    {
+      "ru": "Они уже много лет ездят в Италию каждое лето.",
+      "en": [
+        "They've been going to Italy every summer for years.",
+        "They've been going to Italy every summer for many years.",
+        "For years they've been going to Italy every summer."
+      ]
+    },
+    {
+      "ru": "Я хожу в этот спортзал два года.",
+      "en": [
+        "I've been going to this gym for two years."
+      ]
+    },
+    {
+      "ru": "(прямо сейчас) Тише, я разговариваю по телефону.",
+      "en": [
+        "Be quiet, I'm on the phone.",
+        "Be quiet, I'm talking on the phone.",
+        "Quiet, I'm on the phone."
+      ]
+    },
+    {
+      "ru": "Я много работал, и теперь хочу отдохнуть.",
+      "en": [
+        "I've been working a lot, and now I want to rest.",
+        "I've been working hard, and now I want to have a rest.",
+        "I've been working a lot, and now I want to have a break."
+      ]
+    },
+    {
+      "ru": "(прямо сейчас) Поторопись, мы тебя ждём!",
+      "en": [
+        "Hurry up, we're waiting for you!"
+      ]
+    },
+    {
+      "ru": "Как долго ты работаешь учителем?",
+      "en": [
+        "How long have you been working as a teacher?",
+        "How long have you been teaching?",
+        "How long have you worked as a teacher?",
+        "How long have you been a teacher?"
+      ]
+    },
+    {
+      "ru": "Пол чинит машину с самого обеда.",
+      "en": [
+        "Paul has been repairing the car since lunch.",
+        "Paul has been fixing the car since lunch.",
+        "Paul has been repairing the car since lunchtime.",
+        "Paul has been fixing the car since lunchtime."
+      ]
+    },
+    {
+      "ru": "Чем ты занималась в последнее время?",
+      "en": [
+        "What have you been doing recently?",
+        "What have you been doing lately?"
+      ]
+    },
+    {
+      "ru": "Они разговаривают уже больше часа.",
+      "en": [
+        "They've been talking for more than an hour.",
+        "They've been talking for over an hour."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": 113,
+  "section": "Союзы и предлоги",
+  "title": "although / though / even though / in spite of / despite",
+  "subtitle": "Хотя и несмотря на: союз + предложение или предлог + существительное",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Все эти слова выражают уступку: «хотя», «несмотря на». Главное — что идёт после них. После <b>although / though / even though</b> стоит целое предложение (подлежащее + глагол): <b>Although it was cold, we went out.</b>"
+    },
+    {
+      "type": "p",
+      "text": "После <b>in spite of</b> и <b>despite</b> (это предлоги, значение одинаковое) идёт существительное, местоимение или форма на <b>-ing</b>: <b>despite the cold</b>, <b>in spite of being tired</b>. Внимание: <b>despite</b> — без of!"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "После слова",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "although / though / even though",
+          "подлежащее + глагол",
+          "Although he was ill, he came."
+        ],
+        [
+          "in spite of / despite",
+          "существительное или -ing",
+          "Despite his illness, he came. / Despite being ill, he came."
+        ],
+        [
+          "in spite of / despite the fact (that)",
+          "подлежащее + глагол",
+          "Despite the fact that he was ill, he came."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>though</b> = although, но звучит разговорнее. Его также ставят в конец фразы в значении «впрочем, всё-таки»: <b>The hotel was old. It was clean, though.</b>",
+        "<b>even though</b> — более сильное «даже хотя, несмотря даже на то что»: <b>Even though I was exhausted, I couldn't sleep.</b>",
+        "Если после «несмотря на то что» хочется поставить целое предложение, используйте <b>although</b> или <b>despite the fact that</b>."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «несмотря на то что» подталкивает сказать <b>despite he was tired</b> — это ошибка. Правильно: <b>although he was tired</b>, <b>despite being tired</b> или <b>despite the fact that he was tired</b>. И никогда не говорите <b>despite of</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Хотя я устал, я не мог уснуть.",
+      "en": [
+        "Although I was tired, I couldn't sleep.",
+        "Though I was tired, I couldn't sleep.",
+        "Even though I was tired, I couldn't sleep."
+      ]
+    },
+    {
+      "ru": "Хотя Анна живёт рядом, она редко нас навещает.",
+      "en": [
+        "Although Anna lives nearby, she rarely visits us.",
+        "Though Anna lives nearby, she rarely visits us.",
+        "Even though Anna lives nearby, she rarely visits us.",
+        "Although Anna lives near us, she rarely visits us."
+      ]
+    },
+    {
+      "ru": "Мы пошли гулять, хотя было холодно.",
+      "en": [
+        "We went for a walk although it was cold.",
+        "We went for a walk though it was cold.",
+        "We went for a walk even though it was cold."
+      ]
+    },
+    {
+      "ru": "Хотя Майк англичанин, он не любит чай.",
+      "en": [
+        "Although Mike is English, he doesn't like tea.",
+        "Though Mike is English, he doesn't like tea.",
+        "Even though Mike is English, he doesn't like tea."
+      ]
+    },
+    {
+      "ru": "Он не ответил, хотя знал ответ.",
+      "en": [
+        "He didn't answer, although he knew the answer.",
+        "He didn't answer, though he knew the answer.",
+        "He didn't answer, even though he knew the answer."
+      ]
+    },
+    {
+      "ru": "Мне понравился фильм, хотя он был слишком длинным.",
+      "en": [
+        "I enjoyed the film, although it was too long.",
+        "I liked the film, although it was too long.",
+        "I enjoyed the film, though it was too long.",
+        "I enjoyed the film, even though it was too long.",
+        "I enjoyed the movie, although it was too long."
+      ]
+    },
+    {
+      "ru": "Хотя я пригласил десять человек, пришли только трое.",
+      "en": [
+        "Although I invited ten people, only three came.",
+        "Though I invited ten people, only three came.",
+        "Even though I invited ten people, only three came."
+      ]
+    },
+    {
+      "ru": "Несмотря на дождь, матч продолжился.",
+      "en": [
+        "Despite the rain, the match continued.",
+        "In spite of the rain, the match continued.",
+        "The match continued despite the rain.",
+        "The match continued in spite of the rain."
+      ]
+    },
+    {
+      "ru": "Несмотря на пробки, мы приехали вовремя.",
+      "en": [
+        "Despite the traffic, we arrived on time.",
+        "In spite of the traffic, we arrived on time.",
+        "We arrived on time despite the traffic.",
+        "We arrived on time in spite of the traffic."
+      ]
+    },
+    {
+      "ru": "Она пошла на работу, несмотря на головную боль.",
+      "en": [
+        "She went to work despite her headache.",
+        "She went to work in spite of her headache.",
+        "She went to work despite having a headache.",
+        "She went to work in spite of having a headache."
+      ]
+    },
+    {
+      "ru": "Несмотря на высокую цену, они купили машину.",
+      "en": [
+        "Despite the high price, they bought the car.",
+        "In spite of the high price, they bought the car.",
+        "They bought the car despite the high price.",
+        "They bought the car in spite of the high price."
+      ]
+    },
+    {
+      "ru": "Несмотря на свой возраст, мой дедушка очень активен.",
+      "en": [
+        "Despite his age, my grandfather is very active.",
+        "In spite of his age, my grandfather is very active.",
+        "Despite his age, my grandad is very active."
+      ]
+    },
+    {
+      "ru": "Ты поедешь на пляж, несмотря на плохую погоду?",
+      "en": [
+        "Will you go to the beach despite the bad weather?",
+        "Will you go to the beach in spite of the bad weather?",
+        "Are you going to the beach despite the bad weather?",
+        "Are you going to the beach in spite of the bad weather?"
+      ]
+    },
+    {
+      "ru": "Он пришёл на встречу, несмотря на болезнь.",
+      "en": [
+        "He came to the meeting despite being ill.",
+        "He came to the meeting in spite of being ill.",
+        "He came to the meeting despite his illness.",
+        "He came to the meeting in spite of his illness."
+      ]
+    },
+    {
+      "ru": "Несмотря на то что я много занимался, я провалил экзамен.",
+      "en": [
+        "Despite studying hard, I failed the exam.",
+        "In spite of studying hard, I failed the exam.",
+        "Although I studied hard, I failed the exam.",
+        "Though I studied hard, I failed the exam.",
+        "Even though I studied hard, I failed the exam.",
+        "Despite the fact that I studied hard, I failed the exam.",
+        "In spite of the fact that I studied hard, I failed the exam."
+      ]
+    },
+    {
+      "ru": "Он съел весь торт, несмотря на то что был не голоден.",
+      "en": [
+        "He ate the whole cake although he wasn't hungry.",
+        "He ate the whole cake though he wasn't hungry.",
+        "He ate the whole cake even though he wasn't hungry.",
+        "He ate the whole cake despite not being hungry.",
+        "He ate the whole cake in spite of not being hungry."
+      ]
+    },
+    {
+      "ru": "Хотя у неё было мало времени, она нам помогла.",
+      "en": [
+        "Although she had little time, she helped us.",
+        "Though she had little time, she helped us.",
+        "Even though she had little time, she helped us.",
+        "Despite having little time, she helped us.",
+        "In spite of having little time, she helped us."
+      ]
+    },
+    {
+      "ru": "Несмотря на то что он богат, он несчастлив.",
+      "en": [
+        "Despite the fact that he's rich, he isn't happy.",
+        "In spite of the fact that he's rich, he isn't happy.",
+        "Although he's rich, he isn't happy.",
+        "Though he's rich, he isn't happy.",
+        "Even though he's rich, he isn't happy.",
+        "Despite being rich, he isn't happy.",
+        "In spite of being rich, he isn't happy."
+      ]
+    },
+    {
+      "ru": "(о дорогом ресторане) Еда, впрочем, была отличная.",
+      "en": [
+        "The food was great, though.",
+        "The food was excellent, though."
+      ]
+    },
+    {
+      "ru": "(о плохой погоде на отдыхе) Мы всё-таки хорошо провели время.",
+      "en": [
+        "We had a good time, though.",
+        "We had a nice time, though."
+      ]
+    },
+    {
+      "ru": "(о маленькой квартире) Нам она, впрочем, нравится.",
+      "en": [
+        "We like it, though."
+      ]
+    },
+    {
+      "ru": "Даже несмотря на то что Кейт спешила, она опоздала на поезд.",
+      "en": [
+        "Even though Kate was in a hurry, she missed the train.",
+        "Although Kate was in a hurry, she missed the train.",
+        "Even though Kate hurried, she missed the train."
+      ]
+    },
+    {
+      "ru": "Даже хотя я не говорю по-французски, я его понял.",
+      "en": [
+        "Even though I don't speak French, I understood him.",
+        "Although I don't speak French, I understood him.",
+        "Though I don't speak French, I understood him."
+      ]
+    },
+    {
+      "ru": "Почему ты пошёл туда, хотя тебя не пригласили?",
+      "en": [
+        "Why did you go there even though you weren't invited?",
+        "Why did you go there although you weren't invited?",
+        "Why did you go there though you weren't invited?"
+      ]
+    }
+  ]
+}

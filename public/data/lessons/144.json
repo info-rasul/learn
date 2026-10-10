@@ -1,0 +1,257 @@
+{
+  "id": 144,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 8 up (2)",
+  "subtitle": "bring up, come up with, make up, look up, put up with, split up…",
+  "theory": [
+    {
+      "type": "h",
+      "text": "Разговор и идеи"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>bring up</b> a topic — поднять тему; <b>come up</b> — всплыть в разговоре.",
+        "<b>come up with</b> an idea — придумать, предложить.",
+        "<b>make something up</b> — выдумать (то, что неправда)."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Настроение, погода, взрывы"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>cheer up</b> — взбодриться; <b>cheer somebody up</b> — подбодрить.",
+        "<b>clear up</b> — проясниться (о погоде).",
+        "<b>blow up</b> — взорваться; <b>blow something up</b> — взорвать.",
+        "<b>beat somebody up</b> — избить."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Глагол",
+        "Значение"
+      ],
+      "rows": [
+        [
+          "<b>save up (for / to do)</b>",
+          "копить деньги"
+        ],
+        [
+          "<b>tear up</b>",
+          "порвать на кусочки"
+        ],
+        [
+          "<b>break up / split up (with)</b>",
+          "расстаться"
+        ],
+        [
+          "<b>do up</b> a coat, buttons",
+          "застегнуть, завязать"
+        ],
+        [
+          "<b>do up</b> a house, a room",
+          "отремонтировать"
+        ],
+        [
+          "<b>look something up</b>",
+          "посмотреть (в словаре, справочнике)"
+        ],
+        [
+          "<b>put up with</b>",
+          "терпеть, мириться"
+        ],
+        [
+          "<b>hold up</b>",
+          "задержать"
+        ],
+        [
+          "<b>mix up / get mixed up</b>",
+          "перепутать"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Терпеть шум» — <b>put up with the noise</b>: оба слова, <b>up</b> и <b>with</b>, обязательны, и местоимение идёт в конце: <b>I can't put up with it</b>. А вот в <b>look it up</b>, <b>make it up</b> местоимение стоит в середине."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Пожалуйста, не поднимай эту тему за ужином.",
+      "en": [
+        "Please don't bring this up at dinner.",
+        "Please don't bring up this topic at dinner.",
+        "Please don't bring that up at dinner."
+      ]
+    },
+    {
+      "ru": "Вопрос о деньгах всплыл на собрании.",
+      "en": [
+        "The question of money came up at the meeting.",
+        "The question of money came up in the meeting."
+      ]
+    },
+    {
+      "ru": "Кто придумал эту идею?",
+      "en": [
+        "Who came up with this idea?",
+        "Who came up with that idea?"
+      ]
+    },
+    {
+      "ru": "Нам нужно придумать план.",
+      "en": [
+        "We need to come up with a plan.",
+        "We have to come up with a plan."
+      ]
+    },
+    {
+      "ru": "Это неправда, ты всё выдумал.",
+      "en": [
+        "That isn't true, you made it all up.",
+        "It's not true, you made it all up."
+      ]
+    },
+    {
+      "ru": "Не выдумывай отговорки.",
+      "en": [
+        "Don't make up excuses.",
+        "Don't make excuses up."
+      ]
+    },
+    {
+      "ru": "Мы копим на новую машину.",
+      "en": [
+        "We're saving up for a new car."
+      ]
+    },
+    {
+      "ru": "Лора копит деньги, чтобы поехать в Японию.",
+      "en": [
+        "Laura is saving up to go to Japan.",
+        "Laura is saving up for a trip to Japan."
+      ]
+    },
+    {
+      "ru": "Он порвал фотографию на мелкие кусочки.",
+      "en": [
+        "He tore up the photo.",
+        "He tore the photo up.",
+        "He tore the photo into small pieces."
+      ]
+    },
+    {
+      "ru": "Джек и Мэри расстались в прошлом месяце.",
+      "en": [
+        "Jack and Mary split up last month.",
+        "Jack and Mary broke up last month."
+      ]
+    },
+    {
+      "ru": "Почему ты рассталась с ним?",
+      "en": [
+        "Why did you break up with him?",
+        "Why did you split up with him?"
+      ]
+    },
+    {
+      "ru": "Застегни куртку, на улице холодно.",
+      "en": [
+        "Do up your jacket, it's cold outside.",
+        "Do your jacket up, it's cold outside."
+      ]
+    },
+    {
+      "ru": "Они купили старый дом и отремонтировали его.",
+      "en": [
+        "They bought an old house and did it up."
+      ]
+    },
+    {
+      "ru": "Если не знаешь слово, посмотри его в словаре.",
+      "en": [
+        "If you don't know a word, look it up in a dictionary.",
+        "If you don't know the word, look it up in a dictionary."
+      ]
+    },
+    {
+      "ru": "Я посмотрю расписание поездов в интернете.",
+      "en": [
+        "I'll look up the train times online.",
+        "I'll look the train times up online."
+      ]
+    },
+    {
+      "ru": "Как ты терпишь такого соседа?",
+      "en": [
+        "How do you put up with a neighbour like that?",
+        "How do you put up with a neighbor like that?",
+        "How can you put up with a neighbour like that?"
+      ]
+    },
+    {
+      "ru": "Я больше не могу это терпеть.",
+      "en": [
+        "I can't put up with it any more.",
+        "I can't put up with it anymore.",
+        "I can't put up with this any more."
+      ]
+    },
+    {
+      "ru": "Не грусти, всё будет хорошо!",
+      "en": [
+        "Cheer up, everything will be fine!",
+        "Cheer up, everything will be OK!",
+        "Cheer up, it'll be fine!"
+      ]
+    },
+    {
+      "ru": "Давай купим ей цветы, чтобы её подбодрить.",
+      "en": [
+        "Let's buy her flowers to cheer her up.",
+        "Let's buy her some flowers to cheer her up."
+      ]
+    },
+    {
+      "ru": "Надеюсь, после обеда прояснится.",
+      "en": [
+        "I hope it clears up in the afternoon.",
+        "I hope it will clear up in the afternoon.",
+        "I hope it clears up after lunch."
+      ]
+    },
+    {
+      "ru": "Старый склад взорвали.",
+      "en": [
+        "The old warehouse was blown up."
+      ]
+    },
+    {
+      "ru": "Двое мужчин избили его возле бара.",
+      "en": [
+        "Two men beat him up outside the bar.",
+        "Two men beat him up near the bar."
+      ]
+    },
+    {
+      "ru": "Извини, меня задержали на работе.",
+      "en": [
+        "Sorry, I was held up at work.",
+        "Sorry, I got held up at work."
+      ]
+    },
+    {
+      "ru": "Я всегда путаю этих близнецов.",
+      "en": [
+        "I always mix up these twins.",
+        "I always mix these twins up.",
+        "I always get these twins mixed up.",
+        "I always mix up those twins."
+      ]
+    }
+  ]
+}

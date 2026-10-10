@@ -1,0 +1,242 @@
+{
+  "id": 63,
+  "section": "-ing и to",
+  "title": "there's no point in -ing, it's worth -ing etc.",
+  "subtitle": "no point in, worth, trouble, spend time и go -ing",
+  "theory": [
+    {
+      "type": "h",
+      "text": "Нет смысла / бесполезно"
+    },
+    {
+      "type": "p",
+      "text": "<b>There's no point in doing</b>, <b>It's no use doing</b>, <b>It's no good doing</b> — нет смысла, бесполезно: <b>There's no point in shouting.</b> <b>It's no use crying.</b> В вопросе — <b>the point of</b>: <b>What's the point of shouting?</b>"
+    },
+    {
+      "type": "h",
+      "text": "Стоит / не стоит"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>It's worth doing</b> / <b>It's not worth doing</b>: <b>It's not worth waiting.</b>",
+        "Предмет тоже может «стоить»: <b>This album is worth listening to.</b>",
+        "<b>It's worth it</b> — оно того стоит: <b>It was expensive, but it was worth it.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Трудности, время, занятость"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Схема",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "have trouble / difficulty / a problem doing",
+          "I had trouble parking."
+        ],
+        [
+          "spend / waste time doing",
+          "We spent an hour looking for the keys."
+        ],
+        [
+          "be busy doing",
+          "He's busy writing a report."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>go + -ing</b> — для занятий спортом и досугом: <b>go fishing, go skiing, go camping, go shopping, go jogging</b>. <b>He's gone fishing.</b> <b>Have you ever been camping?</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русское «у меня проблемы с поиском» не переводится как <b>trouble to find</b> — только <b>trouble finding</b>. И «пойти поплавать» — это <b>go swimming</b>, а не <b>go to swim</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Нет смысла ждать дольше.",
+      "en": [
+        "There's no point in waiting any longer.",
+        "It's no use waiting any longer.",
+        "It's no good waiting any longer."
+      ]
+    },
+    {
+      "ru": "Бесполезно беспокоиться об этом.",
+      "en": [
+        "It's no use worrying about it.",
+        "It's no good worrying about it.",
+        "There's no point in worrying about it."
+      ]
+    },
+    {
+      "ru": "Бесполезно с ним спорить.",
+      "en": [
+        "It's no good arguing with him.",
+        "It's no use arguing with him.",
+        "There's no point in arguing with him."
+      ]
+    },
+    {
+      "ru": "Какой смысл покупать машину, если ты не водишь?",
+      "en": [
+        "What's the point of buying a car if you don't drive?"
+      ]
+    },
+    {
+      "ru": "Нет смысла учиться, если ты устал.",
+      "en": [
+        "There's no point in studying if you're tired.",
+        "It's no use studying if you're tired."
+      ]
+    },
+    {
+      "ru": "Этот музей стоит посетить.",
+      "en": [
+        "This museum is worth visiting.",
+        "It's worth visiting this museum."
+      ]
+    },
+    {
+      "ru": "Эту книгу стоит прочитать.",
+      "en": [
+        "This book is worth reading.",
+        "It's worth reading this book."
+      ]
+    },
+    {
+      "ru": "(вокзал совсем рядом) Брать такси не стоит.",
+      "en": [
+        "It's not worth taking a taxi to the station.",
+        "It isn't worth taking a taxi to the station.",
+        "It's not worth getting a taxi to the station."
+      ]
+    },
+    {
+      "ru": "Было трудно, но оно того стоило.",
+      "en": [
+        "It was hard, but it was worth it.",
+        "It was difficult, but it was worth it."
+      ]
+    },
+    {
+      "ru": "Этот фильм стоит посмотреть ещё раз.",
+      "en": [
+        "This film is worth watching again.",
+        "This film is worth seeing again.",
+        "This movie is worth watching again.",
+        "This movie is worth seeing again."
+      ]
+    },
+    {
+      "ru": "Я без проблем нашёл работу.",
+      "en": [
+        "I had no trouble finding a job.",
+        "I had no problem finding a job.",
+        "I had no difficulty finding a job.",
+        "I didn't have any trouble finding a job."
+      ]
+    },
+    {
+      "ru": "У тебя были трудности с получением визы?",
+      "en": [
+        "Did you have any difficulty getting a visa?",
+        "Did you have difficulty getting a visa?",
+        "Did you have any trouble getting a visa?",
+        "Did you have any problems getting a visa?",
+        "Did you have a problem getting a visa?"
+      ]
+    },
+    {
+      "ru": "Ему трудно запоминать имена.",
+      "en": [
+        "He has trouble remembering names.",
+        "He has difficulty remembering names.",
+        "He has a problem remembering names."
+      ]
+    },
+    {
+      "ru": "Мы с трудом нашли их дом.",
+      "en": [
+        "We had difficulty finding their house.",
+        "We had trouble finding their house.",
+        "We had a problem finding their house."
+      ]
+    },
+    {
+      "ru": "Я потратил весь вечер на уборку.",
+      "en": [
+        "I spent the whole evening cleaning.",
+        "I spent all evening cleaning."
+      ]
+    },
+    {
+      "ru": "Не трать время на телевизор.",
+      "en": [
+        "Don't waste your time watching TV.",
+        "Don't waste time watching TV."
+      ]
+    },
+    {
+      "ru": "Сколько времени ты тратишь на дорогу до работы?",
+      "en": [
+        "How much time do you spend travelling to work?",
+        "How much time do you spend getting to work?",
+        "How much time do you spend traveling to work?"
+      ]
+    },
+    {
+      "ru": "Она занята подготовкой к экзамену.",
+      "en": [
+        "She's busy preparing for her exam.",
+        "She's busy preparing for the exam."
+      ]
+    },
+    {
+      "ru": "Мы были заняты покраской кухни.",
+      "en": [
+        "We were busy painting the kitchen."
+      ]
+    },
+    {
+      "ru": "Как часто вы ходите в походы?",
+      "en": [
+        "How often do you go hiking?",
+        "How often do you go camping?"
+      ]
+    },
+    {
+      "ru": "Прошлой зимой мы ездили кататься на лыжах во Францию.",
+      "en": [
+        "Last winter we went skiing in France.",
+        "We went skiing in France last winter."
+      ]
+    },
+    {
+      "ru": "(её сейчас нет дома) Кейт ушла за покупками.",
+      "en": [
+        "Kate has gone shopping."
+      ]
+    },
+    {
+      "ru": "Ты когда-нибудь ходил на рыбалку?",
+      "en": [
+        "Have you ever been fishing?",
+        "Have you ever gone fishing?"
+      ]
+    },
+    {
+      "ru": "Давай завтра пойдём на пробежку.",
+      "en": [
+        "Let's go jogging tomorrow.",
+        "Let's go running tomorrow."
+      ]
+    }
+  ]
+}

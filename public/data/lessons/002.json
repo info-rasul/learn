@@ -1,0 +1,236 @@
+{
+  "id": 2,
+  "section": "Настоящее и прошедшее время",
+  "title": "Present simple (I do)",
+  "subtitle": "Факты, привычки и «как часто»; do/does; I promise, I suggest",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Present simple говорит о том, что происходит вообще, всегда, регулярно, или о том, что верно в целом: <b>Water freezes at zero degrees.</b> <b>I usually get up at seven.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Утверждение",
+        "Отрицание",
+        "Вопрос"
+      ],
+      "rows": [
+        [
+          "I/we/you/they",
+          "I work",
+          "I don't work",
+          "Do you work?"
+        ],
+        [
+          "he/she/it",
+          "she works",
+          "she doesn't work",
+          "Does she work?"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "В 3-м лице ед. числа добавляем <b>-s/-es</b>: work → <b>works</b>, teach → <b>teaches</b>, go → <b>goes</b>, have → <b>has</b>.",
+        "Вопросы и отрицания — через <b>do/does</b>, а глагол без -s: <b>Does she drive?</b> <b>He doesn't drive.</b>",
+        "<b>do</b> может быть и основным глаголом: <b>What does your sister do?</b> (кем работает), <b>He doesn't do anything.</b>",
+        "Частотность: <b>always, usually, often, rarely, never, every day, twice a year</b>. Вопрос — <b>How often do you…?</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Действие словом"
+    },
+    {
+      "type": "p",
+      "text": "Когда сама фраза и есть действие (обещание, извинение, совет), используем present simple: <b>I promise…</b>, <b>I apologise…</b>, <b>I suggest…</b>, <b>I agree…</b>, <b>I advise…</b>, <b>I refuse…</b>, <b>I insist…</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Частые ошибки: забыть <b>-s</b> (<b>she work</b> вместо <b>she works</b>) и строить вопрос без do: <b>What means this word?</b> Правильно: <b>What does this word mean?</b> И не говорите <b>I'm promising</b> — только <b>I promise</b>."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Моя мама работает в больнице.",
+      "en": [
+        "My mother works in a hospital.",
+        "My mum works in a hospital.",
+        "My mother works at a hospital.",
+        "My mum works at a hospital."
+      ]
+    },
+    {
+      "ru": "(вообще) Анна работает в банке.",
+      "en": [
+        "Anna works in a bank.",
+        "Anna works at a bank."
+      ]
+    },
+    {
+      "ru": "Мой брат преподаёт английский.",
+      "en": [
+        "My brother teaches English."
+      ]
+    },
+    {
+      "ru": "Вода замерзает при нуле градусов.",
+      "en": [
+        "Water freezes at zero degrees.",
+        "Water freezes at 0 degrees.",
+        "Water freezes at zero degrees Celsius."
+      ]
+    },
+    {
+      "ru": "Солнце садится на западе.",
+      "en": [
+        "The sun sets in the west.",
+        "The sun goes down in the west."
+      ]
+    },
+    {
+      "ru": "Магазин закрывается в восемь часов.",
+      "en": [
+        "The shop closes at eight o'clock.",
+        "The shop closes at eight.",
+        "The shop closes at 8 o'clock.",
+        "The store closes at eight o'clock."
+      ]
+    },
+    {
+      "ru": "Мы не живём в центре города.",
+      "en": [
+        "We don't live in the city centre.",
+        "We don't live in the town centre.",
+        "We don't live in the centre of town.",
+        "We don't live in the center of the city."
+      ]
+    },
+    {
+      "ru": "Кейт не пьёт кофе по вечерам.",
+      "en": [
+        "Kate doesn't drink coffee in the evening.",
+        "Kate doesn't drink coffee in the evenings."
+      ]
+    },
+    {
+      "ru": "Где живут твои родители?",
+      "en": [
+        "Where do your parents live?"
+      ]
+    },
+    {
+      "ru": "Что означает этот знак?",
+      "en": [
+        "What does this sign mean?"
+      ]
+    },
+    {
+      "ru": "Ты говоришь по-французски?",
+      "en": [
+        "Do you speak French?"
+      ]
+    },
+    {
+      "ru": "Во сколько начинается концерт?",
+      "en": [
+        "What time does the concert start?",
+        "When does the concert start?",
+        "What time does the concert begin?"
+      ]
+    },
+    {
+      "ru": "Кем работает твоя сестра?",
+      "en": [
+        "What does your sister do?"
+      ]
+    },
+    {
+      "ru": "Он ничего не делает по дому.",
+      "en": [
+        "He doesn't do anything around the house.",
+        "He doesn't do anything in the house.",
+        "He does nothing around the house.",
+        "He doesn't do anything at home."
+      ]
+    },
+    {
+      "ru": "Как часто ты ходишь в спортзал?",
+      "en": [
+        "How often do you go to the gym?"
+      ]
+    },
+    {
+      "ru": "Я обычно встаю в семь.",
+      "en": [
+        "I usually get up at seven.",
+        "I usually get up at 7.",
+        "I usually get up at seven o'clock."
+      ]
+    },
+    {
+      "ru": "Пол редко смотрит телевизор.",
+      "en": [
+        "Paul rarely watches TV.",
+        "Paul seldom watches TV.",
+        "Paul doesn't often watch TV.",
+        "Paul rarely watches television."
+      ]
+    },
+    {
+      "ru": "Мы ездим во Францию два раза в год.",
+      "en": [
+        "We go to France twice a year.",
+        "We go to France two times a year."
+      ]
+    },
+    {
+      "ru": "Сколько времени у тебя занимает дорога до работы?",
+      "en": [
+        "How long does it take you to get to work?",
+        "How long does it take you to go to work?"
+      ]
+    },
+    {
+      "ru": "Обещаю, я больше не буду опаздывать.",
+      "en": [
+        "I promise I won't be late again.",
+        "I promise I'll never be late again.",
+        "I promise that I won't be late again."
+      ]
+    },
+    {
+      "ru": "Прошу прощения за свою ошибку.",
+      "en": [
+        "I apologise for my mistake.",
+        "I apologize for my mistake."
+      ]
+    },
+    {
+      "ru": "Я предлагаю пойти в кино.",
+      "en": [
+        "I suggest we go to the cinema.",
+        "I suggest going to the cinema.",
+        "I suggest that we go to the cinema.",
+        "I suggest we go to the movies."
+      ]
+    },
+    {
+      "ru": "Я согласен с тобой.",
+      "en": [
+        "I agree with you."
+      ]
+    },
+    {
+      "ru": "Советую тебе поговорить с врачом.",
+      "en": [
+        "I advise you to talk to a doctor.",
+        "I advise you to speak to a doctor.",
+        "I advise you to see a doctor."
+      ]
+    }
+  ]
+}

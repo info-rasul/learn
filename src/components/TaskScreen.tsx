@@ -4,7 +4,7 @@ import type { Lesson } from '../types';
 import { useUserData } from '../lib/userData';
 import { buildSteps } from '../lib/steps';
 import { joinTiles } from '../lib/tiles';
-import { closestAnswer, isCorrect, normalize } from '../lib/check';
+import { closestAnswer, isCorrect, normalize, sameAnswer } from '../lib/check';
 import { speak } from '../lib/speech';
 import { listen, listenAvailable } from '../lib/listen';
 import SpeakButton from './SpeakButton';
@@ -268,7 +268,7 @@ export default function TaskScreen(props: Props) {
           {status === 'correct' && (
             <button type="button" className="task-result correct" onClick={next}>
               <span className="task-result-title">{praise}</span>
-              {normalize(answer) !== normalize(item.en[0]) && (
+              {!sameAnswer(answer, item.en[0]) && (
                 <span className="muted">Основной вариант: {item.en[0]}</span>
               )}
               <span className="muted small">нажмите, чтобы продолжить</span>

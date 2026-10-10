@@ -1,0 +1,235 @@
+{
+  "id": 74,
+  "section": "Артикли и существительные",
+  "title": "the 2 (school / the school etc.)",
+  "subtitle": "School или the school, hospital, bed, work, home",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Ребёнок <b>goes to school</b> и <b>is at school</b> — мы думаем о школе как об учёбе, а не о конкретном здании. Если же мама идёт в школу поговорить с учителем, она <b>goes to the school</b> — в конкретное здание."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Без the — по назначению",
+        "С the — конкретное здание"
+      ],
+      "rows": [
+        [
+          "go to university (учиться)",
+          "go to the university (по делу, в гости)"
+        ],
+        [
+          "be in hospital (пациентом)",
+          "go to the hospital (навестить)"
+        ],
+        [
+          "be in prison (заключённым)",
+          "go to the prison (посетителем)"
+        ],
+        [
+          "go to church (на службу)",
+          "visit the church (как турист, ремонт)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "С большинством других мест the нужен всегда: <b>the station, the cinema, the bank</b>."
+    },
+    {
+      "type": "h",
+      "text": "bed, work, home"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>go to bed, be in bed</b> — спать; но <b>sit on the bed</b> — конкретный предмет мебели.",
+        "<b>go to work, be at work, start work, finish work</b> — без the.",
+        "<b>go home, come home, get home</b> — без предлога to; <b>be at home, work at home</b>."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Две частые ошибки: <b>go to home</b> (правильно <b>go home</b>) и <b>go to the work</b> (правильно <b>go to work</b>). А «лежит в больнице» — <b>is in hospital</b>, без the."
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мои дети сейчас в школе.",
+      "en": [
+        "My children are at school now.",
+        "My kids are at school now."
+      ]
+    },
+    {
+      "ru": "Занятия в школе начинаются в восемь.",
+      "en": [
+        "School starts at eight.",
+        "School starts at eight o'clock.",
+        "School begins at eight."
+      ]
+    },
+    {
+      "ru": "Мама Тома пошла в школу, чтобы поговорить с учителем.",
+      "en": [
+        "Tom's mother went to the school to talk to his teacher.",
+        "Tom's mother went to the school to speak to his teacher.",
+        "Tom's mum went to the school to talk to his teacher."
+      ]
+    },
+    {
+      "ru": "После школы я хочу поступить в университет.",
+      "en": [
+        "After school I want to go to university.",
+        "I want to go to university after school.",
+        "After school I want to go to college."
+      ]
+    },
+    {
+      "ru": "(не учиться, а по делу) Я ходил в университет на встречу с другом.",
+      "en": [
+        "I went to the university to meet a friend.",
+        "I went to the university to see a friend."
+      ]
+    },
+    {
+      "ru": "После аварии его отвезли в больницу.",
+      "en": [
+        "He was taken to hospital after the accident.",
+        "After the accident he was taken to hospital."
+      ]
+    },
+    {
+      "ru": "Мой дедушка всё ещё в больнице.",
+      "en": [
+        "My grandfather is still in hospital.",
+        "My granddad is still in hospital."
+      ]
+    },
+    {
+      "ru": "Анна пошла в больницу навестить отца.",
+      "en": [
+        "Anna went to the hospital to visit her father.",
+        "Anna has gone to the hospital to visit her father.",
+        "Anna went to the hospital to see her father.",
+        "Anna went to the hospital to visit her dad."
+      ]
+    },
+    {
+      "ru": "Его брат сидит в тюрьме.",
+      "en": [
+        "His brother is in prison.",
+        "His brother is in jail."
+      ]
+    },
+    {
+      "ru": "Они ходят в церковь по воскресеньям.",
+      "en": [
+        "They go to church on Sundays.",
+        "They go to church every Sunday."
+      ]
+    },
+    {
+      "ru": "(как туристы) Мы осмотрели церковь в центре города.",
+      "en": [
+        "We visited the church in the town centre.",
+        "We visited the church in the city centre."
+      ]
+    },
+    {
+      "ru": "Я иду спать. Спокойной ночи.",
+      "en": [
+        "I'm going to bed. Good night.",
+        "I'm going to bed. Goodnight."
+      ]
+    },
+    {
+      "ru": "Почему ты всё ещё в постели?",
+      "en": [
+        "Why are you still in bed?"
+      ]
+    },
+    {
+      "ru": "Она села на кровать.",
+      "en": [
+        "She sat down on the bed.",
+        "She sat on the bed."
+      ]
+    },
+    {
+      "ru": "Вчера Майк не пошёл на работу.",
+      "en": [
+        "Mike didn't go to work yesterday.",
+        "Yesterday Mike didn't go to work."
+      ]
+    },
+    {
+      "ru": "Во сколько ты заканчиваешь работу?",
+      "en": [
+        "What time do you finish work?",
+        "When do you finish work?"
+      ]
+    },
+    {
+      "ru": "Я обычно начинаю работать в девять.",
+      "en": [
+        "I usually start work at nine.",
+        "I usually start work at nine o'clock.",
+        "I usually start working at nine."
+      ]
+    },
+    {
+      "ru": "Она ещё на работе.",
+      "en": [
+        "She's still at work."
+      ]
+    },
+    {
+      "ru": "Уже полночь. Пойдём домой.",
+      "en": [
+        "It's midnight. Let's go home."
+      ]
+    },
+    {
+      "ru": "Во сколько ты вчера пришёл домой?",
+      "en": [
+        "What time did you get home yesterday?",
+        "What time did you come home yesterday?",
+        "When did you get home yesterday?"
+      ]
+    },
+    {
+      "ru": "Сегодня я работаю дома.",
+      "en": [
+        "I'm working at home today.",
+        "I'm working from home today.",
+        "Today I'm working at home."
+      ]
+    },
+    {
+      "ru": "Ты будешь дома вечером?",
+      "en": [
+        "Will you be at home this evening?",
+        "Will you be home this evening?",
+        "Will you be at home tonight?",
+        "Will you be home tonight?"
+      ]
+    },
+    {
+      "ru": "Когда Бен закончит школу, он хочет найти работу.",
+      "en": [
+        "When Ben leaves school, he wants to get a job.",
+        "When Ben finishes school, he wants to get a job.",
+        "When Ben leaves school, he wants to find a job."
+      ]
+    },
+    {
+      "ru": "Мой отец никогда не лежал в больнице.",
+      "en": [
+        "My father has never been in hospital.",
+        "My dad has never been in hospital."
+      ]
+    }
+  ]
+}

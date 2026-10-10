@@ -1,0 +1,45 @@
+{
+  "id": 24,
+  "section": "Будущее время",
+  "title": "will be doing and will have done",
+  "subtitle": "Буду в процессе (will be doing) и уже сделаю к сроку (will have done)",
+  "theory": [
+    { "type": "p", "text": "<b>will be + -ing</b> (future continuous) — в определённый момент будущего я буду <b>в процессе</b> действия: <b>At nine tomorrow I'll be driving to work.</b> — Завтра в девять я буду ехать на работу (уже начал, ещё не закончил)." },
+    { "type": "table", "head": ["Время", "Пример"], "rows": [
+      ["Прошлое", "<b>At 8 yesterday I was having breakfast.</b>"],
+      ["Сейчас", "<b>I'm having breakfast.</b>"],
+      ["Будущее", "<b>At 8 tomorrow I'll be having breakfast.</b>"]
+    ] },
+    { "type": "p", "text": "Сравните: <b>When Dan comes, we'll have lunch</b> (начнём обедать, когда он придёт) и <b>When Dan comes, we'll be having lunch</b> (мы уже будем обедать)." },
+    { "type": "p", "text": "<b>will be -ing</b> также говорит о делах, которые произойдут «в ходе событий», по плану: <b>I'll be passing the bank later.</b> <b>Will you be using the car tonight?</b> (вежливый вопрос о планах)." },
+    { "type": "h", "text": "will have done" },
+    { "type": "p", "text": "<b>will have + V3</b> (future perfect) — к какому-то моменту в будущем действие <b>уже завершится</b>: <b>By Monday I'll have finished the book.</b> Часто с <b>by</b> (к) и <b>by the time</b> (к тому времени, как). Так же: <b>In May we'll have lived here for ten years.</b>" },
+    { "type": "tip", "text": "Русское «к пятнице я закончу» переводят как «I'll finish by Friday» — это возможно, но если подчёркиваете завершённость к сроку, нужно <b>I'll have finished by Friday</b>. И после <b>by the time</b> — настоящее время: <b>by the time you arrive</b> (не will arrive)." }
+  ],
+  "items": [
+    { "ru": "Завтра в десять я буду работать.", "en": ["I'll be working at ten tomorrow.", "At ten tomorrow I'll be working.", "I'll be working at 10 tomorrow.", "Tomorrow at ten I'll be working."] },
+    { "ru": "В это время на следующей неделе мы будем кататься на лыжах во Франции.", "en": ["This time next week we'll be skiing in France."] },
+    { "ru": "Не звони мне в восемь: я буду смотреть футбол.", "en": ["Don't call me at eight because I'll be watching football.", "Don't phone me at eight because I'll be watching football.", "Don't call me at eight, I'll be watching football.", "Don't call me at 8 because I'll be watching football."] },
+    { "ru": "Подожди меня, и мы пойдём вместе.", "en": ["Wait for me and we'll go together."] },
+    { "ru": "Вчера в это время я сидел в самолёте.", "en": ["This time yesterday I was sitting on a plane.", "This time yesterday I was sitting in a plane.", "At this time yesterday I was sitting on a plane."] },
+    { "ru": "Завтра в это время я буду сидеть в самолёте.", "en": ["This time tomorrow I'll be sitting on a plane.", "This time tomorrow I'll be sitting in a plane.", "At this time tomorrow I'll be sitting on a plane."] },
+    { "ru": "(вежливо о планах) Ты будешь пользоваться машиной вечером?", "en": ["Will you be using the car this evening?", "Will you be using the car tonight?"] },
+    { "ru": "Не приходи в два: я буду спать.", "en": ["Don't come at two because I'll be sleeping.", "Don't come at two, I'll be sleeping.", "Don't come at 2 because I'll be sleeping."] },
+    { "ru": "(всё равно поеду туда) Позже я буду проезжать мимо почты.", "en": ["I'll be passing the post office later.", "I'll be going past the post office later.", "Later I'll be passing the post office."] },
+    { "ru": "Анна не будет играть в субботнем матче.", "en": ["Anna won't be playing in Saturday's match.", "Anna won't be playing in the match on Saturday.", "Anna won't be playing in Saturday's game."] },
+    { "ru": "Самолёт скоро будет приземляться.", "en": ["The plane will be landing soon.", "The plane will soon be landing."] },
+    { "ru": "К девяти Кейт уже уйдёт на работу.", "en": ["Kate will have gone to work by nine.", "By nine Kate will have gone to work.", "Kate will have left for work by nine.", "Kate will already have gone to work by nine."] },
+    { "ru": "Когда мы придём, все уже съедят торт.", "en": ["By the time we arrive, everyone will have eaten the cake.", "By the time we arrive, everybody will have eaten the cake.", "Everyone will have eaten the cake by the time we arrive.", "By the time we get there, everyone will have eaten the cake."] },
+    { "ru": "К концу года я прочитаю тридцать книг.", "en": ["By the end of the year I'll have read thirty books.", "By the end of the year I'll have read 30 books.", "I'll have read thirty books by the end of the year."] },
+    { "ru": "Я закончу отчёт к пятнице.", "en": ["I'll have finished the report by Friday.", "By Friday I'll have finished the report."] },
+    { "ru": "В следующем году мы будем женаты десять лет.", "en": ["Next year we'll have been married for ten years.", "Next year we'll have been married for 10 years."] },
+    { "ru": "К тому времени, как ты вернёшься, я уже лягу спать.", "en": ["I'll have gone to bed by the time you get back.", "By the time you get back, I'll have gone to bed.", "I'll have gone to bed by the time you come back.", "By the time you come back, I'll have gone to bed."] },
+    { "ru": "Встреча закончится к одиннадцати.", "en": ["The meeting will have finished by eleven.", "The meeting will have ended by eleven.", "The meeting will have finished by 11."] },
+    { "ru": "Ты закончишь к шести?", "en": ["Will you have finished by six?", "Will you have finished by 6?"] },
+    { "ru": "К пятнице Бен потратит все свои деньги.", "en": ["Ben will have spent all his money by Friday.", "By Friday Ben will have spent all his money."] },
+    { "ru": "В шесть я ещё буду работать.", "en": ["I'll still be working at six.", "At six I'll still be working.", "I'll still be working at 6."] },
+    { "ru": "К шести я уже закончу работу.", "en": ["I'll have finished work by six.", "By six I'll have finished work.", "I'll have finished work by 6.", "I'll already have finished work by six."] },
+    { "ru": "Что ты будешь делать завтра в это время?", "en": ["What will you be doing this time tomorrow?", "What will you be doing at this time tomorrow?"] },
+    { "ru": "Не волнуйся, к твоему приезду я всё уберу.", "en": ["Don't worry, I'll have cleaned everything by the time you arrive.", "Don't worry, I'll have tidied everything by the time you arrive.", "Don't worry, I'll have cleaned everything before you arrive."] }
+  ]
+}
