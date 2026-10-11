@@ -1,0 +1,254 @@
+{
+  "id": 11,
+  "section": "Present perfect и прошедшее время",
+  "title": "How long have you (been) ... ?",
+  "subtitle": "Как давно? Настоящее против present perfect; haven't … since/for",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Если ситуация началась в прошлом и продолжается сейчас, а мы говорим, <b>как долго</b> она длится, нужен present perfect. По-русски в таких фразах настоящее время: «они женаты 15 лет», «я знаю его со школы»."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Сейчас (present)",
+        "Как долго (present perfect)"
+      ],
+      "rows": [
+        [
+          "<b>Kate is in hospital.</b>",
+          "<b>Kate has been in hospital since Friday.</b>"
+        ],
+        [
+          "<b>We know each other.</b>",
+          "<b>We've known each other since school.</b>"
+        ],
+        [
+          "<b>Do they have a dog?</b>",
+          "<b>How long have they had this dog?</b>"
+        ],
+        [
+          "<b>We're waiting.</b>",
+          "<b>We haven't been waiting long.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "С «как долго» обычно выбирают continuous: <b>I've been learning Spanish since September.</b>",
+        "Глаголы состояния — только simple: <b>How long have you known Mike?</b> <b>I've had a headache since this morning.</b>",
+        "<b>live</b> и <b>work</b> — можно и так и так: <b>has been living / has lived</b>.",
+        "С <b>always</b> — только simple: <b>I've always lived in Moscow.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Как давно не было"
+    },
+    {
+      "type": "p",
+      "text": "«Я не видел его с…», «она не звонила уже…» — present perfect simple: <b>I haven't seen Ben since last week.</b> <b>Emma hasn't called for weeks.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Не переводите дословно: «Как давно вы женаты?» — это не <b>How long are you married?</b>, а <b>How long have you been married?</b> И «Они женаты 15 лет» — не <b>They are married for 15 years</b>, а <b>They've been married for 15 years.</b>"
+    }
+  ],
+  "words": [
+    { "en": "long", "ru": "долго (в вопросах и отрицаниях)" },
+    { "en": "for ages", "ru": "целую вечность, очень давно" },
+    { "en": "for years", "ru": "много лет, годами" },
+    { "en": "married", "ru": "женатый, замужем" },
+    { "en": "in hospital", "ru": "в больнице (на лечении)" },
+    { "en": "live", "ru": "жить" },
+    { "en": "school", "ru": "школа" },
+    { "en": "dog", "ru": "собака" },
+    { "en": "job", "ru": "работа" },
+    { "en": "bank", "ru": "банк" },
+    { "en": "theatre", "ru": "театр" },
+    { "en": "awful", "ru": "ужасный" },
+    { "en": "headache", "ru": "головная боль" },
+    { "en": "Friday", "ru": "пятница" },
+    { "en": "September", "ru": "сентябрь" }
+  ],
+  "items": [
+    {
+      "ru": "Они женаты пятнадцать лет.",
+      "en": [
+        "They've been married for fifteen years.",
+        "They've been married for 15 years.",
+        "They've been married fifteen years."
+      ]
+    },
+    {
+      "ru": "Как давно вы женаты?",
+      "en": [
+        "How long have you been married?"
+      ]
+    },
+    {
+      "ru": "Кейт в больнице с пятницы.",
+      "en": [
+        "Kate has been in hospital since Friday.",
+        "Kate has been in the hospital since Friday."
+      ]
+    },
+    {
+      "ru": "Мы знаем друг друга со школы.",
+      "en": [
+        "We've known each other since school.",
+        "We've known each other since we were at school."
+      ]
+    },
+    {
+      "ru": "Как давно ты знаешь Майка?",
+      "en": [
+        "How long have you known Mike?"
+      ]
+    },
+    {
+      "ru": "Как давно у них эта собака?",
+      "en": [
+        "How long have they had this dog?",
+        "How long have they had their dog?"
+      ]
+    },
+    {
+      "ru": "Мы ждём совсем недолго.",
+      "en": [
+        "We haven't been waiting long.",
+        "We haven't been waiting very long.",
+        "We haven't been waiting for long."
+      ]
+    },
+    {
+      "ru": "Я учу испанский с сентября.",
+      "en": [
+        "I've been learning Spanish since September.",
+        "I've been studying Spanish since September."
+      ]
+    },
+    {
+      "ru": "Снег идёт всё утро.",
+      "en": [
+        "It's been snowing all morning."
+      ]
+    },
+    {
+      "ru": "Джек делает эту работу двадцать лет.",
+      "en": [
+        "Jack has been doing this job for twenty years.",
+        "Jack has been doing this job for 20 years.",
+        "Jack has done this job for twenty years."
+      ]
+    },
+    {
+      "ru": "Как давно Анна водит машину?",
+      "en": [
+        "How long has Anna been driving?"
+      ]
+    },
+    {
+      "ru": "Как давно твой брат работает в этом банке?",
+      "en": [
+        "How long has your brother been working at this bank?",
+        "How long has your brother been working in this bank?",
+        "How long has your brother worked at this bank?",
+        "How long has your brother worked in this bank?"
+      ]
+    },
+    {
+      "ru": "Лиза живёт в Риме с 2018 года.",
+      "en": [
+        "Lisa has been living in Rome since 2018.",
+        "Lisa has lived in Rome since 2018."
+      ]
+    },
+    {
+      "ru": "Я всегда жил в Москве.",
+      "en": [
+        "I've always lived in Moscow."
+      ]
+    },
+    {
+      "ru": "Он всегда хотел поехать в Японию.",
+      "en": [
+        "He's always wanted to go to Japan.",
+        "He's always wanted to visit Japan."
+      ]
+    },
+    {
+      "ru": "Я не видел Бена с прошлой недели.",
+      "en": [
+        "I haven't seen Ben since last week."
+      ]
+    },
+    {
+      "ru": "Эмма не звонит уже несколько недель.",
+      "en": [
+        "Emma hasn't called for weeks.",
+        "Emma hasn't called for several weeks.",
+        "Emma hasn't phoned for weeks.",
+        "Emma hasn't called for a few weeks.",
+        "Emma hasn't phoned for several weeks.",
+        "Emma hasn't called in weeks."
+      ]
+    },
+    {
+      "ru": "Мы целую вечность не были в театре.",
+      "en": [
+        "We haven't been to the theatre for ages.",
+        "We haven't been to the theater for ages.",
+        "We haven't been to the theatre in ages."
+      ]
+    },
+    {
+      "ru": "Я не играю в футбол уже много лет.",
+      "en": [
+        "I haven't played football for years.",
+        "I haven't played football for many years.",
+        "I haven't played football in years."
+      ]
+    },
+    {
+      "ru": "Как давно ты в Лондоне?",
+      "en": [
+        "How long have you been in London?"
+      ]
+    },
+    {
+      "ru": "С тех пор как мы приехали, погода ужасная.",
+      "en": [
+        "The weather has been awful since we arrived.",
+        "The weather has been terrible since we arrived.",
+        "Since we arrived, the weather has been awful.",
+        "Since we arrived, the weather has been terrible.",
+        "The weather has been horrible since we arrived."
+      ]
+    },
+    {
+      "ru": "Сара замужем за итальянцем.",
+      "en": [
+        "Sarah is married to an Italian.",
+        "Sarah is married to an Italian man."
+      ]
+    },
+    {
+      "ru": "Я очень хорошо его знаю.",
+      "en": [
+        "I know him very well."
+      ]
+    },
+    {
+      "ru": "У меня болит голова с самого утра.",
+      "en": [
+        "I've had a headache since this morning.",
+        "I've had a headache since the morning.",
+        "I've had a headache all morning.",
+        "My head has been hurting since this morning.",
+        "My head has been aching since this morning."
+      ]
+    }
+  ]
+}

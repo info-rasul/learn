@@ -1,0 +1,355 @@
+{
+  "id": 132,
+  "section": "Предлоги",
+  "title": "Verb + preposition 1 to and at",
+  "subtitle": "listen to, look at, explain to; phone/ask/answer без предлога",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Некоторые глаголы требуют <b>to</b> или <b>at</b>, а некоторые, наоборот, идут без предлога, хотя по-русски предлог есть (или наоборот)."
+    },
+    {
+      "type": "table",
+      "head": [
+        "С предлогом",
+        "Без предлога"
+      ],
+      "rows": [
+        [
+          "<b>talk/speak to</b> somebody",
+          "<b>phone / call / email / text</b> somebody"
+        ],
+        [
+          "<b>listen to</b> music",
+          "<b>ask</b> somebody (a question)"
+        ],
+        [
+          "<b>apologise to</b> somebody (for…)",
+          "<b>thank</b> somebody (for…)"
+        ],
+        [
+          "<b>explain</b> something <b>to</b> somebody",
+          "<b>answer</b> somebody / an email"
+        ],
+        [
+          "<b>write to</b>, <b>reply to</b> an email",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>explain/describe (to somebody) what/how/why…</b>: <b>Explain to me how it works.</b> Нельзя: <b>explain me</b>.",
+        "<b>look / stare / glance at</b>, <b>have a look at</b>: <b>Have a look at this.</b>",
+        "<b>laugh at</b> — смеяться над; <b>aim / point at</b>; <b>shoot / fire at</b>."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "At или to — разный смысл"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>shout at somebody</b> — кричать на кого-то (со злостью); <b>shout to somebody</b> — крикнуть, чтобы услышали.",
+        "<b>throw something at somebody</b> — бросить, чтобы попасть; <b>throw something to somebody</b> — бросить, чтобы поймали."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Не переводите дословно: «позвонить кому-то» — <b>call somebody</b> (не <b>call to</b>), «ответить на письмо» — <b>answer the email</b> или <b>reply to the email</b>, «объясни мне» — <b>explain to me</b>, «слушать радио» — <b>listen to the radio</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "talk to",
+      "ru": "разговаривать с"
+    },
+    {
+      "en": "speak to",
+      "forms": "spoke, spoken",
+      "ru": "говорить с"
+    },
+    {
+      "en": "listen to",
+      "ru": "слушать"
+    },
+    {
+      "en": "look at",
+      "ru": "смотреть на"
+    },
+    {
+      "en": "have a look at",
+      "forms": "had, had",
+      "ru": "взглянуть на"
+    },
+    {
+      "en": "apologise to",
+      "ru": "извиняться перед"
+    },
+    {
+      "en": "thank",
+      "ru": "благодарить (thank somebody for)"
+    },
+    {
+      "en": "laugh at",
+      "ru": "смеяться над"
+    },
+    {
+      "en": "explain to",
+      "ru": "объяснять (кому-то)"
+    },
+    {
+      "en": "describe",
+      "ru": "описывать"
+    },
+    {
+      "en": "call",
+      "ru": "звонить (без to)"
+    },
+    {
+      "en": "text",
+      "ru": "написать сообщение"
+    },
+    {
+      "en": "write to",
+      "forms": "wrote, written",
+      "ru": "писать (кому-то)"
+    },
+    {
+      "en": "answer",
+      "ru": "отвечать (без to)"
+    },
+    {
+      "en": "point at",
+      "ru": "направлять на"
+    },
+    {
+      "en": "shoot at",
+      "forms": "shot, shot",
+      "ru": "стрелять в"
+    },
+    {
+      "en": "shout at",
+      "ru": "кричать на (сердито)"
+    },
+    {
+      "en": "shout to",
+      "ru": "кричать (кому-то, чтобы услышал)"
+    },
+    {
+      "en": "throw at",
+      "forms": "threw, thrown",
+      "ru": "бросать в (чтобы попасть)"
+    },
+    {
+      "en": "throw to",
+      "forms": "threw, thrown",
+      "ru": "бросать (кому-то, чтобы поймал)"
+    }
+  ],
+  "items": [
+    {
+      "ru": "С кем ты разговаривал по телефону?",
+      "en": [
+        "Who were you talking to on the phone?",
+        "Who were you speaking to on the phone?",
+        "Who were you talking with on the phone?",
+        "Who were you speaking with on the phone?"
+      ]
+    },
+    {
+      "ru": "Мне нужно поговорить с менеджером.",
+      "en": [
+        "I need to speak to the manager.",
+        "I need to talk to the manager.",
+        "I need to speak with the manager.",
+        "I need to talk with the manager.",
+        "I have to speak to the manager.",
+        "I have to talk to the manager."
+      ]
+    },
+    {
+      "ru": "Я люблю слушать музыку в машине.",
+      "en": [
+        "I like listening to music in the car.",
+        "I like to listen to music in the car.",
+        "I love listening to music in the car.",
+        "I love to listen to music in the car."
+      ]
+    },
+    {
+      "ru": "Можно задать тебе вопрос?",
+      "en": [
+        "Can I ask you a question?",
+        "May I ask you a question?",
+        "Could I ask you a question?"
+      ]
+    },
+    {
+      "ru": "Почему ты так на меня смотришь?",
+      "en": [
+        "Why are you looking at me like this?",
+        "Why are you looking at me like that?",
+        "Why are you looking at me that way?"
+      ]
+    },
+    {
+      "ru": "Взгляни на это фото.",
+      "en": [
+        "Have a look at this photo.",
+        "Take a look at this photo.",
+        "Look at this photo.",
+        "Have a look at this picture.",
+        "Take a look at this picture.",
+        "Look at this picture."
+      ]
+    },
+    {
+      "ru": "Он извинился перед нами за шум.",
+      "en": [
+        "He apologised to us for the noise.",
+        "He apologized to us for the noise."
+      ]
+    },
+    {
+      "ru": "Она поблагодарила меня за подарок.",
+      "en": [
+        "She thanked me for the present.",
+        "She thanked me for the gift."
+      ]
+    },
+    {
+      "ru": "Не смейся надо мной!",
+      "en": [
+        "Don't laugh at me!"
+      ]
+    },
+    {
+      "ru": "Можешь объяснить мне это правило?",
+      "en": [
+        "Can you explain this rule to me?",
+        "Could you explain this rule to me?"
+      ]
+    },
+    {
+      "ru": "Объясни нам, что случилось.",
+      "en": [
+        "Explain to us what happened.",
+        "Explain to us what has happened."
+      ]
+    },
+    {
+      "ru": "Опиши мне, как выглядит твой дом.",
+      "en": [
+        "Describe to me what your house looks like."
+      ]
+    },
+    {
+      "ru": "Я позвоню Анне вечером.",
+      "en": [
+        "I'll call Anna this evening.",
+        "I'll phone Anna this evening.",
+        "I'll call Anna tonight.",
+        "I'll phone Anna tonight.",
+        "I'll call Anna in the evening.",
+        "I'll phone Anna in the evening."
+      ]
+    },
+    {
+      "ru": "Напиши мне сообщение, когда доедешь.",
+      "en": [
+        "Text me when you get there.",
+        "Send me a message when you get there.",
+        "Text me when you arrive.",
+        "Send me a text when you get there.",
+        "Send me a message when you arrive.",
+        "Send me a text when you arrive."
+      ]
+    },
+    {
+      "ru": "Я написал письмо своему дедушке.",
+      "en": [
+        "I wrote a letter to my grandfather.",
+        "I wrote to my grandfather.",
+        "I wrote my grandfather a letter.",
+        "I wrote a letter to my grandad.",
+        "I wrote a letter to my grandpa."
+      ]
+    },
+    {
+      "ru": "Почему ты не ответил на моё письмо?",
+      "en": [
+        "Why didn't you answer my email?",
+        "Why didn't you reply to my email?",
+        "Why didn't you answer my letter?",
+        "Why didn't you reply to my letter?"
+      ]
+    },
+    {
+      "ru": "Она не отвечает мне.",
+      "en": [
+        "She isn't answering me.",
+        "She doesn't answer me.",
+        "She isn't replying to me.",
+        "She doesn't reply to me."
+      ]
+    },
+    {
+      "ru": "Не направляй камеру на меня.",
+      "en": [
+        "Don't point the camera at me.",
+        "Don't aim the camera at me."
+      ]
+    },
+    {
+      "ru": "Мальчик стрелял по банкам из игрушечного пистолета.",
+      "en": [
+        "The boy was shooting at cans with a toy gun.",
+        "The boy shot at cans with a toy gun.",
+        "The boy was shooting at cans with a toy pistol."
+      ]
+    },
+    {
+      "ru": "(со злостью) Не кричи на детей!",
+      "en": [
+        "Don't shout at the children!",
+        "Don't shout at the kids!",
+        "Don't yell at the children!",
+        "Don't yell at the kids!"
+      ]
+    },
+    {
+      "ru": "(чтобы он услышал) Я крикнул Майку с другого конца поля.",
+      "en": [
+        "I shouted to Mike from the other end of the field.",
+        "I shouted to Mike from across the field.",
+        "I shouted to Mike from the other side of the field."
+      ]
+    },
+    {
+      "ru": "(чтобы поймала) Брось мне мяч!",
+      "en": [
+        "Throw the ball to me!",
+        "Throw me the ball!"
+      ]
+    },
+    {
+      "ru": "(чтобы попасть) Кто-то бросил камень в наше окно.",
+      "en": [
+        "Somebody threw a stone at our window.",
+        "Someone threw a stone at our window.",
+        "Somebody threw a rock at our window.",
+        "Someone threw a rock at our window."
+      ]
+    },
+    {
+      "ru": "Пожалуйста, ответь на мой вопрос.",
+      "en": [
+        "Please answer my question.",
+        "Answer my question, please."
+      ]
+    }
+  ]
+}

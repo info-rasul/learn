@@ -1,0 +1,111 @@
+{
+  "id": 85,
+  "section": "Местоимения и определители",
+  "title": "some and any",
+  "subtitle": "some и any: утверждения, отрицания, вопросы и значение «любой»",
+  "theory": [
+    { "type": "p", "text": "Обычно <b>some</b> (и <b>somebody/someone/something/somewhere</b>) ставим в утвердительных предложениях, а <b>any</b> (и <b>anybody/anything/anywhere</b>) — в отрицательных: <b>I've got some bread.</b> — <b>I haven't got any bread.</b> Any нужен и там, где смысл отрицательный без not: <b>without any help</b>, <b>He refused to say anything.</b>, <b>Hardly anyone came.</b>" },
+    { "type": "table", "head": ["", "some-", "any-"], "rows": [
+      ["люди", "somebody / someone — кто-то", "anybody / anyone — кто-нибудь, никто (с not)"],
+      ["вещи", "something — что-то", "anything — что-нибудь, ничего (с not)"],
+      ["место", "somewhere — где-то, куда-то", "anywhere — где-нибудь, нигде (с not)"]
+    ] },
+    { "type": "h", "text": "some и any в вопросах" },
+    { "type": "p", "text": "В обычном вопросе, когда мы не знаем, есть ли что-то, — <b>any</b>: <b>Is there any milk?</b> Но если мы просим или предлагаем, или ожидаем ответ «да», — <b>some</b>: <b>Can I have some tea?</b>, <b>Would you like something to drink?</b>, <b>Are you waiting for someone?</b>" },
+    { "type": "list", "items": [
+      "<b>if + any</b>: <b>If you need anything, call me.</b> Похожий смысл «если вдруг»: <b>I'll help anyone who asks.</b>",
+      "<b>any</b> = «любой, неважно какой»: <b>Take any seat.</b>, <b>Anybody can do it.</b>, <b>Come any time.</b>",
+      "<b>somebody/anybody</b> — единственное число (<b>Someone is here.</b>), но дальше часто <b>they/them/their</b>: <b>Someone forgot their bag.</b>"
+    ] },
+    { "type": "tip", "text": "По-русски говорим «я <b>ничего не</b> знаю» — с двумя отрицаниями. В английском одно отрицание: <b>I don't know anything</b> (не <b>I don't know nothing</b>). И «любой» в смысле «какой угодно» — это <b>any</b>, а не <b>every</b>." }
+  ],
+  "words": [
+    {
+      "en": "some",
+      "ru": "немного, несколько, какой-то"
+    },
+    {
+      "en": "any",
+      "ru": "какой-нибудь; любой; (в отрицании) никакой"
+    },
+    {
+      "en": "somebody",
+      "ru": "кто-то"
+    },
+    {
+      "en": "someone",
+      "ru": "кто-то"
+    },
+    {
+      "en": "something",
+      "ru": "что-то"
+    },
+    {
+      "en": "somewhere",
+      "ru": "где-то, куда-нибудь"
+    },
+    {
+      "en": "anybody",
+      "ru": "кто-нибудь; любой; (в отрицании) никто"
+    },
+    {
+      "en": "anyone",
+      "ru": "кто-нибудь; любой; (в отрицании) никто"
+    },
+    {
+      "en": "anything",
+      "ru": "что-нибудь; что угодно; (в отрицании) ничего"
+    },
+    {
+      "en": "any time",
+      "ru": "в любое время"
+    },
+    {
+      "en": "without",
+      "ru": "без"
+    },
+    {
+      "en": "hardly",
+      "ru": "едва, почти не"
+    },
+    {
+      "en": "fridge",
+      "ru": "холодильник"
+    },
+    {
+      "en": "classroom",
+      "ru": "класс (комната)"
+    },
+    {
+      "en": "leave",
+      "forms": "left, left",
+      "ru": "оставлять"
+    }
+  ],
+  "items": [
+    { "ru": "Я купил хлеба и молока.", "en": ["I bought some bread and some milk.", "I bought some bread and milk.", "I bought bread and milk.", "I've bought some bread and some milk.", "I've bought some bread and milk."] },
+    { "ru": "У Анны есть для тебя хорошие новости.", "en": ["Anna has some good news for you.", "Anna has got some good news for you.", "Anna has good news for you."] },
+    { "ru": "Кто-то звонил тебе утром.", "en": ["Somebody called you this morning.", "Someone called you this morning.", "Somebody phoned you this morning.", "Someone phoned you this morning.", "Somebody rang you this morning.", "Someone rang you this morning."] },
+    { "ru": "Я хочу чего-нибудь выпить.", "en": ["I want something to drink.", "I'd like something to drink.", "I want to drink something.", "I'd like to drink something."] },
+    { "ru": "В холодильнике нет никакой еды.", "en": ["There isn't any food in the fridge.", "There's no food in the fridge."] },
+    { "ru": "Я никого не видел в парке.", "en": ["I didn't see anybody in the park.", "I didn't see anyone in the park.", "I saw nobody in the park.", "I saw no one in the park."] },
+    { "ru": "Том ушёл из дома без денег.", "en": ["Tom left home without any money.", "Tom went out without any money.", "Tom left the house without any money.", "Tom left home without money.", "Tom left the house without money.", "Tom went out without money."] },
+    { "ru": "Она отказалась что-либо говорить.", "en": ["She refused to say anything."] },
+    { "ru": "На вечеринке почти никого не было.", "en": ["There was hardly anybody at the party.", "There was hardly anyone at the party.", "Hardly anybody was at the party.", "Hardly anyone was at the party."] },
+    { "ru": "(мне кажется, да) Ты кого-то здесь ищешь?", "en": ["Are you looking for someone here?", "Are you looking for somebody here?"] },
+    { "ru": "Можно мне немного воды, пожалуйста?", "en": ["Can I have some water, please?", "Could I have some water, please?", "May I have some water, please?"] },
+    { "ru": "(предлагаю) Хотите чего-нибудь выпить перед обедом?", "en": ["Would you like something to drink before lunch?", "Do you want something to drink before lunch?"] },
+    { "ru": "(не знаю, есть ли) У тебя есть ко мне какие-нибудь вопросы?", "en": ["Do you have any questions for me?", "Have you got any questions for me?"] },
+    { "ru": "Дома кто-нибудь есть?", "en": ["Is there anybody at home?", "Is there anyone at home?", "Is anybody at home?", "Is anyone at home?", "Is anybody home?", "Is anyone home?"] },
+    { "ru": "Если тебе что-нибудь понадобится, позвони мне.", "en": ["If you need anything, call me.", "If you need anything, phone me.", "Call me if you need anything.", "Phone me if you need anything.", "If you need something, call me.", "Call me if you need something."] },
+    { "ru": "Если у кого-нибудь есть вопросы, спросите меня.", "en": ["If anybody has any questions, ask me.", "If anyone has any questions, ask me.", "If anybody has questions, ask me.", "If anyone has questions, ask me."] },
+    { "ru": "Я хочу поговорить с любым, кто видел пожар.", "en": ["I want to talk to anyone who saw the fire.", "I want to talk to anybody who saw the fire.", "I want to speak to anyone who saw the fire.", "I want to speak to anybody who saw the fire."] },
+    { "ru": "До вокзала можно доехать на любом автобусе.", "en": ["You can take any bus to the station.", "You can get any bus to the station.", "Any bus will take you to the station.", "Any bus goes to the station."] },
+    { "ru": "Звони мне в любое время.", "en": ["Call me any time.", "Phone me any time.", "Call me anytime.", "Phone me anytime."] },
+    { "ru": "Это просто, любой может это сделать.", "en": ["It's easy, anybody can do it.", "It's easy, anyone can do it.", "It's simple, anybody can do it.", "It's simple, anyone can do it."] },
+    { "ru": "(Что ты хочешь съесть?) Что угодно, я очень голоден.", "en": ["Anything, I'm very hungry.", "Anything, I'm really hungry."] },
+    { "ru": "Давай поедем куда-нибудь на выходных.", "en": ["Let's go somewhere at the weekend.", "Let's go somewhere this weekend.", "Let's go somewhere on the weekend."] },
+    { "ru": "Кто-то оставил свой зонт в классе.", "en": ["Someone has left their umbrella in the classroom.", "Somebody has left their umbrella in the classroom.", "Someone left their umbrella in the classroom.", "Somebody left their umbrella in the classroom."] },
+    { "ru": "Если кто-нибудь позвонит, скажи, что меня нет.", "en": ["If anybody calls, tell them I'm out.", "If anyone calls, tell them I'm out.", "If anybody calls, tell them I'm not here.", "If anyone calls, tell them I'm not here.", "If anybody phones, tell them I'm out.", "If anyone phones, tell them I'm out.", "If someone calls, tell them I'm out.", "If somebody calls, tell them I'm out.", "If anybody calls, tell them I'm not in.", "If anyone calls, tell them I'm not in."] }
+  ]
+}

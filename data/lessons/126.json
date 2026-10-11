@@ -1,0 +1,298 @@
+{
+  "id": 126,
+  "section": "Предлоги",
+  "title": "to, at, in and into",
+  "subtitle": "Движение и место: go to, been to, go home, into и out of",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>to</b> обозначает направление движения: <b>go to the bank</b>, <b>fly to Japan</b>, <b>come back to Moscow</b>, <b>go to bed</b>, <b>Welcome to London!</b> <b>at / in</b> — это место, где мы уже находимся: <b>I'm at the bank.</b>"
+    },
+    {
+      "type": "p",
+      "text": "<b>been to</b> = «побывал где-то (и вернулся)»: <b>I've been to Canada twice.</b> <b>Have you ever been to Rome?</b>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>home</b> — без to: <b>go home</b>, <b>come home</b>, <b>get home</b>. Но место: <b>at home</b>.",
+        "<b>get to</b> + место = «добраться»: <b>How do I get to the museum?</b>",
+        "<b>arrive in</b> (город, страна) / <b>arrive at</b> (здание, место) — никогда arrive to."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Движение",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "into — внутрь",
+          "She walked into the shop. Get into the car."
+        ],
+        [
+          "out of — наружу",
+          "He got out of the taxi."
+        ],
+        [
+          "get on / get off — автобус, поезд, самолёт",
+          "Get on the bus. Get off at the next stop."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Я иду домой» — <b>I'm going home</b>, без to. А «я был в Париже» в смысле «побывал» — <b>I've been to Paris</b>, а не been in."
+    }
+  ],
+  "words": [
+    {
+      "en": "go to",
+      "forms": "went, gone",
+      "ru": "идти, ехать в"
+    },
+    {
+      "en": "have been to",
+      "ru": "бывать где-то"
+    },
+    {
+      "en": "go home",
+      "ru": "идти домой (без to)"
+    },
+    {
+      "en": "get home",
+      "ru": "добираться домой"
+    },
+    {
+      "en": "into",
+      "ru": "в, внутрь (движение)"
+    },
+    {
+      "en": "out of",
+      "ru": "из (наружу)"
+    },
+    {
+      "en": "get into",
+      "ru": "садиться в (машину, такси)"
+    },
+    {
+      "en": "get out of",
+      "ru": "выходить из (машины, такси)"
+    },
+    {
+      "en": "get on",
+      "ru": "садиться в (автобус, поезд)"
+    },
+    {
+      "en": "get off",
+      "ru": "выходить из (автобуса, поезда)"
+    },
+    {
+      "en": "come back",
+      "forms": "came, come",
+      "ru": "возвращаться"
+    },
+    {
+      "en": "welcome to",
+      "ru": "добро пожаловать в"
+    },
+    {
+      "en": "put",
+      "forms": "put, put",
+      "ru": "класть, положить"
+    },
+    {
+      "en": "translate into",
+      "ru": "переводить на (язык)"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я иду в банк.",
+      "en": [
+        "I'm going to the bank."
+      ]
+    },
+    {
+      "ru": "В прошлом году мы ездили в Японию.",
+      "en": [
+        "We went to Japan last year.",
+        "Last year we went to Japan.",
+        "We travelled to Japan last year.",
+        "We traveled to Japan last year."
+      ]
+    },
+    {
+      "ru": "Во сколько ты ложишься спать?",
+      "en": [
+        "What time do you go to bed?",
+        "When do you go to bed?"
+      ]
+    },
+    {
+      "ru": "Когда ты вернёшься в Москву?",
+      "en": [
+        "When are you coming back to Moscow?",
+        "When will you come back to Moscow?",
+        "When are you going back to Moscow?",
+        "When will you go back to Moscow?",
+        "When will you return to Moscow?",
+        "When are you returning to Moscow?"
+      ]
+    },
+    {
+      "ru": "Добро пожаловать в Лондон!",
+      "en": [
+        "Welcome to London!"
+      ]
+    },
+    {
+      "ru": "Ты идёшь на вечеринку к Майку?",
+      "en": [
+        "Are you going to Mike's party?",
+        "Are you coming to Mike's party?"
+      ]
+    },
+    {
+      "ru": "Ты когда-нибудь был в Австралии?",
+      "en": [
+        "Have you ever been to Australia?"
+      ]
+    },
+    {
+      "ru": "Я никогда не был в Риме.",
+      "en": [
+        "I've never been to Rome."
+      ]
+    },
+    {
+      "ru": "Я был в Париже три раза.",
+      "en": [
+        "I've been to Paris three times."
+      ]
+    },
+    {
+      "ru": "Я иду домой.",
+      "en": [
+        "I'm going home.",
+        "I'm walking home."
+      ]
+    },
+    {
+      "ru": "Во сколько вы вчера вернулись домой?",
+      "en": [
+        "What time did you get home yesterday?",
+        "What time did you come home yesterday?",
+        "What time did you get back home yesterday?",
+        "What time did you come back home yesterday?",
+        "What time did you return home yesterday?",
+        "What time did you get back yesterday?"
+      ]
+    },
+    {
+      "ru": "Он остался дома.",
+      "en": [
+        "He stayed at home.",
+        "He stayed home."
+      ]
+    },
+    {
+      "ru": "Как добраться до вокзала?",
+      "en": [
+        "How do I get to the station?",
+        "How can I get to the station?",
+        "How do you get to the station?",
+        "How do I get to the railway station?",
+        "How can I get to the railway station?",
+        "How do I get to the train station?",
+        "How can I get to the train station?"
+      ]
+    },
+    {
+      "ru": "Мы прибыли в Берлин в полночь.",
+      "en": [
+        "We arrived in Berlin at midnight.",
+        "We got to Berlin at midnight.",
+        "We reached Berlin at midnight."
+      ]
+    },
+    {
+      "ru": "Во сколько ты приходишь на работу?",
+      "en": [
+        "What time do you get to work?",
+        "What time do you arrive at work?",
+        "What time do you come to work?",
+        "When do you get to work?"
+      ]
+    },
+    {
+      "ru": "Она вошла в комнату.",
+      "en": [
+        "She went into the room.",
+        "She came into the room.",
+        "She walked into the room.",
+        "She entered the room."
+      ]
+    },
+    {
+      "ru": "Садись в машину.",
+      "en": [
+        "Get into the car.",
+        "Get in the car."
+      ]
+    },
+    {
+      "ru": "Он вышел из такси.",
+      "en": [
+        "He got out of the taxi.",
+        "He got out of the cab."
+      ]
+    },
+    {
+      "ru": "Я положил деньги в карман.",
+      "en": [
+        "I put the money into my pocket.",
+        "I put the money in my pocket."
+      ]
+    },
+    {
+      "ru": "Не прыгай здесь в воду.",
+      "en": [
+        "Don't jump into the water here.",
+        "Don't jump in the water here."
+      ]
+    },
+    {
+      "ru": "Он упал в реку.",
+      "en": [
+        "He fell into the river.",
+        "He fell in the river."
+      ]
+    },
+    {
+      "ru": "Переведи это на английский.",
+      "en": [
+        "Translate this into English.",
+        "Translate it into English.",
+        "Translate that into English."
+      ]
+    },
+    {
+      "ru": "Мы сели в автобус возле школы.",
+      "en": [
+        "We got on the bus outside the school.",
+        "We got on the bus near the school.",
+        "We got on the bus in front of the school.",
+        "We got on the bus by the school."
+      ]
+    },
+    {
+      "ru": "Выходи из поезда на следующей станции.",
+      "en": [
+        "Get off the train at the next station.",
+        "Get off the train at the next stop."
+      ]
+    }
+  ]
+}

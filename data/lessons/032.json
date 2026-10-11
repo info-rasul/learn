@@ -1,0 +1,340 @@
+{
+  "id": 32,
+  "section": "Модальные глаголы",
+  "title": "must mustn't needn't",
+  "subtitle": "Нужно, нельзя, не нужно: must, mustn't, needn't, needn't have",
+  "theory": [
+    {
+      "type": "list",
+      "items": [
+        "<b>You must do it.</b> — это необходимо: <b>We must hurry.</b>",
+        "<b>You mustn't do it.</b> — нельзя, не делай: <b>You mustn't smoke here.</b>",
+        "<b>You needn't do it.</b> — не нужно, но можно, если хочешь: <b>You needn't wait.</b>"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Вместо <b>needn't</b> можно сказать <b>don't/doesn't need to</b>: <b>We don't need to hurry.</b> Обратите внимание: <b>needn't do</b> — без to, а <b>don't need to do</b> — с to."
+    },
+    {
+      "type": "p",
+      "text": "Сравните: <b>You needn't tell Tom.</b> (не нужно, я сам скажу) и <b>You mustn't tell Tom.</b> (нельзя, он не должен знать)."
+    },
+    {
+      "type": "h",
+      "text": "needn't have done ↔ didn't need to do"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Форма",
+        "Значение",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "needn't have + V3",
+          "сделал, но зря — можно было не делать",
+          "<b>You needn't have cooked, we've eaten.</b>"
+        ],
+        [
+          "didn't need to + глагол",
+          "не было нужно (сделал или нет — неважно)",
+          "<b>I didn't need to cook, so I didn't.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Вместо <b>didn't need to</b> можно сказать <b>didn't have to</b>: <b>She didn't have to pay.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "«Не надо было волноваться!» — это <b>You needn't have worried.</b> (вы волновались зря). Частая ошибка — «You didn't need worry» или «You needn't to worry». Запомните: <b>needn't</b> без to, <b>didn't need to</b> с to."
+    }
+  ],
+  "words": [
+    {
+      "en": "needn't",
+      "ru": "не нужно, незачем"
+    },
+    {
+      "en": "needn't have",
+      "ru": "не нужно было (а сделал зря)"
+    },
+    {
+      "en": "need to",
+      "ru": "нужно, надо"
+    },
+    {
+      "en": "didn't need to",
+      "ru": "не нужно было (и не делал)"
+    },
+    {
+      "en": "hurry",
+      "ru": "спешить, торопиться"
+    },
+    {
+      "en": "plenty of",
+      "ru": "много, полно"
+    },
+    {
+      "en": "shout",
+      "ru": "кричать"
+    },
+    {
+      "en": "explain",
+      "ru": "объяснять"
+    },
+    {
+      "en": "bring",
+      "forms": "brought, brought",
+      "ru": "приносить"
+    },
+    {
+      "en": "change trains",
+      "ru": "делать пересадку"
+    },
+    {
+      "en": "worry",
+      "ru": "волноваться, беспокоиться"
+    },
+    {
+      "en": "make noise",
+      "ru": "шуметь"
+    },
+    {
+      "en": "eat out",
+      "ru": "есть не дома (в ресторане)"
+    },
+    {
+      "en": "wine",
+      "ru": "вино"
+    },
+    {
+      "en": "free",
+      "ru": "бесплатный"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Надо спешить, поезд скоро уходит.",
+      "en": [
+        "We must hurry because the train leaves soon.",
+        "We must hurry, the train leaves soon.",
+        "We have to hurry because the train leaves soon.",
+        "We must hurry because the train is leaving soon.",
+        "We have to hurry, the train leaves soon.",
+        "We must hurry, the train is leaving soon.",
+        "We need to hurry, the train leaves soon.",
+        "We need to hurry because the train leaves soon.",
+        "We need to hurry, the train is leaving soon.",
+        "We have to hurry, the train is leaving soon."
+      ]
+    },
+    {
+      "ru": "Ты должен запомнить этот номер.",
+      "en": [
+        "You must remember this number.",
+        "You have to remember this number.",
+        "You need to remember this number."
+      ]
+    },
+    {
+      "ru": "Мы должны быть на вокзале в восемь.",
+      "en": [
+        "We must be at the station at eight.",
+        "We have to be at the station at eight.",
+        "We must be at the station at 8.",
+        "We have to be at the station at 8.",
+        "We must be at the train station at eight.",
+        "We have to be at the train station at eight."
+      ]
+    },
+    {
+      "ru": "Здесь нельзя курить.",
+      "en": [
+        "You mustn't smoke here.",
+        "You mustn't smoke in here.",
+        "You can't smoke here.",
+        "You aren't allowed to smoke here."
+      ]
+    },
+    {
+      "ru": "Нам нельзя шуметь, потому что малыш спит.",
+      "en": [
+        "We mustn't make any noise because the baby is asleep.",
+        "We mustn't make any noise because the baby is sleeping.",
+        "We mustn't make a noise because the baby is asleep.",
+        "We mustn't make a noise because the baby is sleeping.",
+        "We can't make any noise because the baby is asleep.",
+        "We can't make any noise because the baby is sleeping."
+      ]
+    },
+    {
+      "ru": "Тебе нельзя забывать ключи.",
+      "en": [
+        "You mustn't forget your keys.",
+        "You mustn't forget the keys."
+      ]
+    },
+    {
+      "ru": "Нам не нужно спешить, у нас много времени.",
+      "en": [
+        "We needn't hurry because we have plenty of time.",
+        "We don't need to hurry because we have plenty of time.",
+        "We needn't hurry, we have plenty of time.",
+        "We don't need to hurry, we have plenty of time.",
+        "We needn't hurry because we've got plenty of time.",
+        "We don't have to hurry, we have plenty of time.",
+        "We needn't hurry, we have a lot of time.",
+        "We don't need to hurry, we have a lot of time.",
+        "We don't need to hurry because we have a lot of time."
+      ]
+    },
+    {
+      "ru": "Тебе не нужно идти со мной.",
+      "en": [
+        "You needn't come with me.",
+        "You don't need to come with me.",
+        "You don't have to come with me.",
+        "You needn't go with me.",
+        "You don't need to go with me.",
+        "You don't have to go with me."
+      ]
+    },
+    {
+      "ru": "Ему не нужно приходить завтра.",
+      "en": [
+        "He needn't come tomorrow.",
+        "He doesn't need to come tomorrow.",
+        "He doesn't have to come tomorrow."
+      ]
+    },
+    {
+      "ru": "Тебе не нужно говорить Тому, я сам ему скажу.",
+      "en": [
+        "You needn't tell Tom, I'll tell him myself.",
+        "You don't need to tell Tom, I'll tell him myself.",
+        "You don't have to tell Tom, I'll tell him myself."
+      ]
+    },
+    {
+      "ru": "Тебе нельзя говорить Тому, я не хочу, чтобы он знал.",
+      "en": [
+        "You mustn't tell Tom, I don't want him to know.",
+        "You can't tell Tom, I don't want him to know."
+      ]
+    },
+    {
+      "ru": "Не нужно кричать, я тебя слышу.",
+      "en": [
+        "You needn't shout, I can hear you.",
+        "You don't need to shout, I can hear you.",
+        "You don't have to shout, I can hear you."
+      ]
+    },
+    {
+      "ru": "Тебе не нужно ничего объяснять, я всё понимаю.",
+      "en": [
+        "You needn't explain anything, I understand everything.",
+        "You don't need to explain anything, I understand everything.",
+        "You don't have to explain anything, I understand everything."
+      ]
+    },
+    {
+      "ru": "Сегодня нам не нужно готовить, мы ужинаем не дома.",
+      "en": [
+        "We needn't cook tonight, we're eating out.",
+        "We don't need to cook tonight, we're eating out.",
+        "We don't have to cook tonight, we're eating out.",
+        "We needn't cook today, we're eating out.",
+        "We don't need to cook today, we're eating out.",
+        "We don't have to cook today, we're eating out."
+      ]
+    },
+    {
+      "ru": "Мне нужно что-нибудь принести?",
+      "en": [
+        "Do I need to bring anything?",
+        "Do I have to bring anything?",
+        "Need I bring anything?"
+      ]
+    },
+    {
+      "ru": "Нам нужно делать пересадку?",
+      "en": [
+        "Do we need to change trains?",
+        "Do we have to change trains?",
+        "Do we need to change?",
+        "Do we have to change?"
+      ]
+    },
+    {
+      "ru": "(волновался зря) Тебе не нужно было за меня волноваться.",
+      "en": [
+        "You needn't have worried about me."
+      ]
+    },
+    {
+      "ru": "(принёс зря) Не нужно было приносить вино, у нас его много.",
+      "en": [
+        "You needn't have brought wine, we've got plenty.",
+        "You needn't have brought any wine, we've got plenty.",
+        "You needn't have brought wine, we have plenty.",
+        "You needn't have brought any wine, we have plenty."
+      ]
+    },
+    {
+      "ru": "(взял зря) Мне не нужно было брать такси, вокзал был совсем рядом.",
+      "en": [
+        "I needn't have taken a taxi, the station was very close.",
+        "I needn't have taken a taxi because the station was very close.",
+        "I needn't have taken a taxi, the station was very near."
+      ]
+    },
+    {
+      "ru": "(купили зря) Нам не нужно было покупать столько еды.",
+      "en": [
+        "We needn't have bought so much food.",
+        "We needn't have bought this much food."
+      ]
+    },
+    {
+      "ru": "(звонил зря) Тебе не нужно было мне звонить, я уже знал.",
+      "en": [
+        "You needn't have called me, I already knew.",
+        "You needn't have phoned me, I already knew.",
+        "You needn't have called me because I already knew.",
+        "You needn't have phoned me because I already knew."
+      ]
+    },
+    {
+      "ru": "Мне не нужно было вставать рано, поэтому я поспал подольше.",
+      "en": [
+        "I didn't need to get up early, so I slept longer.",
+        "I didn't have to get up early, so I slept longer.",
+        "I didn't need to get up early, so I stayed in bed longer.",
+        "I didn't have to get up early, so I stayed in bed longer.",
+        "I didn't need to get up early, so I slept in.",
+        "I didn't have to get up early, so I slept in."
+      ]
+    },
+    {
+      "ru": "Ей не нужно было платить за билет, потому что он был бесплатный.",
+      "en": [
+        "She didn't need to pay for the ticket because it was free.",
+        "She didn't have to pay for the ticket because it was free."
+      ]
+    },
+    {
+      "ru": "Ему не нужно было ждать, но он подождал.",
+      "en": [
+        "He didn't need to wait, but he did.",
+        "He didn't have to wait, but he did.",
+        "He didn't need to wait, but he waited.",
+        "He didn't have to wait, but he waited."
+      ]
+    }
+  ]
+}

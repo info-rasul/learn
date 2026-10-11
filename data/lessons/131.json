@@ -1,0 +1,365 @@
+{
+  "id": 131,
+  "section": "Предлоги",
+  "title": "Adjective + preposition 2",
+  "subtitle": "afraid of, good at, interested in, similar to, married to…",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Продолжаем прилагательные с предлогами. Больше всего сочетаний с <b>of</b>, но есть и с <b>at, to, from, in, on, with, for</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Прилагательные",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "of",
+          "afraid, scared, frightened, terrified; fond, proud, ashamed, jealous, envious; suspicious, critical, tolerant; aware, conscious; capable, incapable; typical; full, short",
+          "<b>She's proud of her son.</b>"
+        ],
+        [
+          "at",
+          "good, bad, brilliant, hopeless",
+          "<b>I'm bad at maths.</b>"
+        ],
+        [
+          "to",
+          "similar; married, engaged",
+          "<b>He's married to a doctor.</b>"
+        ],
+        [
+          "on",
+          "dependent, keen",
+          "<b>I'm not keen on fish.</b>"
+        ],
+        [
+          "in",
+          "interested",
+          "<b>Are you interested in music?</b>"
+        ],
+        [
+          "for",
+          "famous, responsible",
+          "<b>Who is responsible for this?</b>"
+        ],
+        [
+          "from / to",
+          "different",
+          "<b>This is different from that.</b>"
+        ],
+        [
+          "with",
+          "crowded",
+          "<b>The beach was crowded with people.</b>"
+        ],
+        [
+          "of / about",
+          "sure, certain",
+          "<b>I'm not sure about it.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>dependent ON</b>, но <b>independent OF</b>.",
+        "<b>crowded WITH people</b>, но <b>full OF people</b>.",
+        "<b>typical OF him</b> — «это на него похоже»: <b>It's typical of him to forget.</b>",
+        "<b>short of money/time</b> — не хватает денег/времени."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Married to / married with"
+    },
+    {
+      "type": "p",
+      "text": "<b>She is married to Tom</b> — она замужем за Томом. <b>She is married with two kids</b> — она замужем, и у неё двое детей."
+    },
+    {
+      "type": "tip",
+      "text": "Русское «хорош в чём-то» подталкивает к <b>good in</b> — правильно <b>good at</b>. «Женат на» — <b>married to</b>, а не <b>married on/with</b>. «Интересуюсь» — <b>interested in</b>, без <b>by</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "good at",
+      "ru": "хорошо умеет, силён в"
+    },
+    {
+      "en": "hopeless at",
+      "ru": "совершенно не способен к"
+    },
+    {
+      "en": "proud of",
+      "ru": "гордиться"
+    },
+    {
+      "en": "ashamed of",
+      "ru": "стыдиться"
+    },
+    {
+      "en": "jealous of",
+      "ru": "ревновать к, завидовать"
+    },
+    {
+      "en": "suspicious of",
+      "ru": "подозрительно относиться к"
+    },
+    {
+      "en": "aware of",
+      "ru": "знать о, осознавать"
+    },
+    {
+      "en": "capable of",
+      "ru": "способен на"
+    },
+    {
+      "en": "typical of",
+      "ru": "типично для"
+    },
+    {
+      "en": "similar to",
+      "ru": "похож на"
+    },
+    {
+      "en": "dependent on",
+      "ru": "зависимый от"
+    },
+    {
+      "en": "independent of",
+      "ru": "независимый от"
+    },
+    {
+      "en": "famous for",
+      "ru": "знаменит (чем-то)"
+    },
+    {
+      "en": "different from",
+      "ru": "отличаться от, не такой, как"
+    },
+    {
+      "en": "full of",
+      "ru": "полный (чего-то)"
+    },
+    {
+      "en": "crowded with",
+      "ru": "переполнен (чем-то)"
+    },
+    {
+      "en": "keen on",
+      "ru": "увлекаться, любить"
+    },
+    {
+      "en": "responsible for",
+      "ru": "ответственный за"
+    },
+    {
+      "en": "short of",
+      "ru": "не хватает (чего-то)"
+    },
+    {
+      "en": "married to",
+      "ru": "замужем за, женат на"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Моя сестра боится собак.",
+      "en": [
+        "My sister is afraid of dogs.",
+        "My sister is scared of dogs.",
+        "My sister is frightened of dogs."
+      ]
+    },
+    {
+      "ru": "Ты хорошо играешь в шахматы?",
+      "en": [
+        "Are you good at chess?",
+        "Are you good at playing chess?",
+        "Do you play chess well?"
+      ]
+    },
+    {
+      "ru": "Я совершенно безнадёжен в кулинарии.",
+      "en": [
+        "I'm hopeless at cooking.",
+        "I'm completely hopeless at cooking.",
+        "I'm totally hopeless at cooking.",
+        "I'm absolutely hopeless at cooking."
+      ]
+    },
+    {
+      "ru": "Родители гордятся тобой.",
+      "en": [
+        "Your parents are proud of you."
+      ]
+    },
+    {
+      "ru": "Мне стыдно за своё поведение.",
+      "en": [
+        "I'm ashamed of my behaviour.",
+        "I'm ashamed of my behavior."
+      ]
+    },
+    {
+      "ru": "Почему ты завидуешь брату?",
+      "en": [
+        "Why are you jealous of your brother?",
+        "Why are you envious of your brother?"
+      ]
+    },
+    {
+      "ru": "Охранник отнёсся к нам с подозрением.",
+      "en": [
+        "The guard was suspicious of us.",
+        "The security guard was suspicious of us."
+      ]
+    },
+    {
+      "ru": "Я не знал об этой проблеме.",
+      "en": [
+        "I wasn't aware of this problem.",
+        "I wasn't aware of the problem.",
+        "I didn't know about this problem.",
+        "I didn't know about the problem."
+      ]
+    },
+    {
+      "ru": "Он способен на большее.",
+      "en": [
+        "He is capable of more.",
+        "He is capable of doing more."
+      ]
+    },
+    {
+      "ru": "Она опять опоздала, это так на неё похоже.",
+      "en": [
+        "She's late again, that's so typical of her.",
+        "She's late again, it's so typical of her.",
+        "She was late again, that's so typical of her.",
+        "She was late again, it's so typical of her.",
+        "She's late again, that's typical of her.",
+        "She was late again, that's typical of her."
+      ]
+    },
+    {
+      "ru": "Твоя сумка похожа на мою.",
+      "en": [
+        "Your bag is similar to mine.",
+        "Your bag looks like mine.",
+        "Your bag is like mine."
+      ]
+    },
+    {
+      "ru": "Алекс всё ещё зависит от родителей.",
+      "en": [
+        "Alex is still dependent on his parents.",
+        "Alex still depends on his parents."
+      ]
+    },
+    {
+      "ru": "Она хочет быть независимой от семьи.",
+      "en": [
+        "She wants to be independent of her family."
+      ]
+    },
+    {
+      "ru": "Ты интересуешься историей?",
+      "en": [
+        "Are you interested in history?"
+      ]
+    },
+    {
+      "ru": "Италия славится своей едой.",
+      "en": [
+        "Italy is famous for its food.",
+        "Italy is known for its food."
+      ]
+    },
+    {
+      "ru": "Ты уверен насчёт времени?",
+      "en": [
+        "Are you sure about the time?",
+        "Are you sure of the time?",
+        "Are you certain about the time?",
+        "Are you certain of the time?"
+      ]
+    },
+    {
+      "ru": "Новый офис сильно отличается от старого.",
+      "en": [
+        "The new office is very different from the old one.",
+        "The new office is very different to the old one.",
+        "The new office is very different from the old office.",
+        "The new office is very different to the old office.",
+        "The new office is very different than the old one."
+      ]
+    },
+    {
+      "ru": "Музей был полон школьников.",
+      "en": [
+        "The museum was full of schoolchildren.",
+        "The museum was crowded with schoolchildren.",
+        "The museum was full of school children.",
+        "The museum was crowded with school children."
+      ]
+    },
+    {
+      "ru": "Улицы были забиты машинами.",
+      "en": [
+        "The streets were crowded with cars.",
+        "The streets were full of cars.",
+        "The streets were packed with cars."
+      ]
+    },
+    {
+      "ru": "Ник не очень любит футбол.",
+      "en": [
+        "Nick isn't very keen on football.",
+        "Nick isn't very fond of football.",
+        "Nick doesn't really like football."
+      ]
+    },
+    {
+      "ru": "Кто отвечает за эту комнату?",
+      "en": [
+        "Who is responsible for this room?",
+        "Who is in charge of this room?"
+      ]
+    },
+    {
+      "ru": "У меня сейчас мало времени.",
+      "en": [
+        "I'm a bit short of time now.",
+        "I'm short of time now.",
+        "I'm short of time at the moment.",
+        "I'm short of time right now.",
+        "I don't have much time now.",
+        "I don't have much time right now.",
+        "I don't have much time at the moment.",
+        "I haven't got much time now."
+      ]
+    },
+    {
+      "ru": "Хелен замужем за итальянцем.",
+      "en": [
+        "Helen is married to an Italian.",
+        "Helen is married to an Italian man."
+      ]
+    },
+    {
+      "ru": "Дэн женат, и у него трое детей.",
+      "en": [
+        "Dan is married with three children.",
+        "Dan is married with three kids.",
+        "Dan is married and has three children.",
+        "Dan is married and has three kids."
+      ]
+    }
+  ]
+}

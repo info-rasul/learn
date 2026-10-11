@@ -1,0 +1,102 @@
+{
+  "id": 52,
+  "section": "Вопросы и вспомогательные глаголы",
+  "title": "Question tags (do you? isn't it? etc.)",
+  "subtitle": "Разделительные вопросы: …, isn't it? …, do you?",
+  "theory": [
+    { "type": "p", "text": "Русское «…, да?», «…, правда?», «…, не так ли?» по-английски — <b>question tag</b>: короткий хвостик из вспомогательного глагола и местоимения. <b>It's cold, isn't it?</b> <b>You can swim, can't you?</b> Для Present/Past Simple — <b>do/does/did</b>: <b>Anna plays the guitar, doesn't she?</b>" },
+    { "type": "table", "head": ["Предложение", "Хвостик"], "rows": [
+      ["утвердительное: You're tired,", "отрицательный: <b>aren't you?</b>"],
+      ["отрицательное: You don't like it,", "утвердительный: <b>do you?</b>"],
+      ["They'll come soon,", "<b>won't they?</b>"],
+      ["There were a lot of people,", "<b>weren't there?</b>"]
+    ] },
+    { "type": "p", "text": "Если голос <b>понижается</b>, мы не спрашиваем, а ждём согласия: <b>The film was good, wasn't it?</b> Если <b>повышается</b> — это настоящий вопрос. Отрицание + положительный хвостик — вежливая просьба: <b>You couldn't help me, could you?</b> <b>You don't have a pen, do you?</b>" },
+    { "type": "list", "items": [
+      "<b>Let's…</b> → <b>shall we?</b>: <b>Let's order a pizza, shall we?</b>",
+      "<b>Don't…</b> → <b>will you?</b>: <b>Don't tell anyone, will you?</b>",
+      "<b>I'm…</b> → <b>aren't I?</b>: <b>I'm next, aren't I?</b>"
+    ] },
+    { "type": "tip", "text": "Нельзя ставить один универсальный хвостик вроде <b>, yes?</b> или <b>, isn't it?</b> ко всему подряд. Хвостик повторяет вспомогательный глагол предложения: <b>You didn't lock the door, did you?</b>" }
+  ],
+  "words": [
+    {
+      "en": "isn't it",
+      "ru": "не так ли, правда?"
+    },
+    {
+      "en": "aren't I",
+      "ru": "не так ли (после I am)"
+    },
+    {
+      "en": "shall we",
+      "ru": "хорошо? (после let's)"
+    },
+    {
+      "en": "will you",
+      "ru": "ладно? (после просьбы)"
+    },
+    {
+      "en": "lock",
+      "ru": "запирать"
+    },
+    {
+      "en": "order",
+      "ru": "заказывать"
+    },
+    {
+      "en": "idea",
+      "ru": "идея"
+    },
+    {
+      "en": "pizza",
+      "ru": "пицца"
+    },
+    {
+      "en": "play the guitar",
+      "ru": "играть на гитаре"
+    },
+    {
+      "en": "soon",
+      "ru": "скоро"
+    },
+    {
+      "en": "pen",
+      "ru": "ручка"
+    },
+    {
+      "en": "next",
+      "ru": "следующий"
+    },
+    {
+      "en": "anyone",
+      "ru": "кто-нибудь, никто (в отрицании)"
+    }
+  ],
+  "items": [
+    { "ru": "Ты ведь устал, да?", "en": ["You're tired, aren't you?"] },
+    { "ru": "Сегодня холодно, правда?", "en": ["It's cold today, isn't it?"] },
+    { "ru": "Фильм был хороший, правда?", "en": ["The film was good, wasn't it?", "The movie was good, wasn't it?"] },
+    { "ru": "Ты сегодня не видел Тома, да?", "en": ["You haven't seen Tom today, have you?", "You didn't see Tom today, did you?"] },
+    { "ru": "Анна играет на гитаре, да?", "en": ["Anna plays the guitar, doesn't she?", "Anna plays guitar, doesn't she?"] },
+    { "ru": "Ты не запер дверь, да?", "en": ["You didn't lock the door, did you?", "You haven't locked the door, have you?"] },
+    { "ru": "Они скоро будут здесь, правда?", "en": ["They'll be here soon, won't they?"] },
+    { "ru": "Майк не опоздает, правда?", "en": ["Mike won't be late, will he?"] },
+    { "ru": "Здесь было много народу, да?", "en": ["There were a lot of people here, weren't there?", "There were lots of people here, weren't there?", "There were many people here, weren't there?"] },
+    { "ru": "Ты умеешь говорить по-французски, да?", "en": ["You can speak French, can't you?", "You speak French, don't you?"] },
+    { "ru": "Им не нравится эта идея, да?", "en": ["They don't like this idea, do they?", "They don't like the idea, do they?"] },
+    { "ru": "Ты ещё не закончил, да?", "en": ["You haven't finished yet, have you?"] },
+    { "ru": "Она должна получить эту работу, правда?", "en": ["She should get the job, shouldn't she?", "She should get this job, shouldn't she?"] },
+    { "ru": "Ты не мог бы мне помочь? (вежливая просьба с хвостиком)", "en": ["You couldn't help me, could you?"] },
+    { "ru": "Ты случайно не знаешь, где Лиза?", "en": ["You don't know where Lisa is, do you?", "You don't happen to know where Lisa is, do you?"] },
+    { "ru": "У тебя случайно нет ручки?", "en": ["You don't have a pen, do you?", "You haven't got a pen, have you?", "You don't happen to have a pen, do you?"] },
+    { "ru": "Давай закажем пиццу, хорошо?", "en": ["Let's order a pizza, shall we?", "Let's order pizza, shall we?"] },
+    { "ru": "Не забудь позвонить, ладно?", "en": ["Don't forget to call, will you?", "Don't forget to phone, will you?", "Don't forget to ring, will you?"] },
+    { "ru": "Я следующий, да?", "en": ["I'm next, aren't I?"] },
+    { "ru": "Мэри живёт здесь давно, да?", "en": ["Mary has lived here for a long time, hasn't she?", "Mary has been living here for a long time, hasn't she?"] },
+    { "ru": "Он никогда не был в Риме, да?", "en": ["He has never been to Rome, has he?"] },
+    { "ru": "Не говори никому, ладно?", "en": ["Don't tell anyone, will you?", "Don't tell anybody, will you?"] },
+    { "ru": "Ты вчера не работал, да?", "en": ["You didn't work yesterday, did you?", "You weren't working yesterday, were you?"] },
+    { "ru": "Это не очень дорого, правда?", "en": ["It isn't very expensive, is it?", "This isn't very expensive, is it?"] }
+  ]
+}

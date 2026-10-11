@@ -1,0 +1,328 @@
+{
+  "id": 83,
+  "section": "Местоимения и определители",
+  "title": "a friend of mine / my own house / on my own / by myself",
+  "subtitle": "Один из моих друзей, свой собственный, в одиночку",
+  "theory": [
+    {
+      "type": "p",
+      "text": "«Один из моих друзей» — <b>a friend of mine</b> (не a friend of me). Так же: <b>of yours, of his, of hers, of ours, of theirs</b>, а с именем — <b>a colleague of my father's</b>."
+    },
+    {
+      "type": "h",
+      "text": "my own — свой собственный"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>my own room, her own business, their own house</b> — только моё, не общее и не чужое. Нельзя <b>an own room</b>.",
+        "Можно и так: <b>a house of my own, problems of his own</b>.",
+        "<b>own</b> = сам делаю для себя: <b>He grows his own vegetables. She makes her own clothes.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "on my own / by myself — один, в одиночку"
+    },
+    {
+      "type": "table",
+      "head": [
+        "on ... own",
+        "by ...self"
+      ],
+      "rows": [
+        [
+          "on my own",
+          "by myself"
+        ],
+        [
+          "on your own",
+          "by yourself / yourselves"
+        ],
+        [
+          "on his / her own",
+          "by himself / herself"
+        ],
+        [
+          "on our / their own",
+          "by ourselves / themselves"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>My grandmother lives on her own = My grandmother lives by herself.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Типичные ошибки: <b>a friend of me</b> (надо <b>of mine</b>), <b>by my own</b> (надо <b>on my own</b> или <b>by myself</b>) и <b>I have own car</b> (надо <b>my own car</b>)."
+    }
+  ],
+  "words": [
+    {
+      "en": "a friend of mine",
+      "ru": "один из моих друзей, мой друг"
+    },
+    {
+      "en": "mine",
+      "ru": "мой (без существительного)"
+    },
+    {
+      "en": "ours",
+      "ru": "наш (без существительного)"
+    },
+    {
+      "en": "hers",
+      "ru": "её (без существительного)"
+    },
+    {
+      "en": "own",
+      "ru": "собственный, свой"
+    },
+    {
+      "en": "on my own",
+      "ru": "сам, один, без чьей-либо помощи"
+    },
+    {
+      "en": "colleague",
+      "ru": "коллега"
+    },
+    {
+      "en": "argument",
+      "ru": "спор, ссора"
+    },
+    {
+      "en": "fault",
+      "ru": "вина"
+    },
+    {
+      "en": "business",
+      "ru": "бизнес, своё дело"
+    },
+    {
+      "en": "vegetable",
+      "ru": "овощ"
+    },
+    {
+      "en": "bake",
+      "ru": "печь"
+    },
+    {
+      "en": "lift",
+      "ru": "поднимать"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Завтра я обедаю с одной своей подругой.",
+      "en": [
+        "I'm having lunch with a friend of mine tomorrow.",
+        "Tomorrow I'm having lunch with a friend of mine."
+      ]
+    },
+    {
+      "ru": "Мы ужинали с нашими друзьями (с некоторыми из них).",
+      "en": [
+        "We had dinner with some friends of ours.",
+        "We had dinner with some of our friends."
+      ]
+    },
+    {
+      "ru": "Он коллега моего отца (один из коллег).",
+      "en": [
+        "He's a colleague of my father's.",
+        "He's a colleague of my dad's.",
+        "He's one of my father's colleagues.",
+        "He's one of my dad's colleagues."
+      ]
+    },
+    {
+      "ru": "Лиза поссорилась со своей соседкой (одной из).",
+      "en": [
+        "Lisa had an argument with a neighbour of hers.",
+        "Lisa had an argument with a neighbor of hers.",
+        "Lisa argued with a neighbour of hers.",
+        "Lisa argued with a neighbor of hers.",
+        "Lisa quarrelled with a neighbour of hers.",
+        "Lisa quarreled with a neighbor of hers."
+      ]
+    },
+    {
+      "ru": "Он сосед моего брата (один из соседей).",
+      "en": [
+        "He's a neighbour of my brother's.",
+        "He's a neighbor of my brother's.",
+        "He's one of my brother's neighbours.",
+        "He's one of my brother's neighbors."
+      ]
+    },
+    {
+      "ru": "Мне нужна своя комната.",
+      "en": [
+        "I need my own room.",
+        "I need a room of my own."
+      ]
+    },
+    {
+      "ru": "У них свой дом.",
+      "en": [
+        "They have their own house.",
+        "They've got their own house.",
+        "They have a house of their own.",
+        "They've got a house of their own."
+      ]
+    },
+    {
+      "ru": "Почему он не берёт свой собственный ноутбук?",
+      "en": [
+        "Why doesn't he take his own laptop?",
+        "Why doesn't he bring his own laptop?"
+      ]
+    },
+    {
+      "ru": "Это твоя собственная вина.",
+      "en": [
+        "It's your own fault."
+      ]
+    },
+    {
+      "ru": "У отеля есть свой пляж.",
+      "en": [
+        "The hotel has its own beach.",
+        "The hotel has got its own beach."
+      ]
+    },
+    {
+      "ru": "Я хотел бы иметь собственный дом.",
+      "en": [
+        "I'd like to have a house of my own.",
+        "I'd like to have my own house.",
+        "I'd like my own house."
+      ]
+    },
+    {
+      "ru": "У него хватает своих проблем.",
+      "en": [
+        "He has enough problems of his own.",
+        "He's got enough problems of his own.",
+        "He has enough of his own problems."
+      ]
+    },
+    {
+      "ru": "Кейт хочет открыть своё дело.",
+      "en": [
+        "Kate wants to start her own business.",
+        "Kate wants to open her own business.",
+        "Kate wants to set up her own business."
+      ]
+    },
+    {
+      "ru": "Мой дедушка сам выращивает овощи.",
+      "en": [
+        "My grandfather grows his own vegetables.",
+        "My granddad grows his own vegetables.",
+        "My grandpa grows his own vegetables."
+      ]
+    },
+    {
+      "ru": "Ты сам печёшь хлеб?",
+      "en": [
+        "Do you bake your own bread?",
+        "Do you make your own bread?"
+      ]
+    },
+    {
+      "ru": "Она сама шьёт себе одежду.",
+      "en": [
+        "She makes her own clothes.",
+        "She sews her own clothes."
+      ]
+    },
+    {
+      "ru": "Моя бабушка живёт одна.",
+      "en": [
+        "My grandmother lives on her own.",
+        "My grandmother lives by herself.",
+        "My grandmother lives alone.",
+        "My grandma lives on her own.",
+        "My grandma lives by herself.",
+        "My grandma lives alone."
+      ]
+    },
+    {
+      "ru": "Ты ездил в Италию один?",
+      "en": [
+        "Did you go to Italy on your own?",
+        "Did you go to Italy by yourself?",
+        "Did you go to Italy alone?",
+        "Did you travel to Italy on your own?",
+        "Did you travel to Italy by yourself?",
+        "Did you travel to Italy alone?"
+      ]
+    },
+    {
+      "ru": "Он сидел один в углу.",
+      "en": [
+        "He was sitting on his own in the corner.",
+        "He was sitting by himself in the corner.",
+        "He was sitting alone in the corner.",
+        "He sat on his own in the corner.",
+        "He sat by himself in the corner.",
+        "He sat alone in the corner."
+      ]
+    },
+    {
+      "ru": "Мы всё сделали сами, без помощи.",
+      "en": [
+        "We did everything on our own.",
+        "We did everything by ourselves.",
+        "We did it all on our own.",
+        "We did it all by ourselves.",
+        "We did everything ourselves.",
+        "We did it all ourselves."
+      ]
+    },
+    {
+      "ru": "Маленьким детям нельзя гулять одним.",
+      "en": [
+        "Young children shouldn't go out on their own.",
+        "Young children shouldn't go out by themselves.",
+        "Young children shouldn't go out alone.",
+        "Young children mustn't go out on their own.",
+        "Young children mustn't go out by themselves.",
+        "Young children mustn't go out alone.",
+        "Young children can't go out on their own.",
+        "Young children can't go out by themselves.",
+        "Young children aren't allowed to go out on their own.",
+        "Young children aren't allowed to go out by themselves.",
+        "Young children aren't allowed to go out alone."
+      ]
+    },
+    {
+      "ru": "Я не могу поднять эту коробку один.",
+      "en": [
+        "I can't lift this box on my own.",
+        "I can't lift this box by myself.",
+        "I can't lift this box alone."
+      ]
+    },
+    {
+      "ru": "Дэн и Ник — мои коллеги.",
+      "en": [
+        "Dan and Nick are colleagues of mine.",
+        "Dan and Nick are my colleagues."
+      ]
+    },
+    {
+      "ru": "Ты предпочитаешь работать один или в команде?",
+      "en": [
+        "Do you prefer working on your own or in a team?",
+        "Do you prefer to work on your own or in a team?",
+        "Do you prefer working by yourself or in a team?",
+        "Do you prefer working alone or in a team?",
+        "Do you prefer to work by yourself or in a team?",
+        "Do you prefer to work alone or in a team?"
+      ]
+    }
+  ]
+}

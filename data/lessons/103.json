@@ -1,0 +1,102 @@
+{
+  "id": 103,
+  "section": "Прилагательные и наречия",
+  "title": "enough and too",
+  "subtitle": "Достаточно и слишком: enough, too, too much/many",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>enough</b> (достаточно) стоит <b>перед существительным</b>, но <b>после прилагательного или наречия</b>: <b>enough money</b>, но <b>big enough</b>, <b>loudly enough</b>. Можно и без существительного: <b>I've eaten enough.</b>"
+    },
+    {
+      "type": "p",
+      "text": "<b>too</b> (слишком) ставится перед прилагательным или наречием: <b>too hot</b>, <b>too fast</b>. Перед существительным — <b>too much</b> (неисчисляемые) и <b>too many</b> (исчисляемые): <b>too much noise</b>, <b>too many cars</b>."
+    },
+    {
+      "type": "table",
+      "head": ["Конструкция", "Пример"],
+      "rows": [
+        ["too / enough + for кого-то", "<b>This coat is too big for me.</b>"],
+        ["too / enough + to do", "<b>She's old enough to vote.</b>"],
+        ["too / enough + for кого-то + to do", "<b>The text is too long for me to read today.</b>"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "После <b>too … to</b> / <b>enough to</b> дополнение не повторяется: <b>The bag is too heavy to carry</b> (не to carry it)."
+    },
+    {
+      "type": "tip",
+      "text": "Русское «достаточно большой» подсказывает порядок <b>enough big</b> — это ошибка. Правильно <b>big enough</b>. И не путайте <b>too</b> со <b>very</b>: «слишком» означает, что что-то мешает: <b>It's too cold to swim.</b>"
+    }
+  ],
+  "words": [
+    {
+      "en": "enough",
+      "ru": "достаточно"
+    },
+    {
+      "en": "too",
+      "ru": "слишком"
+    },
+    {
+      "en": "too much",
+      "ru": "слишком много (с неисчисляемыми)"
+    },
+    {
+      "en": "too many",
+      "ru": "слишком много (с исчисляемыми)"
+    },
+    {
+      "en": "loudly",
+      "ru": "громко"
+    },
+    {
+      "en": "light",
+      "ru": "светлый"
+    },
+    {
+      "en": "heavy",
+      "ru": "тяжёлый"
+    },
+    {
+      "en": "swim",
+      "forms": "swam, swum",
+      "ru": "плавать"
+    },
+    {
+      "en": "beginning",
+      "ru": "начало"
+    },
+    {
+      "en": "text",
+      "ru": "текст"
+    }
+  ],
+  "items": [
+    { "ru": "У нас достаточно денег?", "en": ["Do we have enough money?", "Have we got enough money?"] },
+    { "ru": "Здесь недостаточно стульев.", "en": ["There aren't enough chairs here."] },
+    { "ru": "Ты не ешь достаточно овощей.", "en": ["You don't eat enough vegetables.", "You aren't eating enough vegetables."] },
+    { "ru": "Комната достаточно большая для нас?", "en": ["Is the room big enough for us?", "Is this room big enough for us?"] },
+    { "ru": "Он недостаточно высокий, чтобы играть в баскетбол.", "en": ["He isn't tall enough to play basketball."] },
+    { "ru": "Она достаточно взрослая, чтобы водить машину.", "en": ["She's old enough to drive.", "She's old enough to drive a car."] },
+    { "ru": "Ты говоришь недостаточно громко.", "en": ["You don't speak loudly enough.", "You aren't speaking loudly enough.", "You don't speak loud enough.", "You aren't speaking loud enough."] },
+    { "ru": "У меня недостаточно времени, чтобы закончить это.", "en": ["I don't have enough time to finish it.", "I haven't got enough time to finish it.", "I don't have enough time to finish this.", "I haven't got enough time to finish this."] },
+    { "ru": "Здесь недостаточно светло, чтобы читать.", "en": ["It isn't light enough to read here.", "There isn't enough light to read here.", "It isn't light enough here to read.", "It isn't bright enough to read here.", "There isn't enough light here to read."] },
+    { "ru": "Этот чай слишком горячий.", "en": ["This tea is too hot."] },
+    { "ru": "Он ехал слишком быстро.", "en": ["He was driving too fast.", "He drove too fast."] },
+    { "ru": "Ты слишком много работаешь.", "en": ["You work too much.", "You work too hard.", "You're working too much.", "You're working too hard."] },
+    { "ru": "Здесь слишком много людей.", "en": ["There are too many people here."] },
+    { "ru": "Я положил в чай слишком много сахара.", "en": ["I put too much sugar in my tea.", "I've put too much sugar in my tea.", "I put too much sugar in the tea.", "I've put too much sugar in the tea."] },
+    { "ru": "Эта куртка мне слишком мала.", "en": ["This jacket is too small for me."] },
+    { "ru": "Этот вопрос слишком сложный для меня.", "en": ["This question is too difficult for me.", "This question is too hard for me.", "This question is too complicated for me."] },
+    { "ru": "Ресторан слишком дорогой для нас.", "en": ["The restaurant is too expensive for us.", "This restaurant is too expensive for us."] },
+    { "ru": "Я слишком устал, чтобы готовить.", "en": ["I'm too tired to cook."] },
+    { "ru": "Сейчас слишком холодно, чтобы купаться.", "en": ["It's too cold to swim.", "It's too cold to go swimming.", "It's too cold for swimming.", "It's too cold to swim now.", "It's too cold to go swimming now.", "Now it's too cold to swim."] },
+    { "ru": "Этот чемодан слишком тяжёлый, чтобы его нести.", "en": ["This suitcase is too heavy to carry."] },
+    { "ru": "Коробка слишком тяжёлая, чтобы я мог её поднять.", "en": ["The box is too heavy for me to lift."] },
+    { "ru": "Этот текст слишком трудный, чтобы его понять.", "en": ["This text is too difficult to understand.", "This text is too hard to understand."] },
+    { "ru": "Мы приехали слишком поздно, чтобы увидеть начало.", "en": ["We arrived too late to see the beginning.", "We arrived too late to see the start.", "We got there too late to see the beginning.", "We got there too late to see the start.", "We came too late to see the beginning."] },
+    { "ru": "Ты достаточно хорошо себя чувствуешь, чтобы пойти на работу?", "en": ["Do you feel well enough to go to work?", "Are you well enough to go to work?", "Are you feeling well enough to go to work?"] }
+  ]
+}

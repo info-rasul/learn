@@ -1,0 +1,326 @@
+{
+  "id": 141,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 5 on/off (2)",
+  "subtitle": "on = продолжать, get on, doze off, show off, tell off, put off",
+  "theory": [
+    {
+      "type": "h",
+      "text": "On = продолжать"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>go on</b> — продолжаться: <b>The film went on for three hours.</b>",
+        "<b>go on / carry on doing</b> — продолжать делать; <b>go on / carry on with something</b> — продолжать что-то.",
+        "<b>keep on doing</b> (= <b>keep doing</b>) — всё время, снова и снова делать.",
+        "<b>drive on / walk on / play on</b> — ехать / идти / играть дальше."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Get on"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Выражение",
+        "Значение"
+      ],
+      "rows": [
+        [
+          "<b>get on</b>",
+          "продвигаться, справляться: <b>How are you getting on?</b>"
+        ],
+        [
+          "<b>get on (well) with somebody</b>",
+          "ладить с кем-то"
+        ],
+        [
+          "<b>get on with something</b>",
+          "продолжить своё дело (после перерыва)"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Глаголы с off"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>doze off / drop off / nod off</b> — задремать, уснуть.",
+        "<b>go off</b> — сработать, зазвонить (о будильнике, сигнализации).",
+        "<b>show off</b> — выпендриваться, хвастаться.",
+        "<b>tell somebody off</b> — отругать.",
+        "<b>finish something off</b> — доделать последнюю часть.",
+        "<b>rip somebody off</b> — обмануть, содрать деньги; <b>be ripped off</b> — переплатить.",
+        "<b>put somebody off (doing) something</b> — отбить охоту."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Мы с ним хорошо ладим» — <b>We get on well</b> / <b>I get on well with him</b>, а не <b>get on with each other good</b>. После <b>go on / carry on / keep on</b> глагол идёт с <b>-ing</b>: <b>keep on asking</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "go on",
+      "forms": "went, gone",
+      "ru": "продолжаться; продолжать"
+    },
+    {
+      "en": "keep on",
+      "forms": "kept, kept",
+      "ru": "продолжать, постоянно делать"
+    },
+    {
+      "en": "carry on",
+      "ru": "продолжать"
+    },
+    {
+      "en": "drive on",
+      "forms": "drove, driven",
+      "ru": "ехать дальше"
+    },
+    {
+      "en": "get on",
+      "forms": "got, got",
+      "ru": "ладить; поживать, справляться"
+    },
+    {
+      "en": "get on with",
+      "forms": "got, got",
+      "ru": "продолжать (дело, работу)"
+    },
+    {
+      "en": "doze off",
+      "ru": "задремать"
+    },
+    {
+      "en": "go off",
+      "forms": "went, gone",
+      "ru": "зазвонить, сработать (о будильнике, сигнализации)"
+    },
+    {
+      "en": "show off",
+      "ru": "хвастаться, выпендриваться"
+    },
+    {
+      "en": "tell off",
+      "forms": "told, told",
+      "ru": "ругать, отчитывать"
+    },
+    {
+      "en": "finish off",
+      "ru": "доделывать, доедать"
+    },
+    {
+      "en": "rip off",
+      "ru": "обдирать, надувать (на деньги)"
+    },
+    {
+      "en": "put off",
+      "forms": "put, put",
+      "ru": "отбивать охоту, отталкивать"
+    },
+    {
+      "en": "alarm",
+      "ru": "будильник; сигнализация"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Вечеринка продолжалась до утра.",
+      "en": [
+        "The party went on until the morning.",
+        "The party went on till the morning.",
+        "The party went on until morning.",
+        "The party went on till morning.",
+        "The party carried on until the morning."
+      ]
+    },
+    {
+      "ru": "(оборот с keep) Он постоянно меня перебивает.",
+      "en": [
+        "He keeps on interrupting me.",
+        "He keeps interrupting me."
+      ]
+    },
+    {
+      "ru": "Не останавливайся, продолжай читать.",
+      "en": [
+        "Don't stop, go on reading.",
+        "Don't stop, carry on reading.",
+        "Don't stop, keep on reading.",
+        "Don't stop, keep reading."
+      ]
+    },
+    {
+      "ru": "Я не хочу дальше жить в этом городе.",
+      "en": [
+        "I don't want to go on living in this town.",
+        "I don't want to carry on living in this town.",
+        "I don't want to go on living in this city.",
+        "I don't want to carry on living in this city.",
+        "I don't want to keep living in this town."
+      ]
+    },
+    {
+      "ru": "Продолжайте свою работу, я подожду.",
+      "en": [
+        "Carry on with your work, I'll wait.",
+        "Go on with your work, I'll wait.",
+        "Get on with your work, I'll wait."
+      ]
+    },
+    {
+      "ru": "Остановимся здесь или поедем дальше?",
+      "en": [
+        "Shall we stop here or drive on?",
+        "Should we stop here or drive on?",
+        "Shall we stop here or go on?",
+        "Should we stop here or go on?",
+        "Shall we stop here or keep going?",
+        "Should we stop here or keep going?"
+      ]
+    },
+    {
+      "ru": "Как у тебя дела в новой школе?",
+      "en": [
+        "How are you getting on at your new school?",
+        "How are you getting on at the new school?",
+        "How are you getting on in your new school?"
+      ]
+    },
+    {
+      "ru": "Кейт отлично ладит с сестрой.",
+      "en": [
+        "Kate gets on very well with her sister.",
+        "Kate gets on well with her sister.",
+        "Kate gets on really well with her sister.",
+        "Kate gets along very well with her sister.",
+        "Kate gets along well with her sister."
+      ]
+    },
+    {
+      "ru": "Мы с начальником не ладим.",
+      "en": [
+        "My boss and I don't get on.",
+        "I don't get on with my boss.",
+        "I don't get on well with my boss.",
+        "My boss and I don't get on well.",
+        "My boss and I don't get along.",
+        "I don't get along with my boss."
+      ]
+    },
+    {
+      "ru": "Мне надо продолжать учёбу.",
+      "en": [
+        "I must get on with my studies.",
+        "I need to get on with my studies.",
+        "I have to get on with my studies.",
+        "I've got to get on with my studies."
+      ]
+    },
+    {
+      "ru": "Перерыв окончен, давайте продолжим.",
+      "en": [
+        "The break is over, let's get on with it.",
+        "The break is over, let's carry on."
+      ]
+    },
+    {
+      "ru": "Я задремал перед телевизором.",
+      "en": [
+        "I dozed off in front of the TV.",
+        "I nodded off in front of the TV.",
+        "I dropped off in front of the TV."
+      ]
+    },
+    {
+      "ru": "Будильник не зазвонил.",
+      "en": [
+        "The alarm didn't go off.",
+        "My alarm didn't go off."
+      ]
+    },
+    {
+      "ru": "Ночью сработала сигнализация машины.",
+      "en": [
+        "A car alarm went off in the night.",
+        "The car alarm went off during the night.",
+        "A car alarm went off at night.",
+        "A car alarm went off during the night.",
+        "The car alarm went off in the night."
+      ]
+    },
+    {
+      "ru": "Перестань выпендриваться!",
+      "en": [
+        "Stop showing off!"
+      ]
+    },
+    {
+      "ru": "Он просто хвастается своей новой машиной.",
+      "en": [
+        "He's just showing off his new car.",
+        "He's just showing his new car off."
+      ]
+    },
+    {
+      "ru": "Учитель отругал меня за опоздание.",
+      "en": [
+        "The teacher told me off for being late."
+      ]
+    },
+    {
+      "ru": "Не ругай его, он не виноват.",
+      "en": [
+        "Don't tell him off, it's not his fault."
+      ]
+    },
+    {
+      "ru": "Я доделаю отчёт завтра.",
+      "en": [
+        "I'll finish the report off tomorrow.",
+        "I'll finish off the report tomorrow.",
+        "I'll finish the report tomorrow."
+      ]
+    },
+    {
+      "ru": "Доедай суп, он почти закончился.",
+      "en": [
+        "Finish off the soup, there's almost none left.",
+        "Finish the soup off, there's almost none left."
+      ]
+    },
+    {
+      "ru": "Ты слишком много заплатил, тебя надули.",
+      "en": [
+        "You paid too much, you were ripped off.",
+        "You paid too much, you've been ripped off.",
+        "You paid too much, you got ripped off."
+      ]
+    },
+    {
+      "ru": "Таксист нас обманул.",
+      "en": [
+        "The taxi driver ripped us off."
+      ]
+    },
+    {
+      "ru": "Плохая погода отбила у нас охоту идти на пляж.",
+      "en": [
+        "The bad weather put us off going to the beach."
+      ]
+    },
+    {
+      "ru": "Что тебя оттолкнуло от этой квартиры?",
+      "en": [
+        "What put you off this flat?",
+        "What put you off this apartment?"
+      ]
+    }
+  ]
+}

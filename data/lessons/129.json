@@ -1,0 +1,362 @@
+{
+  "id": 129,
+  "section": "Предлоги",
+  "title": "Noun + preposition (reason for, cause of etc.)",
+  "subtitle": "Какой предлог идёт после существительного: reason for, cause of",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Многие английские существительные «требуют» определённого предлога. Русский перевод часто подсказывает неверный вариант, поэтому такие сочетания лучше запоминать целиком: <b>the reason for</b>, <b>a solution to</b>, <b>an increase in</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Существительные",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "for",
+          "a demand, a need, a reason",
+          "<b>the reason for the delay</b>"
+        ],
+        [
+          "of",
+          "a photo, a picture, a map, a plan; a cause; an advantage/disadvantage",
+          "<b>a map of Rome</b>, <b>the cause of the fire</b>"
+        ],
+        [
+          "in",
+          "an increase, a decrease, a rise, a fall",
+          "<b>a rise in prices</b>"
+        ],
+        [
+          "with",
+          "a relationship, a connection, contact (с кем-то)",
+          "<b>contact with her family</b>"
+        ],
+        [
+          "between",
+          "a relationship, a connection, a difference (между двумя)",
+          "<b>the difference between them</b>"
+        ],
+        [
+          "to",
+          "a solution, a key, an answer, a reply, a reaction, damage, an invitation, an attitude",
+          "<b>the key to the door</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Advantage of / in / to"
+    },
+    {
+      "type": "p",
+      "text": "<b>The advantage of</b> + сущ./-ing: <b>The advantage of a small car is…</b> Но «есть преимущество в том, чтобы…» — <b>there is an advantage in/to doing something</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>attitude to</b> = <b>attitude towards</b> — оба варианта правильные.",
+        "<b>damage to the car</b> — повреждение машины (не <b>damage of</b>).",
+        "<b>an invitation to a party</b> — приглашение на вечеринку."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «причина чего-то», «решение проблемы», «ответ на вопрос» тянет к <b>of</b> или <b>on</b>. Правильно: <b>the reason for</b>, <b>a solution to the problem</b>, <b>an answer to the question</b>, <b>a reply to my email</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "demand for",
+      "ru": "спрос на"
+    },
+    {
+      "en": "need for",
+      "ru": "необходимость в"
+    },
+    {
+      "en": "reason for",
+      "ru": "причина (чего-то)"
+    },
+    {
+      "en": "rise in",
+      "ru": "рост (чего-то)"
+    },
+    {
+      "en": "fall in",
+      "ru": "падение, снижение (чего-то)"
+    },
+    {
+      "en": "relationship with",
+      "ru": "отношения с"
+    },
+    {
+      "en": "contact with",
+      "ru": "связь, контакт с"
+    },
+    {
+      "en": "difference between",
+      "ru": "разница между"
+    },
+    {
+      "en": "connection between",
+      "ru": "связь между"
+    },
+    {
+      "en": "advantage of",
+      "ru": "преимущество (чего-то)"
+    },
+    {
+      "en": "disadvantage of",
+      "ru": "недостаток (чего-то)"
+    },
+    {
+      "en": "solution to",
+      "ru": "решение (проблемы)"
+    },
+    {
+      "en": "key to",
+      "ru": "ключ от"
+    },
+    {
+      "en": "answer to",
+      "ru": "ответ на"
+    },
+    {
+      "en": "reply to",
+      "ru": "ответ на (письмо)"
+    },
+    {
+      "en": "reaction to",
+      "ru": "реакция на"
+    },
+    {
+      "en": "cause of",
+      "ru": "причина (чего-то плохого)"
+    },
+    {
+      "en": "damage to",
+      "ru": "ущерб, повреждение (чему-то)"
+    },
+    {
+      "en": "invitation to",
+      "ru": "приглашение на"
+    },
+    {
+      "en": "attitude to",
+      "ru": "отношение к"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Сейчас большой спрос на электромобили.",
+      "en": [
+        "There is a big demand for electric cars now.",
+        "Now there is a big demand for electric cars.",
+        "There's a great demand for electric cars now.",
+        "There's a high demand for electric cars now.",
+        "There's a big demand for electric cars at the moment.",
+        "Now there's a great demand for electric cars."
+      ]
+    },
+    {
+      "ru": "Такси не нужно, я пойду пешком.",
+      "en": [
+        "There's no need for a taxi, I'll walk.",
+        "There's no need for a taxi, I'm going to walk.",
+        "I don't need a taxi, I'll walk.",
+        "I don't need a taxi, I'm going to walk.",
+        "No need for a taxi, I'll walk.",
+        "There's no need for a taxi, I'll go on foot."
+      ]
+    },
+    {
+      "ru": "Какова причина твоего решения?",
+      "en": [
+        "What is the reason for your decision?"
+      ]
+    },
+    {
+      "ru": "Нам нужна карта Парижа.",
+      "en": [
+        "We need a map of Paris."
+      ]
+    },
+    {
+      "ru": "Анна показала мне фотографии своей собаки.",
+      "en": [
+        "Anna showed me some photos of her dog.",
+        "Anna showed me photos of her dog.",
+        "Anna showed me some pictures of her dog.",
+        "Anna showed me pictures of her dog."
+      ]
+    },
+    {
+      "ru": "В этом году был рост цен.",
+      "en": [
+        "There was a rise in prices this year.",
+        "There has been a rise in prices this year.",
+        "There was an increase in prices this year.",
+        "There has been an increase in prices this year."
+      ]
+    },
+    {
+      "ru": "Произошло падение количества туристов.",
+      "en": [
+        "There was a fall in the number of tourists.",
+        "There has been a fall in the number of tourists.",
+        "There was a decrease in the number of tourists.",
+        "There has been a decrease in the number of tourists."
+      ]
+    },
+    {
+      "ru": "У Тома хорошие отношения с начальником.",
+      "en": [
+        "Tom has a good relationship with his boss.",
+        "Tom has a good relationship with his manager.",
+        "Tom has good relations with his boss."
+      ]
+    },
+    {
+      "ru": "Ты поддерживаешь связь со своими школьными друзьями?",
+      "en": [
+        "Do you have contact with your school friends?",
+        "Are you in contact with your school friends?",
+        "Do you keep in contact with your school friends?",
+        "Do you stay in contact with your school friends?",
+        "Do you keep in touch with your school friends?",
+        "Are you in touch with your school friends?"
+      ]
+    },
+    {
+      "ru": "Какая разница между этими двумя словами?",
+      "en": [
+        "What's the difference between these two words?"
+      ]
+    },
+    {
+      "ru": "Между этими двумя событиями нет связи.",
+      "en": [
+        "There's no connection between these two events.",
+        "There's no connection between the two events.",
+        "There's no link between these two events.",
+        "There isn't any connection between these two events."
+      ]
+    },
+    {
+      "ru": "В чём преимущество работы из дома?",
+      "en": [
+        "What is the advantage of working at home?",
+        "What is the advantage of working from home?"
+      ]
+    },
+    {
+      "ru": "Главный недостаток этой квартиры — шум.",
+      "en": [
+        "The main disadvantage of this flat is the noise.",
+        "The main disadvantage of this apartment is the noise.",
+        "The noise is the main disadvantage of this flat.",
+        "The noise is the main disadvantage of this apartment."
+      ]
+    },
+    {
+      "ru": "В том, чтобы вставать рано, есть много преимуществ.",
+      "en": [
+        "There are many advantages in getting up early.",
+        "There are many advantages to getting up early.",
+        "There are a lot of advantages in getting up early.",
+        "There are a lot of advantages to getting up early.",
+        "There are lots of advantages to getting up early.",
+        "There are lots of advantages in getting up early."
+      ]
+    },
+    {
+      "ru": "Мы ещё не нашли решения этой проблемы.",
+      "en": [
+        "We haven't found a solution to this problem yet.",
+        "We haven't found a solution to the problem yet.",
+        "We haven't yet found a solution to this problem.",
+        "We haven't yet found a solution to the problem."
+      ]
+    },
+    {
+      "ru": "Где ключ от этой двери?",
+      "en": [
+        "Where is the key to this door?",
+        "Where is the key for this door?"
+      ]
+    },
+    {
+      "ru": "Я не знаю ответа на твой вопрос.",
+      "en": [
+        "I don't know the answer to your question."
+      ]
+    },
+    {
+      "ru": "Она так и не получила ответа на своё письмо.",
+      "en": [
+        "She never got a reply to her letter.",
+        "She never received a reply to her letter.",
+        "She didn't get a reply to her letter.",
+        "She never got an answer to her letter.",
+        "She never received an answer to her letter."
+      ]
+    },
+    {
+      "ru": "Какой была его реакция на новость?",
+      "en": [
+        "What was his reaction to the news?"
+      ]
+    },
+    {
+      "ru": "Причина пожара до сих пор неизвестна.",
+      "en": [
+        "The cause of the fire is still unknown.",
+        "The cause of the fire is still not known."
+      ]
+    },
+    {
+      "ru": "Буря нанесла серьёзный ущерб нашему дому.",
+      "en": [
+        "The storm caused serious damage to our house.",
+        "The storm did serious damage to our house.",
+        "The storm caused serious damage to our home.",
+        "The storm did serious damage to our home."
+      ]
+    },
+    {
+      "ru": "Ты получил приглашение на вечеринку Кейт?",
+      "en": [
+        "Did you get an invitation to Kate's party?",
+        "Have you got an invitation to Kate's party?",
+        "Did you receive an invitation to Kate's party?",
+        "Have you received an invitation to Kate's party?"
+      ]
+    },
+    {
+      "ru": "Мне не нравится его отношение к работе.",
+      "en": [
+        "I don't like his attitude to work.",
+        "I don't like his attitude towards work.",
+        "I don't like his attitude to his work.",
+        "I don't like his attitude towards his work."
+      ]
+    },
+    {
+      "ru": "Почему у тебя такое отношение к учителям?",
+      "en": [
+        "Why do you have this attitude to teachers?",
+        "Why do you have this attitude towards teachers?",
+        "Why do you have such an attitude to teachers?",
+        "Why do you have such an attitude towards teachers?",
+        "Why do you have that attitude to teachers?",
+        "Why do you have that attitude towards teachers?",
+        "Why do you have such an attitude toward teachers?"
+      ]
+    }
+  ]
+}

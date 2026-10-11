@@ -1,0 +1,290 @@
+{
+  "id": 75,
+  "section": "Артикли и существительные",
+  "title": "the 3 (children / the children)",
+  "subtitle": "Вообще (без the) или конкретно (с the)",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Когда говорим о людях и вещах <b>вообще</b>, the не ставим: <b>Children love playing. Sugar is bad for your teeth. Life isn't always easy.</b> Так же — виды спорта, предметы, еда, музыка: <b>My favourite sport is tennis.</b>"
+    },
+    {
+      "type": "p",
+      "text": "«Большинство» — <b>most people, most shops</b> (не the most people)."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Вообще — без the",
+        "Конкретно — с the"
+      ],
+      "rows": [
+        [
+          "Children love playing.",
+          "We took the children to the park."
+        ],
+        [
+          "I can't live without coffee.",
+          "The coffee we had this morning was strong."
+        ],
+        [
+          "All cars pollute the air.",
+          "All the cars on this street are new."
+        ],
+        [
+          "Everybody needs water.",
+          "The water in the pool is cold."
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Тонкая граница"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>people who tell the truth</b> — уже не все люди, но всё ещё общая категория → без the.",
+        "<b>black coffee without sugar</b> — разновидность кофе вообще → без the.",
+        "<b>the people I live with</b> — конкретная группа → the."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русскоговорящие, начав ставить артикли, часто перебарщивают: <b>The life is hard</b>, <b>I like the music</b> (имея в виду музыку вообще). Спросите себя: «Я говорю о чём-то конкретном?» Если нет — артикль не нужен."
+    }
+  ],
+  "words": [
+    {
+      "en": "most",
+      "ru": "большинство"
+    },
+    {
+      "en": "spider",
+      "ru": "паук"
+    },
+    {
+      "en": "less",
+      "ru": "меньше"
+    },
+    {
+      "en": "favourite",
+      "ru": "любимый"
+    },
+    {
+      "en": "subject",
+      "ru": "предмет (школьный)"
+    },
+    {
+      "en": "geography",
+      "ru": "география"
+    },
+    {
+      "en": "sugar",
+      "ru": "сахар"
+    },
+    {
+      "en": "tooth",
+      "forms": "teeth",
+      "ru": "зуб"
+    },
+    {
+      "en": "strong",
+      "ru": "крепкий"
+    },
+    {
+      "en": "black",
+      "ru": "чёрный"
+    },
+    {
+      "en": "pollute",
+      "ru": "загрязнять"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Моя сестра боится пауков.",
+      "en": [
+        "My sister is afraid of spiders.",
+        "My sister is scared of spiders."
+      ]
+    },
+    {
+      "ru": "Медсёстрам обычно платят меньше, чем врачам.",
+      "en": [
+        "Nurses are usually paid less than doctors.",
+        "Nurses usually earn less than doctors.",
+        "Nurses usually get paid less than doctors."
+      ]
+    },
+    {
+      "ru": "Ты любишь итальянскую еду?",
+      "en": [
+        "Do you like Italian food?",
+        "Do you love Italian food?"
+      ]
+    },
+    {
+      "ru": "Мой любимый вид спорта — теннис.",
+      "en": [
+        "My favourite sport is tennis.",
+        "My favorite sport is tennis."
+      ]
+    },
+    {
+      "ru": "В школе моим любимым предметом была география.",
+      "en": [
+        "My favourite subject at school was geography.",
+        "At school my favourite subject was geography.",
+        "My favorite subject at school was geography.",
+        "At school my favorite subject was geography."
+      ]
+    },
+    {
+      "ru": "Большинство людей любят музыку.",
+      "en": [
+        "Most people like music.",
+        "Most people love music."
+      ]
+    },
+    {
+      "ru": "Большинство магазинов закрыты по воскресеньям.",
+      "en": [
+        "Most shops are closed on Sundays.",
+        "Most shops are closed on Sunday.",
+        "Most stores are closed on Sundays.",
+        "Most stores are closed on Sunday."
+      ]
+    },
+    {
+      "ru": "Сахар вреден для зубов.",
+      "en": [
+        "Sugar is bad for your teeth.",
+        "Sugar is bad for teeth."
+      ]
+    },
+    {
+      "ru": "Передай, пожалуйста, сахар.",
+      "en": [
+        "Pass the sugar, please.",
+        "Please pass the sugar.",
+        "Could you pass the sugar, please?",
+        "Can you pass the sugar, please?",
+        "Could you pass me the sugar, please?"
+      ]
+    },
+    {
+      "ru": "Дети любят играть.",
+      "en": [
+        "Children love playing.",
+        "Children love to play.",
+        "Children like playing.",
+        "Children like to play."
+      ]
+    },
+    {
+      "ru": "(наших детей) Мы отвели детей в парк.",
+      "en": [
+        "We took the children to the park.",
+        "We took the kids to the park.",
+        "We took our children to the park.",
+        "We took our kids to the park."
+      ]
+    },
+    {
+      "ru": "Фильм был скучный, но музыка мне понравилась.",
+      "en": [
+        "The film was boring, but I liked the music.",
+        "The movie was boring, but I liked the music."
+      ]
+    },
+    {
+      "ru": "Я не могу жить без кофе.",
+      "en": [
+        "I can't live without coffee."
+      ]
+    },
+    {
+      "ru": "Кофе, который мы пили утром, был очень крепким.",
+      "en": [
+        "The coffee we had this morning was very strong.",
+        "The coffee we drank this morning was very strong.",
+        "The coffee that we had this morning was very strong.",
+        "The coffee that we drank this morning was very strong."
+      ]
+    },
+    {
+      "ru": "Жизнь не всегда лёгкая.",
+      "en": [
+        "Life isn't always easy."
+      ]
+    },
+    {
+      "ru": "Мне нравятся люди, с которыми я живу.",
+      "en": [
+        "I like the people I live with.",
+        "I like the people that I live with.",
+        "I like the people who I live with."
+      ]
+    },
+    {
+      "ru": "Она любит помогать людям.",
+      "en": [
+        "She likes helping people.",
+        "She loves helping people.",
+        "She likes to help people.",
+        "She loves to help people."
+      ]
+    },
+    {
+      "ru": "Мне нравятся люди, которые говорят правду.",
+      "en": [
+        "I like people who tell the truth.",
+        "I like people that tell the truth."
+      ]
+    },
+    {
+      "ru": "Ты пьёшь чёрный кофе без сахара?",
+      "en": [
+        "Do you drink black coffee without sugar?"
+      ]
+    },
+    {
+      "ru": "Все машины на этой улице новые.",
+      "en": [
+        "All the cars on this street are new.",
+        "All the cars in this street are new."
+      ]
+    },
+    {
+      "ru": "Все машины загрязняют воздух.",
+      "en": [
+        "All cars pollute the air."
+      ]
+    },
+    {
+      "ru": "Вода в бассейне холодная.",
+      "en": [
+        "The water in the pool is cold.",
+        "The water in the swimming pool is cold."
+      ]
+    },
+    {
+      "ru": "Всем нужна вода.",
+      "en": [
+        "Everybody needs water.",
+        "Everyone needs water."
+      ]
+    },
+    {
+      "ru": "Я не помню имён людей, которых мы вчера встретили.",
+      "en": [
+        "I don't remember the names of the people we met yesterday.",
+        "I can't remember the names of the people we met yesterday.",
+        "I don't remember the names of the people who we met yesterday.",
+        "I don't remember the names of the people that we met yesterday.",
+        "I can't remember the names of the people who we met yesterday."
+      ]
+    }
+  ]
+}

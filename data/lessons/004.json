@@ -1,0 +1,251 @@
+{
+  "id": 4,
+  "section": "Настоящее и прошедшее время",
+  "title": "Present continuous and present simple 2 (I am doing and I do)",
+  "subtitle": "Глаголы состояния, think, see/smell/taste, am/is/are being",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Некоторые глаголы описывают не действие, а состояние, мнение или чувство. Их обычно не ставят в continuous, даже если речь о «сейчас»: <b>I want a cup of tea</b>, а не <b>I'm wanting</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "желания и предпочтения: <b>like, want, need, prefer</b>",
+        "знание и понимание: <b>know, understand, realise, recognise, remember, believe, suppose, mean</b>",
+        "принадлежность и состав: <b>belong, contain, consist, fit</b>; а также <b>seem</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "think"
+    },
+    {
+      "type": "p",
+      "text": "<b>think</b> = «считать, иметь мнение» — только simple: <b>I think he's right.</b> <b>think</b> = «обдумывать, размышлять» — можно continuous: <b>I'm thinking about our holiday.</b> <b>We're thinking of moving.</b>"
+    },
+    {
+      "type": "h",
+      "text": "see, hear, smell, taste, look, feel"
+    },
+    {
+      "type": "p",
+      "text": "С <b>see, hear, smell, taste</b> обычно simple: <b>Do you see that car?</b> <b>This soup smells good.</b> Часто добавляют <b>can</b>: <b>Can you hear that noise?</b> Про то, как кто-то выглядит или чувствует себя сейчас, можно и так и так: <b>You look happy / You're looking happy.</b> Но про «обычно» — только simple: <b>I usually feel hungry.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "is being = ведёт себя (сейчас)",
+          "<b>Why are you being so rude today?</b>"
+        ],
+        [
+          "is = такой по характеру / состояние",
+          "<b>Anna is a very kind person.</b> <b>Ben is ill.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Не говорите <b>I'm knowing</b>, <b>I'm understanding</b>, <b>it's belonging</b>. И <b>being</b> используйте только о поведении, которое человек контролирует: <b>he's being silly</b>, но не <b>he's being ill</b> или <b>are you being tired</b>."
+    }
+  ],
+  "words": [
+    { "en": "believe", "ru": "верить" },
+    { "en": "know", "forms": "knew, known", "ru": "знать" },
+    { "en": "belong to", "ru": "принадлежать" },
+    { "en": "need", "ru": "нуждаться; нужно" },
+    { "en": "remember", "ru": "помнить" },
+    { "en": "fit", "ru": "подходить по размеру" },
+    { "en": "seem", "ru": "казаться" },
+    { "en": "prefer", "ru": "предпочитать" },
+    { "en": "think", "forms": "thought, thought", "ru": "думать; считать (иметь мнение)" },
+    { "en": "think of", "ru": "думать о; подумывать (о том, чтобы)" },
+    { "en": "see", "forms": "saw, seen", "ru": "видеть" },
+    { "en": "hear", "forms": "heard, heard", "ru": "слышать" },
+    { "en": "smell", "ru": "пахнуть" },
+    { "en": "taste", "ru": "быть на вкус" },
+    { "en": "look", "ru": "выглядеть" },
+    { "en": "feel", "forms": "felt, felt", "ru": "чувствовать (себя)" },
+    { "en": "be", "forms": "was/were, been", "ru": "быть; вести себя (you're being rude)" },
+    { "en": "rude", "ru": "грубый" },
+    { "en": "patient", "ru": "терпеливый" },
+    { "en": "tired", "ru": "уставший" }
+  ],
+  "items": [
+    {
+      "ru": "Я хочу чашку чая.",
+      "en": [
+        "I want a cup of tea.",
+        "I'd like a cup of tea."
+      ]
+    },
+    {
+      "ru": "Я ему не верю.",
+      "en": [
+        "I don't believe him."
+      ]
+    },
+    {
+      "ru": "Ты понимаешь этот вопрос?",
+      "en": [
+        "Do you understand this question?",
+        "Do you understand the question?"
+      ]
+    },
+    {
+      "ru": "Я не знаю его адрес.",
+      "en": [
+        "I don't know his address."
+      ]
+    },
+    {
+      "ru": "Эта сумка принадлежит Анне.",
+      "en": [
+        "This bag belongs to Anna."
+      ]
+    },
+    {
+      "ru": "Мне нужна твоя помощь с этим письмом.",
+      "en": [
+        "I need your help with this letter."
+      ]
+    },
+    {
+      "ru": "Ты помнишь её имя?",
+      "en": [
+        "Do you remember her name?"
+      ]
+    },
+    {
+      "ru": "Эти джинсы мне не подходят по размеру.",
+      "en": [
+        "These jeans don't fit me."
+      ]
+    },
+    {
+      "ru": "Кейт сегодня кажется уставшей.",
+      "en": [
+        "Kate seems tired today.",
+        "Kate seems to be tired today.",
+        "Kate looks tired today."
+      ]
+    },
+    {
+      "ru": "Я предпочитаю футбол теннису.",
+      "en": [
+        "I prefer football to tennis."
+      ]
+    },
+    {
+      "ru": "Что ты думаешь о моём новом платье?",
+      "en": [
+        "What do you think of my new dress?",
+        "What do you think about my new dress?"
+      ]
+    },
+    {
+      "ru": "(по-моему) Я думаю, что он прав.",
+      "en": [
+        "I think he's right.",
+        "I think that he's right."
+      ]
+    },
+    {
+      "ru": "(в эту минуту) Я думаю о нашем отпуске.",
+      "en": [
+        "I'm thinking about our holiday.",
+        "I'm thinking of our holiday.",
+        "I'm thinking about our vacation."
+      ]
+    },
+    {
+      "ru": "Мы подумываем о переезде в Канаду.",
+      "en": [
+        "We're thinking of moving to Canada.",
+        "We're thinking about moving to Canada."
+      ]
+    },
+    {
+      "ru": "Ты видишь ту машину?",
+      "en": [
+        "Do you see that car?",
+        "Can you see that car?"
+      ]
+    },
+    {
+      "ru": "Ты слышишь этот шум?",
+      "en": [
+        "Do you hear that noise?",
+        "Can you hear that noise?",
+        "Do you hear this noise?",
+        "Can you hear this noise?"
+      ]
+    },
+    {
+      "ru": "Этот суп очень вкусно пахнет.",
+      "en": [
+        "This soup smells very good.",
+        "This soup smells delicious.",
+        "This soup smells really good.",
+        "This soup smells very nice.",
+        "This soup smells really nice."
+      ]
+    },
+    {
+      "ru": "Этот кофе странный на вкус.",
+      "en": [
+        "This coffee tastes strange.",
+        "This coffee tastes funny.",
+        "This coffee tastes weird."
+      ]
+    },
+    {
+      "ru": "Ты сегодня выглядишь счастливой.",
+      "en": [
+        "You look happy today.",
+        "You're looking happy today."
+      ]
+    },
+    {
+      "ru": "Как ты себя чувствуешь сегодня?",
+      "en": [
+        "How do you feel today?",
+        "How are you feeling today?"
+      ]
+    },
+    {
+      "ru": "По вечерам я обычно чувствую себя голодным.",
+      "en": [
+        "I usually feel hungry in the evening.",
+        "I usually feel hungry in the evenings.",
+        "In the evening I usually feel hungry.",
+        "In the evenings I usually feel hungry.",
+        "I usually get hungry in the evening.",
+        "I usually get hungry in the evenings."
+      ]
+    },
+    {
+      "ru": "(о поведении сейчас) Почему ты сегодня такой грубый?",
+      "en": [
+        "Why are you being so rude today?"
+      ]
+    },
+    {
+      "ru": "(о поведении сейчас) Ты сегодня очень терпелив.",
+      "en": [
+        "You're being very patient today."
+      ]
+    },
+    {
+      "ru": "(по характеру) Анна очень добрый человек.",
+      "en": [
+        "Anna is a very kind person."
+      ]
+    }
+  ]
+}

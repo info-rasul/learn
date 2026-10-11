@@ -1,0 +1,94 @@
+{
+  "id": 28,
+  "section": "Модальные глаголы",
+  "title": "must and can't",
+  "subtitle": "Уверенные догадки: должно быть (must), не может быть (can't)",
+  "theory": [
+    { "type": "p", "text": "<b>must</b> здесь значит не «обязан», а «<b>должно быть, наверняка</b>» — мы делаем уверенный вывод: <b>You've run ten kilometres. You must be hungry.</b> <b>can't</b> — «<b>не может быть</b>», вывод, что это невозможно: <b>He's only twenty. He can't be a professor.</b>" },
+    { "type": "table", "head": ["", "Сейчас", "Пример"], "rows": [
+      ["Состояние", "must / can't + be", "<b>She must be at home.</b>"],
+      ["Процесс", "must / can't + be + -ing", "<b>They must be sleeping.</b>"],
+      ["Действие", "must / can't + глагол", "<b>He can't know the answer.</b>"]
+    ] },
+    { "type": "h", "text": "Догадки о прошлом" },
+    { "type": "p", "text": "Для прошлого: <b>must have + V3</b> и <b>can't have + V3</b> (или <b>couldn't have + V3</b>): <b>The street is wet. It must have rained.</b> <b>She can't have seen us.</b>" },
+    { "type": "list", "items": [
+      "<b>must have been</b>: <b>That must have been scary.</b>",
+      "<b>must have been -ing</b>: <b>Your hair is wet. You must have been swimming.</b>",
+      "<b>can't / couldn't have been -ing</b>: <b>He couldn't have been listening.</b>"
+    ] },
+    { "type": "tip", "text": "Противоположность «must be» — не «mustn't be» (это запрет), а <b>can't be</b>. И «должно быть, ушёл» — не «must went», а <b>must have gone</b>." }
+  ],
+  "words": [
+    {
+      "en": "must",
+      "ru": "должно быть (уверенный вывод)"
+    },
+    {
+      "en": "can't",
+      "ru": "не может быть, чтобы"
+    },
+    {
+      "en": "must have done",
+      "ru": "должно быть, сделал"
+    },
+    {
+      "en": "can't have done",
+      "ru": "не мог (сделать)"
+    },
+    {
+      "en": "sleepy",
+      "ru": "сонный"
+    },
+    {
+      "en": "thirsty",
+      "ru": "испытывающий жажду"
+    },
+    {
+      "en": "be proud of",
+      "ru": "гордиться"
+    },
+    {
+      "en": "remind",
+      "ru": "напоминать"
+    },
+    {
+      "en": "carefully",
+      "ru": "внимательно, осторожно"
+    },
+    {
+      "en": "somewhere",
+      "ru": "где-то"
+    },
+    {
+      "en": "son",
+      "ru": "сын"
+    }
+  ],
+  "items": [
+    { "ru": "(ты не спал всю ночь) Ты, должно быть, хочешь спать.", "en": ["You must be sleepy.", "You must be very sleepy.", "You must be tired."] },
+    { "ru": "(он выиграл в лотерею) Он, должно быть, очень счастлив.", "en": ["He must be very happy.", "He must be really happy."] },
+    { "ru": "(в ресторане всегда полно людей) Там, должно быть, вкусно кормят.", "en": ["The food there must be good.", "The food there must be very good.", "It must be a good restaurant.", "The food must be good there."] },
+    { "ru": "Это не может быть Анна: она в Японии.", "en": ["That can't be Anna because she's in Japan.", "It can't be Anna because she's in Japan.", "That can't be Anna, she's in Japan."] },
+    { "ru": "(ты только что выпил литр воды) Не может быть, что ты опять хочешь пить.", "en": ["You can't be thirsty again."] },
+    { "ru": "(он только что приехал в город) Он не может знать дорогу.", "en": ["He can't know the way."] },
+    { "ru": "(он бегает каждый день) Джек, должно быть, в отличной форме.", "en": ["Jack must be very fit.", "Jack must be in great shape.", "Jack must be in very good shape."] },
+    { "ru": "(в кабинете горит свет) Дэвид, должно быть, ещё работает.", "en": ["David must still be working.", "David must be still working."] },
+    { "ru": "(телефон выключен) Лиза, должно быть, спит.", "en": ["Lisa must be sleeping.", "Lisa must be asleep.", "Lisa must be sleeping now."] },
+    { "ru": "Эта цена не может быть правильной.", "en": ["This price can't be right.", "This price can't be correct.", "That price can't be right."] },
+    { "ru": "Вы, должно быть, Анна.", "en": ["You must be Anna."] },
+    { "ru": "Ты, должно быть, очень гордишься сыном.", "en": ["You must be very proud of your son.", "You must be really proud of your son."] },
+    { "ru": "(никто не открывает) Они, должно быть, уехали в отпуск.", "en": ["They must have gone on holiday.", "They must have gone away.", "They must have gone on vacation."] },
+    { "ru": "Я, должно быть, оставил телефон в машине.", "en": ["I must have left my phone in the car.", "I must have left the phone in the car."] },
+    { "ru": "(ты добрался очень быстро) Ты, должно быть, взял такси.", "en": ["You must have taken a taxi.", "You must have got a taxi."] },
+    { "ru": "Это, должно быть, было ужасно.", "en": ["That must have been terrible.", "It must have been terrible.", "That must have been awful.", "It must have been awful."] },
+    { "ru": "(он не ответил) Пол не мог прочитать моё письмо.", "en": ["Paul can't have read my email.", "Paul couldn't have read my email.", "Paul can't have read my letter.", "Paul couldn't have read my letter."] },
+    { "ru": "Она не могла забыть: я напомнил ей утром.", "en": ["She can't have forgotten because I reminded her this morning.", "She couldn't have forgotten because I reminded her this morning.", "She can't have forgotten, I reminded her this morning."] },
+    { "ru": "Они не могли уйти далеко.", "en": ["They can't have gone far.", "They couldn't have gone far."] },
+    { "ru": "(у неё мокрые волосы) Она, должно быть, плавала.", "en": ["She must have been swimming."] },
+    { "ru": "(ты ничего не понял) Не может быть, что ты слушал внимательно.", "en": ["You can't have been listening carefully.", "You couldn't have been listening carefully.", "You can't have been listening."] },
+    { "ru": "Я, должно быть, где-то уронил очки.", "en": ["I must have dropped my glasses somewhere."] },
+    { "ru": "Джон не мог этого сделать: его там не было.", "en": ["John can't have done it because he wasn't there.", "John couldn't have done it because he wasn't there.", "John can't have done it, he wasn't there."] },
+    { "ru": "Должно быть, было здорово жить в Италии.", "en": ["It must have been great to live in Italy.", "It must have been great living in Italy.", "It must have been wonderful to live in Italy."] }
+  ]
+}

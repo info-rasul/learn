@@ -1,0 +1,297 @@
+{
+  "id": 41,
+  "section": "If и wish",
+  "title": "wish",
+  "subtitle": "wish и hope, I wish I could, I wish you would…",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>wish somebody something</b> — пожелать кому-то чего-то: <b>I wish you luck.</b> <b>She wished me a nice holiday.</b> Но «желаю, чтобы что-то случилось» — это <b>hope</b>: <b>I hope you get well soon.</b> (не «I wish you get well»)."
+    },
+    {
+      "type": "h",
+      "text": "wish = «жаль, что…»"
+    },
+    {
+      "type": "table",
+      "head": [
+        "О чём жалеем",
+        "Форма",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "О настоящем",
+          "wish + прошедшее",
+          "<b>I wish I knew what to say.</b>"
+        ],
+        [
+          "О прошлом",
+          "wish + had + V3",
+          "<b>I wish I hadn't bought this phone.</b>"
+        ],
+        [
+          "Не могу сейчас",
+          "wish + could",
+          "<b>I wish you could stay for dinner.</b>"
+        ],
+        [
+          "Не смог тогда",
+          "wish + could have + V3",
+          "<b>I wish I could have come.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "I wish … would …"
+    },
+    {
+      "type": "p",
+      "text": "<b>I wish somebody would do something</b> — «хоть бы…, ну когда же…»: хотим, чтобы что-то произошло или изменилось. Часто это жалоба: <b>I wish the rain would stop.</b> <b>I wish you wouldn't leave your socks on the floor.</b> (раздражает, что ты так делаешь)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>I wish Emma would come.</b> — хочу, чтобы она пришла (действие).",
+        "<b>I wish Emma was here.</b> — хочу, чтобы она была здесь (состояние), не «would be».",
+        "<b>I wish I had a dog.</b> — не «I wish I would have a dog»."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «желаю, чтобы ты сдал экзамен» — это <b>I hope you pass the exam</b>, а не «I wish you pass». <b>wish</b> + человек + существительное (luck, success) или wish + прошедшее время."
+    }
+  ],
+  "words": [
+    {
+      "en": "wish",
+      "ru": "желать (удачи и т. п.)"
+    },
+    {
+      "en": "I wish ... would",
+      "ru": "хоть бы (кто-то сделал)"
+    },
+    {
+      "en": "hope",
+      "ru": "надеяться"
+    },
+    {
+      "en": "luck",
+      "ru": "удача"
+    },
+    {
+      "en": "all the best",
+      "ru": "всего наилучшего"
+    },
+    {
+      "en": "pleasant",
+      "ru": "приятный"
+    },
+    {
+      "en": "get well",
+      "ru": "выздороветь, поправиться"
+    },
+    {
+      "en": "stop",
+      "ru": "прекращать(ся), бросать"
+    },
+    {
+      "en": "someone",
+      "ru": "кто-то, кто-нибудь"
+    },
+    {
+      "en": "sock",
+      "ru": "носок"
+    },
+    {
+      "en": "floor",
+      "ru": "пол"
+    },
+    {
+      "en": "loud",
+      "ru": "громкий"
+    },
+    {
+      "en": "dog",
+      "ru": "собака"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Желаю тебе удачи.",
+      "en": [
+        "I wish you good luck.",
+        "I wish you luck."
+      ]
+    },
+    {
+      "ru": "Перед экзаменом Анна пожелала мне удачи.",
+      "en": [
+        "Anna wished me luck before the exam.",
+        "Before the exam Anna wished me luck.",
+        "Anna wished me good luck before the exam.",
+        "Before the exam Anna wished me good luck."
+      ]
+    },
+    {
+      "ru": "Желаю вам всего наилучшего.",
+      "en": [
+        "I wish you all the best."
+      ]
+    },
+    {
+      "ru": "Желаю вам приятного отдыха.",
+      "en": [
+        "I wish you a pleasant holiday.",
+        "I wish you a nice holiday.",
+        "I wish you a good holiday.",
+        "I wish you a nice vacation."
+      ]
+    },
+    {
+      "ru": "Надеюсь, ты скоро выздоровеешь.",
+      "en": [
+        "I hope you get well soon.",
+        "I hope you get better soon."
+      ]
+    },
+    {
+      "ru": "Надеюсь, вам понравится поездка.",
+      "en": [
+        "I hope you enjoy the trip.",
+        "I hope you enjoy your trip."
+      ]
+    },
+    {
+      "ru": "Надеюсь, завтра будет хорошая погода.",
+      "en": [
+        "I hope the weather is nice tomorrow.",
+        "I hope the weather will be nice tomorrow.",
+        "I hope the weather is good tomorrow.",
+        "I hope the weather will be good tomorrow."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не знаю, что сказать.",
+      "en": [
+        "I wish I knew what to say."
+      ]
+    },
+    {
+      "ru": "Жаль, что тебе нужно работать сегодня вечером.",
+      "en": [
+        "I wish you didn't have to work tonight.",
+        "I wish you didn't have to work this evening."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не еду с тобой.",
+      "en": [
+        "I wish I was going with you.",
+        "I wish I were going with you.",
+        "I wish I was coming with you.",
+        "I wish I were coming with you."
+      ]
+    },
+    {
+      "ru": "Жаль, что у меня нет собаки.",
+      "en": [
+        "I wish I had a dog."
+      ]
+    },
+    {
+      "ru": "Жаль, что Эммы сейчас здесь нет.",
+      "en": [
+        "I wish Emma was here now.",
+        "I wish Emma were here now."
+      ]
+    },
+    {
+      "ru": "Зря я купил этот телефон.",
+      "en": [
+        "I wish I hadn't bought this phone.",
+        "I wish I hadn't bought that phone."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не знал о концерте.",
+      "en": [
+        "I wish I'd known about the concert."
+      ]
+    },
+    {
+      "ru": "Жаль, что ты не можешь остаться на ужин.",
+      "en": [
+        "I wish you could stay for dinner."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не могу вспомнить, где оставил машину.",
+      "en": [
+        "I wish I could remember where I left the car.",
+        "I wish I could remember where I parked the car.",
+        "I wish I could remember where I parked."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не смог прийти на твой день рождения.",
+      "en": [
+        "I wish I could have come to your birthday party.",
+        "I wish I could have come to your birthday.",
+        "I wish I had been able to come to your birthday party."
+      ]
+    },
+    {
+      "ru": "Хоть бы этот дождь кончился.",
+      "en": [
+        "I wish the rain would stop.",
+        "I wish it would stop raining.",
+        "I wish this rain would stop."
+      ]
+    },
+    {
+      "ru": "Хоть бы кто-нибудь ответил на телефон.",
+      "en": [
+        "I wish someone would answer the phone.",
+        "I wish somebody would answer the phone."
+      ]
+    },
+    {
+      "ru": "Хоть бы Джек мне позвонил.",
+      "en": [
+        "I wish Jack would call me.",
+        "I wish Jack would phone me."
+      ]
+    },
+    {
+      "ru": "Хоть бы Эмма пришла на вечеринку.",
+      "en": [
+        "I wish Emma would come to the party."
+      ]
+    },
+    {
+      "ru": "Хоть бы он бросил курить.",
+      "en": [
+        "I wish he would stop smoking.",
+        "I wish he would give up smoking.",
+        "I wish he would quit smoking."
+      ]
+    },
+    {
+      "ru": "(раздражает) Хоть бы ты не бросал носки на пол.",
+      "en": [
+        "I wish you wouldn't leave your socks on the floor.",
+        "I wish you wouldn't throw your socks on the floor."
+      ]
+    },
+    {
+      "ru": "Хоть бы соседи не включали громкую музыку по ночам.",
+      "en": [
+        "I wish my neighbours wouldn't play loud music at night.",
+        "I wish my neighbors wouldn't play loud music at night.",
+        "I wish the neighbours wouldn't play loud music at night."
+      ]
+    }
+  ]
+}

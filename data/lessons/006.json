@@ -1,0 +1,282 @@
+{
+  "id": 6,
+  "section": "Настоящее и прошедшее время",
+  "title": "Past continuous (I was doing)",
+  "subtitle": "Процесс в прошлом и действие, которое его прервало",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Past continuous показывает, что в определённый момент прошлого действие было «в процессе»: началось раньше и ещё не закончилось. Форма: <b>was/were + -ing</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Утверждение",
+        "Отрицание",
+        "Вопрос"
+      ],
+      "rows": [
+        [
+          "I/he/she/it",
+          "was working",
+          "wasn't working",
+          "Was he working?"
+        ],
+        [
+          "we/you/they",
+          "were working",
+          "weren't working",
+          "Were they working?"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Процесс в конкретный момент: <b>At eight I was having dinner.</b> <b>This time last year we were living in Berlin.</b>",
+        "Фон + короткое событие (past simple), которое случилось посреди процесса: <b>Mike called while we were watching a film.</b>",
+        "Цепочка событий одно за другим — только past simple: <b>When Nick came, we had lunch</b> (сначала пришёл, потом обедали)."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "was doing — процесс",
+        "did — законченное действие"
+      ],
+      "rows": [
+        [
+          "<b>When Nick came, we were having lunch.</b> (уже обедали)",
+          "<b>When Nick came, we had lunch.</b> (пришёл — и тогда пообедали)"
+        ],
+        [
+          "<b>We were walking home when…</b> (в пути)",
+          "<b>We walked all the way home.</b> (дошли)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Глаголы состояния (<b>know, want, like, need</b> и др.) в continuous не ставим: <b>I didn't know her name</b>, а не <b>I wasn't knowing</b>."
+    },
+    {
+      "type": "tip",
+      "text": "В русском и «шёл», и «пошёл» — прошедшее время, но по-английски это разные формы. Несовершенный вид в роли фона («я шёл, когда…», «пока мы ужинали») — <b>was/were + -ing</b>; совершённое событие («увидел», «позвонил») — past simple."
+    }
+  ],
+  "words": [
+    { "en": "when", "ru": "когда" },
+    { "en": "at that time", "ru": "в то время, тогда" },
+    { "en": "this time last year", "ru": "в это же время в прошлом году" },
+    { "en": "wake up", "forms": "woke up, woken up", "ru": "просыпаться" },
+    { "en": "shine", "forms": "shone, shone", "ru": "светить" },
+    { "en": "happen", "ru": "случаться" },
+    { "en": "cut", "forms": "cut, cut", "ru": "резать, порезать" },
+    { "en": "finger", "ru": "палец" },
+    { "en": "play cards", "ru": "играть в карты" },
+    { "en": "meet", "forms": "met, met", "ru": "встречать; знакомиться" },
+    { "en": "drive", "forms": "drove, driven", "ru": "водить машину, ехать (на машине)" },
+    { "en": "sit", "forms": "sat, sat", "ru": "сидеть" },
+    { "en": "bench", "ru": "скамейка" },
+    { "en": "have lunch", "ru": "обедать" },
+    { "en": "break down", "forms": "broke down, broken down", "ru": "сломаться (о машине)" },
+    { "en": "go out", "forms": "went out, gone out", "ru": "гаснуть (о свете)" },
+    { "en": "dance", "ru": "танцевать" },
+    { "en": "drop", "ru": "ронять" },
+    { "en": "wash the dishes", "ru": "мыть посуду" },
+    { "en": "cold", "ru": "холодный; холодно" }
+  ],
+  "items": [
+    {
+      "ru": "В восемь вечера я ужинал.",
+      "en": [
+        "At eight in the evening I was having dinner.",
+        "I was having dinner at eight in the evening.",
+        "At 8 pm I was having dinner.",
+        "I was having dinner at 8 pm."
+      ]
+    },
+    {
+      "ru": "В это время в прошлом году мы жили в Берлине.",
+      "en": [
+        "This time last year we were living in Berlin.",
+        "We were living in Berlin this time last year."
+      ]
+    },
+    {
+      "ru": "Что ты делал вчера в шесть вечера?",
+      "en": [
+        "What were you doing at six yesterday evening?",
+        "What were you doing at 6 pm yesterday?",
+        "What were you doing at six o'clock yesterday evening?",
+        "What were you doing yesterday at six in the evening?",
+        "What were you doing at six in the evening yesterday?"
+      ]
+    },
+    {
+      "ru": "Я позвал Тома, но он не слушал.",
+      "en": [
+        "I called Tom, but he wasn't listening."
+      ]
+    },
+    {
+      "ru": "Когда я проснулся, светило солнце.",
+      "en": [
+        "When I woke up, the sun was shining.",
+        "The sun was shining when I woke up."
+      ]
+    },
+    {
+      "ru": "Мы шли домой, когда начался дождь.",
+      "en": [
+        "We were walking home when it started to rain.",
+        "We were walking home when it started raining.",
+        "We were walking home when it began to rain.",
+        "We were going home when it started to rain.",
+        "We were walking home when it began raining."
+      ]
+    },
+    {
+      "ru": "Майк позвонил, пока мы смотрели фильм.",
+      "en": [
+        "Mike called while we were watching a film.",
+        "Mike phoned while we were watching a film.",
+        "Mike called while we were watching a movie.",
+        "Mike rang while we were watching a film.",
+        "Mike phoned while we were watching a movie."
+      ]
+    },
+    {
+      "ru": "Анна порезала палец, когда готовила ужин.",
+      "en": [
+        "Anna cut her finger while she was cooking dinner.",
+        "Anna cut her finger when she was cooking dinner.",
+        "Anna cut her finger while she was making dinner.",
+        "Anna cut her finger when she was making dinner.",
+        "Anna cut her finger while cooking dinner."
+      ]
+    },
+    {
+      "ru": "Когда мы приехали, они играли в карты.",
+      "en": [
+        "When we arrived, they were playing cards.",
+        "They were playing cards when we arrived."
+      ]
+    },
+    {
+      "ru": "(до самого конца) Вчера мы прошли весь путь до дома пешком.",
+      "en": [
+        "Yesterday we walked all the way home.",
+        "We walked all the way home yesterday."
+      ]
+    },
+    {
+      "ru": "Пока я ждал автобус, я встретил старого друга.",
+      "en": [
+        "While I was waiting for the bus, I met an old friend.",
+        "I met an old friend while I was waiting for the bus.",
+        "I met an old friend while waiting for the bus.",
+        "While waiting for the bus, I met an old friend."
+      ]
+    },
+    {
+      "ru": "С какой скоростью ты ехал, когда это случилось?",
+      "en": [
+        "How fast were you driving when it happened?",
+        "How fast were you going when it happened?"
+      ]
+    },
+    {
+      "ru": "Ты спал, когда я позвонил?",
+      "en": [
+        "Were you sleeping when I called?",
+        "Were you asleep when I called?",
+        "Were you sleeping when I phoned?",
+        "Were you asleep when I phoned?"
+      ]
+    },
+    {
+      "ru": "Она не слушала, поэтому ничего не поняла.",
+      "en": [
+        "She wasn't listening, so she didn't understand anything.",
+        "She wasn't listening, so she understood nothing."
+      ]
+    },
+    {
+      "ru": "Шёл снег, и было очень холодно.",
+      "en": [
+        "It was snowing and it was very cold.",
+        "It was snowing and very cold."
+      ]
+    },
+    {
+      "ru": "Когда я тебя увидел, ты сидел на скамейке.",
+      "en": [
+        "When I saw you, you were sitting on a bench.",
+        "You were sitting on a bench when I saw you."
+      ]
+    },
+    {
+      "ru": "(сначала он пришёл, потом мы поели) Когда пришёл Ник, мы пообедали.",
+      "en": [
+        "When Nick came, we had lunch.",
+        "When Nick arrived, we had lunch."
+      ]
+    },
+    {
+      "ru": "(уже ели к его приходу) Когда пришёл Ник, мы обедали.",
+      "en": [
+        "When Nick came, we were having lunch.",
+        "When Nick arrived, we were having lunch."
+      ]
+    },
+    {
+      "ru": "Я ехал на работу, когда сломалась машина.",
+      "en": [
+        "I was driving to work when the car broke down.",
+        "I was driving to work when my car broke down."
+      ]
+    },
+    {
+      "ru": "Тогда я не знал её имени.",
+      "en": [
+        "At that time I didn't know her name.",
+        "I didn't know her name then.",
+        "I didn't know her name at that time.",
+        "I didn't know her name at the time.",
+        "At the time I didn't know her name."
+      ]
+    },
+    {
+      "ru": "Пол хотел уйти домой, но мы танцевали.",
+      "en": [
+        "Paul wanted to go home, but we were dancing."
+      ]
+    },
+    {
+      "ru": "Что вы делали, когда погас свет?",
+      "en": [
+        "What were you doing when the lights went out?",
+        "What were you doing when the light went out?"
+      ]
+    },
+    {
+      "ru": "Она работала в кафе, когда мы познакомились.",
+      "en": [
+        "She was working in a cafe when we met.",
+        "She was working at a cafe when we met."
+      ]
+    },
+    {
+      "ru": "Я уронил чашку, когда мыл посуду.",
+      "en": [
+        "I dropped a cup while I was washing the dishes.",
+        "I dropped a cup when I was washing the dishes.",
+        "I dropped a cup while I was washing up.",
+        "I dropped a cup while I was doing the washing up.",
+        "I dropped a cup while I was doing the dishes."
+      ]
+    }
+  ]
+}

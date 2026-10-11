@@ -1,0 +1,317 @@
+{
+  "id": 36,
+  "section": "Модальные глаголы",
+  "title": "would",
+  "subtitle": "Воображаемое (would / would have), отказ и привычки в прошлом",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>would</b> ('d) — это русское «бы» в воображаемых ситуациях: <b>It would be great to live by the sea.</b> <b>I'd love to go to Japan.</b> <b>I wouldn't tell him anything.</b> (я бы на твоём месте не говорил)."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Форма",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "Сейчас / вообще",
+          "would + глагол",
+          "<b>I'd buy this house, but I don't have the money.</b>"
+        ],
+        [
+          "Прошлое, которого не было",
+          "would have + V3",
+          "<b>I would have bought it, but I didn't have the money.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Сравните <b>will</b> и <b>would</b>: <b>I'll help you.</b> — помогу (реально). <b>I'd help you, but I'm busy.</b> — помог бы, но не могу."
+    },
+    {
+      "type": "h",
+      "text": "would как прошедшее от will"
+    },
+    {
+      "type": "list",
+      "items": [
+        "В пересказе: <b>I'll come at eight.</b> → <b>Mike said he would come at eight.</b>",
+        "Обещания: <b>She promised she wouldn't tell anyone.</b>",
+        "Отказ — <b>wouldn't</b>: <b>He wouldn't tell me.</b> (не хотел, отказался). О вещах: <b>The laptop wouldn't turn on.</b> (никак не включался)."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Повторявшиеся действия в прошлом"
+    },
+    {
+      "type": "p",
+      "text": "<b>would</b> может описывать то, что регулярно происходило раньше (как <b>used to</b>): <b>When we were children, we would visit our grandmother every summer.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русское «бы» относится и к настоящему, и к прошлому, поэтому легко сказать «I would buy it yesterday». Для прошлого нужно <b>would have + V3</b>: <b>I would have bought it.</b>"
+    }
+  ],
+  "words": [
+    {
+      "en": "would",
+      "ru": "бы"
+    },
+    {
+      "en": "wouldn't",
+      "ru": "не (стал) бы; не хотел, отказывался"
+    },
+    {
+      "en": "would have",
+      "ru": "(сделал) бы (в прошлом)"
+    },
+    {
+      "en": "would love to",
+      "ru": "с удовольствием бы"
+    },
+    {
+      "en": "position",
+      "ru": "положение (in my position — на моём месте)"
+    },
+    {
+      "en": "cheap",
+      "ru": "дешёвый"
+    },
+    {
+      "en": "anyway",
+      "ru": "всё равно"
+    },
+    {
+      "en": "turn on",
+      "ru": "включаться, включать"
+    },
+    {
+      "en": "whenever",
+      "ru": "всякий раз, когда"
+    },
+    {
+      "en": "visit",
+      "ru": "навещать, посещать"
+    },
+    {
+      "en": "grandfather",
+      "ru": "дедушка"
+    },
+    {
+      "en": "grandmother",
+      "ru": "бабушка"
+    },
+    {
+      "en": "dad",
+      "ru": "папа"
+    },
+    {
+      "en": "concert",
+      "ru": "концерт"
+    },
+    {
+      "en": "busy",
+      "ru": "занятой, занят"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Было бы здорово жить у моря.",
+      "en": [
+        "It would be great to live by the sea.",
+        "It would be great to live near the sea.",
+        "It would be wonderful to live by the sea."
+      ]
+    },
+    {
+      "ru": "Я бы с удовольствием поехал в Японию.",
+      "en": [
+        "I'd love to go to Japan.",
+        "I'd love to visit Japan."
+      ]
+    },
+    {
+      "ru": "Было бы приятно иметь сад.",
+      "en": [
+        "It would be nice to have a garden.",
+        "It would be pleasant to have a garden.",
+        "It would be lovely to have a garden."
+      ]
+    },
+    {
+      "ru": "Я бы не хотел жить в большом городе.",
+      "en": [
+        "I wouldn't like to live in a big city.",
+        "I wouldn't want to live in a big city."
+      ]
+    },
+    {
+      "ru": "Ты бы хотел жить за границей?",
+      "en": [
+        "Would you like to live abroad?"
+      ]
+    },
+    {
+      "ru": "(на твоём месте) Я бы ничего ему не говорил.",
+      "en": [
+        "I wouldn't tell him anything.",
+        "I wouldn't say anything to him."
+      ]
+    },
+    {
+      "ru": "Что бы ты сделал на моём месте?",
+      "en": [
+        "What would you do in my position?",
+        "What would you do in my place?",
+        "What would you do if you were me?",
+        "What would you do if you were in my position?",
+        "What would you do if you were in my place?"
+      ]
+    },
+    {
+      "ru": "Не знаю, что бы я делал без тебя.",
+      "en": [
+        "I don't know what I would do without you."
+      ]
+    },
+    {
+      "ru": "(в тот раз) Без твоей помощи мы бы пропали.",
+      "en": [
+        "We would have been lost without your help."
+      ]
+    },
+    {
+      "ru": "(жаль, ты не пошёл) Тебе бы понравился концерт.",
+      "en": [
+        "You would have loved the concert.",
+        "You would have liked the concert.",
+        "You would have enjoyed the concert."
+      ]
+    },
+    {
+      "ru": "(мы полетели самолётом) Было бы дешевле поехать поездом.",
+      "en": [
+        "It would have been cheaper to go by train.",
+        "It would have been cheaper to take the train."
+      ]
+    },
+    {
+      "ru": "Я бы купил этот дом, но у меня нет денег.",
+      "en": [
+        "I'd buy this house, but I don't have the money.",
+        "I'd buy this house, but I haven't got the money.",
+        "I'd buy this house, but I don't have enough money."
+      ]
+    },
+    {
+      "ru": "Я бы купил тот дом, но у меня не было денег.",
+      "en": [
+        "I would have bought that house, but I didn't have the money.",
+        "I would have bought that house, but I didn't have enough money."
+      ]
+    },
+    {
+      "ru": "Я не просил Дэна, он бы всё равно не помог.",
+      "en": [
+        "I didn't ask Dan, he wouldn't have helped anyway.",
+        "I didn't ask Dan because he wouldn't have helped anyway."
+      ]
+    },
+    {
+      "ru": "Я тебе помогу, я не занят.",
+      "en": [
+        "I'll help you, I'm not busy.",
+        "I'll help you because I'm not busy."
+      ]
+    },
+    {
+      "ru": "Я бы тебе помог, но я очень занят.",
+      "en": [
+        "I'd help you, but I'm very busy.",
+        "I'd help you, but I'm really busy."
+      ]
+    },
+    {
+      "ru": "Майк сказал, что приедет в восемь.",
+      "en": [
+        "Mike said he would come at eight.",
+        "Mike said that he would come at eight.",
+        "Mike said he would arrive at eight.",
+        "Mike said that he would arrive at eight.",
+        "Mike said he would come at 8."
+      ]
+    },
+    {
+      "ru": "Она пообещала, что никому не расскажет.",
+      "en": [
+        "She promised she wouldn't tell anyone.",
+        "She promised that she wouldn't tell anyone.",
+        "She promised she wouldn't tell anybody.",
+        "She promised that she wouldn't tell anybody."
+      ]
+    },
+    {
+      "ru": "(она отказалась) Я просил её остаться, но она не захотела.",
+      "en": [
+        "I asked her to stay, but she wouldn't.",
+        "I asked her to stay, but she wouldn't stay."
+      ]
+    },
+    {
+      "ru": "(отказывался) Он не хотел говорить мне, что случилось.",
+      "en": [
+        "He wouldn't tell me what had happened.",
+        "He wouldn't tell me what happened."
+      ]
+    },
+    {
+      "ru": "Сегодня утром мой ноутбук никак не включался.",
+      "en": [
+        "My laptop wouldn't turn on this morning.",
+        "This morning my laptop wouldn't turn on.",
+        "My laptop wouldn't switch on this morning.",
+        "My laptop wouldn't start this morning.",
+        "My laptop wouldn't work this morning."
+      ]
+    },
+    {
+      "ru": "(регулярно) В детстве мы каждое лето навещали бабушку.",
+      "en": [
+        "When we were children, we would visit our grandmother every summer.",
+        "When we were children, we used to visit our grandmother every summer.",
+        "When we were kids, we would visit our grandmother every summer.",
+        "As children, we would visit our grandmother every summer.",
+        "When we were kids, we used to visit our grandmother every summer.",
+        "When we were children, we visited our grandmother every summer."
+      ]
+    },
+    {
+      "ru": "Когда дедушка злился, он уходил в сад.",
+      "en": [
+        "Whenever my grandfather was angry, he would go into the garden.",
+        "When my grandfather was angry, he would go into the garden.",
+        "Whenever my grandfather was angry, he used to go into the garden.",
+        "When my grandfather was angry, he used to go into the garden.",
+        "When my grandfather was angry, he went into the garden.",
+        "Whenever my grandfather was angry, he went into the garden.",
+        "When my grandfather got angry, he would go into the garden."
+      ]
+    },
+    {
+      "ru": "(раньше, регулярно) По воскресеньям папа готовил нам завтрак.",
+      "en": [
+        "On Sundays my dad would make us breakfast.",
+        "On Sundays my dad would make breakfast for us.",
+        "On Sundays my dad used to make us breakfast.",
+        "On Sundays my father would make us breakfast.",
+        "On Sundays my dad made us breakfast.",
+        "My dad would make us breakfast on Sundays."
+      ]
+    }
+  ]
+}

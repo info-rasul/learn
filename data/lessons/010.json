@@ -1,0 +1,256 @@
+{
+  "id": 10,
+  "section": "Present perfect и прошедшее время",
+  "title": "Present perfect continuous and simple (I have been doing and I have done)",
+  "subtitle": "Процесс или результат; how long или how much / how many",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Оба времени связывают прошлое с настоящим, но смотрят на ситуацию по-разному. <b>have been doing</b> — нас интересует сам процесс (закончен он или нет — неважно). <b>have done</b> — нас интересует результат, действие завершено."
+    },
+    {
+      "type": "table",
+      "head": [
+        "have been doing — процесс",
+        "have done — результат"
+      ],
+      "rows": [
+        [
+          "<b>I've been painting the kitchen.</b> (на одежде краска)",
+          "<b>I've painted the kitchen.</b> (кухня теперь белая)"
+        ],
+        [
+          "<b>Ben has been eating too many sweets.</b>",
+          "<b>Somebody has eaten all the cake.</b>"
+        ],
+        [
+          "<b>Have you been playing football?</b>",
+          "<b>Have you ever worked on a farm?</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Сколько времени или сколько сделано"
+    },
+    {
+      "type": "list",
+      "items": [
+        "«Как долго» (действие ещё идёт) — continuous: <b>How long have you been writing this report?</b> <b>They've been playing chess since lunch.</b>",
+        "«Сколько, сколько раз» (законченные порции) — simple: <b>How many pages have you written?</b> <b>We've played chess four times this week.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Глаголы состояния"
+    },
+    {
+      "type": "p",
+      "text": "<b>know, have</b> (= иметь), <b>like, believe</b> и др. в continuous не ставим: <b>I've known Anna for ten years.</b> <b>How long have you had this phone?</b> Исключения: <b>want</b> и <b>mean</b> — <b>I've been meaning to call Lisa.</b> <b>I've been wanting to see this film.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Если в русской фразе есть число или количество («три письма», «десять клиентов», «сколько страниц»), это почти всегда present perfect simple, а не continuous: <b>I've written three letters</b>, а не <b>I've been writing three letters</b>."
+    }
+  ],
+  "words": [
+    { "en": "how many", "ru": "сколько (с исчисляемыми)" },
+    { "en": "how much", "ru": "сколько (с неисчисляемыми)" },
+    { "en": "mean to", "ru": "собираться (что-то сделать)" },
+    { "en": "fix", "ru": "чинить" },
+    { "en": "walk around", "ru": "гулять по, ходить по" },
+    { "en": "kitchen", "ru": "кухня" },
+    { "en": "hand", "ru": "рука (кисть)" },
+    { "en": "dirty", "ru": "грязный" },
+    { "en": "tap", "ru": "кран" },
+    { "en": "sweet", "ru": "конфета (sweets — сладкое)" },
+    { "en": "too many", "ru": "слишком много" },
+    { "en": "pen", "ru": "ручка" },
+    { "en": "report", "ru": "отчёт" },
+    { "en": "page", "ru": "страница" },
+    { "en": "client", "ru": "клиент" },
+    { "en": "kilometre", "ru": "километр" },
+    { "en": "farm", "ru": "ферма" },
+    { "en": "Japanese", "ru": "японский язык; японский" }
+  ],
+  "items": [
+    {
+      "ru": "(на одежде краска) Я красил кухню.",
+      "en": [
+        "I've been painting the kitchen."
+      ]
+    },
+    {
+      "ru": "(кухня теперь белая) Я покрасил кухню.",
+      "en": [
+        "I've painted the kitchen."
+      ]
+    },
+    {
+      "ru": "У меня грязные руки, потому что я чинил машину.",
+      "en": [
+        "My hands are dirty because I've been fixing the car.",
+        "My hands are dirty because I've been repairing the car.",
+        "My hands are dirty because I've been fixing my car."
+      ]
+    },
+    {
+      "ru": "(он больше не течёт) Я починил кран.",
+      "en": [
+        "I've fixed the tap.",
+        "I've repaired the tap."
+      ]
+    },
+    {
+      "ru": "Кто-то съел весь торт.",
+      "en": [
+        "Somebody has eaten all the cake.",
+        "Someone has eaten all the cake.",
+        "Someone has eaten the whole cake.",
+        "Somebody has eaten the whole cake."
+      ]
+    },
+    {
+      "ru": "В последнее время Бен ест слишком много сладкого.",
+      "en": [
+        "Ben has been eating too many sweets recently.",
+        "Ben has been eating too many sweets lately.",
+        "Ben has been eating too much sugar recently."
+      ]
+    },
+    {
+      "ru": "Что ты сделал с моей ручкой?",
+      "en": [
+        "What have you done with my pen?"
+      ]
+    },
+    {
+      "ru": "(ты весь в грязи) Ты играл в футбол?",
+      "en": [
+        "Have you been playing football?"
+      ]
+    },
+    {
+      "ru": "Как долго ты пишешь этот отчёт?",
+      "en": [
+        "How long have you been writing this report?"
+      ]
+    },
+    {
+      "ru": "Сколько страниц ты уже написал?",
+      "en": [
+        "How many pages have you written?",
+        "How many pages have you written so far?",
+        "How many pages have you already written?"
+      ]
+    },
+    {
+      "ru": "Эмма всё утро звонит клиентам.",
+      "en": [
+        "Emma has been calling clients all morning.",
+        "Emma has been phoning clients all morning.",
+        "Emma has been calling customers all morning."
+      ]
+    },
+    {
+      "ru": "Сегодня Эмма позвонила десяти клиентам.",
+      "en": [
+        "Emma has called ten clients today.",
+        "Emma has phoned ten clients today.",
+        "Emma has called ten customers today.",
+        "Today Emma has called ten clients.",
+        "Emma has called 10 clients today."
+      ]
+    },
+    {
+      "ru": "Они играют в шахматы с обеда.",
+      "en": [
+        "They've been playing chess since lunch.",
+        "They've been playing chess since lunchtime."
+      ]
+    },
+    {
+      "ru": "На этой неделе мы играли в шахматы четыре раза.",
+      "en": [
+        "We've played chess four times this week.",
+        "This week we've played chess four times.",
+        "We've played chess 4 times this week."
+      ]
+    },
+    {
+      "ru": "Я учу японский, но выучил пока немного.",
+      "en": [
+        "I'm learning Japanese, but I haven't learnt much yet.",
+        "I'm learning Japanese, but I haven't learned much yet.",
+        "I'm studying Japanese, but I haven't learnt much yet.",
+        "I'm studying Japanese, but I haven't learned much yet."
+      ]
+    },
+    {
+      "ru": "Сколько кофе ты сегодня выпил?",
+      "en": [
+        "How much coffee have you drunk today?",
+        "How much coffee have you had today?"
+      ]
+    },
+    {
+      "ru": "Сколько раз ты была в Лондоне?",
+      "en": [
+        "How many times have you been to London?"
+      ]
+    },
+    {
+      "ru": "Я знаю Анну десять лет.",
+      "en": [
+        "I've known Anna for ten years.",
+        "I've known Anna for 10 years."
+      ]
+    },
+    {
+      "ru": "Как долго у тебя этот телефон?",
+      "en": [
+        "How long have you had this phone?"
+      ]
+    },
+    {
+      "ru": "Я давно собираюсь позвонить Лизе.",
+      "en": [
+        "I've been meaning to call Lisa for a long time.",
+        "I've been meaning to phone Lisa for a long time.",
+        "I've been meaning to call Lisa for ages.",
+        "I've been meaning to phone Lisa for ages."
+      ]
+    },
+    {
+      "ru": "Я давно хочу посмотреть этот фильм.",
+      "en": [
+        "I've been wanting to see this film for a long time.",
+        "I've been wanting to see this movie for a long time.",
+        "I've been wanting to watch this film for a long time.",
+        "I've wanted to see this film for a long time."
+      ]
+    },
+    {
+      "ru": "Мы гуляем по городу весь день.",
+      "en": [
+        "We've been walking around the city all day.",
+        "We've been walking around the town all day.",
+        "We've been walking round the city all day.",
+        "We've been walking round the town all day."
+      ]
+    },
+    {
+      "ru": "Сколько километров вы прошли?",
+      "en": [
+        "How many kilometres have you walked?",
+        "How many kilometers have you walked?"
+      ]
+    },
+    {
+      "ru": "Ты когда-нибудь работал на ферме?",
+      "en": [
+        "Have you ever worked on a farm?"
+      ]
+    }
+  ]
+}

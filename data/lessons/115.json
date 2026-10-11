@@ -1,0 +1,338 @@
+{
+  "id": 115,
+  "section": "Союзы и предлоги",
+  "title": "unless / as long as / provided",
+  "subtitle": "«Если не», «при условии, что»: unless, as long as, provided",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>unless</b> = «если не», «кроме случая, когда». <b>I won't go unless you come with me.</b> = I won't go if you don't come with me. После unless глагол стоит в утвердительной форме — отрицание уже внутри слова."
+    },
+    {
+      "type": "p",
+      "text": "<b>as long as</b>, <b>so long as</b>, <b>provided (that)</b>, <b>providing (that)</b> = «при условии, что», «только если». <b>You can use my bike as long as you bring it back tonight.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Союз",
+        "Значение",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "unless",
+          "если не",
+          "Don't call unless it's important."
+        ],
+        [
+          "as long as / so long as",
+          "при условии, что",
+          "I'll come as long as I finish work early."
+        ],
+        [
+          "provided / providing (that)",
+          "при условии, что (чуть официальнее)",
+          "You can stay provided you pay for your food."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Как и после if, о будущем после этих союзов говорим в Present Simple: <b>unless you hurry</b>, <b>provided it doesn't rain</b> — без will."
+    },
+    {
+      "type": "tip",
+      "text": "Русское «если не» не нужно переводить как <b>unless not</b>: правильно <b>unless you study</b> (= if you don't study). И не пишите will после unless / as long as: <b>as long as you are careful</b>, а не as long as you will be careful."
+    }
+  ],
+  "words": [
+    {
+      "en": "unless",
+      "ru": "если не, если только не"
+    },
+    {
+      "en": "as long as",
+      "ru": "при условии что, пока"
+    },
+    {
+      "en": "provided",
+      "ru": "при условии что"
+    },
+    {
+      "en": "urgent",
+      "ru": "срочный"
+    },
+    {
+      "en": "hurry",
+      "ru": "торопиться, спешить"
+    },
+    {
+      "en": "lose weight",
+      "forms": "lost, lost",
+      "ru": "похудеть"
+    },
+    {
+      "en": "exercise",
+      "ru": "заниматься спортом"
+    },
+    {
+      "en": "lend",
+      "forms": "lent, lent",
+      "ru": "давать взаймы"
+    },
+    {
+      "en": "pay back",
+      "forms": "paid, paid",
+      "ru": "вернуть (деньги)"
+    },
+    {
+      "en": "allowed",
+      "ru": "разрешённый (be allowed — допускаться)"
+    },
+    {
+      "en": "lead",
+      "ru": "поводок"
+    },
+    {
+      "en": "washing-up",
+      "ru": "мытьё посуды"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я не пойду, если ты не пойдёшь со мной.",
+      "en": [
+        "I won't go unless you come with me.",
+        "I won't go if you don't come with me.",
+        "I won't go unless you go with me.",
+        "I won't go if you don't go with me."
+      ]
+    },
+    {
+      "ru": "Мы опоздаем, если не поторопимся.",
+      "en": [
+        "We'll be late unless we hurry.",
+        "We'll be late if we don't hurry.",
+        "Unless we hurry, we'll be late.",
+        "If we don't hurry, we'll be late."
+      ]
+    },
+    {
+      "ru": "Не звони мне, если это не срочно.",
+      "en": [
+        "Don't call me unless it's urgent.",
+        "Don't phone me unless it's urgent.",
+        "Don't call me if it isn't urgent."
+      ]
+    },
+    {
+      "ru": "Если ты не будешь учиться, ты не сдашь экзамен.",
+      "en": [
+        "Unless you study, you won't pass the exam.",
+        "You won't pass the exam unless you study.",
+        "If you don't study, you won't pass the exam.",
+        "You won't pass the exam if you don't study."
+      ]
+    },
+    {
+      "ru": "Я не смогу помочь тебе, если ты не скажешь мне правду.",
+      "en": [
+        "I can't help you unless you tell me the truth.",
+        "I won't be able to help you unless you tell me the truth.",
+        "I can't help you if you don't tell me the truth."
+      ]
+    },
+    {
+      "ru": "Анна не придёт, если её не пригласят.",
+      "en": [
+        "Anna won't come unless she is invited.",
+        "Anna won't come if she isn't invited.",
+        "Anna won't come unless they invite her.",
+        "Anna won't come if they don't invite her.",
+        "Anna won't come unless she gets invited."
+      ]
+    },
+    {
+      "ru": "Я обычно хожу пешком, если только не идёт дождь.",
+      "en": [
+        "I usually walk unless it's raining.",
+        "I usually walk unless it rains.",
+        "I usually go on foot unless it's raining."
+      ]
+    },
+    {
+      "ru": "Если ты не поспешишь, автобус уйдёт без тебя.",
+      "en": [
+        "Unless you hurry, the bus will leave without you.",
+        "The bus will leave without you unless you hurry.",
+        "If you don't hurry, the bus will leave without you."
+      ]
+    },
+    {
+      "ru": "Ты не похудеешь, если не будешь заниматься спортом.",
+      "en": [
+        "You won't lose weight unless you exercise.",
+        "You won't lose weight if you don't exercise.",
+        "You won't lose weight unless you do sport.",
+        "You won't lose weight unless you do sports.",
+        "You won't lose weight if you don't do sport."
+      ]
+    },
+    {
+      "ru": "Они не продадут дом, если им не предложат хорошую цену.",
+      "en": [
+        "They won't sell the house unless they get a good price.",
+        "They won't sell the house if they don't get a good price.",
+        "They won't sell the house unless they are offered a good price."
+      ]
+    },
+    {
+      "ru": "Вам не нужна виза, если вы не остаётесь дольше месяца.",
+      "en": [
+        "You don't need a visa unless you stay longer than a month.",
+        "You don't need a visa unless you stay for more than a month.",
+        "You don't need a visa unless you stay more than a month."
+      ]
+    },
+    {
+      "ru": "Не открывай дверь, если не знаешь, кто там.",
+      "en": [
+        "Don't open the door unless you know who it is.",
+        "Don't open the door unless you know who's there.",
+        "Don't open the door if you don't know who it is.",
+        "Don't open the door if you don't know who's there."
+      ]
+    },
+    {
+      "ru": "Я не позвоню, если ты сам не попросишь.",
+      "en": [
+        "I won't call unless you ask me.",
+        "I won't call unless you ask.",
+        "I won't phone unless you ask me.",
+        "I won't call unless you ask me to.",
+        "I won't call you unless you ask me."
+      ]
+    },
+    {
+      "ru": "Можешь взять мою машину при условии, что будешь ехать осторожно.",
+      "en": [
+        "You can borrow my car as long as you drive carefully.",
+        "You can borrow my car provided you drive carefully.",
+        "You can borrow my car providing you drive carefully.",
+        "You can borrow my car so long as you drive carefully.",
+        "You can take my car as long as you drive carefully.",
+        "You can borrow my car as long as you drive safely."
+      ]
+    },
+    {
+      "ru": "Можешь остаться при условии, что будешь вести себя тихо.",
+      "en": [
+        "You can stay as long as you're quiet.",
+        "You can stay provided you're quiet.",
+        "You can stay providing you're quiet.",
+        "You can stay so long as you're quiet.",
+        "You can stay as long as you keep quiet.",
+        "You can stay provided you keep quiet."
+      ]
+    },
+    {
+      "ru": "Я приготовлю ужин при условии, что ты помоешь посуду.",
+      "en": [
+        "I'll cook dinner provided you do the washing-up.",
+        "I'll cook dinner providing you do the washing-up.",
+        "I'll cook dinner as long as you do the washing-up.",
+        "I'll cook dinner provided you wash the dishes.",
+        "I'll cook dinner as long as you wash the dishes."
+      ]
+    },
+    {
+      "ru": "Мы устроим пикник, если только будет хорошая погода.",
+      "en": [
+        "We'll have a picnic as long as the weather is good.",
+        "We'll have a picnic provided the weather is good.",
+        "We'll have a picnic providing the weather is good.",
+        "We'll have a picnic so long as the weather is good.",
+        "We'll have a picnic only if the weather is good."
+      ]
+    },
+    {
+      "ru": "Собаки допускаются при условии, что они на поводке.",
+      "en": [
+        "Dogs are allowed provided they are on a lead.",
+        "Dogs are allowed providing they are on a lead.",
+        "Dogs are allowed as long as they are on a lead.",
+        "Dogs are allowed provided that they are on a lead.",
+        "Dogs are allowed provided they are on a leash."
+      ]
+    },
+    {
+      "ru": "Я одолжу тебе денег при условии, что ты вернёшь их в пятницу.",
+      "en": [
+        "I'll lend you some money provided you pay it back on Friday.",
+        "I'll lend you some money providing you pay it back on Friday.",
+        "I'll lend you some money as long as you pay it back on Friday.",
+        "I'll lend you some money provided you give it back on Friday.",
+        "I'll lend you money provided you pay it back on Friday.",
+        "I'll lend you money as long as you pay it back on Friday.",
+        "I'll lend you some money as long as you give it back on Friday."
+      ]
+    },
+    {
+      "ru": "Можно мне пойти при условии, что я вернусь до десяти?",
+      "en": [
+        "Can I go as long as I'm back before ten?",
+        "Can I go provided I'm back before ten?",
+        "Can I go as long as I'm back by ten?",
+        "Can I go providing I'm back before ten?",
+        "Can I go provided I'm back by ten?",
+        "May I go as long as I'm back before ten?",
+        "Could I go as long as I'm back before ten?"
+      ]
+    },
+    {
+      "ru": "Я поеду, но только если мы поедем на поезде.",
+      "en": [
+        "I'll go as long as we go by train.",
+        "I'll go provided we go by train.",
+        "I'll go providing we go by train.",
+        "I'll go so long as we go by train.",
+        "I'll go only if we go by train.",
+        "I'll only go if we go by train."
+      ]
+    },
+    {
+      "ru": "Всё будет хорошо, пока мы держимся вместе.",
+      "en": [
+        "Everything will be fine as long as we stay together.",
+        "Everything will be fine provided we stay together.",
+        "Everything will be fine so long as we stay together.",
+        "Everything will be OK as long as we stay together.",
+        "Everything will be all right as long as we stay together.",
+        "Everything will be fine as long as we stick together.",
+        "Everything will be OK as long as we stick together."
+      ]
+    },
+    {
+      "ru": "Он поможет нам при условии, что мы ему заплатим.",
+      "en": [
+        "He'll help us provided we pay him.",
+        "He'll help us providing we pay him.",
+        "He'll help us as long as we pay him.",
+        "He'll help us provided that we pay him.",
+        "He'll help us so long as we pay him."
+      ]
+    },
+    {
+      "ru": "Можно взять твой ноутбук при условии, что я буду с ним аккуратен?",
+      "en": [
+        "Can I borrow your laptop as long as I'm careful with it?",
+        "Can I borrow your laptop provided I'm careful with it?",
+        "Can I borrow your laptop if I'm careful with it?",
+        "Can I take your laptop as long as I'm careful with it?",
+        "Can I borrow your laptop providing I'm careful with it?",
+        "Could I borrow your laptop as long as I'm careful with it?"
+      ]
+    }
+  ]
+}

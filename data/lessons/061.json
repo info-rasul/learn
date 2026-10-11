@@ -1,0 +1,283 @@
+{
+  "id": 61,
+  "section": "-ing и to",
+  "title": "be/get used to ... (I'm used to ...)",
+  "subtitle": "Быть привычным и привыкать: be used to, get used to + -ing",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>be used to something</b> — привыкнуть (для меня это уже не ново и не странно): <b>I'm used to the cold.</b> <b>get used to something</b> — привыкать, постепенно становиться привычным: <b>You'll get used to the new office.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "be used to",
+        "get used to"
+      ],
+      "rows": [
+        [
+          "+ существительное",
+          "I'm used to spicy food.",
+          "I got used to the noise."
+        ],
+        [
+          "+ -ing",
+          "I'm used to working late.",
+          "I got used to working late."
+        ],
+        [
+          "+ кто-то -ing",
+          "I'm used to him being late.",
+          "I got used to him being late."
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Здесь to — предлог"
+    },
+    {
+      "type": "p",
+      "text": "В <b>be/get used to</b> слово <b>to</b> — предлог, поэтому после него идёт <b>-ing</b>, а не инфинитив: <b>She's used to living alone.</b> (не <b>used to live</b>)."
+    },
+    {
+      "type": "h",
+      "text": "be used to doing ≠ used to do"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>I'm used to cycling</b> — мне привычно ездить на велосипеде (сейчас).",
+        "<b>I used to cycle</b> — раньше я ездил на велосипеде (а теперь нет). Только о прошлом."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «я привык вставать рано» — это <b>I'm used to getting up early</b>, а не <b>I used to get up early</b> (это «раньше я вставал рано»). Следите за <b>am/is/are</b> перед used и за <b>-ing</b> после to."
+    }
+  ],
+  "words": [
+    {
+      "en": "be used to",
+      "ru": "быть привыкшим к, привыкнуть (состояние)"
+    },
+    {
+      "en": "get used to",
+      "ru": "привыкать к (процесс)"
+    },
+    {
+      "en": "used to",
+      "ru": "раньше (делал), бывало"
+    },
+    {
+      "en": "alone",
+      "ru": "один, в одиночестве"
+    },
+    {
+      "en": "cold",
+      "ru": "холод"
+    },
+    {
+      "en": "husband",
+      "ru": "муж"
+    },
+    {
+      "en": "be away",
+      "ru": "быть в отъезде"
+    },
+    {
+      "en": "small",
+      "ru": "маленький"
+    },
+    {
+      "en": "get up",
+      "forms": "got up, got up",
+      "ru": "вставать"
+    },
+    {
+      "en": "be late",
+      "ru": "опаздывать"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я привык вставать рано.",
+      "en": [
+        "I'm used to getting up early.",
+        "I've got used to getting up early."
+      ]
+    },
+    {
+      "ru": "Она не привыкла работать по ночам.",
+      "en": [
+        "She isn't used to working at night.",
+        "She isn't used to working nights."
+      ]
+    },
+    {
+      "ru": "Ты привык к холоду?",
+      "en": [
+        "Are you used to the cold?",
+        "Are you used to the cold weather?"
+      ]
+    },
+    {
+      "ru": "Мы привыкли к шуму.",
+      "en": [
+        "We're used to the noise.",
+        "We've got used to the noise."
+      ]
+    },
+    {
+      "ru": "Он живёт один и привык к этому.",
+      "en": [
+        "He lives alone and he's used to it.",
+        "He lives alone and is used to it.",
+        "He lives on his own and he's used to it.",
+        "He lives on his own and is used to it."
+      ]
+    },
+    {
+      "ru": "Я ещё не привык к своим новым очкам.",
+      "en": [
+        "I'm not used to my new glasses yet.",
+        "I haven't got used to my new glasses yet."
+      ]
+    },
+    {
+      "ru": "Анна не привыкла к такой жаркой погоде.",
+      "en": [
+        "Anna isn't used to such hot weather.",
+        "Anna isn't used to this hot weather."
+      ]
+    },
+    {
+      "ru": "Я не привык так поздно ложиться спать.",
+      "en": [
+        "I'm not used to going to bed so late.",
+        "I'm not used to going to bed this late."
+      ]
+    },
+    {
+      "ru": "Ты скоро к этому привыкнешь.",
+      "en": [
+        "You'll soon get used to it.",
+        "You'll get used to it soon."
+      ]
+    },
+    {
+      "ru": "Мне пришлось привыкнуть жить в маленькой квартире.",
+      "en": [
+        "I had to get used to living in a small flat.",
+        "I had to get used to living in a small apartment."
+      ]
+    },
+    {
+      "ru": "Через месяц она привыкла к новой работе.",
+      "en": [
+        "After a month she got used to her new job.",
+        "After a month she got used to the new job.",
+        "She got used to her new job after a month.",
+        "She got used to the new job after a month."
+      ]
+    },
+    {
+      "ru": "Я никак не могу привыкнуть к этой еде.",
+      "en": [
+        "I can't get used to this food.",
+        "I just can't get used to this food.",
+        "I still can't get used to this food."
+      ]
+    },
+    {
+      "ru": "Дети быстро привыкли к новому учителю.",
+      "en": [
+        "The children quickly got used to their new teacher.",
+        "The children quickly got used to the new teacher.",
+        "The children got used to their new teacher quickly.",
+        "The children got used to the new teacher quickly."
+      ]
+    },
+    {
+      "ru": "Трудно привыкнуть к новому городу?",
+      "en": [
+        "Is it hard to get used to a new city?",
+        "Is it difficult to get used to a new city?"
+      ]
+    },
+    {
+      "ru": "Он так и не привык вставать в шесть.",
+      "en": [
+        "He never got used to getting up at six.",
+        "He never got used to getting up at 6."
+      ]
+    },
+    {
+      "ru": "Им придётся привыкнуть ездить на автобусе.",
+      "en": [
+        "They'll have to get used to going by bus.",
+        "They'll have to get used to taking the bus.",
+        "They'll have to get used to travelling by bus."
+      ]
+    },
+    {
+      "ru": "Она привыкла, что её муж часто в отъезде.",
+      "en": [
+        "She's used to her husband often being away.",
+        "She's used to her husband being away a lot.",
+        "She's used to her husband being away often."
+      ]
+    },
+    {
+      "ru": "Я привык к тому, что люди опаздывают.",
+      "en": [
+        "I'm used to people being late.",
+        "I've got used to people being late."
+      ]
+    },
+    {
+      "ru": "(но больше не езжу) Раньше я ездил на работу на машине.",
+      "en": [
+        "I used to go to work by car.",
+        "I used to drive to work."
+      ]
+    },
+    {
+      "ru": "(а теперь нет) Раньше мы жили в Париже.",
+      "en": [
+        "We used to live in Paris."
+      ]
+    },
+    {
+      "ru": "Теперь я привык жить в Лондоне.",
+      "en": [
+        "Now I'm used to living in London.",
+        "I'm used to living in London now.",
+        "Now I've got used to living in London.",
+        "I've got used to living in London now."
+      ]
+    },
+    {
+      "ru": "Раньше она пила кофе, а теперь пьёт чай.",
+      "en": [
+        "She used to drink coffee, but now she drinks tea.",
+        "She used to drink coffee, but she drinks tea now.",
+        "She used to drink coffee and now she drinks tea."
+      ]
+    },
+    {
+      "ru": "Он не привык, чтобы ему указывали, что делать.",
+      "en": [
+        "He isn't used to being told what to do.",
+        "He isn't used to people telling him what to do."
+      ]
+    },
+    {
+      "ru": "Ты привыкнешь говорить по-английски каждый день.",
+      "en": [
+        "You'll get used to speaking English every day."
+      ]
+    }
+  ]
+}

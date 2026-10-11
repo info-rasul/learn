@@ -1,0 +1,70 @@
+{
+  "id": 98,
+  "section": "Прилагательные и наречия",
+  "title": "Adjectives ending in -ing and -ed (boring/bored etc.)",
+  "subtitle": "boring или bored: что вызывает чувство и кто его испытывает",
+  "theory": [
+    { "type": "p", "text": "Многие прилагательные существуют в двух формах: <b>boring / bored</b>, <b>interesting / interested</b>, <b>tiring / tired</b>. Форма на <b>-ed</b> описывает, что <b>человек чувствует</b>: <b>I'm bored.</b> — мне скучно. Форма на <b>-ing</b> описывает, <b>какой предмет или человек</b> и какое чувство он вызывает: <b>The film is boring.</b> — фильм скучный." },
+    { "type": "table", "head": ["-ing (вызывает)", "-ed (чувствует)"], "rows": [
+      ["<b>an interesting book</b>", "<b>I'm interested in history.</b>"],
+      ["<b>a tiring day</b>", "<b>I'm tired.</b>"],
+      ["<b>exciting news</b>", "<b>The kids are excited.</b>"],
+      ["<b>a surprising result</b>", "<b>I was surprised.</b>"],
+      ["<b>a disappointing match</b>", "<b>We were disappointed.</b>"]
+    ] },
+    { "type": "list", "items": [
+      "Другие пары: <b>embarrassing / embarrassed</b> (неловкий / смущённый), <b>confusing / confused</b> (запутанный / растерянный), <b>annoying / annoyed</b> (раздражающий / раздражённый).",
+      "Ещё: <b>worrying / worried</b> (тревожный / обеспокоенный), <b>exhausting / exhausted</b>, <b>frightening / frightened</b>, <b>amazing / amazed</b>."
+    ] },
+    { "type": "p", "text": "О человеке можно сказать и так, и так, но смысл разный: <b>Ben is bored</b> — Бену скучно; <b>Ben is boring</b> — Бен зануда, с ним скучно другим." },
+    { "type": "tip", "text": "Русское «мне скучно» часто превращается в <b>I'm boring</b> — а это значит «я скучный человек». Правильно: <b>I'm bored</b>. Так же: «мне интересно» — <b>I'm interested</b>, «я в восторге» — <b>I'm excited</b>." }
+  ],
+  "words": [
+    { "en": "bored", "ru": "скучающий (мне скучно)" },
+    { "en": "boring", "ru": "скучный" },
+    { "en": "interested in", "ru": "интересующийся (чем-то)" },
+    { "en": "interesting", "ru": "интересный" },
+    { "en": "tiring", "ru": "утомительный" },
+    { "en": "excited", "ru": "взволнованный, в предвкушении" },
+    { "en": "exciting", "ru": "захватывающий" },
+    { "en": "surprising", "ru": "удивительный, неожиданный" },
+    { "en": "disappointed", "ru": "разочарованный" },
+    { "en": "disappointing", "ru": "разочаровывающий" },
+    { "en": "embarrassed", "ru": "смущённый" },
+    { "en": "embarrassing", "ru": "неловкий, постыдный" },
+    { "en": "confused", "ru": "сбитый с толку" },
+    { "en": "confusing", "ru": "запутанный, непонятный" },
+    { "en": "annoyed", "ru": "раздражённый" },
+    { "en": "annoying", "ru": "раздражающий" },
+    { "en": "worrying", "ru": "тревожный" },
+    { "en": "exhausted", "ru": "измученный, без сил" },
+    { "en": "frightened", "ru": "испуганный" },
+    { "en": "lecture", "ru": "лекция" }
+  ],
+  "items": [
+    { "ru": "Этот фильм скучный.", "en": ["This film is boring.", "This movie is boring."] },
+    { "ru": "Мне скучно, давай куда-нибудь сходим.", "en": ["I'm bored, let's go out somewhere.", "I'm bored, let's go somewhere.", "I'm bored, let's go out."] },
+    { "ru": "Мне интересна история.", "en": ["I'm interested in history."] },
+    { "ru": "Его лекция была очень интересной.", "en": ["His lecture was very interesting.", "His lecture was really interesting.", "His talk was very interesting.", "His talk was really interesting."] },
+    { "ru": "Я устал после долгой поездки.", "en": ["I'm tired after the long trip.", "I'm tired after the long journey.", "I was tired after the long trip.", "I'm tired after a long trip.", "I was tired after a long trip.", "I was tired after the long journey.", "I'm tired after a long journey."] },
+    { "ru": "Это была утомительная неделя.", "en": ["It was a tiring week.", "It's been a tiring week.", "That was a tiring week."] },
+    { "ru": "Дети в восторге от поездки в Париж.", "en": ["The children are excited about the trip to Paris.", "The kids are excited about the trip to Paris.", "The children are excited about going to Paris.", "The kids are excited about going to Paris.", "The children are excited about their trip to Paris."] },
+    { "ru": "Матч был очень захватывающим.", "en": ["The match was very exciting.", "The game was very exciting.", "The match was really exciting.", "The game was really exciting."] },
+    { "ru": "Я был удивлён его ответом.", "en": ["I was surprised by his answer.", "I was surprised at his answer.", "I was surprised by his reply.", "I was surprised at his reply.", "I was surprised by his response."] },
+    { "ru": "Результаты были удивительными.", "en": ["The results were surprising.", "The results were amazing."] },
+    { "ru": "Мы разочарованы погодой.", "en": ["We're disappointed with the weather.", "We're disappointed by the weather.", "We were disappointed with the weather.", "We were disappointed by the weather."] },
+    { "ru": "Концерт был разочаровывающим.", "en": ["The concert was disappointing."] },
+    { "ru": "Мне было так неловко!", "en": ["I was so embarrassed!", "I felt so embarrassed!"] },
+    { "ru": "Это была неловкая ситуация.", "en": ["It was an embarrassing situation.", "That was an embarrassing situation."] },
+    { "ru": "Я запутался, можешь объяснить ещё раз?", "en": ["I'm confused, can you explain it again?", "I'm confused, could you explain it again?", "I'm confused, can you explain again?", "I'm confused, could you explain again?", "I'm confused, can you explain that again?", "I'm confused, could you explain that again?"] },
+    { "ru": "Эти правила очень запутанные.", "en": ["These rules are very confusing.", "These rules are really confusing."] },
+    { "ru": "Почему ты такой раздражённый?", "en": ["Why are you so annoyed?", "Why are you so irritated?"] },
+    { "ru": "Его привычки очень раздражают.", "en": ["His habits are very annoying.", "His habits are really annoying."] },
+    { "ru": "Она беспокоится о своём сыне.", "en": ["She's worried about her son."] },
+    { "ru": "Новости из дома тревожные.", "en": ["The news from home is worrying."] },
+    { "ru": "Я совершенно вымотан.", "en": ["I'm completely exhausted.", "I'm totally exhausted.", "I'm absolutely exhausted."] },
+    { "ru": "Ребёнок испугался громкого шума.", "en": ["The child was frightened by the loud noise.", "The child was scared by the loud noise.", "The baby was frightened by the loud noise.", "The child was frightened of the loud noise.", "The child was scared of the loud noise.", "The kid was scared by the loud noise."] },
+    { "ru": "(он зануда) Бен скучный, он говорит только о работе.", "en": ["Ben is boring, he only talks about work.", "Ben is boring, he talks only about work.", "Ben is a boring person, he only talks about work."] },
+    { "ru": "(ему скучно) Бену скучно, ему нечего делать.", "en": ["Ben is bored, he has nothing to do.", "Ben is bored, he doesn't have anything to do.", "Ben is bored, he's got nothing to do."] }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": 139,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 3 out",
+  "subtitle": "go out, work out, carry out, find out, run out, turn out…",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>Out</b> = погасить, перестать гореть: <b>go out</b> (погаснуть), <b>put out</b> (потушить огонь, сигарету), <b>turn out a light</b> (выключить свет), <b>blow out a candle</b> (задуть свечу)."
+    },
+    {
+      "type": "h",
+      "text": "Work out — много значений"
+    },
+    {
+      "type": "list",
+      "items": [
+        "заниматься спортом: <b>He works out every morning.</b>",
+        "сложиться, получиться: <b>I hope it works out.</b> / <b>It didn't work out.</b>",
+        "в подсчётах: <b>It works out at ten pounds each.</b>",
+        "посчитать, понять, разобраться (= <b>figure out</b>): <b>I can't work out the answer.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Другие глаголы с out"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Глагол",
+        "Значение"
+      ],
+      "rows": [
+        [
+          "<b>carry out</b> a plan / an order / a survey",
+          "выполнить, провести"
+        ],
+        [
+          "<b>point out</b> (to somebody)",
+          "указать, обратить внимание"
+        ],
+        [
+          "<b>sort out</b>",
+          "уладить, разобрать, привести в порядок"
+        ],
+        [
+          "<b>find out</b> (that / what / about)",
+          "узнать, выяснить"
+        ],
+        [
+          "<b>turn out</b> to be / that / nice",
+          "оказаться"
+        ],
+        [
+          "<b>give out</b> / <b>hand out</b>",
+          "раздать каждому"
+        ],
+        [
+          "<b>run out (of)</b>",
+          "закончиться, израсходовать"
+        ],
+        [
+          "<b>try out</b>",
+          "опробовать, испытать"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«У нас кончилось молоко» — <b>We've run out of milk</b>: человек + <b>run out of</b> + вещь. Без <b>of</b> говорят о самой вещи: <b>The milk has run out.</b>"
+    }
+  ],
+  "words": [
+    {
+      "en": "go out",
+      "forms": "went, gone",
+      "ru": "гаснуть"
+    },
+    {
+      "en": "put out",
+      "forms": "put, put",
+      "ru": "тушить (огонь)"
+    },
+    {
+      "en": "turn out",
+      "ru": "оказаться; выключать (свет)"
+    },
+    {
+      "en": "blow out",
+      "forms": "blew, blown",
+      "ru": "задувать"
+    },
+    {
+      "en": "work out",
+      "ru": "тренироваться; складываться; понять, вычислить"
+    },
+    {
+      "en": "carry out",
+      "ru": "проводить, выполнять"
+    },
+    {
+      "en": "point out",
+      "ru": "указывать на"
+    },
+    {
+      "en": "sort out",
+      "ru": "уладить; разобрать"
+    },
+    {
+      "en": "hand out",
+      "ru": "раздавать"
+    },
+    {
+      "en": "run out of",
+      "forms": "ran, run",
+      "ru": "израсходовать, остаться без"
+    },
+    {
+      "en": "try out",
+      "ru": "опробовать"
+    },
+    {
+      "en": "make a wish",
+      "forms": "made, made",
+      "ru": "загадать желание"
+    },
+    {
+      "en": "firefighter",
+      "ru": "пожарный"
+    },
+    {
+      "en": "candle",
+      "ru": "свеча"
+    },
+    {
+      "en": "experiment",
+      "ru": "эксперимент, опыт"
+    },
+    {
+      "en": "marriage",
+      "ru": "брак"
+    },
+    {
+      "en": "rainy",
+      "ru": "дождливый"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Вдруг погас свет.",
+      "en": [
+        "Suddenly the lights went out.",
+        "The lights suddenly went out.",
+        "Suddenly the light went out.",
+        "The light suddenly went out."
+      ]
+    },
+    {
+      "ru": "Пожарные быстро потушили пожар.",
+      "en": [
+        "The firefighters quickly put out the fire.",
+        "The firefighters put out the fire quickly.",
+        "The firefighters put the fire out quickly.",
+        "The firefighters quickly put the fire out.",
+        "The firemen quickly put out the fire."
+      ]
+    },
+    {
+      "ru": "Выключи свет перед сном.",
+      "en": [
+        "Turn out the light before you go to sleep.",
+        "Turn the light out before you go to sleep.",
+        "Turn out the light before going to bed.",
+        "Turn off the light before you go to sleep.",
+        "Turn the light off before you go to sleep.",
+        "Turn out the light before you go to bed.",
+        "Turn off the light before you go to bed.",
+        "Switch off the light before you go to bed."
+      ]
+    },
+    {
+      "ru": "Загадай желание и задуй свечи.",
+      "en": [
+        "Make a wish and blow out the candles.",
+        "Make a wish and blow the candles out."
+      ]
+    },
+    {
+      "ru": "Я занимаюсь в спортзале два раза в неделю.",
+      "en": [
+        "I work out at the gym twice a week.",
+        "I work out in the gym twice a week."
+      ]
+    },
+    {
+      "ru": "Надеюсь, у вас всё сложится.",
+      "en": [
+        "I hope everything works out for you.",
+        "I hope everything works out well for you.",
+        "I hope it all works out for you."
+      ]
+    },
+    {
+      "ru": "Их брак не сложился.",
+      "en": [
+        "Their marriage didn't work out."
+      ]
+    },
+    {
+      "ru": "Это выходит по двадцать евро на человека.",
+      "en": [
+        "That works out at twenty euros each.",
+        "It works out at twenty euros per person.",
+        "That works out at twenty euros per person.",
+        "It works out at twenty euros each."
+      ]
+    },
+    {
+      "ru": "Я не могу понять, как работает эта программа.",
+      "en": [
+        "I can't work out how this program works.",
+        "I can't figure out how this program works."
+      ]
+    },
+    {
+      "ru": "Ты можешь посчитать это в уме?",
+      "en": [
+        "Can you work it out in your head?",
+        "Can you work this out in your head?",
+        "Can you work that out in your head?"
+      ]
+    },
+    {
+      "ru": "Учёные провели новый эксперимент.",
+      "en": [
+        "The scientists carried out a new experiment.",
+        "Scientists carried out a new experiment."
+      ]
+    },
+    {
+      "ru": "Мы должны выполнить план.",
+      "en": [
+        "We must carry out the plan.",
+        "We have to carry out the plan.",
+        "We need to carry out the plan."
+      ]
+    },
+    {
+      "ru": "Учитель указал мне на мою ошибку.",
+      "en": [
+        "The teacher pointed out my mistake to me.",
+        "The teacher pointed my mistake out to me."
+      ]
+    },
+    {
+      "ru": "Не волнуйся, мы всё уладим.",
+      "en": [
+        "Don't worry, we'll sort it out.",
+        "Don't worry, we'll sort everything out."
+      ]
+    },
+    {
+      "ru": "Мне нужно разобрать эти документы.",
+      "en": [
+        "I need to sort out these documents.",
+        "I need to sort these documents out.",
+        "I have to sort out these documents."
+      ]
+    },
+    {
+      "ru": "Я только что узнал, что Джейн выходит замуж.",
+      "en": [
+        "I've just found out that Jane is getting married.",
+        "I just found out that Jane is getting married.",
+        "I've just found out Jane is getting married."
+      ]
+    },
+    {
+      "ru": "Выясни, во сколько начинается фильм.",
+      "en": [
+        "Find out what time the film starts.",
+        "Find out when the film starts.",
+        "Find out what time the movie starts.",
+        "Find out when the movie starts."
+      ]
+    },
+    {
+      "ru": "Новый сосед оказался очень приятным человеком.",
+      "en": [
+        "The new neighbour turned out to be a very nice person.",
+        "The new neighbor turned out to be a very nice person."
+      ]
+    },
+    {
+      "ru": "Оказалось, что они старые друзья.",
+      "en": [
+        "It turned out that they were old friends.",
+        "It turned out they were old friends."
+      ]
+    },
+    {
+      "ru": "Утро было дождливым, но день выдался солнечным.",
+      "en": [
+        "The morning was rainy, but the day turned out sunny.",
+        "It was rainy in the morning, but the day turned out sunny."
+      ]
+    },
+    {
+      "ru": "Учитель раздал тесты.",
+      "en": [
+        "The teacher handed out the tests.",
+        "The teacher gave out the tests.",
+        "The teacher handed the tests out.",
+        "The teacher gave the tests out."
+      ]
+    },
+    {
+      "ru": "У нас закончился хлеб.",
+      "en": [
+        "We've run out of bread.",
+        "We ran out of bread."
+      ]
+    },
+    {
+      "ru": "У меня почти кончилось время.",
+      "en": [
+        "I'm running out of time.",
+        "I've almost run out of time.",
+        "I've nearly run out of time."
+      ]
+    },
+    {
+      "ru": "Хочешь опробовать мою новую камеру?",
+      "en": [
+        "Do you want to try out my new camera?",
+        "Do you want to try my new camera out?",
+        "Would you like to try out my new camera?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": 88,
+  "section": "Местоимения и определители",
+  "title": "all / all of, most / most of, no / none of etc.",
+  "subtitle": "Все, большинство, некоторые, никто: когда нужно of",
+  "theory": [
+    { "type": "p", "text": "Слова <b>all, some, any, most, much, many, (a) little, (a) few, no</b> ставятся прямо перед существительным, когда мы говорим о чём-то в целом: <b>Most birds can fly.</b>, <b>Some people hate coffee.</b> Здесь <b>of</b> не нужен: нельзя сказать <b>some of people</b>." },
+    { "type": "p", "text": "Если речь о конкретной группе, после этих слов идёт <b>of</b> + <b>the/this/these/my/Tom's…</b>: <b>some of the people</b>, <b>most of my time</b>, <b>none of these books</b>. Вместо no в этой конструкции — <b>none of</b>." },
+    { "type": "table", "head": ["В целом", "Конкретная группа"], "rows": [
+      ["<b>All children like games.</b>", "<b>All (of) these children are mine.</b>"],
+      ["<b>Most shops close at six.</b>", "<b>Most of the shops in our street are small.</b>"]
+    ] },
+    { "type": "list", "items": [
+      "После <b>all</b> и <b>half</b> слово of можно опустить: <b>all my friends</b> = <b>all of my friends</b>, <b>half this cake</b> = <b>half of this cake</b>.",
+      "Перед местоимениями <b>it/us/you/them</b> of обязателен: <b>all of us</b>, <b>half of it</b>, <b>none of them</b>, <b>Do any of you…?</b>",
+      "Можно и без существительного: <b>Some cars are red and some are blue.</b>, <b>A few were open, but most were closed.</b>"
+    ] },
+    { "type": "tip", "text": "Русское «большинство людей», «некоторые студенты» тянет сказать <b>most of people</b>. Без артикля или местоимения of не ставится: <b>most people</b>, но <b>most of the people here</b>. И «половина» — <b>half</b>, без the: <b>half of it</b>, а не <b>the half</b>." }
+  ],
+  "words": [
+    {
+      "en": "all",
+      "ru": "все, весь"
+    },
+    {
+      "en": "all of",
+      "ru": "все из"
+    },
+    {
+      "en": "most",
+      "ru": "большинство"
+    },
+    {
+      "en": "most of",
+      "ru": "большинство из, большая часть"
+    },
+    {
+      "en": "some of",
+      "ru": "некоторые из"
+    },
+    {
+      "en": "any of",
+      "ru": "кто-нибудь из, какой-нибудь из"
+    },
+    {
+      "en": "half",
+      "forms": "halves",
+      "ru": "половина"
+    },
+    {
+      "en": "bird",
+      "ru": "птица"
+    },
+    {
+      "en": "sweet",
+      "ru": "сладкий"
+    },
+    {
+      "en": "test",
+      "ru": "тест, контрольная"
+    },
+    {
+      "en": "electric",
+      "ru": "электрический"
+    },
+    {
+      "en": "agree with",
+      "ru": "соглашаться с"
+    },
+    {
+      "en": "yours",
+      "ru": "твой, ваш (без существительного)"
+    },
+    {
+      "en": "soup",
+      "ru": "суп"
+    }
+  ],
+  "items": [
+    { "ru": "(в целом) Все дети любят играть.", "en": ["All children like playing.", "All children love playing.", "All children like to play.", "All children love to play."] },
+    { "ru": "Некоторые люди не любят кофе.", "en": ["Some people don't like coffee."] },
+    { "ru": "(в целом) Большинство птиц умеет летать.", "en": ["Most birds can fly."] },
+    { "ru": "Большинство выходных я провожу дома.", "en": ["I spend most weekends at home.", "Most weekends I spend at home."] },
+    { "ru": "Некоторые из моих коллег говорят по-итальянски.", "en": ["Some of my colleagues speak Italian."] },
+    { "ru": "Ни одна из этих фотографий не хороша.", "en": ["None of these photos are good.", "None of these photos is good.", "None of these pictures are good.", "None of these pictures is good."] },
+    { "ru": "Ты смотрел какой-нибудь из этих фильмов?", "en": ["Have you seen any of these films?", "Have you watched any of these films?", "Have you seen any of these movies?", "Did you see any of these films?", "Did you watch any of these films?", "Have you watched any of these movies?", "Did you see any of these movies?", "Did you watch any of these movies?"] },
+    { "ru": "Я провёл большую часть вечера на кухне.", "en": ["I spent most of the evening in the kitchen."] },
+    { "ru": "Все мои друзья живут в Москве.", "en": ["All my friends live in Moscow.", "All of my friends live in Moscow."] },
+    { "ru": "Половина моих друзей живёт за границей.", "en": ["Half my friends live abroad.", "Half of my friends live abroad."] },
+    { "ru": "(именно эти) Все эти яблоки сладкие.", "en": ["All these apples are sweet.", "All of these apples are sweet."] },
+    { "ru": "Я ответил на большинство вопросов теста.", "en": ["I answered most of the questions in the test.", "I answered most of the questions on the test.", "I answered most of the test questions."] },
+    { "ru": "Большую часть времени я работаю дома.", "en": ["I work at home most of the time.", "Most of the time I work at home.", "I work from home most of the time.", "Most of the time I work from home."] },
+    { "ru": "Мы все устали после поездки.", "en": ["All of us were tired after the trip.", "We were all tired after the trip.", "We were all tired after the journey.", "All of us were tired after the journey."] },
+    { "ru": "Суп очень вкусный, но я съел только половину.", "en": ["The soup is very nice, but I only ate half of it.", "The soup is delicious, but I only ate half of it.", "The soup is very nice, but I've only eaten half of it.", "The soup is very tasty, but I only ate half of it.", "The soup is very good, but I only ate half of it."] },
+    { "ru": "(группе людей) Кто-нибудь из вас хочет кофе?", "en": ["Do any of you want coffee?", "Do any of you want some coffee?", "Would any of you like coffee?", "Would any of you like some coffee?"] },
+    { "ru": "Я пригласил десять человек, но никто из них не пришёл.", "en": ["I invited ten people, but none of them came.", "I invited 10 people, but none of them came."] },
+    { "ru": "Большинство из нас согласны с тобой.", "en": ["Most of us agree with you."] },
+    { "ru": "Я знаю некоторых из них.", "en": ["I know some of them."] },
+    { "ru": "Мне нравится эта музыка, но не вся.", "en": ["I like this music, but not all of it."] },
+    { "ru": "Некоторые машины электрические, а некоторые нет.", "en": ["Some cars are electric and some aren't.", "Some cars are electric, but some aren't."] },
+    { "ru": "Несколько студентов сдали экзамен, но большинство провалились.", "en": ["A few students passed the exam, but most failed.", "A few of the students passed the exam, but most failed.", "A few students passed the exam, but most of them failed.", "A few of the students passed the exam, but most of them failed.", "Several students passed the exam, but most failed.", "Some students passed the exam, but most failed."] },
+    { "ru": "Половина этой пиццы моя, а половина — твоя.", "en": ["Half this pizza is mine and half is yours.", "Half of this pizza is mine and half is yours.", "Half this pizza is mine and half of it is yours.", "Half of this pizza is mine and half of it is yours."] },
+    { "ru": "Ни у кого из нас не было зонта.", "en": ["None of us had an umbrella.", "None of us had umbrellas."] }
+  ]
+}

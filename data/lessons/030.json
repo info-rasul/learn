@@ -1,0 +1,60 @@
+{
+  "id": 30,
+  "section": "Модальные глаголы",
+  "title": "may and might 2",
+  "subtitle": "Возможное будущее: may/might, might be -ing, might as well",
+  "theory": [
+    { "type": "p", "text": "<b>may/might + глагол</b> говорит о том, что <b>возможно</b> случится в будущем: <b>I might go to Spain in July.</b> (может быть, поеду). Отрицание — <b>may not / might not</b>: <b>She might not come.</b> (возможно, не придёт)." },
+    { "type": "list", "items": [
+      "<b>I'm going to buy a bike.</b> — решено, точно.",
+      "<b>I may/might buy a bike.</b> — только возможно.",
+      "<b>We might have to wait.</b> — возможно, придётся ждать; <b>He might be able to help.</b> — возможно, сможет помочь."
+    ] },
+    { "type": "p", "text": "Обычно <b>may</b> и <b>might</b> равноценны. Но если ситуация <b>нереальная</b> (с if + прошедшее), годится только <b>might</b>: <b>If I had more time, I might learn Spanish.</b> (не may)." },
+    { "type": "h", "text": "might be -ing" },
+    { "type": "p", "text": "<b>I'll be working at six.</b> — точно буду работать. <b>I might be working at six.</b> — возможно, буду. Так же говорят о возможных планах: <b>We might be moving to Rome.</b> (может, переедем) — сравните <b>We're moving to Rome.</b> (решено)." },
+    { "type": "h", "text": "might as well" },
+    { "type": "p", "text": "<b>We might as well walk.</b> = «можно и пешком, всё равно лучше варианта нет». Так говорят, когда нет причины не делать этого. Можно и <b>may as well</b>." },
+    { "type": "tip", "text": "Русское «может быть, я…» часто переводят как <b>Maybe I will…</b>. Это не ошибка, но естественнее и короче — <b>I might…</b>. И не ставьте <b>to</b>: <b>I might go</b>, а не «I might to go»." }
+  ],
+  "words": [
+    { "en": "might as well", "ru": "вполне можно, можно и (сделать)" },
+    { "en": "might have to", "ru": "возможно, придётся" },
+    { "en": "might be able to", "ru": "возможно, сможет" },
+    { "en": "be careful", "ru": "быть осторожным" },
+    { "en": "get cold", "forms": "got, got", "ru": "похолодать" },
+    { "en": "pay for", "forms": "paid, paid", "ru": "платить за" },
+    { "en": "on TV", "ru": "по телевизору" },
+    { "en": "jacket", "ru": "куртка" },
+    { "en": "tonight", "ru": "сегодня вечером" },
+    { "en": "enough", "ru": "достаточно" },
+    { "en": "parking", "ru": "парковка" },
+    { "en": "nothing", "ru": "ничего" }
+  ],
+  "items": [
+    { "ru": "(ещё не решил) Я, может быть, поеду в Испанию летом.", "en": ["I might go to Spain in the summer.", "I may go to Spain in the summer.", "I might go to Spain this summer.", "I may go to Spain this summer.", "Maybe I'll go to Spain in the summer."] },
+    { "ru": "Возьми куртку, потому что может похолодать.", "en": ["Take a jacket because it might get cold.", "Take a jacket because it may get cold.", "Take a jacket, it might get cold.", "Take a jacket, it may get cold."] },
+    { "ru": "Нам, возможно, придётся ждать час.", "en": ["We might have to wait for an hour.", "We may have to wait for an hour.", "We might have to wait an hour.", "We may have to wait an hour."] },
+    { "ru": "Кейт, возможно, не придёт сегодня вечером.", "en": ["Kate might not come tonight.", "Kate may not come tonight.", "Kate might not come this evening.", "Kate may not come this evening."] },
+    { "ru": "(точно, решено) Я собираюсь купить новый велосипед.", "en": ["I'm going to buy a new bike.", "I'm going to buy a new bicycle."] },
+    { "ru": "(пока не точно) Я, может быть, куплю новый велосипед.", "en": ["I might buy a new bike.", "I may buy a new bike.", "I might buy a new bicycle.", "I may buy a new bicycle.", "Maybe I'll buy a new bike."] },
+    { "ru": "Денег, возможно, не хватит.", "en": ["There might not be enough money.", "There may not be enough money.", "We might not have enough money.", "We may not have enough money."] },
+    { "ru": "Майк, возможно, сможет починить твой велосипед.", "en": ["Mike might be able to fix your bike.", "Mike may be able to fix your bike.", "Mike might be able to repair your bike.", "Mike may be able to repair your bike."] },
+    { "ru": "Будь осторожен, ты можешь упасть.", "en": ["Be careful, you might fall.", "Be careful, you may fall.", "Be careful or you might fall.", "Be careful or you may fall."] },
+    { "ru": "Он, возможно, меня не узнает.", "en": ["He might not recognise me.", "He may not recognise me.", "He might not recognize me.", "He may not recognize me."] },
+    { "ru": "Я, возможно, опоздаю завтра.", "en": ["I might be late tomorrow.", "I may be late tomorrow.", "Maybe I'll be late tomorrow."] },
+    { "ru": "Тебе, возможно, придётся заплатить за парковку.", "en": ["You might have to pay for parking.", "You may have to pay for parking.", "You might have to pay for the parking.", "You may have to pay for the parking."] },
+    { "ru": "Они, возможно, не захотят ехать.", "en": ["They might not want to go.", "They may not want to go."] },
+    { "ru": "Не знаю, может быть, я схожу в кино.", "en": ["I don't know, I might go to the cinema.", "I don't know, I may go to the cinema.", "I don't know, I might go to the movies.", "I don't know, I may go to the movies.", "I don't know, maybe I'll go to the cinema."] },
+    { "ru": "Если бы мне платили больше, я, может быть, остался бы.", "en": ["If they paid me more, I might stay.", "If I was paid more, I might stay.", "If I were paid more, I might stay.", "If I got paid more, I might stay.", "If I earned more, I might stay."] },
+    { "ru": "Если бы у меня было больше времени, я, может быть, выучил бы испанский.", "en": ["If I had more time, I might learn Spanish.", "If I had more time, I might study Spanish."] },
+    { "ru": "Не звони в семь, потому что я, возможно, буду ужинать.", "en": ["Don't call at seven because I might be having dinner.", "Don't phone at seven because I might be having dinner.", "Don't call at seven because I may be having dinner.", "Don't phone at seven because I may be having dinner.", "Don't call at seven, I might be having dinner.", "Don't phone at seven, I might be having dinner."] },
+    { "ru": "(точно) Не звони в семь, потому что я буду ужинать.", "en": ["Don't call at seven because I'll be having dinner.", "Don't phone at seven because I'll be having dinner.", "Don't call at seven, I'll be having dinner.", "Don't phone at seven, I'll be having dinner."] },
+    { "ru": "(возможный план) Мы, может быть, поедем в Рим в следующем месяце.", "en": ["We might be going to Rome next month.", "We may be going to Rome next month.", "We might go to Rome next month.", "We may go to Rome next month."] },
+    { "ru": "(план решён) Мы едем в Рим в следующем месяце.", "en": ["We're going to Rome next month."] },
+    { "ru": "(автобуса ждать час) Мы вполне можем пойти домой пешком.", "en": ["We might as well walk home.", "We may as well walk home.", "We might as well go home on foot."] },
+    { "ru": "Мой телефон сломан, так что я вполне могу купить новый.", "en": ["My phone is broken, so I might as well buy another.", "My phone is broken, so I may as well buy another.", "My phone is broken, so I might as well buy a new one.", "My phone is broken, so I may as well buy a new one."] },
+    { "ru": "(такси стоит почти как автобус) Можно и на такси поехать.", "en": ["We might as well take a taxi.", "We may as well take a taxi.", "We might as well get a taxi.", "We may as well get a taxi."] },
+    { "ru": "По телевизору ничего нет, так что можно и спать лечь.", "en": ["There's nothing on TV, so we might as well go to bed.", "There's nothing on TV, so we may as well go to bed.", "There's nothing on TV, so I might as well go to bed.", "There's nothing on TV, so I may as well go to bed."] }
+  ]
+}

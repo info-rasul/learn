@@ -1,0 +1,317 @@
+{
+  "id": 125,
+  "section": "Предлоги",
+  "title": "in/at/on (position) 3",
+  "subtitle": "Здания, города и адреса: at the cinema, in Rome, arrive in / at",
+  "theory": [
+    {
+      "type": "p",
+      "text": "О зданиях обычно говорим <b>at</b>, когда важно, что человек там по делу или на событии: <b>at the cinema</b>, <b>at the airport</b>, <b>at the hotel</b>, <b>at the doctor's</b>, <b>at Kate's</b> (= у Кейт дома). <b>in</b> подчёркивает, что мы именно внутри здания: <b>It was hot in the cinema.</b>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Для гостиниц и магазинов часто подходят оба варианта: <b>stay at / in a hotel</b>, <b>work in / at a bank</b>.",
+        "Город, страна — <b>in</b>: <b>in Rome</b>, <b>in Japan</b>. Но точка на маршруте — <b>at</b>: <b>Does this train stop at Paris?</b>",
+        "Адрес с номером дома — <b>at</b>: <b>She lives at 12 Park Road.</b>"
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Глагол",
+        "Куда",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "arrive in",
+          "город, страна",
+          "We arrived in Berlin."
+        ],
+        [
+          "arrive at",
+          "здание, место, событие",
+          "We arrived at the hotel / at the party."
+        ],
+        [
+          "get to",
+          "любое место (разговорно)",
+          "How did you get to the airport?"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Никогда не говорите <b>arrive to</b>! «Приехать в Лондон» — <b>arrive in London</b>, «приехать в аэропорт» — <b>arrive at the airport</b>. А «у врача» и «у сестры» — <b>at the doctor's</b>, <b>at my sister's</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "at the cinema",
+      "ru": "в кино (смотреть фильм)"
+    },
+    {
+      "en": "in the cinema",
+      "ru": "в здании кинотеатра, внутри"
+    },
+    {
+      "en": "at the airport",
+      "ru": "в аэропорту"
+    },
+    {
+      "en": "at the doctor's",
+      "ru": "у врача"
+    },
+    {
+      "en": "at my sister's",
+      "ru": "у сестры (дома)"
+    },
+    {
+      "en": "at school",
+      "ru": "в школе (учиться)"
+    },
+    {
+      "en": "at a conference",
+      "ru": "на конференции"
+    },
+    {
+      "en": "arrive in",
+      "ru": "прибывать в (город, страну)"
+    },
+    {
+      "en": "arrive at",
+      "ru": "прибывать в (здание, аэропорт, на мероприятие)"
+    },
+    {
+      "en": "stay at",
+      "ru": "остановиться в (гостинице), гостить у"
+    },
+    {
+      "en": "stop at",
+      "ru": "останавливаться в (о поезде, автобусе)"
+    },
+    {
+      "en": "conference",
+      "ru": "конференция"
+    },
+    {
+      "en": "bank",
+      "ru": "банк"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Вчера вечером мы были в кино.",
+      "en": [
+        "We were at the cinema last night.",
+        "We were at the cinema yesterday evening.",
+        "Last night we were at the cinema.",
+        "Yesterday evening we were at the cinema.",
+        "We were at the movies last night.",
+        "Last night we were at the movies."
+      ]
+    },
+    {
+      "ru": "(внутри здания) В кинотеатре было холодно.",
+      "en": [
+        "It was cold in the cinema.",
+        "It was cold inside the cinema.",
+        "It was cold in the movie theater."
+      ]
+    },
+    {
+      "ru": "Я встречу тебя в аэропорту.",
+      "en": [
+        "I'll meet you at the airport."
+      ]
+    },
+    {
+      "ru": "(внутри здания) В аэропорту много магазинов.",
+      "en": [
+        "There are a lot of shops in the airport.",
+        "There are many shops in the airport.",
+        "There are lots of shops in the airport.",
+        "There are a lot of stores in the airport.",
+        "There are many stores in the airport."
+      ]
+    },
+    {
+      "ru": "Мы остановились в хорошем отеле.",
+      "en": [
+        "We stayed at a nice hotel.",
+        "We stayed in a nice hotel.",
+        "We stayed at a good hotel.",
+        "We stayed in a good hotel."
+      ]
+    },
+    {
+      "ru": "Я был у врача.",
+      "en": [
+        "I was at the doctor's.",
+        "I've been at the doctor's.",
+        "I've been to the doctor's.",
+        "I was at the doctor.",
+        "I've been to the doctor."
+      ]
+    },
+    {
+      "ru": "Вчера я был у Анны дома.",
+      "en": [
+        "I was at Anna's yesterday.",
+        "I was at Anna's house yesterday.",
+        "Yesterday I was at Anna's.",
+        "Yesterday I was at Anna's house.",
+        "I was at Anna's place yesterday."
+      ]
+    },
+    {
+      "ru": "Я ночевал у сестры.",
+      "en": [
+        "I stayed at my sister's.",
+        "I stayed at my sister's house.",
+        "I stayed at my sister's place.",
+        "I stayed the night at my sister's.",
+        "I spent the night at my sister's.",
+        "I spent the night at my sister's place.",
+        "I slept at my sister's."
+      ]
+    },
+    {
+      "ru": "Мама в больнице, навещает папу.",
+      "en": [
+        "Mum is at the hospital visiting Dad.",
+        "My mum is at the hospital visiting Dad.",
+        "Mom is at the hospital visiting Dad.",
+        "My mom is at the hospital visiting Dad."
+      ]
+    },
+    {
+      "ru": "Мы видели Кейт в театре.",
+      "en": [
+        "We saw Kate at the theatre.",
+        "We saw Kate at the theater."
+      ]
+    },
+    {
+      "ru": "Я весь день был на конференции.",
+      "en": [
+        "I was at a conference all day.",
+        "I was at the conference all day.",
+        "I've been at a conference all day.",
+        "I was at a conference the whole day."
+      ]
+    },
+    {
+      "ru": "Мы были на футбольном матче.",
+      "en": [
+        "We were at a football match.",
+        "We were at the football match.",
+        "We were at a football game.",
+        "We were at the football game."
+      ]
+    },
+    {
+      "ru": "Дети в школе.",
+      "en": [
+        "The children are at school.",
+        "The kids are at school."
+      ]
+    },
+    {
+      "ru": "Сара работает в банке.",
+      "en": [
+        "Sarah works in a bank.",
+        "Sarah works at a bank."
+      ]
+    },
+    {
+      "ru": "Они живут в Риме.",
+      "en": [
+        "They live in Rome."
+      ]
+    },
+    {
+      "ru": "Мы живём в доме пятнадцать по Парк-роуд.",
+      "en": [
+        "We live at 15 Park Road.",
+        "We live at fifteen Park Road."
+      ]
+    },
+    {
+      "ru": "(по пути) Этот поезд останавливается в Париже?",
+      "en": [
+        "Does this train stop at Paris?",
+        "Does this train stop in Paris?"
+      ]
+    },
+    {
+      "ru": "Мы прибыли в Лондон рано утром.",
+      "en": [
+        "We arrived in London early in the morning.",
+        "We arrived in London early this morning.",
+        "Early in the morning we arrived in London.",
+        "We got to London early in the morning.",
+        "We got to London early this morning."
+      ]
+    },
+    {
+      "ru": "Когда ты приехал в Японию?",
+      "en": [
+        "When did you arrive in Japan?",
+        "When did you get to Japan?"
+      ]
+    },
+    {
+      "ru": "Мы приехали в аэропорт в шесть.",
+      "en": [
+        "We arrived at the airport at six.",
+        "We got to the airport at six.",
+        "We arrived at the airport at six o'clock.",
+        "We got to the airport at six o'clock.",
+        "We arrived at the airport at 6.",
+        "We got to the airport at 6."
+      ]
+    },
+    {
+      "ru": "Во сколько ты пришёл на вечеринку?",
+      "en": [
+        "What time did you arrive at the party?",
+        "What time did you get to the party?",
+        "When did you arrive at the party?",
+        "When did you get to the party?"
+      ]
+    },
+    {
+      "ru": "Я добрался до отеля поздно вечером.",
+      "en": [
+        "I got to the hotel late in the evening.",
+        "I arrived at the hotel late in the evening.",
+        "I reached the hotel late in the evening.",
+        "I got to the hotel late at night.",
+        "I arrived at the hotel late at night."
+      ]
+    },
+    {
+      "ru": "Как ты добрался до вокзала?",
+      "en": [
+        "How did you get to the station?",
+        "How did you get to the railway station?",
+        "How did you get to the train station?"
+      ]
+    },
+    {
+      "ru": "Я купил это в магазине на углу.",
+      "en": [
+        "I bought it at the shop on the corner.",
+        "I bought it in the shop on the corner.",
+        "I bought it from the shop on the corner.",
+        "I bought it at the corner shop.",
+        "I bought it in the corner shop.",
+        "I bought it at the store on the corner.",
+        "I bought this at the shop on the corner.",
+        "I bought this in the shop on the corner."
+      ]
+    }
+  ]
+}

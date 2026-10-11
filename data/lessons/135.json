@@ -1,0 +1,348 @@
+{
+  "id": 135,
+  "section": "Предлоги",
+  "title": "Verb + preposition 4 of/for/from/on",
+  "subtitle": "accuse of, pay for, blame for/on, suffer from, depend on",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Глаголы",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "of",
+          "accuse / suspect sb of; approve / disapprove of; die of (from); consist of",
+          "<b>They accused him of lying.</b>"
+        ],
+        [
+          "for",
+          "pay (sb) for; thank / forgive sb for; apologise (to sb) for; blame sb for",
+          "<b>Thanks for your help.</b>"
+        ],
+        [
+          "from",
+          "suffer from; protect sb/sth from; die from",
+          "<b>She suffers from asthma.</b>"
+        ],
+        [
+          "on",
+          "depend on, rely on; live on; congratulate / compliment sb on; blame sth on sb",
+          "<b>You can rely on me.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Pay и pay for"
+    },
+    {
+      "type": "p",
+      "text": "<b>Pay for</b> — заплатить за покупку или услугу: <b>pay for the tickets</b>. Но <b>pay the bill / the rent / a fine / tax</b> — без предлога."
+    },
+    {
+      "type": "h",
+      "text": "Blame"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>blame somebody for something</b>: <b>They blamed me for the mistake.</b>",
+        "<b>blame something on somebody</b>: <b>They blamed the mistake on me.</b>",
+        "<b>somebody is to blame for</b>: <b>Who is to blame for this?</b>"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Depend</b> с вопросительными словами можно без on: <b>It depends how much it costs.</b> = <b>It depends on how much it costs.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "«Зависит от» — <b>depends on</b>, не <b>depends from</b>. «Заплатить за обед» — <b>pay for lunch</b>, а не <b>pay lunch</b>. «Поздравить с» — <b>congratulate on</b>, не <b>congratulate with</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "accuse of",
+      "ru": "обвинять в"
+    },
+    {
+      "en": "suspect of",
+      "ru": "подозревать в"
+    },
+    {
+      "en": "approve of",
+      "ru": "одобрять"
+    },
+    {
+      "en": "die of",
+      "ru": "умереть от"
+    },
+    {
+      "en": "consist of",
+      "ru": "состоять из"
+    },
+    {
+      "en": "pay for",
+      "forms": "paid, paid",
+      "ru": "платить за"
+    },
+    {
+      "en": "thank for",
+      "ru": "благодарить за"
+    },
+    {
+      "en": "forgive for",
+      "forms": "forgave, forgiven",
+      "ru": "прощать за"
+    },
+    {
+      "en": "apologise for",
+      "ru": "извиняться за"
+    },
+    {
+      "en": "blame for",
+      "ru": "винить в"
+    },
+    {
+      "en": "blame on",
+      "ru": "сваливать вину на"
+    },
+    {
+      "en": "suffer from",
+      "ru": "страдать от"
+    },
+    {
+      "en": "protect from",
+      "ru": "защищать от"
+    },
+    {
+      "en": "live on",
+      "ru": "жить на (деньги, еду)"
+    },
+    {
+      "en": "congratulate on",
+      "ru": "поздравлять с"
+    },
+    {
+      "en": "compliment on",
+      "ru": "хвалить за"
+    },
+    {
+      "en": "depend on",
+      "ru": "зависеть от"
+    },
+    {
+      "en": "rely on",
+      "ru": "полагаться на"
+    },
+    {
+      "en": "fine",
+      "ru": "штраф"
+    },
+    {
+      "en": "insomnia",
+      "ru": "бессонница"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Она обвинила меня во лжи.",
+      "en": [
+        "She accused me of lying.",
+        "She accused me of telling lies."
+      ]
+    },
+    {
+      "ru": "Его подозревают в краже машины.",
+      "en": [
+        "He is suspected of stealing a car.",
+        "He is suspected of stealing the car."
+      ]
+    },
+    {
+      "ru": "Мои родители не одобряют мою работу.",
+      "en": [
+        "My parents don't approve of my job.",
+        "My parents don't approve of my work."
+      ]
+    },
+    {
+      "ru": "От чего умер его дедушка?",
+      "en": [
+        "What did his grandfather die of?",
+        "What did his grandfather die from?"
+      ]
+    },
+    {
+      "ru": "Обед состоял из трёх блюд.",
+      "en": [
+        "The lunch consisted of three courses.",
+        "Lunch consisted of three courses.",
+        "The lunch consisted of three dishes.",
+        "Dinner consisted of three courses.",
+        "The dinner consisted of three courses."
+      ]
+    },
+    {
+      "ru": "Кто заплатит за такси?",
+      "en": [
+        "Who will pay for the taxi?",
+        "Who's going to pay for the taxi?",
+        "Who is paying for the taxi?"
+      ]
+    },
+    {
+      "ru": "Я заплатил за билеты онлайн.",
+      "en": [
+        "I paid for the tickets online."
+      ]
+    },
+    {
+      "ru": "Ты уже заплатил за аренду в этом месяце?",
+      "en": [
+        "Have you already paid this month's rent?",
+        "Have you already paid the rent this month?",
+        "Have you paid this month's rent yet?",
+        "Have you paid the rent this month?",
+        "Did you pay the rent this month?",
+        "Have you already paid the rent for this month?",
+        "Did you already pay the rent this month?"
+      ]
+    },
+    {
+      "ru": "Нам пришлось заплатить штраф.",
+      "en": [
+        "We had to pay a fine."
+      ]
+    },
+    {
+      "ru": "Спасибо тебе за помощь с переездом.",
+      "en": [
+        "Thank you for helping with the move.",
+        "Thanks for helping with the move.",
+        "Thank you for your help with the move.",
+        "Thanks for your help with the move.",
+        "Thank you for helping me with the move.",
+        "Thanks for helping me with the move.",
+        "Thank you for helping me move.",
+        "Thanks for helping me move."
+      ]
+    },
+    {
+      "ru": "Я никогда не прощу его за это.",
+      "en": [
+        "I'll never forgive him for this.",
+        "I will never forgive him for that.",
+        "I'll never forgive him for it."
+      ]
+    },
+    {
+      "ru": "Кевин извинился перед Лорой за свои слова.",
+      "en": [
+        "Kevin apologised to Laura for his words.",
+        "Kevin apologized to Laura for his words.",
+        "Kevin apologised to Laura for what he said.",
+        "Kevin apologized to Laura for what he said."
+      ]
+    },
+    {
+      "ru": "Не вини себя за то, что случилось.",
+      "en": [
+        "Don't blame yourself for what happened."
+      ]
+    },
+    {
+      "ru": "Начальник свалил ошибку на меня.",
+      "en": [
+        "The boss blamed the mistake on me.",
+        "My boss blamed the mistake on me.",
+        "The boss blamed me for the mistake.",
+        "My boss blamed me for the mistake."
+      ]
+    },
+    {
+      "ru": "Кто виноват в этом беспорядке?",
+      "en": [
+        "Who is to blame for this mess?",
+        "Who is responsible for this mess?"
+      ]
+    },
+    {
+      "ru": "Многие люди страдают от бессонницы.",
+      "en": [
+        "Many people suffer from insomnia.",
+        "A lot of people suffer from insomnia.",
+        "Lots of people suffer from insomnia."
+      ]
+    },
+    {
+      "ru": "Очки защищают глаза от солнца.",
+      "en": [
+        "Sunglasses protect your eyes from the sun.",
+        "Glasses protect your eyes from the sun.",
+        "Sunglasses protect the eyes from the sun.",
+        "Glasses protect the eyes from the sun."
+      ]
+    },
+    {
+      "ru": "Можно ли прожить на эти деньги?",
+      "en": [
+        "Can you live on this money?",
+        "Is it possible to live on this money?",
+        "Can you live on that money?",
+        "Can one live on this money?",
+        "Is it possible to live on that money?"
+      ]
+    },
+    {
+      "ru": "Они живут в основном на рисе и овощах.",
+      "en": [
+        "They live mainly on rice and vegetables.",
+        "They mostly live on rice and vegetables.",
+        "They live mostly on rice and vegetables.",
+        "They mainly live on rice and vegetables."
+      ]
+    },
+    {
+      "ru": "Я поздравил Эмму с новой работой.",
+      "en": [
+        "I congratulated Emma on her new job."
+      ]
+    },
+    {
+      "ru": "Все хвалили Пола за его торт.",
+      "en": [
+        "Everyone complimented Paul on his cake.",
+        "Everybody complimented Paul on his cake.",
+        "Everyone praised Paul for his cake.",
+        "Everybody praised Paul for his cake."
+      ]
+    },
+    {
+      "ru": "Цена зависит от сезона.",
+      "en": [
+        "The price depends on the season."
+      ]
+    },
+    {
+      "ru": "(может, поеду) Это зависит от того, сколько это стоит.",
+      "en": [
+        "It depends how much it costs.",
+        "It depends on how much it costs.",
+        "That depends on how much it costs.",
+        "That depends how much it costs."
+      ]
+    },
+    {
+      "ru": "Ты всегда можешь на меня положиться.",
+      "en": [
+        "You can always rely on me.",
+        "You can always depend on me.",
+        "You can always count on me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": 118,
+  "section": "Союзы и предлоги",
+  "title": "like / as if",
+  "subtitle": "Как будто, похоже: look like, sound as if, act as if",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>look / sound / feel / taste / smell + like</b> + существительное = «выглядит / звучит / ощущается как»: <b>She looks like a model.</b> <b>That sounds like a plan.</b> <b>It tastes like chicken.</b>"
+    },
+    {
+      "type": "p",
+      "text": "<b>as if</b> / <b>as though</b> + предложение = «как будто, похоже что»: <b>You look as if you need a holiday.</b> <b>It sounds as if they're having a party.</b> В разговорной речи вместо as if часто говорят <b>like</b>: <b>It looks like it's going to rain.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Глагол",
+        "+ существительное",
+        "+ предложение"
+      ],
+      "rows": [
+        [
+          "look",
+          "He looks like a pilot.",
+          "He looks as if he's tired."
+        ],
+        [
+          "sound",
+          "That sounds like fun.",
+          "It sounds as if she's angry."
+        ],
+        [
+          "feel",
+          "It feels like summer.",
+          "I feel as if I'm getting ill."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>act / behave / talk as if</b> — «вести себя / говорить так, будто». Если ситуация нереальная, после as if можно поставить прошедшее время: <b>He talks as if he knew everything.</b> (на самом деле не знает). Вместо was можно <b>were</b>: <b>as if he were the boss</b>."
+    },
+    {
+      "type": "tip",
+      "text": "Не путайте: <b>look like</b> + существительное (He looks like his dad), но <b>look as if</b> + предложение (He looks as if he's tired). Фраза <b>He looks like tired</b> неверна — с прилагательным просто <b>He looks tired</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "as if",
+      "ru": "как будто, словно"
+    },
+    {
+      "en": "look like",
+      "ru": "выглядеть как, быть похожим на"
+    },
+    {
+      "en": "sound like",
+      "ru": "звучать как"
+    },
+    {
+      "en": "taste like",
+      "ru": "быть на вкус как"
+    },
+    {
+      "en": "feel like",
+      "ru": "ощущаться как"
+    },
+    {
+      "en": "have a cold",
+      "ru": "быть простуженным"
+    },
+    {
+      "en": "act",
+      "ru": "вести себя, поступать"
+    },
+    {
+      "en": "chase",
+      "ru": "гнаться за, преследовать"
+    },
+    {
+      "en": "win",
+      "forms": "won, won",
+      "ru": "выиграть"
+    },
+    {
+      "en": "rest",
+      "ru": "отдых"
+    },
+    {
+      "en": "athlete",
+      "ru": "спортсмен"
+    },
+    {
+      "en": "spring",
+      "ru": "весна"
+    },
+    {
+      "en": "crazy",
+      "ru": "сумасшедший"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Он выглядит как спортсмен.",
+      "en": [
+        "He looks like an athlete.",
+        "He looks like a sportsman."
+      ]
+    },
+    {
+      "ru": "Она похожа на свою маму.",
+      "en": [
+        "She looks like her mother.",
+        "She looks like her mum.",
+        "She looks like her mom.",
+        "She is like her mother."
+      ]
+    },
+    {
+      "ru": "Это звучит как хорошая идея.",
+      "en": [
+        "That sounds like a good idea.",
+        "It sounds like a good idea.",
+        "This sounds like a good idea."
+      ]
+    },
+    {
+      "ru": "На вкус как курица.",
+      "en": [
+        "It tastes like chicken.",
+        "This tastes like chicken.",
+        "That tastes like chicken."
+      ]
+    },
+    {
+      "ru": "Сегодня ощущение, будто весна.",
+      "en": [
+        "It feels like spring today.",
+        "Today it feels like spring.",
+        "It feels as if it's spring today.",
+        "It feels like it's spring today."
+      ]
+    },
+    {
+      "ru": "Похоже, будет дождь.",
+      "en": [
+        "It looks like it's going to rain.",
+        "It looks as if it's going to rain.",
+        "It looks as though it's going to rain.",
+        "It looks like rain."
+      ]
+    },
+    {
+      "ru": "Похоже, сейчас пойдёт снег.",
+      "en": [
+        "It looks as if it's going to snow.",
+        "It looks like it's going to snow.",
+        "It looks as though it's going to snow."
+      ]
+    },
+    {
+      "ru": "(смотрю в окно) Похоже, на улице холодно.",
+      "en": [
+        "It looks as if it's cold outside.",
+        "It looks like it's cold outside.",
+        "It looks cold outside.",
+        "It looks as though it's cold outside."
+      ]
+    },
+    {
+      "ru": "Похоже, дома никого нет.",
+      "en": [
+        "It looks as if nobody is at home.",
+        "It looks like nobody is at home.",
+        "It looks as though nobody is at home.",
+        "It looks as if nobody is home.",
+        "It looks like nobody is home.",
+        "It looks as if there's nobody at home.",
+        "It looks like there's nobody at home.",
+        "It looks as if no one is at home.",
+        "It looks like no one is home."
+      ]
+    },
+    {
+      "ru": "Она выглядит так, будто не спала всю ночь.",
+      "en": [
+        "She looks as if she hasn't slept all night.",
+        "She looks as though she hasn't slept all night.",
+        "She looks like she hasn't slept all night.",
+        "She looks as if she didn't sleep all night.",
+        "She looks like she didn't sleep all night."
+      ]
+    },
+    {
+      "ru": "Ты выглядишь так, будто выиграл в лотерею.",
+      "en": [
+        "You look as if you've won the lottery.",
+        "You look as though you've won the lottery.",
+        "You look like you've won the lottery."
+      ]
+    },
+    {
+      "ru": "У тебя такой вид, будто тебе нужен отдых.",
+      "en": [
+        "You look as if you need a rest.",
+        "You look as though you need a rest.",
+        "You look like you need a rest.",
+        "You look as if you need a break.",
+        "You look like you need a break.",
+        "You look as if you need a holiday.",
+        "You look like you need a holiday."
+      ]
+    },
+    {
+      "ru": "По голосу Анны похоже, что она простужена.",
+      "en": [
+        "Anna sounds as if she has a cold.",
+        "Anna sounds as though she has a cold.",
+        "Anna sounds like she has a cold.",
+        "Anna sounds as if she's got a cold.",
+        "Anna sounds like she's got a cold."
+      ]
+    },
+    {
+      "ru": "(слышно за стеной) Похоже, они ссорятся.",
+      "en": [
+        "It sounds as if they're arguing.",
+        "It sounds as though they're arguing.",
+        "It sounds like they're arguing.",
+        "It sounds as if they're fighting.",
+        "It sounds like they're fighting.",
+        "It sounds as if they're having an argument."
+      ]
+    },
+    {
+      "ru": "Звучит так, будто ты не хочешь ехать.",
+      "en": [
+        "You sound as if you don't want to go.",
+        "It sounds as if you don't want to go.",
+        "You sound as though you don't want to go.",
+        "You sound like you don't want to go.",
+        "It sounds like you don't want to go.",
+        "It sounds as though you don't want to go."
+      ]
+    },
+    {
+      "ru": "Такое чувство, будто я простужаюсь.",
+      "en": [
+        "I feel as if I'm getting a cold.",
+        "I feel as though I'm getting a cold.",
+        "I feel like I'm getting a cold.",
+        "I feel as if I'm catching a cold.",
+        "I feel like I'm catching a cold.",
+        "It feels as if I'm getting a cold."
+      ]
+    },
+    {
+      "ru": "У меня такое чувство, будто я знаю тебя много лет.",
+      "en": [
+        "I feel as if I've known you for years.",
+        "I feel as though I've known you for years.",
+        "I feel like I've known you for years.",
+        "I feel as if I've known you for many years.",
+        "I feel like I've known you for many years."
+      ]
+    },
+    {
+      "ru": "Не веди себя так, будто ничего не случилось.",
+      "en": [
+        "Don't act as if nothing happened.",
+        "Don't act as if nothing has happened.",
+        "Don't behave as if nothing happened.",
+        "Don't act as though nothing happened.",
+        "Don't act like nothing happened.",
+        "Don't behave as if nothing has happened.",
+        "Don't act like nothing has happened."
+      ]
+    },
+    {
+      "ru": "(он не начальник) Он ведёт себя так, будто он начальник.",
+      "en": [
+        "He behaves as if he was the boss.",
+        "He behaves as if he were the boss.",
+        "He acts as if he was the boss.",
+        "He acts as if he were the boss.",
+        "He behaves as though he was the boss.",
+        "He acts like he's the boss.",
+        "He behaves as if he's the boss.",
+        "He acts as if he's the boss.",
+        "He behaves like he's the boss."
+      ]
+    },
+    {
+      "ru": "Она говорит со мной так, будто я ребёнок.",
+      "en": [
+        "She talks to me as if I was a child.",
+        "She talks to me as if I were a child.",
+        "She talks to me as though I was a child.",
+        "She talks to me like I'm a child.",
+        "She talks to me as if I'm a child."
+      ]
+    },
+    {
+      "ru": "Он говорит по-английски так, будто он англичанин.",
+      "en": [
+        "He speaks English as if he was English.",
+        "He speaks English as if he were English.",
+        "He speaks English as though he was English.",
+        "He speaks English like he's English.",
+        "He speaks English as if he's English."
+      ]
+    },
+    {
+      "ru": "Он бежал так, будто за ним кто-то гнался.",
+      "en": [
+        "He ran as if somebody was chasing him.",
+        "He ran as if someone was chasing him.",
+        "He ran as though somebody was chasing him.",
+        "He ran like somebody was chasing him.",
+        "He ran like someone was chasing him.",
+        "He was running as if somebody was chasing him.",
+        "He ran as if somebody were chasing him."
+      ]
+    },
+    {
+      "ru": "Она посмотрела на меня так, будто не знала меня.",
+      "en": [
+        "She looked at me as if she didn't know me.",
+        "She looked at me as though she didn't know me.",
+        "She looked at me like she didn't know me.",
+        "She looked at me as if she didn't recognise me.",
+        "She looked at me as if she didn't recognize me."
+      ]
+    },
+    {
+      "ru": "Почему ты смотришь на меня так, будто я сумасшедший?",
+      "en": [
+        "Why are you looking at me as if I'm crazy?",
+        "Why are you looking at me as if I was crazy?",
+        "Why are you looking at me as if I were crazy?",
+        "Why are you looking at me as though I'm crazy?",
+        "Why are you looking at me like I'm crazy?"
+      ]
+    }
+  ]
+}

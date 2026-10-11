@@ -1,0 +1,100 @@
+{
+  "id": 86,
+  "section": "Местоимения и определители",
+  "title": "no/none/any, nothing/nobody etc.",
+  "subtitle": "no, none, nothing, nobody, nowhere — и почему без второго «не»",
+  "theory": [
+    { "type": "p", "text": "<b>no</b> + существительное = <b>not a</b> или <b>not any</b>: <b>There's no bank here.</b> = <b>There isn't a bank here.</b>; <b>I have no time.</b> = <b>I don't have any time.</b> С no можно начать предложение: <b>No reason was given.</b>" },
+    { "type": "p", "text": "<b>none</b> употребляем без существительного: <b>How many? — None.</b>, <b>There are none left.</b> Или в конструкции <b>none of</b> + the/my/these/them: <b>None of my friends came.</b> После <b>none of</b> + множественное число глагол может быть и в ед., и во мн. числе: <b>None of them is/are ready.</b>" },
+    { "type": "table", "head": ["no-", "= not + any-", "Пример"], "rows": [
+      ["nobody / no one", "not … anybody / anyone", "<b>I told nobody.</b> = <b>I didn't tell anybody.</b>"],
+      ["nothing", "not … anything", "<b>She said nothing.</b> = <b>She didn't say anything.</b>"],
+      ["nowhere", "not … anywhere", "<b>We have nowhere to go.</b> = <b>We don't have anywhere to go.</b>"]
+    ] },
+    { "type": "p", "text": "Слова nobody/nothing/nowhere могут стоять в начале предложения и служить коротким ответом: <b>Nobody knows.</b>, <b>Where are you going? — Nowhere.</b> После <b>nobody/no one</b> часто говорим <b>they/their</b>: <b>Nobody wants to lose their job.</b>" },
+    { "type": "list", "items": [
+      "<b>no</b> — «нет никакого»: <b>There was no bus.</b>",
+      "<b>any</b> — «любой»: <b>You can take any bus.</b>",
+      "<b>Nobody can do it.</b> (никто) — <b>Anybody can do it.</b> (кто угодно)"
+    ] },
+    { "type": "tip", "text": "Русское «Я <b>ничего не</b> сказал» нельзя переводить двумя отрицаниями. Либо <b>I said nothing</b>, либо <b>I didn't say anything</b>, но никогда <b>I didn't say nothing</b>." }
+  ],
+  "words": [
+    {
+      "en": "no",
+      "ru": "никакой, нет (перед существительным)"
+    },
+    {
+      "en": "none",
+      "ru": "ни одного, ничего (без существительного)"
+    },
+    {
+      "en": "none of",
+      "ru": "ни один из, никто из"
+    },
+    {
+      "en": "nothing",
+      "ru": "ничего"
+    },
+    {
+      "en": "nobody",
+      "ru": "никто"
+    },
+    {
+      "en": "nowhere",
+      "ru": "нигде, никуда"
+    },
+    {
+      "en": "anywhere",
+      "ru": "где угодно, куда угодно"
+    },
+    {
+      "en": "explanation",
+      "ru": "объяснение"
+    },
+    {
+      "en": "be left",
+      "ru": "оставаться"
+    },
+    {
+      "en": "lose",
+      "forms": "lost, lost",
+      "ru": "терять"
+    },
+    {
+      "en": "shelf",
+      "forms": "shelves",
+      "ru": "полка"
+    },
+    {
+      "en": "letter",
+      "ru": "письмо"
+    }
+  ],
+  "items": [
+    { "ru": "В этом городе нет кинотеатра.", "en": ["There's no cinema in this town.", "There isn't a cinema in this town.", "There's no cinema in the town.", "There isn't a cinema in the town.", "There's no movie theater in this town.", "There isn't a movie theater in this town."] },
+    { "ru": "У меня нет времени.", "en": ["I have no time.", "I've got no time.", "I don't have any time.", "I haven't got any time.", "I don't have time.", "I haven't got time."] },
+    { "ru": "Из-за снега не было никаких поездов.", "en": ["There were no trains because of the snow.", "There weren't any trains because of the snow.", "Because of the snow, there were no trains.", "Because of the snow, there weren't any trains."] },
+    { "ru": "Тому будет нетрудно найти квартиру.", "en": ["Tom will have no problem finding a flat.", "Tom will have no trouble finding a flat.", "Tom won't have any problem finding a flat.", "Tom won't have any trouble finding a flat.", "Tom will have no problem finding an apartment.", "Tom will have no difficulty finding a flat.", "Tom will have no trouble finding an apartment.", "Tom won't have any problem finding an apartment."] },
+    { "ru": "Нам не дали никакого объяснения.", "en": ["We were given no explanation.", "We weren't given any explanation.", "No explanation was given to us.", "Nobody gave us any explanation.", "No one gave us any explanation."] },
+    { "ru": "(Сколько у тебя братьев?) Ни одного.", "en": ["None.", "I don't have any.", "I haven't got any."] },
+    { "ru": "Мы съели все яблоки, ни одного не осталось.", "en": ["We ate all the apples, there are none left.", "We've eaten all the apples, there are none left.", "We ate all the apples, there are no apples left.", "We ate all the apples, there aren't any left.", "We've eaten all the apples, there aren't any left.", "We've eaten all the apples, there are no apples left."] },
+    { "ru": "Ни одна из этих книг не моя.", "en": ["None of these books are mine.", "None of these books is mine."] },
+    { "ru": "Никто из моих друзей не пришёл.", "en": ["None of my friends came."] },
+    { "ru": "(Что ты делал вчера?) Ничего, я весь день спал.", "en": ["Nothing, I slept all day.", "Nothing, I was sleeping all day.", "Nothing, I slept the whole day."] },
+    { "ru": "(Куда ты идёшь?) Никуда, я остаюсь дома.", "en": ["Nowhere, I'm staying at home.", "Nowhere, I'm staying home."] },
+    { "ru": "Никто не знает ответа.", "en": ["Nobody knows the answer.", "No one knows the answer."] },
+    { "ru": "В доме никого нет.", "en": ["There's nobody in the house.", "There's no one in the house.", "There isn't anybody in the house.", "There isn't anyone in the house.", "Nobody is in the house.", "No one is in the house."] },
+    { "ru": "Нам было нечего делать.", "en": ["We had nothing to do.", "We didn't have anything to do."] },
+    { "ru": "Она ничего не сказала.", "en": ["She said nothing.", "She didn't say anything."] },
+    { "ru": "Мне некуда пойти сегодня вечером.", "en": ["I have nowhere to go tonight.", "I've got nowhere to go tonight.", "I don't have anywhere to go tonight.", "I haven't got anywhere to go tonight.", "I have nowhere to go this evening.", "I don't have anywhere to go this evening."] },
+    { "ru": "Я никому не рассказал о письме.", "en": ["I didn't tell anybody about the letter.", "I didn't tell anyone about the letter.", "I told nobody about the letter.", "I told no one about the letter."] },
+    { "ru": "Он ничего не знает о футболе.", "en": ["He doesn't know anything about football.", "He knows nothing about football."] },
+    { "ru": "Никто не забыл свой паспорт.", "en": ["Nobody forgot their passport.", "No one forgot their passport.", "Nobody has forgotten their passport.", "No one has forgotten their passport."] },
+    { "ru": "Никто не хочет потерять свою работу.", "en": ["Nobody wants to lose their job.", "No one wants to lose their job."] },
+    { "ru": "Автобуса не было, поэтому мы взяли такси.", "en": ["There was no bus, so we took a taxi.", "There wasn't a bus, so we took a taxi.", "There was no bus, so we got a taxi.", "There wasn't a bus, so we got a taxi.", "There were no buses, so we took a taxi."] },
+    { "ru": "Можешь взять с полки любую книгу.", "en": ["You can take any book from the shelf.", "You can take any book off the shelf."] },
+    { "ru": "Я так устал, что мог бы спать где угодно.", "en": ["I'm so tired I could sleep anywhere.", "I'm so tired that I could sleep anywhere."] },
+    { "ru": "Эта игра очень простая, любой может в неё играть.", "en": ["This game is very easy, anybody can play it.", "This game is very easy, anyone can play it.", "This game is really easy, anybody can play it.", "This game is really easy, anyone can play it."] }
+  ]
+}

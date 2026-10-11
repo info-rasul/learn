@@ -1,0 +1,327 @@
+{
+  "id": 82,
+  "section": "Местоимения и определители",
+  "title": "myself/yourself/themselves etc.",
+  "subtitle": "Возвратные местоимения, each other и «сам» для усиления",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Возвратные местоимения нужны, когда подлежащее и дополнение — одно и то же лицо: <b>Anna introduced herself</b> (Анна представила себя). Русское «-ся/себя» часто переводится именно так."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Единственное",
+        "Множественное"
+      ],
+      "rows": [
+        [
+          "myself",
+          "ourselves"
+        ],
+        [
+          "yourself (одному)",
+          "yourselves (нескольким)"
+        ],
+        [
+          "himself / herself / itself",
+          "themselves"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>Don't blame yourself. He hurt himself. Help yourselves!</b>",
+        "После <b>feel, relax, concentrate, meet</b> возвратное местоимение не нужно: <b>I feel better. I can't concentrate.</b>",
+        "Обычно не нужно и после <b>wash, shave, dress</b>: <b>He washed and got dressed.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "-selves или each other"
+    },
+    {
+      "type": "p",
+      "text": "<b>They looked at themselves</b> — каждый смотрел на себя (в зеркало). <b>They looked at each other</b> — друг на друга. Вместо each other можно <b>one another</b>."
+    },
+    {
+      "type": "p",
+      "text": "«Сам, сама» для усиления: <b>I repaired my bike myself</b> (сам, без помощи), <b>You can do it yourself</b>, <b>The hotel itself was OK</b> (сам отель)."
+    },
+    {
+      "type": "tip",
+      "text": "Русское «-ся» не всегда = myself. Не говорите <b>I feel myself bad</b> или <b>relax yourself</b> — правильно <b>I feel bad</b>, <b>relax</b>. А «встретимся» — просто <b>meet</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "myself",
+      "ru": "себя, (я) сам"
+    },
+    {
+      "en": "yourself",
+      "ru": "себя, (ты/вы) сам"
+    },
+    {
+      "en": "himself",
+      "ru": "себя, (он) сам"
+    },
+    {
+      "en": "herself",
+      "ru": "себя, (она) сама"
+    },
+    {
+      "en": "itself",
+      "ru": "себя, сам (о предмете)"
+    },
+    {
+      "en": "ourselves",
+      "ru": "себя, (мы) сами"
+    },
+    {
+      "en": "yourselves",
+      "ru": "себя, (вы) сами"
+    },
+    {
+      "en": "themselves",
+      "ru": "себя, (они) сами"
+    },
+    {
+      "en": "each other",
+      "ru": "друг друга"
+    },
+    {
+      "en": "introduce",
+      "ru": "представлять (знакомить)"
+    },
+    {
+      "en": "enjoy yourself",
+      "ru": "хорошо проводить время, веселиться"
+    },
+    {
+      "en": "help yourself",
+      "ru": "угощайся, угощайтесь"
+    },
+    {
+      "en": "hurt",
+      "forms": "hurt, hurt",
+      "ru": "ушибить, поранить"
+    },
+    {
+      "en": "blame",
+      "ru": "винить"
+    },
+    {
+      "en": "concentrate",
+      "ru": "сосредоточиться"
+    },
+    {
+      "en": "get dressed",
+      "forms": "got, got",
+      "ru": "одеваться"
+    },
+    {
+      "en": "mirror",
+      "ru": "зеркало"
+    },
+    {
+      "en": "fall over",
+      "forms": "fell, fallen",
+      "ru": "упасть"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Она сама за себя заплатила.",
+      "en": [
+        "She paid for herself."
+      ]
+    },
+    {
+      "ru": "Анна представилась гостям.",
+      "en": [
+        "Anna introduced herself to the guests."
+      ]
+    },
+    {
+      "ru": "Ты разговариваешь сам с собой?",
+      "en": [
+        "Do you talk to yourself?",
+        "Are you talking to yourself?"
+      ]
+    },
+    {
+      "ru": "(гостям) Угощайтесь!",
+      "en": [
+        "Help yourselves!"
+      ]
+    },
+    {
+      "ru": "Мы отлично повеселились на вечеринке.",
+      "en": [
+        "We enjoyed ourselves at the party.",
+        "We really enjoyed ourselves at the party.",
+        "We had a great time at the party.",
+        "We had a lot of fun at the party.",
+        "We had a really good time at the party."
+      ]
+    },
+    {
+      "ru": "Осторожно! Не порежься!",
+      "en": [
+        "Be careful! Don't cut yourself!",
+        "Careful! Don't cut yourself!"
+      ]
+    },
+    {
+      "ru": "Он упал, но не ушибся.",
+      "en": [
+        "He fell over, but he didn't hurt himself.",
+        "He fell, but he didn't hurt himself.",
+        "He fell down, but he didn't hurt himself.",
+        "He fell over, but didn't hurt himself.",
+        "He fell, but didn't hurt himself.",
+        "He fell down, but didn't hurt himself."
+      ]
+    },
+    {
+      "ru": "Не вини себя.",
+      "en": [
+        "Don't blame yourself."
+      ]
+    },
+    {
+      "ru": "Я устал и не могу сосредоточиться.",
+      "en": [
+        "I'm tired and I can't concentrate.",
+        "I'm tired and can't concentrate.",
+        "I'm tired and I can't focus.",
+        "I'm tired and can't focus."
+      ]
+    },
+    {
+      "ru": "Где мы встретимся в субботу?",
+      "en": [
+        "Where shall we meet on Saturday?",
+        "Where are we meeting on Saturday?",
+        "Where should we meet on Saturday?",
+        "Where will we meet on Saturday?",
+        "Where are we going to meet on Saturday?"
+      ]
+    },
+    {
+      "ru": "Сегодня я чувствую себя гораздо лучше.",
+      "en": [
+        "I feel much better today.",
+        "Today I feel much better.",
+        "I feel a lot better today.",
+        "Today I feel a lot better."
+      ]
+    },
+    {
+      "ru": "Он встал, умылся и оделся.",
+      "en": [
+        "He got up, washed and got dressed.",
+        "He got up, washed and dressed.",
+        "He got up, had a wash and got dressed."
+      ]
+    },
+    {
+      "ru": "Сара и Кейт посмотрели на себя в зеркало.",
+      "en": [
+        "Sarah and Kate looked at themselves in the mirror."
+      ]
+    },
+    {
+      "ru": "Они посмотрели друг на друга и засмеялись.",
+      "en": [
+        "They looked at each other and laughed.",
+        "They looked at one another and laughed."
+      ]
+    },
+    {
+      "ru": "Как давно вы с Джоном знаете друг друга?",
+      "en": [
+        "How long have you and John known each other?",
+        "How long have you and John known one another?"
+      ]
+    },
+    {
+      "ru": "Мы видимся не очень часто.",
+      "en": [
+        "We don't see each other very often.",
+        "We don't see one another very often."
+      ]
+    },
+    {
+      "ru": "Они больше не разговаривают друг с другом.",
+      "en": [
+        "They don't talk to each other any more.",
+        "They don't talk to each other anymore.",
+        "They don't speak to each other any more.",
+        "They don't speak to each other anymore.",
+        "They no longer talk to each other.",
+        "They no longer speak to each other."
+      ]
+    },
+    {
+      "ru": "Я сам починил свой велосипед.",
+      "en": [
+        "I repaired my bike myself.",
+        "I fixed my bike myself.",
+        "I repaired my bicycle myself.",
+        "I fixed my bicycle myself."
+      ]
+    },
+    {
+      "ru": "Ты можешь приготовить ужин сам.",
+      "en": [
+        "You can cook dinner yourself.",
+        "You can make dinner yourself."
+      ]
+    },
+    {
+      "ru": "Давай покрасим кухню сами.",
+      "en": [
+        "Let's paint the kitchen ourselves."
+      ]
+    },
+    {
+      "ru": "Сам отель был неплохой, но еда была ужасной.",
+      "en": [
+        "The hotel itself was OK, but the food was terrible.",
+        "The hotel itself wasn't bad, but the food was terrible.",
+        "The hotel itself was OK, but the food was awful.",
+        "The hotel itself wasn't bad, but the food was awful.",
+        "The hotel itself was okay, but the food was terrible.",
+        "The hotel itself was okay, but the food was awful."
+      ]
+    },
+    {
+      "ru": "Мне это сказала сама Эмма.",
+      "en": [
+        "Emma told me herself.",
+        "Emma herself told me.",
+        "Emma told me this herself.",
+        "Emma told me that herself."
+      ]
+    },
+    {
+      "ru": "Мы испекли этот торт сами.",
+      "en": [
+        "We made this cake ourselves.",
+        "We baked this cake ourselves."
+      ]
+    },
+    {
+      "ru": "Дети могут сами о себе позаботиться.",
+      "en": [
+        "The children can take care of themselves.",
+        "The children can look after themselves.",
+        "The kids can take care of themselves.",
+        "The kids can look after themselves."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "id": 106,
+  "section": "Прилагательные и наречия",
+  "title": "Comparative 2 (much better / any better etc.)",
+  "subtitle": "Намного, чуть-чуть, всё больше, чем… тем…",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Перед сравнительной степенью можно поставить усилитель: <b>much / a lot / far</b> (намного) или <b>a bit / a little / slightly</b> (чуть-чуть): <b>much cheaper</b>, <b>a lot more interesting</b>, <b>slightly bigger</b>, <b>a bit more slowly</b>."
+    },
+    {
+      "type": "p",
+      "text": "<b>any / no</b> + сравнительная степень: <b>Is it any better?</b> (хоть сколько-то лучше?), <b>I can't wait any longer</b>, <b>This bag is no heavier than that one</b> (= isn't any heavier)."
+    },
+    {
+      "type": "p",
+      "text": "Повтор сравнения показывает постоянное изменение: <b>bigger and bigger</b> (всё больше), <b>more and more difficult</b> (всё труднее), <b>more and more people</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Чем…, тем…",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "the + сравн., the + сравн.",
+          "<b>The longer I wait, the angrier I get.</b>"
+        ],
+        [
+          "без глагола",
+          "<b>The bigger the room, the higher the price.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>older / elder</b>: о старших членах семьи можно сказать <b>my elder sister</b> (= my older sister). Но после глагола и с than — только older: <b>She is two years older than me.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "«Намного лучше» — это <b>much better</b>, а не very better: very со сравнительной степенью не используется. А в «чем…, тем…» не забывайте артикль <b>the</b> в обеих частях."
+    }
+  ],
+  "words": [
+    {
+      "en": "much",
+      "ru": "намного, гораздо (+ сравнительная степень)"
+    },
+    {
+      "en": "a bit",
+      "ru": "немного, чуть-чуть"
+    },
+    {
+      "en": "slightly",
+      "ru": "слегка, немного"
+    },
+    {
+      "en": "any longer",
+      "ru": "больше (не), дольше"
+    },
+    {
+      "en": "any better",
+      "ru": "хоть немного лучше"
+    },
+    {
+      "en": "no better than",
+      "ru": "ничуть не лучше, чем"
+    },
+    {
+      "en": "more and more",
+      "ru": "всё больше, всё более"
+    },
+    {
+      "en": "the more ... the better",
+      "ru": "чем больше…, тем лучше"
+    },
+    {
+      "en": "get",
+      "forms": "got, got",
+      "ru": "становиться"
+    },
+    {
+      "en": "elder",
+      "ru": "старший (о брате, сестре)"
+    },
+    {
+      "en": "model",
+      "ru": "модель"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Этот отель намного дешевле.",
+      "en": [
+        "This hotel is much cheaper.",
+        "This hotel is a lot cheaper.",
+        "This hotel is far cheaper."
+      ]
+    },
+    {
+      "ru": "Её квартира гораздо больше моей.",
+      "en": [
+        "Her flat is much bigger than mine.",
+        "Her flat is a lot bigger than mine.",
+        "Her flat is far bigger than mine.",
+        "Her apartment is much bigger than mine.",
+        "Her apartment is a lot bigger than mine.",
+        "Her apartment is far bigger than mine."
+      ]
+    },
+    {
+      "ru": "Поезд гораздо быстрее, чем автобус.",
+      "en": [
+        "The train is much faster than the bus.",
+        "The train is a lot faster than the bus.",
+        "The train is far faster than the bus.",
+        "The train is much quicker than the bus.",
+        "The train is a lot quicker than the bus.",
+        "A train is much faster than a bus.",
+        "Trains are much faster than buses."
+      ]
+    },
+    {
+      "ru": "Он гораздо умнее, чем я думал.",
+      "en": [
+        "He's much cleverer than I thought.",
+        "He's much smarter than I thought.",
+        "He's a lot cleverer than I thought.",
+        "He's a lot smarter than I thought.",
+        "He's far cleverer than I thought.",
+        "He's far smarter than I thought.",
+        "He's much more intelligent than I thought.",
+        "He's a lot more intelligent than I thought."
+      ]
+    },
+    {
+      "ru": "Сегодня немного теплее.",
+      "en": [
+        "It's a bit warmer today.",
+        "It's a little warmer today.",
+        "It's slightly warmer today.",
+        "Today it's a bit warmer.",
+        "Today it's a little warmer.",
+        "Today it's slightly warmer."
+      ]
+    },
+    {
+      "ru": "Новая модель немного дороже.",
+      "en": [
+        "The new model is slightly more expensive.",
+        "The new model is a bit more expensive.",
+        "The new model is a little more expensive."
+      ]
+    },
+    {
+      "ru": "Можешь говорить чуть медленнее?",
+      "en": [
+        "Can you speak a bit more slowly?",
+        "Can you speak a little more slowly?",
+        "Could you speak a bit more slowly?",
+        "Could you speak a little more slowly?",
+        "Can you speak a bit slower?",
+        "Could you speak a bit slower?",
+        "Can you speak a little slower?",
+        "Could you speak a little slower?",
+        "Can you speak slightly more slowly?"
+      ]
+    },
+    {
+      "ru": "Ты не мог бы прийти чуть пораньше?",
+      "en": [
+        "Could you come a bit earlier?",
+        "Could you come a little earlier?",
+        "Can you come a bit earlier?",
+        "Can you come a little earlier?",
+        "Could you come slightly earlier?",
+        "Could you come a little bit earlier?"
+      ]
+    },
+    {
+      "ru": "Теперь он водит машину гораздо осторожнее.",
+      "en": [
+        "He drives much more carefully now.",
+        "Now he drives much more carefully.",
+        "He drives a lot more carefully now.",
+        "He drives far more carefully now.",
+        "Now he drives a lot more carefully.",
+        "He now drives much more carefully."
+      ]
+    },
+    {
+      "ru": "Я больше не могу ждать.",
+      "en": [
+        "I can't wait any longer.",
+        "I can't wait any more.",
+        "I can't wait anymore.",
+        "I can no longer wait."
+      ]
+    },
+    {
+      "ru": "Твоей маме хоть немного лучше?",
+      "en": [
+        "Is your mother any better?",
+        "Is your mum any better?",
+        "Is your mother feeling any better?",
+        "Is your mum feeling any better?",
+        "Is your mom any better?",
+        "Is your mom feeling any better?",
+        "Does your mother feel any better?",
+        "Does your mum feel any better?"
+      ]
+    },
+    {
+      "ru": "Новый телефон ничуть не лучше старого.",
+      "en": [
+        "The new phone is no better than the old one.",
+        "The new phone isn't any better than the old one."
+      ]
+    },
+    {
+      "ru": "Их сад ничуть не больше нашего.",
+      "en": [
+        "Their garden is no bigger than ours.",
+        "Their garden isn't any bigger than ours."
+      ]
+    },
+    {
+      "ru": "Становится всё холоднее.",
+      "en": [
+        "It's getting colder and colder.",
+        "It's becoming colder and colder."
+      ]
+    },
+    {
+      "ru": "Мой английский становится всё лучше и лучше.",
+      "en": [
+        "My English is getting better and better.",
+        "My English is becoming better and better."
+      ]
+    },
+    {
+      "ru": "Билеты становятся всё дороже.",
+      "en": [
+        "Tickets are getting more and more expensive.",
+        "Tickets are becoming more and more expensive.",
+        "The tickets are getting more and more expensive."
+      ]
+    },
+    {
+      "ru": "Всё больше людей работают из дома.",
+      "en": [
+        "More and more people work from home.",
+        "More and more people are working from home."
+      ]
+    },
+    {
+      "ru": "Чем раньше мы выйдем, тем раньше приедем.",
+      "en": [
+        "The earlier we leave, the earlier we'll arrive.",
+        "The sooner we leave, the sooner we'll arrive.",
+        "The sooner we leave, the sooner we'll get there.",
+        "The earlier we leave, the earlier we'll get there.",
+        "The earlier we leave, the sooner we'll arrive.",
+        "The earlier we leave, the sooner we'll get there."
+      ]
+    },
+    {
+      "ru": "Чем больше ты практикуешься, тем лучше говоришь.",
+      "en": [
+        "The more you practise, the better you speak.",
+        "The more you practice, the better you speak.",
+        "The more you practise, the better you'll speak.",
+        "The more you practice, the better you'll speak."
+      ]
+    },
+    {
+      "ru": "Чем старше я становлюсь, тем меньше сплю.",
+      "en": [
+        "The older I get, the less I sleep."
+      ]
+    },
+    {
+      "ru": "Чем дороже ресторан, тем лучше еда.",
+      "en": [
+        "The more expensive the restaurant, the better the food.",
+        "The more expensive the restaurant is, the better the food is."
+      ]
+    },
+    {
+      "ru": "Мой старший брат — врач.",
+      "en": [
+        "My elder brother is a doctor.",
+        "My older brother is a doctor.",
+        "My big brother is a doctor."
+      ]
+    },
+    {
+      "ru": "Анна на три года старше меня.",
+      "en": [
+        "Anna is three years older than me.",
+        "Anna is three years older than I am."
+      ]
+    },
+    {
+      "ru": "Мне нужно немного больше времени.",
+      "en": [
+        "I need a bit more time.",
+        "I need a little more time.",
+        "I need a little bit more time.",
+        "I need slightly more time."
+      ]
+    }
+  ]
+}

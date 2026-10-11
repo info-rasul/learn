@@ -1,0 +1,289 @@
+{
+  "id": 71,
+  "section": "Артикли и существительные",
+  "title": "Countable nouns with a/an and some",
+  "subtitle": "Исчисляемые существительные: a/an, множественное число и some",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Исчисляемое существительное в единственном числе не может стоять «голым»: перед ним нужен <b>a/an</b>, <b>the</b>, <b>my</b>, <b>this</b> и т.п. Не He wears hat, а <b>He wears a hat</b>. Во множественном числе слово может стоять одно: <b>Cats are animals.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Единственное",
+        "Множественное"
+      ],
+      "rows": [
+        [
+          "A cat is an animal.",
+          "Cats are animals."
+        ],
+        [
+          "She's a doctor.",
+          "They're doctors."
+        ],
+        [
+          "What a nice day!",
+          "What nice flowers!"
+        ],
+        [
+          "He has a big nose.",
+          "He has blue eyes."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>a/an</b> отвечает на вопрос «что это / кто это такой»: <b>It's a bird. She's a nurse.</b>",
+        "Профессия — всегда с артиклем: <b>My brother is a teacher</b> (не is teacher).",
+        "Внешность: <b>a long nose, a small mouth</b>, но во множественном числе — без артикля: <b>blue eyes, long legs</b>."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Some с множественным числом"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>some</b> = несколько, какое-то количество: <b>I bought some books.</b> Часто some можно опустить: <b>I need (some) new jeans.</b>",
+        "Когда говорим о вещах вообще, some не нужен: <b>I love oranges. She paints pictures.</b>",
+        "<b>some</b> = некоторые, но не все: <b>Some people don't like coffee.</b>"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Описание или профессия во множественном числе — без some: <b>They're good students</b> (не some good students)."
+    },
+    {
+      "type": "tip",
+      "text": "В русском нет артиклей, поэтому так и тянет сказать I am student или She has car. Правило простое: если слово исчисляемое и стоит в единственном числе — перед ним обязательно что-то должно быть: <b>a, the, my, this</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "some",
+      "ru": "несколько, некоторые"
+    },
+    {
+      "en": "both",
+      "ru": "оба"
+    },
+    {
+      "en": "nurse",
+      "ru": "медсестра"
+    },
+    {
+      "en": "comfortable",
+      "ru": "удобный"
+    },
+    {
+      "en": "animal",
+      "ru": "животное"
+    },
+    {
+      "en": "nose",
+      "ru": "нос"
+    },
+    {
+      "en": "jeans",
+      "ru": "джинсы"
+    },
+    {
+      "en": "artist",
+      "ru": "художник"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Тебе нужна сумка?",
+      "en": [
+        "Do you need a bag?"
+      ]
+    },
+    {
+      "ru": "Он никогда не носит шарф.",
+      "en": [
+        "He never wears a scarf."
+      ]
+    },
+    {
+      "ru": "Какой чудесный вечер!",
+      "en": [
+        "What a lovely evening!",
+        "What a wonderful evening!",
+        "What a beautiful evening!",
+        "What a nice evening!"
+      ]
+    },
+    {
+      "ru": "Моя сестра — медсестра.",
+      "en": [
+        "My sister is a nurse."
+      ]
+    },
+    {
+      "ru": "Её родители оба врачи.",
+      "en": [
+        "Her parents are both doctors.",
+        "Both her parents are doctors.",
+        "Both of her parents are doctors."
+      ]
+    },
+    {
+      "ru": "Пол — очень добрый человек.",
+      "en": [
+        "Paul is a very kind person.",
+        "Paul is a very kind man."
+      ]
+    },
+    {
+      "ru": "Пол и Анна — очень добрые люди.",
+      "en": [
+        "Paul and Anna are very kind people."
+      ]
+    },
+    {
+      "ru": "Это удобные кресла.",
+      "en": [
+        "These are comfortable chairs.",
+        "Those are comfortable chairs.",
+        "These are comfortable armchairs.",
+        "Those are comfortable armchairs.",
+        "They're comfortable chairs.",
+        "They're comfortable armchairs."
+      ]
+    },
+    {
+      "ru": "Кошка — это животное.",
+      "en": [
+        "A cat is an animal."
+      ]
+    },
+    {
+      "ru": "Кошки — животные.",
+      "en": [
+        "Cats are animals."
+      ]
+    },
+    {
+      "ru": "У Тома большие голубые глаза.",
+      "en": [
+        "Tom has big blue eyes.",
+        "Tom has got big blue eyes."
+      ]
+    },
+    {
+      "ru": "У Лизы маленький нос.",
+      "en": [
+        "Lisa has a small nose.",
+        "Lisa has got a small nose."
+      ]
+    },
+    {
+      "ru": "Ты хотел бы стать учителем?",
+      "en": [
+        "Would you like to be a teacher?",
+        "Would you like to become a teacher?"
+      ]
+    },
+    {
+      "ru": "Какие красивые цветы!",
+      "en": [
+        "What beautiful flowers!",
+        "What lovely flowers!",
+        "What nice flowers!"
+      ]
+    },
+    {
+      "ru": "Вчера я купил несколько книг.",
+      "en": [
+        "I bought some books yesterday.",
+        "Yesterday I bought some books.",
+        "I bought a few books yesterday.",
+        "Yesterday I bought a few books.",
+        "I bought several books yesterday.",
+        "Yesterday I bought several books."
+      ]
+    },
+    {
+      "ru": "Несколько моих друзей приедут к нам в субботу.",
+      "en": [
+        "Some friends of mine are coming to see us on Saturday.",
+        "Some of my friends are coming to see us on Saturday.",
+        "Some friends of mine are visiting us on Saturday.",
+        "Some of my friends are visiting us on Saturday.",
+        "A few of my friends are coming to see us on Saturday.",
+        "A few friends of mine are coming to see us on Saturday.",
+        "Several of my friends are coming to see us on Saturday.",
+        "Several friends of mine are coming to see us on Saturday.",
+        "A few of my friends are visiting us on Saturday.",
+        "Several of my friends are visiting us on Saturday."
+      ]
+    },
+    {
+      "ru": "Мне нужны новые джинсы.",
+      "en": [
+        "I need some new jeans.",
+        "I need new jeans.",
+        "I need a new pair of jeans."
+      ]
+    },
+    {
+      "ru": "(вообще) Я люблю апельсины.",
+      "en": [
+        "I love oranges.",
+        "I like oranges."
+      ]
+    },
+    {
+      "ru": "Она художница. Она рисует картины.",
+      "en": [
+        "She's an artist. She paints pictures.",
+        "She's a painter. She paints pictures."
+      ]
+    },
+    {
+      "ru": "Некоторые люди не любят кофе.",
+      "en": [
+        "Some people don't like coffee."
+      ]
+    },
+    {
+      "ru": "Завтра в некоторых местах будет снег.",
+      "en": [
+        "There will be snow in some places tomorrow.",
+        "Tomorrow there will be snow in some places.",
+        "It will snow in some places tomorrow.",
+        "Tomorrow it will snow in some places."
+      ]
+    },
+    {
+      "ru": "Я не могу работать. У меня болит голова.",
+      "en": [
+        "I can't work. I have a headache.",
+        "I can't work. I've got a headache."
+      ]
+    },
+    {
+      "ru": "Когда я был ребёнком, я много читал.",
+      "en": [
+        "When I was a child, I read a lot.",
+        "I read a lot when I was a child.",
+        "When I was a child, I used to read a lot.",
+        "I used to read a lot when I was a child."
+      ]
+    },
+    {
+      "ru": "Все мои соседи — студенты.",
+      "en": [
+        "All my neighbours are students.",
+        "All my neighbors are students.",
+        "All of my neighbours are students.",
+        "All of my neighbors are students."
+      ]
+    }
+  ]
+}

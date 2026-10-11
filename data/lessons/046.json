@@ -1,0 +1,111 @@
+{
+  "id": 46,
+  "section": "Пассивный залог",
+  "title": "have something done",
+  "subtitle": "Сделать что-то чужими руками: have/get something done",
+  "theory": [
+    { "type": "p", "text": "Когда по-русски говорят «я подстригся», «мы покрасили дом», часто имеют в виду, что это сделал кто-то другой по нашей просьбе. По-английски это <b>have + предмет + 3-я форма</b>: <b>I had my hair cut.</b> <b>We had the house painted.</b>" },
+    { "type": "p", "text": "Сравните: <b>Paul repaired his bike.</b> — Пол сам починил велосипед. <b>Paul had his bike repaired.</b> — Пол отдал велосипед в ремонт." },
+    { "type": "table", "head": ["have", "что", "3-я форма"], "rows": [
+      ["I had", "my hair", "<b>cut</b>"],
+      ["We are having", "the roof", "<b>repaired</b>"],
+      ["How often do you have", "your car", "<b>serviced</b>?"],
+      ["You should have", "your eyes", "<b>tested</b>"]
+    ] },
+    { "type": "p", "text": "В разговоре вместо <b>have</b> часто говорят <b>get</b>: <b>You should get your hair cut.</b> <b>I need to get this document translated.</b>" },
+    { "type": "p", "text": "Та же конструкция описывает неприятность, которая <b>случилась</b> с человеком или его вещами (никто ничего не заказывал): <b>Tom had his bike stolen.</b> — У Тома украли велосипед. <b>He had his arm broken.</b> — Ему сломали руку." },
+    { "type": "tip", "text": "Следите за порядком слов: предмет стоит <b>между</b> have и причастием. Не <b>I had cut my hair</b> (это «я сам подстриг себя раньше»), а <b>I had my hair cut</b>." }
+  ],
+  "words": [
+    {
+      "en": "have something done",
+      "ru": "поручить сделать что-то (кому-то другому)"
+    },
+    {
+      "en": "get something done",
+      "ru": "поручить сделать что-то (разг.)"
+    },
+    {
+      "en": "himself",
+      "ru": "сам (он сам), себя"
+    },
+    {
+      "en": "yourself",
+      "ru": "сам (ты сам), себя"
+    },
+    {
+      "en": "roof",
+      "ru": "крыша"
+    },
+    {
+      "en": "test",
+      "ru": "проверять (зрение, слух)"
+    },
+    {
+      "en": "translate",
+      "ru": "переводить (на другой язык)"
+    },
+    {
+      "en": "document",
+      "ru": "документ"
+    },
+    {
+      "en": "service",
+      "ru": "обслуживать, проводить техосмотр"
+    },
+    {
+      "en": "key",
+      "ru": "ключ"
+    },
+    {
+      "en": "frame",
+      "ru": "вставлять в рамку"
+    },
+    {
+      "en": "picture",
+      "ru": "фотография, снимок"
+    },
+    {
+      "en": "heart",
+      "ru": "сердце"
+    },
+    {
+      "en": "fight",
+      "ru": "драка"
+    },
+    {
+      "en": "search",
+      "ru": "обыскивать, досматривать"
+    },
+    {
+      "en": "flight",
+      "ru": "рейс, полёт"
+    }
+  ],
+  "items": [
+    { "ru": "(в парикмахерской) Я вчера подстригся.", "en": ["I had my hair cut yesterday.", "I got my hair cut yesterday.", "Yesterday I had my hair cut.", "Yesterday I got my hair cut."] },
+    { "ru": "(нанимали маляров) Мы покрасили дом в прошлом месяце.", "en": ["We had our house painted last month.", "We had the house painted last month.", "We got our house painted last month.", "We got the house painted last month.", "Last month we had our house painted.", "Last month we had the house painted.", "Last month we got our house painted.", "Last month we got the house painted."] },
+    { "ru": "(сам, без помощи) Пол сам починил свой велосипед.", "en": ["Paul repaired his bike himself.", "Paul fixed his bike himself.", "Paul repaired his bicycle himself.", "Paul fixed his bicycle himself.", "Paul repaired his bike by himself.", "Paul fixed his bike by himself."] },
+    { "ru": "Где ты стрижёшься?", "en": ["Where do you have your hair cut?", "Where do you get your hair cut?"] },
+    { "ru": "Как часто вы чистите ковры в химчистке?", "en": ["How often do you have your carpets cleaned?", "How often do you get your carpets cleaned?", "How often do you have your carpets dry-cleaned?", "How often do you get your carpets dry-cleaned?", "How often do you have the carpets cleaned?", "How often do you get the carpets cleaned?"] },
+    { "ru": "(мастера сейчас работают) Нам ремонтируют крышу.", "en": ["We're having the roof repaired.", "We're having our roof repaired.", "We're getting the roof repaired.", "We're getting our roof repaired."] },
+    { "ru": "Тебе нужно отдать пиджак в химчистку.", "en": ["You need to have your jacket cleaned.", "You need to get your jacket cleaned.", "You need to have your jacket dry-cleaned.", "You need to get your jacket dry-cleaned."] },
+    { "ru": "(у врача) Я хочу проверить зрение.", "en": ["I want to have my eyes tested.", "I want to have my eyes checked.", "I want to get my eyes tested.", "I want to get my eyes checked.", "I want to have my eyesight tested.", "I want to have my eyesight checked.", "I want to get my eyesight tested.", "I want to get my eyesight checked."] },
+    { "ru": "Ты сама сшила это платье или заказала?", "en": ["Did you make this dress yourself or have it made?", "Did you make this dress yourself or did you have it made?", "Did you make this dress yourself or get it made?", "Did you make this dress yourself or did you get it made?"] },
+    { "ru": "Я не люблю фотографироваться.", "en": ["I don't like having my picture taken.", "I don't like having my photo taken.", "I don't like having my photograph taken.", "I don't like getting my picture taken.", "I don't like getting my photo taken.", "I don't like to have my picture taken.", "I don't like to have my photo taken.", "I don't like being photographed."] },
+    { "ru": "Нам нужно перевести этот документ (у переводчика).", "en": ["We need to get this document translated.", "We need to have this document translated."] },
+    { "ru": "Когда ты отдашь телефон в ремонт?", "en": ["When are you going to get your phone repaired?", "When are you going to have your phone repaired?", "When are you going to get your phone fixed?", "When are you going to have your phone fixed?", "When will you get your phone repaired?", "When will you have your phone repaired?", "When will you get your phone fixed?", "When will you have your phone fixed?"] },
+    { "ru": "Тебе стоит подстричься покороче.", "en": ["You should get your hair cut shorter.", "You should have your hair cut shorter."] },
+    { "ru": "Она раз в год делает техосмотр машины.", "en": ["She has her car serviced once a year.", "She gets her car serviced once a year.", "Once a year she has her car serviced.", "Once a year she gets her car serviced."] },
+    { "ru": "(в мастерской) Мне сделали новый ключ.", "en": ["I had a new key made.", "I got a new key made.", "I had a new key cut.", "I got a new key cut."] },
+    { "ru": "Я хочу вставить эту фотографию в рамку (в мастерской).", "en": ["I want to get this photo framed.", "I want to have this photo framed.", "I want to get this picture framed.", "I want to have this picture framed.", "I want to get this photograph framed.", "I want to have this photograph framed."] },
+    { "ru": "Тебе нужно проверить сердце у врача.", "en": ["You need to have your heart checked.", "You need to get your heart checked.", "You should have your heart checked.", "You should get your heart checked."] },
+    { "ru": "Нам нужно вызвать мойщиков окон.", "en": ["We need to have the windows cleaned.", "We need to get the windows cleaned.", "We need to have our windows cleaned.", "We need to get our windows cleaned."] },
+    { "ru": "У Тома украли велосипед.", "en": ["Tom had his bike stolen.", "Tom had his bicycle stolen.", "Tom's bike was stolen.", "Tom's bicycle was stolen.", "Tom got his bike stolen."] },
+    { "ru": "У тебя когда-нибудь крали кошелёк?", "en": ["Have you ever had your wallet stolen?", "Have you ever had your purse stolen?", "Has your wallet ever been stolen?", "Has your purse ever been stolen?"] },
+    { "ru": "Ему сломали руку в драке.", "en": ["He had his arm broken in a fight.", "He got his arm broken in a fight.", "His arm was broken in a fight."] },
+    { "ru": "В аэропорту у нас обыскали сумки.", "en": ["We had our bags searched at the airport.", "Our bags were searched at the airport.", "We got our bags searched at the airport."] },
+    { "ru": "У Лизы отменили рейс.", "en": ["Lisa had her flight cancelled.", "Lisa's flight was cancelled.", "Lisa had her flight canceled.", "Lisa's flight was canceled.", "Lisa's flight got cancelled."] },
+    { "ru": "Во время поездки у них украли паспорта.", "en": ["They had their passports stolen during the trip.", "Their passports were stolen during the trip.", "They got their passports stolen during the trip.", "They had their passports stolen on the trip.", "Their passports were stolen on the trip."] }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "id": 114,
+  "section": "Союзы и предлоги",
+  "title": "in case",
+  "subtitle": "«На случай, если»: меры предосторожности и отличие от if",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>in case</b> = «на случай, если». Мы делаем что-то заранее, потому что что-то может случиться: <b>Take a sweater in case it gets cold.</b> (свитер берём в любом случае, просто на всякий случай)."
+    },
+    {
+      "type": "p",
+      "text": "После <b>in case</b> о будущем говорим в настоящем времени, без will: <b>in case it rains</b>, а не in case it will rain."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Смысл",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "in case",
+          "делаю сейчас, заранее, на всякий случай",
+          "I'll give you my number in case you get lost."
+        ],
+        [
+          "if",
+          "сделаю только тогда, когда это произойдёт",
+          "I'll call you if I get lost."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>just in case</b> — «на всякий случай» в конце фразы: <b>Take some cash, just in case.</b>",
+        "<b>in case of</b> + существительное = «в случае» (часто в объявлениях): <b>In case of emergency, call this number.</b>",
+        "О прошлом: <b>in case</b> + Past Simple: <b>I took a map in case I got lost.</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Не путайте <b>in case</b> и <b>if</b>. «Я позвоню, если опоздаю» — это <b>if</b> (звонок только при опоздании). «Дам тебе номер на случай, если опоздаю» — это <b>in case</b> (номер даю сейчас). И не ставьте will после in case."
+    }
+  ],
+  "words": [
+    {
+      "en": "in case",
+      "ru": "на случай, если"
+    },
+    {
+      "en": "just in case",
+      "ru": "на всякий случай"
+    },
+    {
+      "en": "in case of",
+      "ru": "в случае (чего-либо)"
+    },
+    {
+      "en": "get lost",
+      "ru": "заблудиться"
+    },
+    {
+      "en": "get thirsty",
+      "ru": "захотеть пить"
+    },
+    {
+      "en": "write down",
+      "forms": "wrote, written",
+      "ru": "записать"
+    },
+    {
+      "en": "turn off",
+      "ru": "выключать"
+    },
+    {
+      "en": "map",
+      "ru": "карта"
+    },
+    {
+      "en": "spare",
+      "ru": "запасной"
+    },
+    {
+      "en": "copy",
+      "ru": "копия"
+    },
+    {
+      "en": "stairs",
+      "ru": "лестница"
+    },
+    {
+      "en": "danger",
+      "ru": "опасность"
+    },
+    {
+      "en": "timetable",
+      "ru": "расписание"
+    },
+    {
+      "en": "extra",
+      "ru": "лишний, дополнительный"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Возьми зонт на случай, если пойдёт дождь.",
+      "en": [
+        "Take an umbrella in case it rains.",
+        "Take an umbrella with you in case it rains.",
+        "Take your umbrella in case it rains."
+      ]
+    },
+    {
+      "ru": "Я запишу твой номер на случай, если забуду его.",
+      "en": [
+        "I'll write down your number in case I forget it.",
+        "I'll write your number down in case I forget it."
+      ]
+    },
+    {
+      "ru": "Возьми с собой воды на случай, если захочешь пить.",
+      "en": [
+        "Take some water with you in case you get thirsty.",
+        "Take some water in case you get thirsty.",
+        "Take water with you in case you get thirsty.",
+        "Take some water with you in case you're thirsty."
+      ]
+    },
+    {
+      "ru": "Я возьму телефон на случай, если ты позвонишь.",
+      "en": [
+        "I'll take my phone in case you call.",
+        "I'll take my phone in case you phone.",
+        "I'll take my phone with me in case you call.",
+        "I'll take the phone in case you call."
+      ]
+    },
+    {
+      "ru": "Возьми карту на случай, если заблудишься.",
+      "en": [
+        "Take a map in case you get lost.",
+        "Take a map with you in case you get lost."
+      ]
+    },
+    {
+      "ru": "Оставь ключ соседу на случай, если потеряешь свой.",
+      "en": [
+        "Leave a key with a neighbour in case you lose yours.",
+        "Leave a key with a neighbor in case you lose yours.",
+        "Leave a key with your neighbour in case you lose yours.",
+        "Leave a key with your neighbor in case you lose yours.",
+        "Give a key to a neighbour in case you lose yours."
+      ]
+    },
+    {
+      "ru": "Я не буду выключать телефон на случай, если Анна позвонит.",
+      "en": [
+        "I won't turn off my phone in case Anna calls.",
+        "I won't turn my phone off in case Anna calls.",
+        "I won't switch off my phone in case Anna calls.",
+        "I won't switch my phone off in case Anna calls."
+      ]
+    },
+    {
+      "ru": "Я не хочу уходить на случай, если позвонит врач.",
+      "en": [
+        "I don't want to go out in case the doctor calls.",
+        "I don't want to leave in case the doctor calls.",
+        "I don't want to go out in case the doctor phones.",
+        "I don't want to leave in case the doctor phones."
+      ]
+    },
+    {
+      "ru": "Купи ещё хлеба на случай, если придут гости.",
+      "en": [
+        "Buy some more bread in case guests come.",
+        "Buy more bread in case guests come.",
+        "Buy some more bread in case we have guests.",
+        "Buy some more bread in case guests arrive.",
+        "Buy some more bread in case visitors come."
+      ]
+    },
+    {
+      "ru": "Взять мне запасной ключ на случай, если ты потеряешь свой?",
+      "en": [
+        "Shall I take a spare key in case you lose yours?",
+        "Should I take a spare key in case you lose yours?"
+      ]
+    },
+    {
+      "ru": "Ты оставишь дверь открытой на случай, если Том вернётся?",
+      "en": [
+        "Will you leave the door open in case Tom comes back?",
+        "Will you leave the door open in case Tom returns?",
+        "Are you going to leave the door open in case Tom comes back?"
+      ]
+    },
+    {
+      "ru": "(заранее, на всякий случай) Я дам тебе свой номер на случай, если опоздаю.",
+      "en": [
+        "I'll give you my number in case I'm late.",
+        "I'll give you my phone number in case I'm late."
+      ]
+    },
+    {
+      "ru": "(только при этом условии) Я позвоню тебе, если опоздаю.",
+      "en": [
+        "I'll call you if I'm late.",
+        "I'll phone you if I'm late.",
+        "If I'm late, I'll call you.",
+        "If I'm late, I'll phone you."
+      ]
+    },
+    {
+      "ru": "(только при этом условии) Если пойдёт дождь, мы останемся дома.",
+      "en": [
+        "If it rains, we'll stay at home.",
+        "If it rains, we'll stay home.",
+        "We'll stay at home if it rains.",
+        "We'll stay home if it rains."
+      ]
+    },
+    {
+      "ru": "Возьми куртку, на всякий случай.",
+      "en": [
+        "Take a jacket, just in case.",
+        "Take a jacket with you, just in case."
+      ]
+    },
+    {
+      "ru": "Я сделаю копию, на всякий случай.",
+      "en": [
+        "I'll make a copy, just in case."
+      ]
+    },
+    {
+      "ru": "В случае пожара пользуйтесь лестницей.",
+      "en": [
+        "In case of fire, use the stairs.",
+        "Use the stairs in case of fire.",
+        "In case of a fire, use the stairs.",
+        "In case of fire, use the staircase."
+      ]
+    },
+    {
+      "ru": "В случае опасности нажмите эту кнопку.",
+      "en": [
+        "In case of danger, press this button.",
+        "Press this button in case of danger."
+      ]
+    },
+    {
+      "ru": "В случае каких-либо проблем звоните мне.",
+      "en": [
+        "In case of any problems, call me.",
+        "In case of any problems, phone me.",
+        "In case of problems, call me.",
+        "Call me in case of any problems.",
+        "In case of any problem, call me."
+      ]
+    },
+    {
+      "ru": "Я взял куртку на случай, если станет холодно.",
+      "en": [
+        "I took a jacket in case it got cold.",
+        "I took a jacket with me in case it got cold.",
+        "I took a jacket in case it became cold."
+      ]
+    },
+    {
+      "ru": "Она сфотографировала расписание на случай, если забудет его.",
+      "en": [
+        "She took a photo of the timetable in case she forgot it.",
+        "She took a picture of the timetable in case she forgot it.",
+        "She took a photo of the timetable in case she forgot."
+      ]
+    },
+    {
+      "ru": "Мы выехали рано на случай, если будут пробки.",
+      "en": [
+        "We left early in case there was a lot of traffic.",
+        "We left early in case there was heavy traffic.",
+        "We left early in case there was traffic.",
+        "We left early in case there were traffic jams.",
+        "We set off early in case there was a lot of traffic."
+      ]
+    },
+    {
+      "ru": "Он взял с собой денег на случай, если они понадобятся.",
+      "en": [
+        "He took some money in case he needed it.",
+        "He took some money with him in case he needed it.",
+        "He took money with him in case he needed it."      ]
+    },
+    {
+      "ru": "Мы купили лишней еды на случай, если придут наши друзья.",
+      "en": [
+        "We bought extra food in case our friends came.",
+        "We bought some extra food in case our friends came.",
+        "We bought more food in case our friends came.",
+        "We bought extra food in case our friends came over."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "id": 78,
+  "section": "Артикли и существительные",
+  "title": "Names with and without the 2",
+  "subtitle": "Улицы, вокзалы, музеи, отели, газеты: с the или без",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Улицы, площади и парки — без the: <b>Oxford Street, Trafalgar Square, Hyde Park</b>. Названия из двух слов, где первое — место или человек, тоже обычно без the: <b>Heathrow Airport, Oxford University, Buckingham Palace</b>. Но если первое слово — прилагательное, нужен the: <b>the Royal Palace</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "С the",
+        "Примеры"
+      ],
+      "rows": [
+        [
+          "отели, театры, кинотеатры",
+          "the Hilton (Hotel), the Odeon"
+        ],
+        [
+          "музеи, галереи",
+          "the British Museum, the National Gallery"
+        ],
+        [
+          "другие здания",
+          "the Eiffel Tower, the White House, the Kremlin"
+        ],
+        [
+          "названия с of",
+          "the Tower of London, the Bank of England"
+        ],
+        [
+          "газеты, организации",
+          "the Times, the BBC, the European Union"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Сравните: <b>the University of London</b>, но <b>London University</b>."
+    },
+    {
+      "type": "h",
+      "text": "Без the"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Магазины и рестораны с именем на -'s: <b>McDonald's, Harrods</b>.",
+        "Церкви в честь святых: <b>St Paul's Cathedral</b>.",
+        "Компании и авиалинии: <b>Sony, Fiat, British Airways</b>."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русскоговорящие часто ставят the перед аэропортами и университетами: <b>the Heathrow Airport</b>. Ориентир: если первое слово — название города или имя человека, артикля нет (<b>Heathrow Airport, Oxford University</b>); если в названии есть of — артикль есть (<b>the University of Oxford</b>)."
+    }
+  ],
+  "words": [
+    {
+      "en": "street",
+      "ru": "улица"
+    },
+    {
+      "en": "square",
+      "ru": "площадь"
+    },
+    {
+      "en": "park",
+      "ru": "парк"
+    },
+    {
+      "en": "airport",
+      "ru": "аэропорт"
+    },
+    {
+      "en": "university",
+      "ru": "университет"
+    },
+    {
+      "en": "palace",
+      "ru": "дворец"
+    },
+    {
+      "en": "royal",
+      "ru": "королевский"
+    },
+    {
+      "en": "museum",
+      "ru": "музей"
+    },
+    {
+      "en": "tower",
+      "ru": "башня"
+    },
+    {
+      "en": "cathedral",
+      "ru": "собор"
+    },
+    {
+      "en": "wall",
+      "ru": "стена"
+    },
+    {
+      "en": "the European Union",
+      "ru": "Европейский союз"
+    },
+    {
+      "en": "member",
+      "ru": "член (организации)"
+    },
+    {
+      "en": "president",
+      "ru": "президент"
+    },
+    {
+      "en": "have a picnic",
+      "forms": "had, had",
+      "ru": "устроить пикник"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мы гуляли по Оксфорд-стрит.",
+      "en": [
+        "We walked along Oxford Street.",
+        "We walked down Oxford Street.",
+        "We walked around Oxford Street.",
+        "We walked up Oxford Street."
+      ]
+    },
+    {
+      "ru": "Давай встретимся на Трафальгарской площади.",
+      "en": [
+        "Let's meet in Trafalgar Square.",
+        "Let's meet at Trafalgar Square."
+      ]
+    },
+    {
+      "ru": "Мы устроили пикник в Гайд-парке.",
+      "en": [
+        "We had a picnic in Hyde Park."
+      ]
+    },
+    {
+      "ru": "Мой рейс прилетает в аэропорт Хитроу.",
+      "en": [
+        "My flight arrives at Heathrow Airport.",
+        "My flight lands at Heathrow Airport.",
+        "My flight arrives at Heathrow.",
+        "My flight lands at Heathrow."
+      ]
+    },
+    {
+      "ru": "Мы встретились на вокзале Кингс-Кросс.",
+      "en": [
+        "We met at King's Cross Station.",
+        "We met at King's Cross."
+      ]
+    },
+    {
+      "ru": "Анна учится в Оксфордском университете.",
+      "en": [
+        "Anna studies at Oxford University.",
+        "Anna is a student at Oxford University.",
+        "Anna studies at the University of Oxford.",
+        "Anna is studying at Oxford University.",
+        "Anna is studying at the University of Oxford.",
+        "Anna is a student at the University of Oxford."
+      ]
+    },
+    {
+      "ru": "Он преподаёт в Лондонском университете.",
+      "en": [
+        "He teaches at the University of London.",
+        "He teaches at London University."
+      ]
+    },
+    {
+      "ru": "Ты видел Букингемский дворец?",
+      "en": [
+        "Have you seen Buckingham Palace?",
+        "Have you ever seen Buckingham Palace?",
+        "Did you see Buckingham Palace?"
+      ]
+    },
+    {
+      "ru": "Мы осмотрели Королевский дворец.",
+      "en": [
+        "We visited the Royal Palace.",
+        "We saw the Royal Palace.",
+        "We looked around the Royal Palace.",
+        "We toured the Royal Palace."
+      ]
+    },
+    {
+      "ru": "Мы остановились в отеле Хилтон.",
+      "en": [
+        "We stayed at the Hilton Hotel.",
+        "We stayed at the Hilton.",
+        "We stayed in the Hilton.",
+        "We stayed in the Hilton Hotel."
+      ]
+    },
+    {
+      "ru": "Что идёт в кинотеатре «Одеон»?",
+      "en": [
+        "What's on at the Odeon?",
+        "What's showing at the Odeon?",
+        "What's playing at the Odeon?"
+      ]
+    },
+    {
+      "ru": "(когда-нибудь) Ты был в Британском музее?",
+      "en": [
+        "Have you been to the British Museum?",
+        "Have you ever been to the British Museum?"
+      ]
+    },
+    {
+      "ru": "Мы поднялись на Эйфелеву башню.",
+      "en": [
+        "We went up the Eiffel Tower.",
+        "We climbed the Eiffel Tower."
+      ]
+    },
+    {
+      "ru": "Кремль находится в центре Москвы.",
+      "en": [
+        "The Kremlin is in the centre of Moscow.",
+        "The Kremlin is in the center of Moscow.",
+        "The Kremlin is in central Moscow.",
+        "The Kremlin is located in the centre of Moscow.",
+        "The Kremlin is located in the center of Moscow.",
+        "The Kremlin is located in central Moscow."
+      ]
+    },
+    {
+      "ru": "Президент США живёт в Белом доме.",
+      "en": [
+        "The US president lives in the White House.",
+        "The American president lives in the White House.",
+        "The president of the USA lives in the White House.",
+        "The president of the United States lives in the White House.",
+        "The president of the US lives in the White House."
+      ]
+    },
+    {
+      "ru": "Лондонский Тауэр очень старый.",
+      "en": [
+        "The Tower of London is very old."
+      ]
+    },
+    {
+      "ru": "Я хочу увидеть Великую Китайскую стену.",
+      "en": [
+        "I want to see the Great Wall of China.",
+        "I'd like to see the Great Wall of China."
+      ]
+    },
+    {
+      "ru": "Мой отец работает в Банке Англии.",
+      "en": [
+        "My father works at the Bank of England.",
+        "My father works for the Bank of England.",
+        "My dad works at the Bank of England.",
+        "My dad works for the Bank of England."
+      ]
+    },
+    {
+      "ru": "Давай пообедаем в Макдоналдсе.",
+      "en": [
+        "Let's have lunch at McDonald's.",
+        "Let's have lunch in McDonald's.",
+        "Let's go to McDonald's for lunch."
+      ]
+    },
+    {
+      "ru": "Мы посетили собор Святого Павла.",
+      "en": [
+        "We visited St Paul's Cathedral.",
+        "We visited Saint Paul's Cathedral."
+      ]
+    },
+    {
+      "ru": "Папа каждое утро читает «Таймс».",
+      "en": [
+        "Dad reads the Times every morning.",
+        "My dad reads the Times every morning.",
+        "My father reads the Times every morning.",
+        "Every morning Dad reads the Times.",
+        "Every morning my dad reads the Times."
+      ]
+    },
+    {
+      "ru": "Она работает на Би-би-си.",
+      "en": [
+        "She works for the BBC.",
+        "She works at the BBC."
+      ]
+    },
+    {
+      "ru": "Франция и Германия — члены Евросоюза.",
+      "en": [
+        "France and Germany are members of the European Union.",
+        "France and Germany are members of the EU.",
+        "France and Germany are EU members.",
+        "France and Germany are member states of the European Union."
+      ]
+    },
+    {
+      "ru": "Он работает в компании «Сони».",
+      "en": [
+        "He works for Sony.",
+        "He works at Sony."
+      ]
+    }
+  ]
+}

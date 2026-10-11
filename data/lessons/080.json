@@ -1,0 +1,342 @@
+{
+  "id": 80,
+  "section": "Артикли и существительные",
+  "title": "Noun + noun (a bus driver / a headache)",
+  "subtitle": "Два существительных подряд: a taxi driver, a four-week course",
+  "theory": [
+    {
+      "type": "p",
+      "text": "В английском два существительных можно просто поставить рядом. Первое работает как прилагательное и отвечает на вопрос «какой?»: <b>a taxi driver</b> (водитель такси), <b>the city centre</b> (центр города), <b>an apple tree</b> (яблоня), <b>health problems</b> (проблемы со здоровьем)."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Первое слово может быть на -ing: <b>a washing machine, a swimming pool</b>.",
+        "Существительных может быть больше двух: <b>the hotel reception desk, a table tennis ball</b>.",
+        "Иногда пишется слитно: <b>a headache, toothpaste, a weekend</b>; иногда раздельно: <b>a car park</b>. Не уверены — пишите раздельно."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Назначение / тип",
+        "Содержимое"
+      ],
+      "rows": [
+        [
+          "a coffee cup (чашка для кофе)",
+          "a cup of coffee (чашка с кофе)"
+        ],
+        [
+          "a shopping bag (сумка для покупок)",
+          "a bag of shopping (сумка с покупками)"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Числа + существительное"
+    },
+    {
+      "type": "p",
+      "text": "Первое существительное стоит в единственном числе, даже если смысл множественный, и пишется через дефис: <b>a three-hour journey, a fifty-euro note, a ten-year-old son</b>. Но: <b>The journey took three hours. His son is ten years old.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русскоговорящие пишут <b>a four weeks course</b> или <b>a ten-years-old boy</b>. Перед существительным — только единственное число через дефис: <b>a four-week course</b>, <b>a ten-year-old boy</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "taxi driver",
+      "ru": "таксист"
+    },
+    {
+      "en": "city centre",
+      "ru": "центр города"
+    },
+    {
+      "en": "apple tree",
+      "ru": "яблоня"
+    },
+    {
+      "en": "TV programme",
+      "ru": "телепередача"
+    },
+    {
+      "en": "health",
+      "ru": "здоровье"
+    },
+    {
+      "en": "washing machine",
+      "ru": "стиральная машина"
+    },
+    {
+      "en": "swimming pool",
+      "ru": "бассейн"
+    },
+    {
+      "en": "toothpaste",
+      "ru": "зубная паста"
+    },
+    {
+      "en": "headache",
+      "ru": "головная боль"
+    },
+    {
+      "en": "car park",
+      "ru": "автостоянка, парковка"
+    },
+    {
+      "en": "coffee cup",
+      "ru": "кофейная чашка"
+    },
+    {
+      "en": "a cup of",
+      "ru": "чашка (чего-либо)"
+    },
+    {
+      "en": "shopping bag",
+      "ru": "хозяйственная сумка"
+    },
+    {
+      "en": "reception desk",
+      "ru": "стойка регистрации"
+    },
+    {
+      "en": "table tennis",
+      "ru": "настольный теннис"
+    },
+    {
+      "en": "journey",
+      "ru": "поездка, путешествие"
+    },
+    {
+      "en": "note",
+      "ru": "банкнота, купюра"
+    },
+    {
+      "en": "course",
+      "ru": "курс (обучения)"
+    },
+    {
+      "en": "ten-year-old",
+      "ru": "десятилетний"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мой отец — таксист.",
+      "en": [
+        "My father is a taxi driver.",
+        "My dad is a taxi driver.",
+        "My father is a cab driver.",
+        "My dad is a cab driver."
+      ]
+    },
+    {
+      "ru": "Мы встретились в центре города.",
+      "en": [
+        "We met in the city centre.",
+        "We met in the town centre.",
+        "We met in the city center.",
+        "We met in the town center."
+      ]
+    },
+    {
+      "ru": "У нас в саду растёт яблоня.",
+      "en": [
+        "There's an apple tree in our garden.",
+        "We have an apple tree in our garden.",
+        "We've got an apple tree in our garden.",
+        "There's an apple tree growing in our garden.",
+        "An apple tree grows in our garden."
+      ]
+    },
+    {
+      "ru": "Это хорошая телепрограмма.",
+      "en": [
+        "It's a good TV programme.",
+        "It's a good television programme.",
+        "It's a good TV program.",
+        "This is a good TV programme.",
+        "It's a good TV show.",
+        "It's a good television program.",
+        "This is a good TV program.",
+        "This is a good TV show.",
+        "That's a good TV programme.",
+        "That's a good TV program."
+      ]
+    },
+    {
+      "ru": "У неё проблемы со здоровьем.",
+      "en": [
+        "She has health problems.",
+        "She's got health problems.",
+        "She has some health problems."
+      ]
+    },
+    {
+      "ru": "Где ключи от машины?",
+      "en": [
+        "Where are the car keys?",
+        "Where are my car keys?",
+        "Where are the keys to the car?"
+      ]
+    },
+    {
+      "ru": "Нам нужна новая стиральная машина.",
+      "en": [
+        "We need a new washing machine."
+      ]
+    },
+    {
+      "ru": "В отеле есть бассейн.",
+      "en": [
+        "The hotel has a swimming pool.",
+        "There's a swimming pool in the hotel.",
+        "There's a swimming pool at the hotel.",
+        "The hotel has got a swimming pool."
+      ]
+    },
+    {
+      "ru": "Я забыл зубную пасту.",
+      "en": [
+        "I forgot the toothpaste.",
+        "I've forgotten the toothpaste.",
+        "I forgot my toothpaste.",
+        "I've forgotten my toothpaste."
+      ]
+    },
+    {
+      "ru": "У Кейт болит голова.",
+      "en": [
+        "Kate has a headache.",
+        "Kate has got a headache."
+      ]
+    },
+    {
+      "ru": "Где здесь автостоянка?",
+      "en": [
+        "Where's the car park?",
+        "Where's the parking lot?",
+        "Where's the car park here?",
+        "Is there a car park near here?",
+        "Is there a parking lot near here?",
+        "Where's the nearest car park?"
+      ]
+    },
+    {
+      "ru": "Что ты делаешь в эти выходные?",
+      "en": [
+        "What are you doing at the weekend?",
+        "What are you doing this weekend?",
+        "What are you doing on the weekend?"
+      ]
+    },
+    {
+      "ru": "Можно мне чашку кофе?",
+      "en": [
+        "Can I have a cup of coffee?",
+        "Could I have a cup of coffee?",
+        "May I have a cup of coffee?",
+        "Can I get a cup of coffee?"
+      ]
+    },
+    {
+      "ru": "(пустую) Где моя кофейная чашка?",
+      "en": [
+        "Where's my coffee cup?"
+      ]
+    },
+    {
+      "ru": "Она несла сумку, полную покупок.",
+      "en": [
+        "She was carrying a bag of shopping.",
+        "She was carrying a bag full of shopping.",
+        "She was carrying a bag of groceries.",
+        "She was carrying a bag full of groceries.",
+        "She carried a bag of shopping.",
+        "She carried a bag full of shopping."
+      ]
+    },
+    {
+      "ru": "(пустую) Я забыл свою сумку для покупок.",
+      "en": [
+        "I've forgotten my shopping bag.",
+        "I forgot my shopping bag."
+      ]
+    },
+    {
+      "ru": "Давай встретимся у стойки регистрации отеля.",
+      "en": [
+        "Let's meet at the hotel reception desk.",
+        "Let's meet at the hotel reception.",
+        "Let's meet at the hotel front desk.",
+        "Let's meet at the front desk of the hotel.",
+        "Let's meet at the reception desk of the hotel."
+      ]
+    },
+    {
+      "ru": "Ты умеешь играть в настольный теннис?",
+      "en": [
+        "Can you play table tennis?",
+        "Do you know how to play table tennis?",
+        "Can you play ping-pong?"
+      ]
+    },
+    {
+      "ru": "Это была трёхчасовая поездка.",
+      "en": [
+        "It was a three-hour journey.",
+        "It was a three-hour trip."
+      ]
+    },
+    {
+      "ru": "Поездка заняла три часа.",
+      "en": [
+        "The journey took three hours.",
+        "The trip took three hours."
+      ]
+    },
+    {
+      "ru": "У меня только купюра в пятьдесят евро.",
+      "en": [
+        "I only have a fifty-euro note.",
+        "I've only got a fifty-euro note.",
+        "I only have a 50-euro note.",
+        "I've only got a 50-euro note.",
+        "I have only a fifty-euro note.",
+        "I only have a fifty-euro bill."
+      ]
+    },
+    {
+      "ru": "У Бена десятилетний сын.",
+      "en": [
+        "Ben has a ten-year-old son.",
+        "Ben has got a ten-year-old son.",
+        "Ben has a 10-year-old son.",
+        "Ben has got a 10-year-old son."
+      ]
+    },
+    {
+      "ru": "Его сыну десять лет.",
+      "en": [
+        "His son is ten years old.",
+        "His son is ten.",
+        "His son is 10 years old.",
+        "His son is 10."
+      ]
+    },
+    {
+      "ru": "Я прохожу четырёхнедельный курс английского.",
+      "en": [
+        "I'm doing a four-week English course.",
+        "I'm taking a four-week English course.",
+        "I'm on a four-week English course.",
+        "I'm doing a four-week course in English.",
+        "I'm taking a four-week course in English."
+      ]
+    }
+  ]
+}

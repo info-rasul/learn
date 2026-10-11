@@ -1,0 +1,323 @@
+{
+  "id": 72,
+  "section": "Артикли и существительные",
+  "title": "a/an and the",
+  "subtitle": "Когда «какой-то» (a/an), а когда «тот самый» (the)",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>a/an</b> — «какой-то, один из многих», когда мы упоминаем предмет впервые. <b>the</b> — «тот самый», когда понятно, о каком именно предмете речь: <b>I bought a pen and a notebook. The pen is blue.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "a/an — не конкретный",
+        "the — конкретный"
+      ],
+      "rows": [
+        [
+          "Do you have a bike?",
+          "I washed the car (свою машину)."
+        ],
+        [
+          "She sat on a chair.",
+          "She sat on the chair by the window."
+        ],
+        [
+          "We stayed at a cheap hotel (тип гостиницы).",
+          "The hotel we stayed at was cheap."
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Когда и так ясно, о чём речь"
+    },
+    {
+      "type": "list",
+      "items": [
+        "В комнате: <b>the door, the light, the floor</b> — дверь и свет именно этой комнаты.",
+        "В городе: <b>the station, the airport</b>; в магазине: <b>the manager</b>.",
+        "<b>go to the bank / the post office / the doctor / the dentist</b> — обычно имеется в виду «свой» банк, «свой» врач.",
+        "Но: <b>Is there a pharmacy near here?</b> — любая аптека; <b>My brother is a dentist</b> — профессия."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Частота и цена"
+    },
+    {
+      "type": "p",
+      "text": "«В день, в неделю, за килограмм» — через <b>a</b>: <b>three times a week, seven hours a day, two euros a kilo, once a month</b>."
+    },
+    {
+      "type": "tip",
+      "text": "Русские часто говорят <b>three times in week</b> или <b>per a day</b>. Правильно просто: <b>three times a week</b>, <b>twice a day</b>. И не забывайте the при втором упоминании: <b>a dog … the dog</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "a, an",
+      "ru": "какой-то, один (неопределённый артикль)"
+    },
+    {
+      "en": "the",
+      "ru": "тот самый, этот (определённый артикль)"
+    },
+    {
+      "en": "notebook",
+      "ru": "блокнот"
+    },
+    {
+      "en": "huge",
+      "ru": "огромный"
+    },
+    {
+      "en": "turn on",
+      "ru": "включать"
+    },
+    {
+      "en": "manager",
+      "ru": "менеджер, управляющий"
+    },
+    {
+      "en": "pharmacy",
+      "ru": "аптека"
+    },
+    {
+      "en": "dentist",
+      "ru": "стоматолог"
+    },
+    {
+      "en": "swimming pool",
+      "ru": "бассейн"
+    },
+    {
+      "en": "a day",
+      "ru": "в день"
+    },
+    {
+      "en": "kilo",
+      "ru": "килограмм"
+    },
+    {
+      "en": "apply for",
+      "ru": "подавать заявку на"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я купил ручку и блокнот. Ручка синяя.",
+      "en": [
+        "I bought a pen and a notebook. The pen is blue."
+      ]
+    },
+    {
+      "ru": "Я видел собаку и кошку. Собака была огромной.",
+      "en": [
+        "I saw a dog and a cat. The dog was huge."
+      ]
+    },
+    {
+      "ru": "В кафе сидели мужчина и женщина.",
+      "en": [
+        "A man and a woman were sitting in the cafe.",
+        "A man and a woman were sitting in a cafe."
+      ]
+    },
+    {
+      "ru": "У тебя есть велосипед?",
+      "en": [
+        "Do you have a bike?",
+        "Have you got a bike?",
+        "Do you have a bicycle?",
+        "Have you got a bicycle?"
+      ]
+    },
+    {
+      "ru": "(свою машину) Я помыл машину сегодня утром.",
+      "en": [
+        "I washed the car this morning.",
+        "I cleaned the car this morning.",
+        "I washed my car this morning.",
+        "I cleaned my car this morning."
+      ]
+    },
+    {
+      "ru": "Мы остановились в недорогой гостинице.",
+      "en": [
+        "We stayed at a cheap hotel.",
+        "We stayed in a cheap hotel.",
+        "We stayed at an inexpensive hotel.",
+        "We stayed in an inexpensive hotel."
+      ]
+    },
+    {
+      "ru": "Гостиница, в которой мы остановились, была недорогой.",
+      "en": [
+        "The hotel we stayed at was cheap.",
+        "The hotel where we stayed was cheap.",
+        "The hotel that we stayed at was cheap.",
+        "The hotel which we stayed at was cheap.",
+        "The hotel we stayed in was cheap.",
+        "The hotel that we stayed in was cheap."
+      ]
+    },
+    {
+      "ru": "Она села на стул у окна.",
+      "en": [
+        "She sat down on the chair by the window.",
+        "She sat on the chair by the window.",
+        "She sat down on the chair near the window.",
+        "She sat on the chair near the window."
+      ]
+    },
+    {
+      "ru": "Закрой дверь, пожалуйста.",
+      "en": [
+        "Close the door, please.",
+        "Please close the door.",
+        "Shut the door, please.",
+        "Please shut the door."
+      ]
+    },
+    {
+      "ru": "Включи, пожалуйста, свет.",
+      "en": [
+        "Turn on the light, please.",
+        "Please turn on the light.",
+        "Turn the light on, please.",
+        "Switch on the light, please.",
+        "Please switch on the light.",
+        "Please turn the light on.",
+        "Switch the light on, please."
+      ]
+    },
+    {
+      "ru": "Как далеко отсюда до вокзала?",
+      "en": [
+        "How far is the station from here?",
+        "How far is it to the station?",
+        "How far is it from here to the station?",
+        "How far is it to the station from here?"
+      ]
+    },
+    {
+      "ru": "(в магазине) Я хочу поговорить с менеджером.",
+      "en": [
+        "I'd like to speak to the manager.",
+        "I want to speak to the manager.",
+        "I'd like to talk to the manager.",
+        "I want to talk to the manager."
+      ]
+    },
+    {
+      "ru": "Мне нужно сходить в банк.",
+      "en": [
+        "I need to go to the bank.",
+        "I have to go to the bank.",
+        "I must go to the bank."
+      ]
+    },
+    {
+      "ru": "Здесь поблизости есть аптека?",
+      "en": [
+        "Is there a pharmacy near here?",
+        "Is there a chemist's near here?",
+        "Is there a pharmacy nearby?",
+        "Is there a chemist's nearby?"
+      ]
+    },
+    {
+      "ru": "Анна плохо себя чувствует. Она пошла к врачу.",
+      "en": [
+        "Anna isn't well. She's gone to the doctor.",
+        "Anna isn't well. She went to the doctor.",
+        "Anna isn't feeling well. She's gone to the doctor.",
+        "Anna isn't feeling well. She went to the doctor.",
+        "Anna isn't well. She's gone to the doctor's.",
+        "Anna isn't well. She went to the doctor's.",
+        "Anna isn't feeling well. She's gone to the doctor's.",
+        "Anna isn't feeling well. She went to the doctor's.",
+        "Anna doesn't feel well. She's gone to the doctor.",
+        "Anna doesn't feel well. She's gone to the doctor's.",
+        "Anna doesn't feel well. She went to the doctor.",
+        "Anna doesn't feel well. She went to the doctor's.",
+        "Anna is ill. She's gone to the doctor.",
+        "Anna is ill. She went to the doctor.",
+        "Anna is ill. She's gone to the doctor's.",
+        "Anna is ill. She went to the doctor's."
+      ]
+    },
+    {
+      "ru": "Ты часто ходишь к стоматологу?",
+      "en": [
+        "Do you often go to the dentist?",
+        "Do you often go to the dentist's?",
+        "Do you go to the dentist often?",
+        "Do you go to the dentist's often?"
+      ]
+    },
+    {
+      "ru": "Мой брат — стоматолог.",
+      "en": [
+        "My brother is a dentist."
+      ]
+    },
+    {
+      "ru": "Я хожу в бассейн три раза в неделю.",
+      "en": [
+        "I go to the swimming pool three times a week.",
+        "I go to the pool three times a week.",
+        "I go swimming three times a week."
+      ]
+    },
+    {
+      "ru": "Он работает семь часов в день.",
+      "en": [
+        "He works seven hours a day."
+      ]
+    },
+    {
+      "ru": "Яблоки стоят два евро за килограмм.",
+      "en": [
+        "Apples are two euros a kilo.",
+        "Apples cost two euros a kilo.",
+        "The apples are two euros a kilo.",
+        "The apples cost two euros a kilo.",
+        "Apples are two euros per kilo."
+      ]
+    },
+    {
+      "ru": "Мы ужинаем в ресторане раз в месяц.",
+      "en": [
+        "We have dinner in a restaurant once a month.",
+        "We have dinner at a restaurant once a month.",
+        "We eat out once a month.",
+        "We eat in a restaurant once a month.",
+        "We eat at a restaurant once a month."
+      ]
+    },
+    {
+      "ru": "Где ключи, которые я тебе дал?",
+      "en": [
+        "Where are the keys I gave you?",
+        "Where are the keys that I gave you?"
+      ]
+    },
+    {
+      "ru": "Можешь посоветовать хороший ресторан?",
+      "en": [
+        "Can you recommend a good restaurant?",
+        "Could you recommend a good restaurant?"
+      ]
+    },
+    {
+      "ru": "Ты получила работу, на которую подавала заявку?",
+      "en": [
+        "Did you get the job you applied for?",
+        "Did you get the job that you applied for?"
+      ]
+    }
+  ]
+}

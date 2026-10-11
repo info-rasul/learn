@@ -1,0 +1,99 @@
+{
+  "id": 51,
+  "section": "Вопросы и вспомогательные глаголы",
+  "title": "Auxiliary verbs (have/do/can etc.) I think so / I hope so etc.",
+  "subtitle": "Краткие ответы, So do I / Neither do I, I think so / I hope not",
+  "theory": [
+    { "type": "p", "text": "Чтобы не повторять всю фразу, англичане оставляют только <b>вспомогательный глагол</b>: <b>Have you closed the window? — Yes, I have.</b> <b>I like jazz, but my brother doesn't.</b> Для Present/Past Simple берём <b>do/does/did</b>." },
+    { "type": "p", "text": "Так же можно возразить: <b>You're sitting in my seat. — No, I'm not.</b> <b>You didn't turn off the light. — Yes, I did!</b> А короткий вопрос-реакция показывает интерес или удивление: <b>I've just seen Anna. — Have you?</b> <b>Lisa isn't well. — Isn't she?</b>" },
+    { "type": "table", "head": ["Фраза", "«Я тоже»"], "rows": [
+      ["I'm tired.", "<b>So am I.</b>"],
+      ["I've been to Japan.", "<b>So have I.</b>"],
+      ["I don't like cheese.", "<b>Neither do I.</b> / <b>Nor do I.</b> / <b>I don't either.</b>"],
+      ["I won't go.", "<b>Neither will I.</b>"]
+    ] },
+    { "type": "p", "text": "После <b>so / neither / nor</b> — обратный порядок: <b>so did Alex</b> (не so Alex did)." },
+    { "type": "list", "items": [
+      "<b>I think so / I expect so</b> → отрицание <b>I don't think so / I don't expect so</b>",
+      "<b>I hope so / I'm afraid so</b> → <b>I hope not / I'm afraid not</b>",
+      "<b>I suppose so / I guess so</b> → <b>I suppose not / I guess not</b>"
+    ] },
+    { "type": "tip", "text": "Не говорите <b>I don't hope so</b> — правильно <b>I hope not</b>. И на «Я тоже не люблю» не отвечайте <b>Me too</b> — нужно <b>Neither do I</b> или <b>Me neither</b>." }
+  ],
+  "words": [
+    {
+      "en": "so",
+      "ru": "тоже (so do I); так (I think so)"
+    },
+    {
+      "en": "neither",
+      "ru": "тоже не (neither do I)"
+    },
+    {
+      "en": "I think so",
+      "ru": "думаю, да"
+    },
+    {
+      "en": "I hope so",
+      "ru": "надеюсь, да"
+    },
+    {
+      "en": "I hope not",
+      "ru": "надеюсь, что нет"
+    },
+    {
+      "en": "I suppose not",
+      "ru": "полагаю, что нет"
+    },
+    {
+      "en": "I'm afraid so",
+      "ru": "боюсь, что да"
+    },
+    {
+      "en": "I'm afraid not",
+      "ru": "боюсь, что нет"
+    },
+    {
+      "en": "any more",
+      "ru": "больше не"
+    },
+    {
+      "en": "hungry",
+      "ru": "голодный"
+    },
+    {
+      "en": "jazz",
+      "ru": "джаз"
+    },
+    {
+      "en": "pass an exam",
+      "ru": "сдать экзамен"
+    }
+  ],
+  "items": [
+    { "ru": "(Ты закрыл окно?) Да, закрыл.", "en": ["Yes, I have.", "Yes, I did."] },
+    { "ru": "Я не голоден, а Кейт голодна.", "en": ["I'm not hungry, but Kate is."] },
+    { "ru": "Я люблю джаз, а мой брат — нет.", "en": ["I like jazz, but my brother doesn't."] },
+    { "ru": "Том мог бы мне помочь, но не поможет.", "en": ["Tom could help me, but he won't."] },
+    { "ru": "Я обычно не работаю по субботам, но в прошлую субботу работал.", "en": ["I don't usually work on Saturdays, but last Saturday I did.", "I don't usually work on Saturdays, but I did last Saturday.", "I usually don't work on Saturdays, but last Saturday I did.", "I usually don't work on Saturdays, but I did last Saturday."] },
+    { "ru": "(Ты говоришь по-испански?) Раньше говорил, а сейчас нет.", "en": ["I did, but I don't any more.", "I did, but I don't anymore.", "I used to, but I don't any more.", "I used to, but I don't anymore.", "I did, but I don't now.", "I used to, but I don't now."] },
+    { "ru": "(Ты сидишь на моём месте.) Нет, не сижу.", "en": ["No, I'm not."] },
+    { "ru": "(Ты не выключил свет.) Нет, выключил!", "en": ["Yes, I did!"] },
+    { "ru": "(Я только что видел Анну.) Да? (с интересом)", "en": ["Have you?", "Did you?"] },
+    { "ru": "(Лиза сегодня нездорова.) Правда? (удивление)", "en": ["Isn't she?"] },
+    { "ru": "(Всю неделю шёл дождь.) Правда? (сочувственно)", "en": ["Did it?", "Has it?"] },
+    { "ru": "(Майк и Эмма женятся.) Правда? (удивление)", "en": ["Are they?"] },
+    { "ru": "(Я устал.) Я тоже.", "en": ["So am I.", "Me too.", "I am too."] },
+    { "ru": "(Я не люблю сыр.) Я тоже.", "en": ["Neither do I.", "Nor do I.", "I don't either.", "Me neither."] },
+    { "ru": "Я сдал экзамен, и Алекс тоже.", "en": ["I passed the exam and so did Alex.", "I passed the exam and Alex did too.", "I passed the exam and Alex did as well."] },
+    { "ru": "Эмма не умеет плавать, и Бен тоже.", "en": ["Emma can't swim and neither can Ben.", "Emma can't swim and nor can Ben.", "Emma can't swim and Ben can't either."] },
+    { "ru": "(Я был в Японии.) Я тоже.", "en": ["So have I.", "Me too.", "I have too."] },
+    { "ru": "(Я не пойду завтра на вечеринку.) Я тоже.", "en": ["Neither will I.", "Nor will I.", "I won't either.", "Me neither."] },
+    { "ru": "(Анна будет на собрании?) Думаю, да.", "en": ["I think so."] },
+    { "ru": "(Это займёт много времени?) Полагаю, что нет.", "en": ["I suppose not.", "I guess not.", "I don't suppose so."] },
+    { "ru": "(Будет дождь?) Надеюсь, что нет.", "en": ["I hope not."] },
+    { "ru": "(Тебе повысят зарплату?) Надеюсь, да.", "en": ["I hope so."] },
+    { "ru": "(Тебе уже пора уходить?) Боюсь, что да.", "en": ["I'm afraid so."] },
+    { "ru": "(У вас есть свободные номера?) Боюсь, что нет.", "en": ["I'm afraid not."] }
+  ]
+}

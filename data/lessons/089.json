@@ -1,0 +1,98 @@
+{
+  "id": 89,
+  "section": "Местоимения и определители",
+  "title": "both / both of, neither / neither of, either / either of",
+  "subtitle": "Оба, ни один из двух, любой из двух: both, neither, either",
+  "theory": [
+    { "type": "p", "text": "<b>both, neither, either</b> говорят только о <b>двух</b> предметах или людях. <b>both</b> — оба, <b>neither</b> — ни тот, ни другой, <b>either</b> — любой из двух (или «ни один» после not)." },
+    { "type": "table", "head": ["Слово", "С существительным", "Без существительного"], "rows": [
+      ["both", "<b>Both shops are open.</b>", "<b>I like both.</b>"],
+      ["neither", "<b>Neither shop is open.</b>", "<b>Neither. I'm Italian.</b>"],
+      ["either", "<b>We can go to either shop.</b>", "<b>Either. I don't mind.</b>"]
+    ] },
+    { "type": "p", "text": "С <b>of</b>: <b>both of / neither of / either of</b> + <b>the/these/my…</b> или + <b>us/you/them</b>: <b>neither of my parents</b>, <b>Can either of you swim?</b> После both of перед существительным можно опустить: <b>both my sisters</b>, но перед местоимением of обязателен: <b>both of us</b>. После <b>neither of</b> глагол бывает и в ед., и во мн. числе." },
+    { "type": "list", "items": [
+      "<b>both … and …</b> — и … и …: <b>Both Tom and Anna came.</b>",
+      "<b>neither … nor …</b> — ни … ни …: <b>Neither Tom nor Anna came.</b>",
+      "<b>either … or …</b> — или … или …: <b>She's either French or Italian.</b>"
+    ] },
+    { "type": "p", "text": "Если предметов больше двух, вместо both/neither/either используем <b>all/none/any</b>: <b>two hotels — neither of them</b>, но <b>five hotels — none of them</b>." },
+    { "type": "tip", "text": "«Ни Том, ни Анна не пришли» по-русски с отрицанием, но в английском <b>neither … nor</b> уже отрицательное: <b>Neither Tom nor Anna came</b> (не <b>didn't come</b>). И не ставьте артикль перед both: <b>both restaurants</b>, а не <b>the both restaurants</b>." }
+  ],
+  "words": [
+    {
+      "en": "both",
+      "ru": "оба, обе"
+    },
+    {
+      "en": "both of",
+      "ru": "оба из"
+    },
+    {
+      "en": "neither",
+      "ru": "ни один (из двух)"
+    },
+    {
+      "en": "neither of",
+      "ru": "ни один из (двух)"
+    },
+    {
+      "en": "either",
+      "ru": "любой (из двух)"
+    },
+    {
+      "en": "either of",
+      "ru": "любой из (двух), кто-нибудь из"
+    },
+    {
+      "en": "both ... and",
+      "ru": "и ..., и ..."
+    },
+    {
+      "en": "neither ... nor",
+      "ru": "ни ..., ни ..."
+    },
+    {
+      "en": "either ... or",
+      "ru": "или ..., или ...; либо ..., либо ..."
+    },
+    {
+      "en": "mind",
+      "ru": "возражать (I don't mind — мне всё равно)"
+    },
+    {
+      "en": "way",
+      "ru": "дорога, путь"
+    },
+    {
+      "en": "meeting",
+      "ru": "встреча, собрание"
+    }
+  ],
+  "items": [
+    { "ru": "(о двух кафе) Оба кафе хорошие.", "en": ["Both cafes are good.", "Both of the cafes are good."] },
+    { "ru": "(из двух отелей) Ни один отель не дорогой.", "en": ["Neither hotel is expensive.", "Neither of the hotels is expensive.", "Neither of the hotels are expensive."] },
+    { "ru": "Ты можешь поехать по любой из двух дорог.", "en": ["You can take either road.", "You can take either of the roads.", "You can take either of the two roads.", "You can go either way."] },
+    { "ru": "Я не был ни в одном из этих двух музеев.", "en": ["I haven't been to either of these museums.", "I haven't been to either museum.", "I haven't been to either of these two museums.", "I've been to neither museum.", "I've been to neither of these museums."] },
+    { "ru": "(Чай или кофе?) Что угодно, мне всё равно.", "en": ["Either, I don't mind.", "Either, I don't care.", "Either, it doesn't matter."] },
+    { "ru": "(Ты француз или испанец?) Ни то, ни другое, я итальянец.", "en": ["Neither, I'm Italian."] },
+    { "ru": "(Теннис или футбол?) Мне нравится и то, и другое.", "en": ["I like both.", "I like both of them.", "I like them both."] },
+    { "ru": "Оба моих брата живут в Канаде.", "en": ["Both my brothers live in Canada.", "Both of my brothers live in Canada.", "My brothers both live in Canada."] },
+    { "ru": "Ни один из моих родителей не говорит по-английски.", "en": ["Neither of my parents speaks English.", "Neither of my parents speak English."] },
+    { "ru": "(говорю двоим) Кто-нибудь из вас умеет водить?", "en": ["Can either of you drive?"] },
+    { "ru": "Я спросил двух человек, но никто из них не знал дорогу.", "en": ["I asked two people, but neither of them knew the way.", "I asked two people, but neither knew the way."] },
+    { "ru": "Мы оба были голодны.", "en": ["Both of us were hungry.", "We were both hungry."] },
+    { "ru": "(у неё две сестры) Ни одна из сестёр не замужем.", "en": ["Neither of the sisters is married.", "Neither of the sisters are married.", "Neither sister is married."] },
+    { "ru": "И Том, и Анна учатся в Риме.", "en": ["Both Tom and Anna study in Rome.", "Tom and Anna both study in Rome.", "Both Tom and Anna are studying in Rome.", "Tom and Anna are both studying in Rome."] },
+    { "ru": "Фильм был и длинный, и скучный.", "en": ["The film was both long and boring.", "The movie was both long and boring."] },
+    { "ru": "Ни Кейт, ни Майк не пришли на встречу.", "en": ["Neither Kate nor Mike came to the meeting."] },
+    { "ru": "Он ни позвонил, ни написал.", "en": ["He neither called nor wrote.", "He neither phoned nor wrote.", "He didn't call or write.", "He didn't phone or write.", "He neither called nor texted."] },
+    { "ru": "Она или из Испании, или из Италии.", "en": ["She's either from Spain or from Italy.", "She's from either Spain or Italy.", "She's either from Spain or Italy."] },
+    { "ru": "Или ты извинишься, или я уйду.", "en": ["Either you apologise or I'll leave.", "Either you apologize or I'll leave.", "Either you say sorry or I'll leave."] },
+    { "ru": "Мы можем встретиться или в понедельник, или во вторник.", "en": ["We can meet either on Monday or on Tuesday.", "We can meet on either Monday or Tuesday.", "We can meet either on Monday or Tuesday."] },
+    { "ru": "Мы попробовали два отеля, но ни в одном не было мест.", "en": ["We tried two hotels, but neither of them had a room.", "We tried two hotels, but neither had a room.", "We tried two hotels, but neither of them had any rooms.", "We tried two hotels, but neither had any rooms."] },
+    { "ru": "Мы попробовали пять отелей, но ни в одном не было мест.", "en": ["We tried five hotels, but none of them had a room.", "We tried five hotels, but none had a room.", "We tried five hotels, but none of them had any rooms.", "We tried five hotels, but none had any rooms."] },
+    { "ru": "У меня две машины, можешь взять любую.", "en": ["I have two cars, you can take either.", "I have two cars, you can take either of them.", "I've got two cars, you can take either.", "I've got two cars, you can take either of them."] },
+    { "ru": "На полке много книг, бери любую из них.", "en": ["There are many books on the shelf, take any of them.", "There are a lot of books on the shelf, take any of them.", "There are lots of books on the shelf, take any of them."] }
+  ]
+}

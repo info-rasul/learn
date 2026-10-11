@@ -1,0 +1,304 @@
+{
+  "id": 108,
+  "section": "Прилагательные и наречия",
+  "title": "Superlative (the longest, the most enjoyable etc.)",
+  "subtitle": "Превосходная степень: the -est, the most",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Превосходная степень образуется так же, как сравнительная: короткие слова — <b>the -est</b> (<b>the cheapest</b>, <b>the biggest</b>, <b>the easiest</b>), длинные — <b>the most</b> (<b>the most interesting</b>). Перед ней обычно стоит <b>the</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Прилагательное",
+        "Сравнительная",
+        "Превосходная"
+      ],
+      "rows": [
+        [
+          "good",
+          "better",
+          "the best"
+        ],
+        [
+          "bad",
+          "worse",
+          "the worst"
+        ],
+        [
+          "far",
+          "further / farther",
+          "the furthest / the farthest"
+        ],
+        [
+          "old (о семье)",
+          "older / elder",
+          "the oldest / the eldest"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>in</b> + место или группа: <b>the tallest building in Paris</b>, <b>the best student in the class</b>",
+        "<b>of</b> + период или множество: <b>the longest day of the year</b>, <b>the youngest of the three</b>",
+        "<b>one of the</b> + превосходная + мн. ч.: <b>one of the best cafés in town</b>"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "С present perfect: <b>It's the best meal I've ever had.</b> А <b>most</b> без the иногда значит просто «очень»: <b>That's most kind of you.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Не говорите «the most best» и не пропускайте <b>the</b>: <b>the best</b>, <b>the hottest</b>. И после превосходной степени с местом ставится <b>in</b>, а не of: <b>the biggest city in the world</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "the most",
+      "ru": "самый (с длинными прилагательными)"
+    },
+    {
+      "en": "the best",
+      "ru": "самый лучший"
+    },
+    {
+      "en": "the worst",
+      "ru": "самый плохой, худший"
+    },
+    {
+      "en": "one of the",
+      "ru": "один из"
+    },
+    {
+      "en": "ever",
+      "ru": "когда-либо"
+    },
+    {
+      "en": "furthest",
+      "ru": "дальше всех, самый дальний"
+    },
+    {
+      "en": "eldest",
+      "ru": "старший (из детей в семье)"
+    },
+    {
+      "en": "most kind",
+      "ru": "очень любезно (вежливо)"
+    },
+    {
+      "en": "high",
+      "ru": "высокий (о горе)"
+    },
+    {
+      "en": "family",
+      "ru": "семья"
+    },
+    {
+      "en": "church",
+      "ru": "церковь"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Это самый дешёвый отель в городе.",
+      "en": [
+        "This is the cheapest hotel in town.",
+        "It's the cheapest hotel in town.",
+        "This is the cheapest hotel in the city.",
+        "It's the cheapest hotel in the city."
+      ]
+    },
+    {
+      "ru": "Он самый высокий в классе.",
+      "en": [
+        "He's the tallest in the class.",
+        "He's the tallest in his class.",
+        "He's the tallest student in the class.",
+        "He's the tallest in class.",
+        "He's the tallest boy in the class."
+      ]
+    },
+    {
+      "ru": "Какая самая высокая гора в мире?",
+      "en": [
+        "What's the highest mountain in the world?",
+        "Which is the highest mountain in the world?"
+      ]
+    },
+    {
+      "ru": "Это самая красивая улица в Риме.",
+      "en": [
+        "This is the most beautiful street in Rome.",
+        "It's the most beautiful street in Rome."
+      ]
+    },
+    {
+      "ru": "Это самое простое упражнение.",
+      "en": [
+        "This is the easiest exercise.",
+        "It's the easiest exercise.",
+        "This is the simplest exercise.",
+        "It's the simplest exercise."
+      ]
+    },
+    {
+      "ru": "Это самый важный вопрос.",
+      "en": [
+        "This is the most important question.",
+        "It's the most important question."
+      ]
+    },
+    {
+      "ru": "Это самый удобный стул в доме.",
+      "en": [
+        "This is the most comfortable chair in the house.",
+        "It's the most comfortable chair in the house."
+      ]
+    },
+    {
+      "ru": "Кто самый старый человек в твоей семье?",
+      "en": [
+        "Who is the oldest person in your family?",
+        "Who is the oldest in your family?",
+        "Who is the oldest member of your family?"
+      ]
+    },
+    {
+      "ru": "Кто лучший игрок в команде?",
+      "en": [
+        "Who is the best player in the team?",
+        "Who is the best player on the team?"
+      ]
+    },
+    {
+      "ru": "Какой самый быстрый способ добраться до аэропорта?",
+      "en": [
+        "What's the fastest way to get to the airport?",
+        "What's the quickest way to get to the airport?",
+        "What's the fastest way to the airport?",
+        "What's the quickest way to the airport?",
+        "Which is the fastest way to get to the airport?"
+      ]
+    },
+    {
+      "ru": "Кто живёт дальше всех от школы?",
+      "en": [
+        "Who lives furthest from the school?",
+        "Who lives farthest from the school?",
+        "Who lives furthest from school?",
+        "Who lives the furthest from the school?",
+        "Who lives the farthest from the school?"
+      ]
+    },
+    {
+      "ru": "Это был самый счастливый день в моей жизни.",
+      "en": [
+        "It was the happiest day of my life."
+      ]
+    },
+    {
+      "ru": "Июль — самый жаркий месяц года.",
+      "en": [
+        "July is the hottest month of the year."
+      ]
+    },
+    {
+      "ru": "Сегодня самый холодный день года.",
+      "en": [
+        "Today is the coldest day of the year.",
+        "It's the coldest day of the year today.",
+        "Today it's the coldest day of the year."
+      ]
+    },
+    {
+      "ru": "Я совершил худшую ошибку в своей жизни.",
+      "en": [
+        "I made the worst mistake of my life.",
+        "I've made the worst mistake of my life."
+      ]
+    },
+    {
+      "ru": "Кейт — самая умная из нас.",
+      "en": [
+        "Kate is the cleverest of us.",
+        "Kate is the smartest of us.",
+        "Kate is the cleverest of us all.",
+        "Kate is the most intelligent of us.",
+        "Kate is the smartest of us all.",
+        "Kate is the cleverest one of us."
+      ]
+    },
+    {
+      "ru": "Её старший сын живёт в Канаде.",
+      "en": [
+        "Her eldest son lives in Canada.",
+        "Her oldest son lives in Canada."
+      ]
+    },
+    {
+      "ru": "Он один из лучших врачей в стране.",
+      "en": [
+        "He's one of the best doctors in the country."
+      ]
+    },
+    {
+      "ru": "Это одна из самых старых церквей в Лондоне.",
+      "en": [
+        "It's one of the oldest churches in London.",
+        "This is one of the oldest churches in London."
+      ]
+    },
+    {
+      "ru": "Это худший фильм, который я когда-либо видел.",
+      "en": [
+        "It's the worst film I've ever seen.",
+        "This is the worst film I've ever seen.",
+        "It's the worst movie I've ever seen.",
+        "It's the worst film that I've ever seen.",
+        "This is the worst movie I've ever seen.",
+        "It's the worst movie that I've ever seen.",
+        "That's the worst film I've ever seen."
+      ]
+    },
+    {
+      "ru": "Это самая интересная книга, которую я когда-либо читал.",
+      "en": [
+        "It's the most interesting book I've ever read.",
+        "This is the most interesting book I've ever read.",
+        "It's the most interesting book that I've ever read.",
+        "This is the most interesting book that I've ever read."
+      ]
+    },
+    {
+      "ru": "Москва — самый большой город, в котором я когда-либо был.",
+      "en": [
+        "Moscow is the biggest city I've ever been to.",
+        "Moscow is the largest city I've ever been to.",
+        "Moscow is the biggest city I've ever visited.",
+        "Moscow is the largest city I've ever visited.",
+        "Moscow is the biggest city I've ever been in.",
+        "Moscow is the biggest city that I've ever been to."
+      ]
+    },
+    {
+      "ru": "Это лучший отпуск, который у меня когда-либо был.",
+      "en": [
+        "It's the best holiday I've ever had.",
+        "This is the best holiday I've ever had.",
+        "It's the best vacation I've ever had.",
+        "This is the best vacation I've ever had.",
+        "It's the best holiday that I've ever had."
+      ]
+    },
+    {
+      "ru": "(вежливо) Это очень любезно с вашей стороны.",
+      "en": [
+        "That's most kind of you.",
+        "That's very kind of you."
+      ]
+    }
+  ]
+}

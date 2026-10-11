@@ -1,0 +1,309 @@
+{
+  "id": 102,
+  "section": "Прилагательные и наречия",
+  "title": "so and such",
+  "subtitle": "Такой, так: so + прилагательное, such + существительное",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Оба слова переводятся «так / такой» и усиливают сказанное. Разница — в том, что стоит после них."
+    },
+    {
+      "type": "table",
+      "head": [
+        "so",
+        "such"
+      ],
+      "rows": [
+        [
+          "so + прилагательное: <b>so kind</b>",
+          "such + (a/an) + прилагательное + существительное: <b>such a kind man</b>"
+        ],
+        [
+          "so + наречие: <b>so quickly</b>",
+          "such + существительное во мн. ч.: <b>such nice people</b>"
+        ],
+        [
+          "<b>The film was so long.</b>",
+          "<b>It was such a long film.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Обе конструкции часто продолжаются через <b>that</b> (его можно опустить): <b>It was so hot (that) I couldn't sleep.</b> <b>It was such a hot night (that) I couldn't sleep.</b>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>so long</b> = <b>such a long time</b>: <b>I haven't seen you for so long.</b>",
+        "<b>so far</b> = <b>such a long way</b>",
+        "<b>so much / so many</b> = <b>such a lot (of)</b>: <b>so many people = such a lot of people</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «такой» тянет сказать <b>so a nice day</b> или <b>such nice</b>. Правило простое: если есть существительное — <b>such</b> (и артикль после него: <b>such a</b>), если только прилагательное — <b>so</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "so",
+      "ru": "так, такой (без существительного)"
+    },
+    {
+      "en": "such",
+      "ru": "такой (с существительным)"
+    },
+    {
+      "en": "so ... that",
+      "ru": "так..., что"
+    },
+    {
+      "en": "so much",
+      "ru": "так много (с неисчисляемыми)"
+    },
+    {
+      "en": "so many",
+      "ru": "так много (с исчисляемыми)"
+    },
+    {
+      "en": "so long",
+      "ru": "так долго"
+    },
+    {
+      "en": "funny",
+      "ru": "смешной"
+    },
+    {
+      "en": "impatient",
+      "ru": "нетерпеливый"
+    },
+    {
+      "en": "fall asleep",
+      "forms": "fell asleep, fallen asleep",
+      "ru": "заснуть"
+    },
+    {
+      "en": "far",
+      "ru": "далеко"
+    },
+    {
+      "en": "have a good time",
+      "forms": "had a good time, had a good time",
+      "ru": "хорошо провести время"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Погода такая хорошая!",
+      "en": [
+        "The weather is so nice!",
+        "The weather is so good!",
+        "The weather is so lovely!"
+      ]
+    },
+    {
+      "ru": "Сегодня такой хороший день!",
+      "en": [
+        "It's such a nice day today!",
+        "Today is such a nice day!",
+        "It's such a lovely day today!",
+        "It's such a good day today!",
+        "Today is such a good day!",
+        "Today is such a lovely day!"
+      ]
+    },
+    {
+      "ru": "Я так устал.",
+      "en": [
+        "I'm so tired."
+      ]
+    },
+    {
+      "ru": "Почему ты так злишься?",
+      "en": [
+        "Why are you so angry?",
+        "Why are you so mad?"
+      ]
+    },
+    {
+      "ru": "Это такая интересная книга.",
+      "en": [
+        "It's such an interesting book.",
+        "This is such an interesting book.",
+        "That's such an interesting book."
+      ]
+    },
+    {
+      "ru": "У них такие милые дети.",
+      "en": [
+        "They have such nice children.",
+        "They've got such nice children.",
+        "They have such lovely children.",
+        "They have such cute children.",
+        "They've got such cute children.",
+        "They have such sweet children.",
+        "They have such nice kids.",
+        "They have such cute kids.",
+        "They have such lovely kids.",
+        "They have such sweet kids."
+      ]
+    },
+    {
+      "ru": "Она так быстро говорит.",
+      "en": [
+        "She speaks so fast.",
+        "She speaks so quickly.",
+        "She talks so fast.",
+        "She talks so quickly."
+      ]
+    },
+    {
+      "ru": "Он такой хороший учитель.",
+      "en": [
+        "He's such a good teacher."
+      ]
+    },
+    {
+      "ru": "Ты такой смешной!",
+      "en": [
+        "You're so funny!"
+      ]
+    },
+    {
+      "ru": "Не будь таким нетерпеливым.",
+      "en": [
+        "Don't be so impatient."
+      ]
+    },
+    {
+      "ru": "Это такие дорогие туфли!",
+      "en": [
+        "These are such expensive shoes!",
+        "They are such expensive shoes!",
+        "Those are such expensive shoes!"
+      ]
+    },
+    {
+      "ru": "Это было так глупо с моей стороны.",
+      "en": [
+        "It was so stupid of me.",
+        "That was so stupid of me.",
+        "It was so silly of me.",
+        "That was so silly of me."
+      ]
+    },
+    {
+      "ru": "Почему ты всегда приходишь так поздно?",
+      "en": [
+        "Why do you always come so late?",
+        "Why do you always arrive so late?"
+      ]
+    },
+    {
+      "ru": "Я не знал, что она такая богатая.",
+      "en": [
+        "I didn't know she was so rich.",
+        "I didn't know that she was so rich."
+      ]
+    },
+    {
+      "ru": "Это была такая трудная неделя.",
+      "en": [
+        "It was such a difficult week.",
+        "It was such a hard week.",
+        "That was such a difficult week.",
+        "That was such a hard week."
+      ]
+    },
+    {
+      "ru": "Фильм был такой скучный, что я уснул.",
+      "en": [
+        "The film was so boring that I fell asleep.",
+        "The film was so boring I fell asleep.",
+        "The movie was so boring that I fell asleep.",
+        "The movie was so boring I fell asleep."
+      ]
+    },
+    {
+      "ru": "Это был такой скучный фильм, что я уснул.",
+      "en": [
+        "It was such a boring film that I fell asleep.",
+        "It was such a boring film I fell asleep.",
+        "It was such a boring movie that I fell asleep.",
+        "It was such a boring movie I fell asleep."
+      ]
+    },
+    {
+      "ru": "Было так холодно, что мы остались дома.",
+      "en": [
+        "It was so cold that we stayed at home.",
+        "It was so cold we stayed at home.",
+        "It was so cold that we stayed home.",
+        "It was so cold we stayed home.",
+        "It was so cold that we stayed in.",
+        "It was so cold we stayed in."
+      ]
+    },
+    {
+      "ru": "Еда была такая вкусная, что мы заказали ещё.",
+      "en": [
+        "The food was so good that we ordered more.",
+        "The food was so good we ordered more.",
+        "The food was so delicious that we ordered more.",
+        "The food was so delicious we ordered more.",
+        "The food was so tasty that we ordered more.",
+        "The food was so tasty we ordered more.",
+        "The food was so good that we ordered some more.",
+        "The food was so delicious that we ordered some more."
+      ]
+    },
+    {
+      "ru": "Я не видел тебя так долго!",
+      "en": [
+        "I haven't seen you for so long!",
+        "I haven't seen you for such a long time!",
+        "I haven't seen you in so long!",
+        "I haven't seen you in such a long time!"
+      ]
+    },
+    {
+      "ru": "Я не думал, что это так далеко.",
+      "en": [
+        "I didn't think it was so far.",
+        "I didn't think it was such a long way.",
+        "I didn't think that it was so far."
+      ]
+    },
+    {
+      "ru": "У меня сегодня так много работы.",
+      "en": [
+        "I have so much work today.",
+        "I've got so much work today.",
+        "I have such a lot of work today.",
+        "I've got such a lot of work today.",
+        "Today I have so much work."
+      ]
+    },
+    {
+      "ru": "В городе так много туристов.",
+      "en": [
+        "There are so many tourists in the city.",
+        "There are such a lot of tourists in the city.",
+        "There are so many tourists in town.",
+        "There are such a lot of tourists in town.",
+        "There are so many tourists in the town."
+      ]
+    },
+    {
+      "ru": "Мы так хорошо провели время в Риме!",
+      "en": [
+        "We had such a good time in Rome!",
+        "We had such a nice time in Rome!",
+        "We had such a lovely time in Rome!",
+        "We had such a great time in Rome!"
+      ]
+    }
+  ]
+}

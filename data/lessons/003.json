@@ -1,0 +1,279 @@
+{
+  "id": 3,
+  "section": "Настоящее и прошедшее время",
+  "title": "Present continuous and present simple 1 (I am doing and I do)",
+  "subtitle": "Сейчас или вообще; временно или постоянно; always -ing",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Оба времени переводятся на русский одинаково, поэтому выбирать нужно по смыслу. <b>Continuous</b> — то, что идёт сейчас или в текущий период и ещё не закончено. <b>Simple</b> — то, что бывает вообще, регулярно или всегда верно."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Present continuous",
+        "Present simple"
+      ],
+      "rows": [
+        [
+          "<b>The ice is melting.</b> (прямо сейчас)",
+          "<b>Ice melts in the sun.</b> (всегда так)"
+        ],
+        [
+          "<b>What is Mike doing?</b> (сейчас)",
+          "<b>What do you do in the evenings?</b> (обычно)"
+        ],
+        [
+          "<b>I'm staying with friends.</b> (временно)",
+          "<b>My parents live in Rome.</b> (постоянно)"
+        ],
+        [
+          "<b>My English is improving.</b> (меняется)",
+          "<b>Prices go up every year.</b> (повторяется)"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Временное и постоянное"
+    },
+    {
+      "type": "p",
+      "text": "Временную ситуацию («пока», «на этой неделе») передаём continuous: <b>Lisa isn't working this week.</b> Постоянную — simple: <b>Ben works hard.</b>"
+    },
+    {
+      "type": "h",
+      "text": "always do и always doing"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>I always cycle to work</b> — я каждый раз так делаю (нейтрально).",
+        "<b>You're always losing your phone!</b> — «вечно ты…»: слишком часто, с раздражением."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «вечно ты…» переводите как <b>you're always + -ing</b>, а не <b>you always…</b>. А обычные привычки («как часто», «обычно») — только present simple: <b>How often do you call?</b>, не <b>are you calling</b>."
+    }
+  ],
+  "words": [
+    { "en": "always", "ru": "всегда; вечно (с раздражением: you're always losing)" },
+    { "en": "while", "ru": "пока, в то время как" },
+    { "en": "boil", "ru": "кипеть" },
+    { "en": "kettle", "ru": "чайник" },
+    { "en": "melt", "ru": "таять" },
+    { "en": "ice", "ru": "лёд" },
+    { "en": "rain", "ru": "идти (о дожде); дождь" },
+    { "en": "walk", "ru": "ходить пешком, гулять" },
+    { "en": "stay with", "ru": "жить у (кого-то), гостить" },
+    { "en": "flat", "ru": "квартира" },
+    { "en": "on holiday", "ru": "в отпуске" },
+    { "en": "hard", "ru": "усердно, много (работать)" },
+    { "en": "everybody", "ru": "все, каждый" },
+    { "en": "call", "ru": "звонить" },
+    { "en": "improve", "ru": "улучшаться" },
+    { "en": "go up", "forms": "went up, gone up", "ru": "расти, повышаться (о ценах)" },
+    { "en": "by bike", "ru": "на велосипеде" },
+    { "en": "lose", "forms": "lost, lost", "ru": "терять" },
+    { "en": "complain about", "ru": "жаловаться на" },
+    { "en": "weather", "ru": "погода" },
+    { "en": "argue", "ru": "спорить" },
+    { "en": "money", "ru": "деньги" },
+    { "en": "arrive", "ru": "приходить, прибывать" },
+    { "en": "on time", "ru": "вовремя" },
+    { "en": "look at", "ru": "смотреть на" }
+  ],
+  "items": [
+    {
+      "ru": "(сейчас) Чайник кипит.",
+      "en": [
+        "The kettle is boiling."
+      ]
+    },
+    {
+      "ru": "(вообще) Лёд тает на солнце.",
+      "en": [
+        "Ice melts in the sun."
+      ]
+    },
+    {
+      "ru": "Посмотри, лёд тает!",
+      "en": [
+        "Look, the ice is melting!"
+      ]
+    },
+    {
+      "ru": "Ты говоришь по-итальянски?",
+      "en": [
+        "Do you speak Italian?"
+      ]
+    },
+    {
+      "ru": "(в данный момент) О чём они говорят?",
+      "en": [
+        "What are they talking about?"
+      ]
+    },
+    {
+      "ru": "(обычно) Что ты делаешь по вечерам?",
+      "en": [
+        "What do you do in the evenings?",
+        "What do you do in the evening?",
+        "What do you usually do in the evenings?",
+        "What do you usually do in the evening?"
+      ]
+    },
+    {
+      "ru": "(сейчас) Что делает Майк?",
+      "en": [
+        "What is Mike doing?"
+      ]
+    },
+    {
+      "ru": "Летом здесь редко идут дожди.",
+      "en": [
+        "It rarely rains here in summer.",
+        "It rarely rains here in the summer.",
+        "It doesn't rain much here in summer.",
+        "It seldom rains here in summer.",
+        "It seldom rains here in the summer.",
+        "It doesn't rain much here in the summer.",
+        "In summer it rarely rains here.",
+        "In the summer it rarely rains here."
+      ]
+    },
+    {
+      "ru": "(сейчас) Дождь не идёт, пойдём гулять.",
+      "en": [
+        "It isn't raining, let's go for a walk.",
+        "It isn't raining, so let's go for a walk.",
+        "It isn't raining, let's go out for a walk."
+      ]
+    },
+    {
+      "ru": "Я обычно хожу на работу пешком, но сегодня еду на автобусе.",
+      "en": [
+        "I usually walk to work, but today I'm taking the bus.",
+        "I usually walk to work, but today I'm going by bus.",
+        "I usually walk to work, but I'm taking the bus today.",
+        "I usually go to work on foot, but today I'm taking the bus.",
+        "I usually walk to work, but I'm going by bus today.",
+        "I usually walk to work, but today I'm taking a bus.",
+        "I usually go to work on foot, but today I'm going by bus."
+      ]
+    },
+    {
+      "ru": "(временно) Я живу у друзей, пока ищу квартиру.",
+      "en": [
+        "I'm staying with friends while I look for a flat.",
+        "I'm living with friends while I look for a flat.",
+        "I'm staying with friends while I look for an apartment.",
+        "I'm staying with friends while I'm looking for a flat.",
+        "I'm staying with friends while I'm looking for an apartment.",
+        "I'm living with friends while I look for an apartment.",
+        "I'm living with friends while I'm looking for a flat."
+      ]
+    },
+    {
+      "ru": "(постоянно) Мои родители живут в Риме.",
+      "en": [
+        "My parents live in Rome."
+      ]
+    },
+    {
+      "ru": "На этой неделе Лиза не работает, она в отпуске.",
+      "en": [
+        "Lisa isn't working this week, she's on holiday.",
+        "Lisa isn't working this week because she's on holiday.",
+        "Lisa isn't working this week, she's on vacation.",
+        "This week Lisa isn't working, she's on holiday."
+      ]
+    },
+    {
+      "ru": "(вообще) Бен много работает.",
+      "en": [
+        "Ben works hard.",
+        "Ben works a lot."
+      ]
+    },
+    {
+      "ru": "(сейчас) Все ждут тебя.",
+      "en": [
+        "Everybody is waiting for you.",
+        "Everyone is waiting for you."
+      ]
+    },
+    {
+      "ru": "Как часто ты звонишь маме?",
+      "en": [
+        "How often do you call your mum?",
+        "How often do you phone your mum?",
+        "How often do you call your mother?",
+        "How often do you phone your mother?",
+        "How often do you call your mom?",
+        "How often do you phone your mom?"
+      ]
+    },
+    {
+      "ru": "Мой английский постепенно улучшается.",
+      "en": [
+        "My English is slowly improving.",
+        "My English is slowly getting better.",
+        "My English is gradually improving.",
+        "My English is gradually getting better."
+      ]
+    },
+    {
+      "ru": "Цены растут каждый год.",
+      "en": [
+        "Prices go up every year.",
+        "Prices rise every year.",
+        "Prices increase every year."
+      ]
+    },
+    {
+      "ru": "Я всегда езжу на работу на велосипеде.",
+      "en": [
+        "I always go to work by bike.",
+        "I always cycle to work.",
+        "I always ride my bike to work.",
+        "I always go to work by bicycle.",
+        "I always ride a bike to work."
+      ]
+    },
+    {
+      "ru": "Ты вечно теряешь свой телефон!",
+      "en": [
+        "You're always losing your phone!"
+      ]
+    },
+    {
+      "ru": "Он вечно жалуется на погоду.",
+      "en": [
+        "He's always complaining about the weather."
+      ]
+    },
+    {
+      "ru": "Они вечно спорят из-за денег.",
+      "en": [
+        "They're always arguing about money.",
+        "They're always arguing over money."
+      ]
+    },
+    {
+      "ru": "Эмма всегда приходит вовремя.",
+      "en": [
+        "Emma always arrives on time.",
+        "Emma always comes on time."
+      ]
+    },
+    {
+      "ru": "Почему ты так на нас смотришь?",
+      "en": [
+        "Why are you looking at us like that?",
+        "Why are you looking at us like this?"
+      ]
+    }
+  ]
+}

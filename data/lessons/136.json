@@ -1,0 +1,353 @@
+{
+  "id": 136,
+  "section": "Предлоги",
+  "title": "Verb + preposition 5 in/into/with/to/on",
+  "subtitle": "believe in, crash into, provide with, prefer to, insist on…",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Глаголы",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "in",
+          "believe in, specialise in, succeed in",
+          "<b>She succeeded in passing the test.</b>"
+        ],
+        [
+          "into",
+          "break into; crash / drive / bump / run into; divide / cut / split into; translate from … into",
+          "<b>Cut the cake into six pieces.</b>"
+        ],
+        [
+          "with",
+          "collide with; fill sth with; provide / supply sb with",
+          "<b>Fill the glass with water.</b>"
+        ],
+        [
+          "to",
+          "happen to; invite sb to; prefer one thing to another",
+          "<b>I prefer tea to coffee.</b>"
+        ],
+        [
+          "on",
+          "concentrate on; insist on; spend (money) on",
+          "<b>Don't spend all your money on clothes.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Believe и believe in"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>believe in</b> — верить в существование или в правильность чего-то: <b>Do you believe in ghosts?</b> <b>I believe in being honest.</b>",
+        "<b>believe something / somebody</b> — верить, что это правда: <b>I don't believe you.</b>"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Fill with</b>, но <b>full of</b>: <b>The box is full of books.</b> <b>Happen to</b> — «что стало с»: <b>What happened to your car?</b>"
+    },
+    {
+      "type": "tip",
+      "text": "«Тратить на» — <b>spend on</b>, а не <b>spend for</b>. «Врезаться в» — <b>crash into</b>. «Сосредоточиться на» — <b>concentrate on</b>. «Обеспечить чем-то» — <b>provide somebody with something</b>, без <b>by</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "believe in",
+      "ru": "верить в"
+    },
+    {
+      "en": "specialise in",
+      "ru": "специализироваться на"
+    },
+    {
+      "en": "succeed in",
+      "ru": "суметь, добиться успеха в"
+    },
+    {
+      "en": "break into",
+      "forms": "broke, broken",
+      "ru": "вломиться в"
+    },
+    {
+      "en": "crash into",
+      "ru": "врезаться в"
+    },
+    {
+      "en": "bump into",
+      "ru": "налететь на, случайно встретить"
+    },
+    {
+      "en": "divide into",
+      "ru": "делить на"
+    },
+    {
+      "en": "translate into",
+      "ru": "переводить на (язык)"
+    },
+    {
+      "en": "collide with",
+      "ru": "столкнуться с"
+    },
+    {
+      "en": "fill with",
+      "ru": "наполнять (чем-то)"
+    },
+    {
+      "en": "provide with",
+      "ru": "обеспечивать (чем-то)"
+    },
+    {
+      "en": "happen to",
+      "ru": "случиться с"
+    },
+    {
+      "en": "prefer to",
+      "ru": "предпочитать (что-то чему-то)"
+    },
+    {
+      "en": "concentrate on",
+      "ru": "сосредоточиться на"
+    },
+    {
+      "en": "spend on",
+      "forms": "spent, spent",
+      "ru": "тратить на"
+    },
+    {
+      "en": "insist on",
+      "ru": "настаивать на"
+    },
+    {
+      "en": "waste on",
+      "ru": "тратить впустую на"
+    },
+    {
+      "en": "disease",
+      "ru": "болезнь"
+    },
+    {
+      "en": "lorry",
+      "ru": "грузовик"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Ты веришь в привидения?",
+      "en": [
+        "Do you believe in ghosts?"
+      ]
+    },
+    {
+      "ru": "(оборот с believe) Я считаю, что нужно говорить правду.",
+      "en": [
+        "I believe in telling the truth."
+      ]
+    },
+    {
+      "ru": "Я тебе не верю.",
+      "en": [
+        "I don't believe you."
+      ]
+    },
+    {
+      "ru": "Эта клиника специализируется на детских болезнях.",
+      "en": [
+        "This clinic specialises in children's diseases.",
+        "This clinic specializes in children's diseases.",
+        "This clinic specialises in childhood illnesses.",
+        "This clinic specializes in childhood illnesses.",
+        "This clinic specialises in children's illnesses.",
+        "This clinic specializes in children's illnesses."
+      ]
+    },
+    {
+      "ru": "Ей удалось найти квартиру в центре.",
+      "en": [
+        "She succeeded in finding a flat in the centre.",
+        "She succeeded in finding an apartment in the centre.",
+        "She succeeded in finding a flat in the center.",
+        "She managed to find a flat in the centre.",
+        "She succeeded in finding an apartment in the center.",
+        "She managed to find an apartment in the centre.",
+        "She managed to find a flat in the center.",
+        "She managed to find an apartment in the center.",
+        "She succeeded in finding a flat in the city centre."
+      ]
+    },
+    {
+      "ru": "Ночью кто-то вломился в наш гараж.",
+      "en": [
+        "Somebody broke into our garage last night.",
+        "Someone broke into our garage last night.",
+        "Somebody broke into our garage at night.",
+        "Someone broke into our garage at night.",
+        "Someone broke into our garage during the night.",
+        "Somebody broke into our garage during the night.",
+        "Last night someone broke into our garage."
+      ]
+    },
+    {
+      "ru": "Велосипедист врезался в дерево.",
+      "en": [
+        "The cyclist crashed into a tree.",
+        "The cyclist rode into a tree.",
+        "The cyclist ran into a tree.",
+        "The cyclist hit a tree."
+      ]
+    },
+    {
+      "ru": "Я случайно налетел на Анну в коридоре.",
+      "en": [
+        "I bumped into Anna in the corridor.",
+        "I accidentally bumped into Anna in the corridor.",
+        "I bumped into Anna in the hallway."
+      ]
+    },
+    {
+      "ru": "Раздели группу на две команды.",
+      "en": [
+        "Divide the group into two teams.",
+        "Split the group into two teams."
+      ]
+    },
+    {
+      "ru": "Можешь перевести это письмо с французского на английский?",
+      "en": [
+        "Can you translate this letter from French into English?",
+        "Could you translate this letter from French into English?",
+        "Can you translate this letter from French to English?",
+        "Could you translate this letter from French to English?"
+      ]
+    },
+    {
+      "ru": "Грузовик столкнулся с автобусом.",
+      "en": [
+        "A lorry collided with a bus.",
+        "A truck collided with a bus.",
+        "The lorry collided with the bus.",
+        "The truck collided with the bus."
+      ]
+    },
+    {
+      "ru": "Наполни бутылку водой.",
+      "en": [
+        "Fill the bottle with water."
+      ]
+    },
+    {
+      "ru": "Компания обеспечивает сотрудников ноутбуками.",
+      "en": [
+        "The company provides its staff with laptops.",
+        "The company provides employees with laptops.",
+        "The company supplies its staff with laptops.",
+        "The company provides its employees with laptops.",
+        "The company supplies its employees with laptops.",
+        "The company provides staff with laptops."
+      ]
+    },
+    {
+      "ru": "Что случилось с твоим велосипедом?",
+      "en": [
+        "What happened to your bike?",
+        "What has happened to your bike?",
+        "What happened to your bicycle?"
+      ]
+    },
+    {
+      "ru": "Мы пригласили всех соседей на барбекю.",
+      "en": [
+        "We invited all the neighbours to the barbecue.",
+        "We invited all our neighbours to the barbecue.",
+        "We invited all the neighbors to the barbecue.",
+        "We invited all our neighbors to the barbecue."
+      ]
+    },
+    {
+      "ru": "Я предпочитаю горы морю.",
+      "en": [
+        "I prefer the mountains to the sea.",
+        "I prefer mountains to the sea.",
+        "I prefer the mountains to the seaside."
+      ]
+    },
+    {
+      "ru": "Она предпочитает поезда самолётам.",
+      "en": [
+        "She prefers trains to planes."
+      ]
+    },
+    {
+      "ru": "Я не могу сосредоточиться на работе.",
+      "en": [
+        "I can't concentrate on my work.",
+        "I can't concentrate on work.",
+        "I can't focus on my work."
+      ]
+    },
+    {
+      "ru": "Сколько ты тратишь на бензин?",
+      "en": [
+        "How much do you spend on petrol?",
+        "How much do you spend on gas?",
+        "How much do you spend on fuel?"
+      ]
+    },
+    {
+      "ru": "Мы потратили слишком много денег на подарки.",
+      "en": [
+        "We spent too much money on presents.",
+        "We spent too much money on gifts.",
+        "We spent too much on presents.",
+        "We spent too much on gifts."
+      ]
+    },
+    {
+      "ru": "Мама настояла на том, чтобы заплатить за ужин.",
+      "en": [
+        "Mum insisted on paying for dinner.",
+        "My mother insisted on paying for dinner.",
+        "Mom insisted on paying for dinner.",
+        "My mum insisted on paying for dinner.",
+        "My mom insisted on paying for dinner."
+      ]
+    },
+    {
+      "ru": "Почему ты настаиваешь на том, чтобы ехать ночью?",
+      "en": [
+        "Why do you insist on driving at night?",
+        "Why are you insisting on driving at night?",
+        "Why do you insist on travelling at night?",
+        "Why do you insist on going at night?",
+        "Why are you insisting on going at night?",
+        "Why are you insisting on travelling at night?"
+      ]
+    },
+    {
+      "ru": "Не трать время на пустяки.",
+      "en": [
+        "Don't waste time on little things.",
+        "Don't spend time on little things.",
+        "Don't waste your time on little things.",
+        "Don't waste time on small things.",
+        "Don't waste your time on small things.",
+        "Don't waste time on trivial things."
+      ]
+    },
+    {
+      "ru": "Её песни перевели на испанский.",
+      "en": [
+        "Her songs were translated into Spanish.",
+        "Her songs have been translated into Spanish."
+      ]
+    }
+  ]
+}

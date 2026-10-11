@@ -1,0 +1,363 @@
+{
+  "id": 121,
+  "section": "Предлоги",
+  "title": "at/on/in (time)",
+  "subtitle": "Предлоги времени: at для часов, on для дней, in для месяцев и лет",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "Предлог",
+        "Когда",
+        "Примеры"
+      ],
+      "rows": [
+        [
+          "at",
+          "точное время, праздники, некоторые выражения",
+          "at 7 o'clock, at noon, at night, at the weekend, at Easter, at the moment"
+        ],
+        [
+          "on",
+          "дни и даты",
+          "on Monday, on 5 June, on my birthday, on New Year's Day, on Friday evening"
+        ],
+        [
+          "in",
+          "части дня, месяцы, сезоны, годы, века",
+          "in the morning, in May, in winter, in 2019, in the 1990s"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>in the morning</b>, но <b>on Monday morning</b> — если указан конкретный день, нужен on.",
+        "<b>at Christmas</b> (рождественские праздники), но <b>on Christmas Day</b> (сам день 25 декабря).",
+        "<b>at the weekend</b> — британский вариант, <b>on the weekend</b> — американский."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Перед <b>last, next, this, every</b> предлог не нужен: <b>last summer</b>, <b>next Friday</b>, <b>this evening</b>, <b>every morning</b>."
+    },
+    {
+      "type": "p",
+      "text": "<b>in</b> + период = «через» (столько-то времени от настоящего момента): <b>The bus leaves in ten minutes.</b> <b>I'll be back in a week.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "«Через неделю» — это <b>in a week</b>, а не after a week. А «в следующую пятницу» — просто <b>next Friday</b>, без on и in."
+    }
+  ],
+  "words": [
+    {
+      "en": "at",
+      "ru": "в (точное время, праздники: at six, at Christmas)"
+    },
+    {
+      "en": "on",
+      "ru": "в (дни и даты: on Monday, on 3 May)"
+    },
+    {
+      "en": "in",
+      "ru": "в (месяцы, годы, сезоны, части дня); через (in ten minutes)"
+    },
+    {
+      "en": "o'clock",
+      "ru": "час (ровно: at nine o'clock)"
+    },
+    {
+      "en": "at night",
+      "ru": "ночью"
+    },
+    {
+      "en": "at the weekend",
+      "ru": "на выходных"
+    },
+    {
+      "en": "at the moment",
+      "ru": "сейчас, в данный момент"
+    },
+    {
+      "en": "in the morning",
+      "ru": "утром"
+    },
+    {
+      "en": "in the evening",
+      "ru": "вечером"
+    },
+    {
+      "en": "next",
+      "ru": "следующий"
+    },
+    {
+      "en": "last",
+      "ru": "прошлый"
+    },
+    {
+      "en": "every",
+      "ru": "каждый"
+    },
+    {
+      "en": "a couple of",
+      "ru": "пара, несколько"
+    },
+    {
+      "en": "be born",
+      "ru": "родиться"
+    },
+    {
+      "en": "be back",
+      "ru": "вернуться"
+    },
+    {
+      "en": "Christmas",
+      "ru": "Рождество"
+    },
+    {
+      "en": "summer",
+      "ru": "лето"
+    },
+    {
+      "en": "April",
+      "ru": "апрель"
+    },
+    {
+      "en": "December",
+      "ru": "декабрь"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Урок начинается в девять часов.",
+      "en": [
+        "The lesson starts at nine o'clock.",
+        "The lesson begins at nine o'clock.",
+        "The lesson starts at nine.",
+        "The lesson begins at nine.",
+        "The lesson starts at 9 o'clock.",
+        "The lesson starts at 9.",
+        "The class starts at nine o'clock.",
+        "The class starts at nine."
+      ]
+    },
+    {
+      "ru": "Я обычно обедаю в час дня.",
+      "en": [
+        "I usually have lunch at one o'clock.",
+        "I usually have lunch at one.",
+        "I usually have lunch at 1 o'clock.",
+        "I usually have lunch at 1 pm.",
+        "I usually have lunch at one in the afternoon.",
+        "I usually eat lunch at one o'clock."
+      ]
+    },
+    {
+      "ru": "Я плохо сплю по ночам.",
+      "en": [
+        "I don't sleep well at night.",
+        "I sleep badly at night.",
+        "I sleep poorly at night."
+      ]
+    },
+    {
+      "ru": "Что ты делаешь на выходных?",
+      "en": [
+        "What are you doing at the weekend?",
+        "What are you doing on the weekend?",
+        "What are you doing this weekend?",
+        "What are you doing over the weekend?",
+        "What do you do at the weekend?",
+        "What do you do on the weekend?",
+        "What do you do at weekends?",
+        "What do you do on weekends?"
+      ]
+    },
+    {
+      "ru": "Мы навещаем родителей на Рождество.",
+      "en": [
+        "We visit our parents at Christmas.",
+        "At Christmas we visit our parents.",
+        "We go to see our parents at Christmas."
+      ]
+    },
+    {
+      "ru": "Она в данный момент занята.",
+      "en": [
+        "She's busy at the moment.",
+        "At the moment she's busy.",
+        "She's busy at present.",
+        "She's busy right now."
+      ]
+    },
+    {
+      "ru": "У меня день рождения в пятницу.",
+      "en": [
+        "My birthday is on Friday.",
+        "It's my birthday on Friday."
+      ]
+    },
+    {
+      "ru": "Мы встретимся в понедельник утром.",
+      "en": [
+        "We'll meet on Monday morning.",
+        "We're meeting on Monday morning.",
+        "We're going to meet on Monday morning."
+      ]
+    },
+    {
+      "ru": "Он родился третьего мая.",
+      "en": [
+        "He was born on 3 May.",
+        "He was born on May 3.",
+        "He was born on the third of May.",
+        "He was born on 3rd May.",
+        "He was born on May 3rd.",
+        "He was born on the 3rd of May.",
+        "He was born on May the third."
+      ]
+    },
+    {
+      "ru": "Что вы делаете в субботу вечером?",
+      "en": [
+        "What are you doing on Saturday evening?",
+        "What are you doing on Saturday night?",
+        "What do you do on Saturday evenings?",
+        "What do you do on Saturday evening?"
+      ]
+    },
+    {
+      "ru": "Двадцать пятого декабря магазины закрыты.",
+      "en": [
+        "The shops are closed on 25 December.",
+        "The shops are closed on December 25.",
+        "The shops are closed on 25th December.",
+        "The shops are closed on the twenty-fifth of December.",
+        "The shops are shut on 25 December.",
+        "The shops are closed on Christmas Day.",
+        "The shops are closed on December 25th.",
+        "The shops are closed on the 25th of December.",
+        "The stores are closed on December 25.",
+        "The stores are closed on December 25th."
+      ]
+    },
+    {
+      "ru": "Я родился в 1995 году.",
+      "en": [
+        "I was born in 1995."
+      ]
+    },
+    {
+      "ru": "В апреле в Лондоне часто идёт дождь.",
+      "en": [
+        "It often rains in London in April.",
+        "In April it often rains in London.",
+        "In London it often rains in April.",
+        "It often rains in April in London."
+      ]
+    },
+    {
+      "ru": "Летом мы ездим в Италию.",
+      "en": [
+        "We go to Italy in summer.",
+        "We go to Italy in the summer.",
+        "In summer we go to Italy.",
+        "In the summer we go to Italy."
+      ]
+    },
+    {
+      "ru": "Утром я работаю лучше.",
+      "en": [
+        "I work better in the morning.",
+        "I work better in the mornings.",
+        "In the morning I work better.",
+        "In the mornings I work better."
+      ]
+    },
+    {
+      "ru": "Мы обычно гуляем по вечерам.",
+      "en": [
+        "We usually go for a walk in the evening.",
+        "We usually go for a walk in the evenings.",
+        "We usually go for walks in the evening.",
+        "In the evening we usually go for a walk.",
+        "In the evenings we usually go for a walk.",
+        "We usually walk in the evening.",
+        "We usually walk in the evenings.",
+        "We usually take a walk in the evening.",
+        "We usually take a walk in the evenings."
+      ]
+    },
+    {
+      "ru": "Мои родители познакомились в восьмидесятые.",
+      "en": [
+        "My parents met in the 1980s.",
+        "My parents met in the eighties.",
+        "My parents met in the 80s."
+      ]
+    },
+    {
+      "ru": "Увидимся в следующую пятницу.",
+      "en": [
+        "See you next Friday.",
+        "I'll see you next Friday."
+      ]
+    },
+    {
+      "ru": "Прошлым летом мы ездили в Испанию.",
+      "en": [
+        "We went to Spain last summer.",
+        "Last summer we went to Spain."
+      ]
+    },
+    {
+      "ru": "Каждое утро я пью кофе.",
+      "en": [
+        "I drink coffee every morning.",
+        "I have coffee every morning.",
+        "Every morning I drink coffee.",
+        "Every morning I have coffee."
+      ]
+    },
+    {
+      "ru": "Я позвоню тебе в эту субботу.",
+      "en": [
+        "I'll call you this Saturday.",
+        "I'll phone you this Saturday.",
+        "I'll ring you this Saturday.",
+        "I'll give you a call this Saturday."
+      ]
+    },
+    {
+      "ru": "Поезд отправляется через десять минут.",
+      "en": [
+        "The train leaves in ten minutes.",
+        "The train is leaving in ten minutes.",
+        "The train departs in ten minutes.",
+        "The train leaves in 10 minutes.",
+        "The train is leaving in 10 minutes."
+      ]
+    },
+    {
+      "ru": "Я вернусь через пару дней.",
+      "en": [
+        "I'll be back in a couple of days.",
+        "I'll come back in a couple of days.",
+        "I'll return in a couple of days.",
+        "I'll be back in a few days.",
+        "I'll be back in two days."
+      ]
+    },
+    {
+      "ru": "Они вернутся через неделю?",
+      "en": [
+        "Will they be back in a week?",
+        "Will they come back in a week?",
+        "Are they coming back in a week?",
+        "Will they return in a week?",
+        "Will they be back in a week's time?"
+      ]
+    }
+  ]
+}

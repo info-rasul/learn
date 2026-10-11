@@ -1,0 +1,131 @@
+{
+  "id": 99,
+  "section": "Прилагательные и наречия",
+  "title": "Adjectives: a nice new house, you look tired",
+  "subtitle": "Порядок прилагательных; look, feel, sound + прилагательное",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Если перед существительным стоит несколько прилагательных, сначала идёт <b>мнение</b> (nice, beautiful, interesting), потом <b>факт</b> (размер, возраст, цвет и т.д.): <b>a lovely old village</b>, <b>an interesting young woman</b>."
+    },
+    {
+      "type": "table",
+      "head": ["размер / длина", "форма / ширина", "возраст", "цвет", "происхождение", "материал", "существительное"],
+      "rows": [
+        ["a big", "round", "", "", "", "wooden", "table"],
+        ["a small", "", "old", "white", "", "", "car"],
+        ["", "", "old", "", "Italian", "", "films"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Два цвета соединяются через <b>and</b>: <b>a blue and yellow shirt</b>. Перед существительным в остальных случаях <b>and</b> не нужен: <b>a long black coat</b>."
+    },
+    {
+      "type": "h",
+      "text": "be / get / seem / look / feel / sound / taste / smell + прилагательное"
+    },
+    {
+      "type": "p",
+      "text": "После глаголов-связок, описывающих состояние или впечатление, ставится <b>прилагательное</b>, а не наречие: <b>You look happy.</b> <b>The bread smells fresh.</b> <b>It's getting dark.</b> Но если глагол описывает действие, нужно наречие: <b>She looked at me angrily</b> (посмотрела сердито)."
+    },
+    {
+      "type": "p",
+      "text": "Числа ставятся после <b>first / next / last</b>: <b>the first three weeks</b>, <b>the next few days</b>, <b>the last two years</b>."
+    },
+    {
+      "type": "tip",
+      "text": "По-русски говорят «выглядишь устало», «пахнет вкусно» — и тянет поставить наречие. В английском после look, feel, sound, smell, taste нужно прилагательное: <b>You look tired</b> (не tiredly), <b>It smells good</b> (не well)."
+    }
+  ],
+  "words": [
+    {
+      "en": "look",
+      "ru": "выглядеть"
+    },
+    {
+      "en": "smell",
+      "ru": "пахнуть"
+    },
+    {
+      "en": "sound",
+      "ru": "звучать"
+    },
+    {
+      "en": "taste",
+      "ru": "иметь вкус"
+    },
+    {
+      "en": "feel",
+      "forms": "felt, felt",
+      "ru": "чувствовать себя"
+    },
+    {
+      "en": "get",
+      "forms": "got, got",
+      "ru": "становиться"
+    },
+    {
+      "en": "round",
+      "ru": "круглый"
+    },
+    {
+      "en": "wooden",
+      "ru": "деревянный"
+    },
+    {
+      "en": "leather",
+      "ru": "кожаный"
+    },
+    {
+      "en": "short",
+      "ru": "короткий"
+    },
+    {
+      "en": "dark",
+      "ru": "тёмный"
+    },
+    {
+      "en": "dress",
+      "ru": "платье"
+    },
+    {
+      "en": "voice",
+      "ru": "голос"
+    },
+    {
+      "en": "sadly",
+      "ru": "грустно, печально"
+    },
+    {
+      "en": "bitter",
+      "ru": "горький"
+    }
+  ],
+  "items": [
+    { "ru": "У нас был чудесный долгий отпуск.", "en": ["We had a wonderful long holiday.", "We had a wonderful long vacation.", "We had a lovely long holiday.", "We had a lovely long vacation.", "We had a great long holiday."] },
+    { "ru": "Она живёт в маленьком старом доме.", "en": ["She lives in a small old house.", "She lives in a little old house."] },
+    { "ru": "Он купил красивую новую машину.", "en": ["He bought a beautiful new car.", "He bought a nice new car.", "He bought a lovely new car."] },
+    { "ru": "Он был интересным молодым человеком.", "en": ["He was an interesting young man."] },
+    { "ru": "На кухне стоит большой круглый деревянный стол.", "en": ["There is a big round wooden table in the kitchen.", "There is a large round wooden table in the kitchen.", "In the kitchen there is a big round wooden table.", "In the kitchen there is a large round wooden table."] },
+    { "ru": "(обычно) Анна носит длинное чёрное пальто.", "en": ["Anna wears a long black coat."] },
+    { "ru": "Мне нравятся эти старые итальянские фильмы.", "en": ["I like these old Italian films.", "I like these old Italian movies."] },
+    { "ru": "Кейт купила маленькую белую кожаную сумку.", "en": ["Kate bought a small white leather bag.", "Kate bought a little white leather bag."] },
+    { "ru": "У него короткие тёмные волосы.", "en": ["He has short dark hair.", "He's got short dark hair."] },
+    { "ru": "Лиза надела красно-белое платье.", "en": ["Lisa put on a red and white dress."] },
+    { "ru": "Это был тёплый солнечный день.", "en": ["It was a warm sunny day.", "That was a warm sunny day."] },
+    { "ru": "Ты выглядишь усталым.", "en": ["You look tired."] },
+    { "ru": "Этот суп вкусно пахнет.", "en": ["This soup smells good.", "This soup smells delicious.", "This soup smells nice.", "This soup smells tasty."] },
+    { "ru": "Эта музыка звучит странно.", "en": ["This music sounds strange.", "This music sounds weird.", "This music sounds odd."] },
+    { "ru": "Сегодня я чувствую себя хорошо.", "en": ["I feel fine today.", "I feel good today.", "I feel well today.", "Today I feel fine.", "Today I feel good.", "Today I feel well."] },
+    { "ru": "Почему ты выглядишь таким грустным?", "en": ["Why do you look so sad?"] },
+    { "ru": "Погода становится холодной.", "en": ["The weather is getting cold.", "The weather is becoming cold.", "The weather is turning cold."] },
+    { "ru": "Её голос звучал сердито.", "en": ["Her voice sounded angry."] },
+    { "ru": "Пол грустно посмотрел на меня.", "en": ["Paul looked at me sadly.", "Paul looked sadly at me."] },
+    { "ru": "Пол выглядел грустным.", "en": ["Paul looked sad."] },
+    { "ru": "Этот кофе на вкус горький.", "en": ["This coffee tastes bitter."] },
+    { "ru": "Первые два дня были очень холодными.", "en": ["The first two days were very cold.", "The first two days were really cold."] },
+    { "ru": "Следующие несколько недель я буду занят.", "en": ["I'll be busy for the next few weeks.", "I'll be busy the next few weeks.", "For the next few weeks I'll be busy.", "I'll be busy for the next several weeks.", "I'll be busy for the next couple of weeks."] },
+    { "ru": "Последние десять минут фильма были скучными.", "en": ["The last ten minutes of the film were boring.", "The last ten minutes of the movie were boring.", "The last 10 minutes of the film were boring.", "The last 10 minutes of the movie were boring."] }
+  ]
+}

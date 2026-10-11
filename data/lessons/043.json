@@ -1,0 +1,296 @@
+{
+  "id": 43,
+  "section": "Пассивный залог",
+  "title": "Passive 2 (be done / been done / being done)",
+  "subtitle": "Пассив с модальными глаголами, perfect и continuous",
+  "theory": [
+    {
+      "type": "p",
+      "text": "После <b>will, can, must, should, may, might, going to, want to</b> пассив строится как <b>be + 3-я форма</b>: <b>The windows will be cleaned tomorrow.</b> — Окна помоют завтра. <b>This can be fixed.</b> — Это можно починить."
+    },
+    {
+      "type": "p",
+      "text": "Если речь о прошлом (должно было / могло быть сделано), используем <b>have been + 3-я форма</b>: <b>The bill should have been paid.</b> — Счёт должны были оплатить. <b>The problem seems to have been solved.</b> — Проблему, кажется, решили."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Время",
+        "Актив",
+        "Пассив"
+      ],
+      "rows": [
+        [
+          "Present perfect",
+          "They have sold the tickets.",
+          "The tickets <b>have been sold</b>."
+        ],
+        [
+          "Past perfect",
+          "They had sold the tickets.",
+          "The tickets <b>had been sold</b>."
+        ],
+        [
+          "Present continuous",
+          "They are building a bridge.",
+          "A bridge <b>is being built</b>."
+        ],
+        [
+          "Past continuous",
+          "They were building a bridge.",
+          "A bridge <b>was being built</b>."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>has/have been done</b> — результат к настоящему: <b>The meeting has been cancelled.</b>",
+        "<b>had been done</b> — сделано раньше другого момента в прошлом.",
+        "<b>is/are being done</b> — процесс идёт прямо сейчас: <b>The road is being repaired.</b>",
+        "<b>was/were being done</b> — процесс шёл в какой-то момент прошлого."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «дорогу ремонтируют» часто переводят как <b>The road is repaired</b>. Но это «дорога (обычно) ремонтируется». Если процесс идёт сейчас, нужно <b>being</b>: <b>The road is being repaired.</b>"
+    }
+  ],
+  "words": [
+    {
+      "en": "solve",
+      "ru": "решать (проблему)"
+    },
+    {
+      "en": "disturb",
+      "ru": "беспокоить, мешать"
+    },
+    {
+      "en": "document",
+      "ru": "документ"
+    },
+    {
+      "en": "keep",
+      "forms": "kept, kept",
+      "ru": "хранить"
+    },
+    {
+      "en": "safe",
+      "ru": "надёжный, безопасный"
+    },
+    {
+      "en": "place",
+      "ru": "место"
+    },
+    {
+      "en": "sting",
+      "forms": "stung, stung",
+      "ru": "жалить"
+    },
+    {
+      "en": "wasp",
+      "ru": "оса"
+    },
+    {
+      "en": "dishes",
+      "ru": "посуда"
+    },
+    {
+      "en": "wash",
+      "ru": "мыть"
+    },
+    {
+      "en": "film",
+      "ru": "снимать (на камеру)"
+    },
+    {
+      "en": "serve",
+      "ru": "обслуживать"
+    },
+    {
+      "en": "watch",
+      "ru": "наблюдать, следить"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Окна помоют завтра.",
+      "en": [
+        "The windows will be cleaned tomorrow.",
+        "The windows will be washed tomorrow.",
+        "The windows are going to be cleaned tomorrow.",
+        "The windows are going to be washed tomorrow."
+      ]
+    },
+    {
+      "ru": "Эту проблему можно решить.",
+      "en": [
+        "This problem can be solved."
+      ]
+    },
+    {
+      "ru": "Работа должна быть закончена до пятницы.",
+      "en": [
+        "The work must be finished by Friday.",
+        "The work must be done by Friday.",
+        "The job must be finished by Friday.",
+        "The work has to be finished by Friday.",
+        "The job must be done by Friday."
+      ]
+    },
+    {
+      "ru": "В следующем году здесь собираются построить новую школу.",
+      "en": [
+        "A new school is going to be built here next year.",
+        "Next year a new school is going to be built here.",
+        "A new school will be built here next year."
+      ]
+    },
+    {
+      "ru": "Я не хочу, чтобы меня беспокоили.",
+      "en": [
+        "I don't want to be disturbed."
+      ]
+    },
+    {
+      "ru": "Музыку было слышно из соседнего дома.",
+      "en": [
+        "The music could be heard from the next house.",
+        "The music could be heard from the house next door."
+      ]
+    },
+    {
+      "ru": "Эти документы нужно хранить в надёжном месте.",
+      "en": [
+        "These documents should be kept in a safe place.",
+        "These documents must be kept in a safe place.",
+        "These documents need to be kept in a safe place.",
+        "These documents have to be kept in a safe place."
+      ]
+    },
+    {
+      "ru": "(возможно) Посылку уже доставили.",
+      "en": [
+        "The parcel may have been delivered already.",
+        "The parcel might have been delivered already.",
+        "The parcel may already have been delivered.",
+        "The parcel might already have been delivered."
+      ]
+    },
+    {
+      "ru": "Этот счёт надо было оплатить на прошлой неделе.",
+      "en": [
+        "This bill should have been paid last week."
+      ]
+    },
+    {
+      "ru": "Если бы ты закрыл окно, сумку бы не украли.",
+      "en": [
+        "If you had closed the window, the bag wouldn't have been stolen.",
+        "If you had shut the window, the bag wouldn't have been stolen."
+      ]
+    },
+    {
+      "ru": "Кажется, проблему решили.",
+      "en": [
+        "The problem seems to have been solved.",
+        "It seems that the problem has been solved.",
+        "It seems the problem has been solved.",
+        "It looks like the problem has been solved."
+      ]
+    },
+    {
+      "ru": "Встречу отменили (это новость).",
+      "en": [
+        "The meeting has been cancelled.",
+        "The meeting has been canceled."
+      ]
+    },
+    {
+      "ru": "Тебя когда-нибудь жалила оса?",
+      "en": [
+        "Have you ever been stung by a wasp?"
+      ]
+    },
+    {
+      "ru": "Меня ещё не пригласили на свадьбу.",
+      "en": [
+        "I haven't been invited to the wedding yet."
+      ]
+    },
+    {
+      "ru": "Все билеты уже проданы.",
+      "en": [
+        "All the tickets have already been sold.",
+        "All the tickets have been sold already.",
+        "All tickets have already been sold."
+      ]
+    },
+    {
+      "ru": "Твою машину уже починили?",
+      "en": [
+        "Has your car been repaired yet?",
+        "Has your car been fixed yet?",
+        "Has your car already been repaired?",
+        "Has your car already been fixed?"
+      ]
+    },
+    {
+      "ru": "Когда мы приехали, посуда уже была вымыта.",
+      "en": [
+        "When we arrived, the dishes had already been washed.",
+        "The dishes had already been washed when we arrived."
+      ]
+    },
+    {
+      "ru": "Дом был старый, но (к тому времени) его недавно покрасили.",
+      "en": [
+        "The house was old, but it had been painted recently.",
+        "The house was old, but it had recently been painted."
+      ]
+    },
+    {
+      "ru": "(прямо сейчас) Дорогу ремонтируют.",
+      "en": [
+        "The road is being repaired.",
+        "The road is being repaired now.",
+        "The road is being fixed."
+      ]
+    },
+    {
+      "ru": "Мне кажется, нас снимают на камеру.",
+      "en": [
+        "I think we're being filmed."
+      ]
+    },
+    {
+      "ru": "Сейчас в нашем городе строят новую больницу.",
+      "en": [
+        "A new hospital is being built in our town.",
+        "A new hospital is being built in our city."
+      ]
+    },
+    {
+      "ru": "Когда я позвонил, мою машину как раз мыли.",
+      "en": [
+        "My car was being washed when I called.",
+        "When I called, my car was being washed.",
+        "My car was being washed when I phoned."
+      ]
+    },
+    {
+      "ru": "(в магазине) Вас уже обслуживают?",
+      "en": [
+        "Are you being served?",
+        "Are you already being served?"
+      ]
+    },
+    {
+      "ru": "Она не знала, что за ней наблюдают.",
+      "en": [
+        "She didn't know that she was being watched.",
+        "She didn't know she was being watched."
+      ]
+    }
+  ]
+}

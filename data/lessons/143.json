@@ -1,0 +1,332 @@
+{
+  "id": 143,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 7 up (1)",
+  "subtitle": "grow up, set up, take up, turn up, end up, give up, keep up…",
+  "theory": [
+    {
+      "type": "list",
+      "items": [
+        "<b>go up / come up / walk up (to somebody)</b> — подойти к кому-то.",
+        "<b>set up</b> — основать, создать (компанию, сайт, систему).",
+        "<b>grow up</b> — вырасти; <b>bring up a child</b> — воспитать ребёнка."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Глагол",
+        "Значение"
+      ],
+      "rows": [
+        [
+          "<b>clean up / clear up / tidy up</b>",
+          "убрать, навести порядок"
+        ],
+        [
+          "<b>wash up</b>",
+          "помыть посуду"
+        ],
+        [
+          "<b>take up</b> a hobby / sport",
+          "начать заниматься"
+        ],
+        [
+          "<b>take up</b> space / time",
+          "занимать место / время"
+        ],
+        [
+          "<b>turn up / show up</b>",
+          "появиться, прийти"
+        ],
+        [
+          "<b>use up</b>",
+          "израсходовать всё"
+        ],
+        [
+          "<b>fix up</b> a meeting",
+          "договориться о встрече"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Ещё несколько"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>catch up (with somebody)</b> / <b>catch somebody up</b> — догнать.",
+        "<b>keep up (with)</b> — не отставать; <b>Keep it up!</b> — Так держать!",
+        "<b>end up</b> + место / <b>doing</b> — в итоге оказаться, в итоге сделать.",
+        "<b>make up</b> — составлять; <b>be made up of</b> — состоять из.",
+        "<b>give up</b> — сдаться; <b>give something up</b> — бросить (привычку, работу)."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Бросить курить» — <b>give up smoking</b> (с -ing), «в итоге мы остались дома» — <b>we ended up staying at home</b>. После <b>give up</b> и <b>end up</b> глагол идёт с <b>-ing</b>, не с <b>to</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "come up to",
+      "forms": "came, come",
+      "ru": "подходить к"
+    },
+    {
+      "en": "set up",
+      "forms": "set, set",
+      "ru": "основать, открыть (компанию)"
+    },
+    {
+      "en": "grow up",
+      "forms": "grew, grown",
+      "ru": "вырасти"
+    },
+    {
+      "en": "bring up",
+      "forms": "brought, brought",
+      "ru": "воспитывать"
+    },
+    {
+      "en": "clean up",
+      "ru": "убираться"
+    },
+    {
+      "en": "tidy up",
+      "ru": "прибираться"
+    },
+    {
+      "en": "wash up",
+      "ru": "мыть посуду"
+    },
+    {
+      "en": "take up",
+      "forms": "took, taken",
+      "ru": "заняться (хобби); занимать (место, время)"
+    },
+    {
+      "en": "turn up",
+      "ru": "появиться, прийти"
+    },
+    {
+      "en": "use up",
+      "ru": "израсходовать"
+    },
+    {
+      "en": "fix up",
+      "ru": "договориться (о встрече)"
+    },
+    {
+      "en": "catch up",
+      "forms": "caught, caught",
+      "ru": "догнать"
+    },
+    {
+      "en": "keep it up",
+      "ru": "так держать"
+    },
+    {
+      "en": "end up",
+      "ru": "в итоге оказаться"
+    },
+    {
+      "en": "make up",
+      "forms": "made, made",
+      "ru": "составлять"
+    },
+    {
+      "en": "aunt",
+      "ru": "тётя"
+    },
+    {
+      "en": "space",
+      "ru": "место, пространство"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Ко мне на вокзале подошла женщина.",
+      "en": [
+        "A woman came up to me at the station.",
+        "A woman walked up to me at the station."
+      ]
+    },
+    {
+      "ru": "Он подошёл к окну и выглянул наружу.",
+      "en": [
+        "He went up to the window and looked out.",
+        "He walked up to the window and looked out."
+      ]
+    },
+    {
+      "ru": "Мой брат открыл свою компанию.",
+      "en": [
+        "My brother has set up his own company.",
+        "My brother set up his own company.",
+        "My brother has set up his own business.",
+        "My brother set up his own business."
+      ]
+    },
+    {
+      "ru": "Где ты вырос?",
+      "en": [
+        "Where did you grow up?"
+      ]
+    },
+    {
+      "ru": "Её воспитала тётя.",
+      "en": [
+        "She was brought up by her aunt."
+      ]
+    },
+    {
+      "ru": "Кто будет убираться после вечеринки?",
+      "en": [
+        "Who's going to clean up after the party?",
+        "Who will clean up after the party?",
+        "Who's going to tidy up after the party?",
+        "Who's going to clear up after the party?",
+        "Who will tidy up after the party?",
+        "Who will clear up after the party?"
+      ]
+    },
+    {
+      "ru": "Убери свою комнату!",
+      "en": [
+        "Tidy up your room!",
+        "Tidy your room up!",
+        "Clean up your room!",
+        "Clean your room up!"
+      ]
+    },
+    {
+      "ru": "Я приготовил ужин, а ты помой посуду.",
+      "en": [
+        "I cooked dinner, so you wash up.",
+        "I've cooked dinner, so you can wash up.",
+        "I made dinner, so you wash up.",
+        "I cooked dinner, now you wash up."
+      ]
+    },
+    {
+      "ru": "Пол недавно занялся теннисом.",
+      "en": [
+        "Paul has recently taken up tennis.",
+        "Paul recently took up tennis.",
+        "Paul took up tennis recently.",
+        "Paul has taken up tennis recently."
+      ]
+    },
+    {
+      "ru": "Почему бы тебе не заняться йогой?",
+      "en": [
+        "Why don't you take up yoga?"
+      ]
+    },
+    {
+      "ru": "Этот диван занимает слишком много места.",
+      "en": [
+        "This sofa takes up too much space.",
+        "This sofa takes up too much room."
+      ]
+    },
+    {
+      "ru": "Дорога занимает почти весь мой день.",
+      "en": [
+        "The journey takes up almost all of my day.",
+        "The journey takes up almost all my day.",
+        "The journey takes up almost my whole day.",
+        "The journey takes up most of my day."
+      ]
+    },
+    {
+      "ru": "Мы ждали Ника, но он так и не появился.",
+      "en": [
+        "We waited for Nick, but he never turned up.",
+        "We waited for Nick, but he never showed up."
+      ]
+    },
+    {
+      "ru": "Не используй всё молоко.",
+      "en": [
+        "Don't use up all the milk.",
+        "Don't use all the milk up."
+      ]
+    },
+    {
+      "ru": "Давай договоримся о встрече на пятницу.",
+      "en": [
+        "Let's fix up a meeting for Friday.",
+        "Let's fix a meeting up for Friday."
+      ]
+    },
+    {
+      "ru": "Иди вперёд, я тебя догоню.",
+      "en": [
+        "Go ahead, I'll catch up with you.",
+        "Go on, I'll catch up with you.",
+        "Go ahead, I'll catch you up.",
+        "Go on ahead, I'll catch up with you."
+      ]
+    },
+    {
+      "ru": "Он пропустил неделю занятий и пытается догнать класс.",
+      "en": [
+        "He missed a week of classes and is trying to catch up.",
+        "He missed a week of classes and is trying to catch up with the class."
+      ]
+    },
+    {
+      "ru": "Я не успеваю за новостями.",
+      "en": [
+        "I can't keep up with the news."
+      ]
+    },
+    {
+      "ru": "Отличная работа, так держать!",
+      "en": [
+        "Great work, keep it up!",
+        "Excellent work, keep it up!",
+        "Great job, keep it up!"
+      ]
+    },
+    {
+      "ru": "Мы заблудились и в итоге оказались в другом городе.",
+      "en": [
+        "We got lost and ended up in another town.",
+        "We got lost and ended up in a different town."
+      ]
+    },
+    {
+      "ru": "В итоге она заплатила за всех.",
+      "en": [
+        "She ended up paying for everyone.",
+        "In the end she paid for everyone.",
+        "She ended up paying for everybody."
+      ]
+    },
+    {
+      "ru": "Женщины составляют треть нашей команды.",
+      "en": [
+        "Women make up a third of our team.",
+        "Women make up one third of our team."
+      ]
+    },
+    {
+      "ru": "Команда состоит из пяти человек.",
+      "en": [
+        "The team is made up of five people.",
+        "The team consists of five people."
+      ]
+    },
+    {
+      "ru": "Мой отец бросил курить десять лет назад.",
+      "en": [
+        "My father gave up smoking ten years ago.",
+        "My dad gave up smoking ten years ago."
+      ]
+    }
+  ]
+}

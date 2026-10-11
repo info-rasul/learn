@@ -1,0 +1,307 @@
+{
+  "id": 69,
+  "section": "Артикли и существительные",
+  "title": "Countable and uncountable 1",
+  "subtitle": "Исчисляемые и неисчисляемые: a/an, some/any, many/much",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>Исчисляемые</b> существительные можно посчитать: <b>an apple, two apples</b>. У них есть единственное и множественное число. <b>Неисчисляемые</b> посчитать нельзя: <b>water, money, music, rice, electricity</b> — у них одна форма и нет множественного числа."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Исчисляемые",
+        "Неисчисляемые"
+      ],
+      "rows": [
+        [
+          "a / an",
+          "a car, an idea",
+          "— (нельзя: a music)"
+        ],
+        [
+          "без артикля",
+          "только во мн. ч.: I like cats.",
+          "можно: I like music."
+        ],
+        [
+          "some / any",
+          "some books, any eggs",
+          "some milk, any money"
+        ],
+        [
+          "много / мало",
+          "many, a few",
+          "much, a little"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Единственное число не стоит в одиночку"
+    },
+    {
+      "type": "p",
+      "text": "Исчисляемое существительное в единственном числе требует <b>a/an, the, my</b> и т. п.: <b>I need a pen.</b> (не <b>I need pen</b>). Во множественном числе без артикля — когда говорим «вообще»: <b>Pens are cheap.</b>"
+    },
+    {
+      "type": "p",
+      "text": "Неисчисляемые можно «посчитать» через ёмкость или порцию: <b>a glass of water, a piece of cake, a bag of sugar, a bottle of oil</b>."
+    },
+    {
+      "type": "tip",
+      "text": "В русском артиклей нет, поэтому главная ошибка — пропускать <b>a/an</b>: <b>He has car</b>, <b>It's good idea</b>. Правильно: <b>He has a car.</b> <b>It's a good idea.</b> И наоборот — не ставьте <b>a</b> перед неисчисляемыми: не <b>a money</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "much",
+      "ru": "много (с неисчисляемыми)"
+    },
+    {
+      "en": "many",
+      "ru": "много (с исчисляемыми)"
+    },
+    {
+      "en": "a few",
+      "ru": "несколько (с исчисляемыми)"
+    },
+    {
+      "en": "little",
+      "ru": "мало (с неисчисляемыми)"
+    },
+    {
+      "en": "rice",
+      "ru": "рис"
+    },
+    {
+      "en": "trousers",
+      "ru": "брюки"
+    },
+    {
+      "en": "electricity",
+      "ru": "электричество"
+    },
+    {
+      "en": "village",
+      "ru": "деревня"
+    },
+    {
+      "en": "patience",
+      "ru": "терпение"
+    },
+    {
+      "en": "fresh",
+      "ru": "свежий"
+    },
+    {
+      "en": "air",
+      "ru": "воздух"
+    },
+    {
+      "en": "glass",
+      "ru": "стакан"
+    },
+    {
+      "en": "packet",
+      "ru": "пачка, пакет"
+    },
+    {
+      "en": "juice",
+      "ru": "сок"
+    },
+    {
+      "en": "orange",
+      "ru": "апельсин"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я съедаю яблоко каждый день.",
+      "en": [
+        "I eat an apple every day.",
+        "I eat an apple a day."
+      ]
+    },
+    {
+      "ru": "Я люблю яблоки.",
+      "en": [
+        "I like apples.",
+        "I love apples."
+      ]
+    },
+    {
+      "ru": "Я ем рис два раза в неделю.",
+      "en": [
+        "I eat rice twice a week."
+      ]
+    },
+    {
+      "ru": "У тебя есть зонт?",
+      "en": [
+        "Do you have an umbrella?",
+        "Have you got an umbrella?"
+      ]
+    },
+    {
+      "ru": "Вчера на нашей улице была авария.",
+      "en": [
+        "There was an accident in our street yesterday.",
+        "There was an accident on our street yesterday.",
+        "Yesterday there was an accident in our street.",
+        "Yesterday there was an accident on our street."
+      ]
+    },
+    {
+      "ru": "Это была хорошая идея.",
+      "en": [
+        "It was a good idea.",
+        "That was a good idea."
+      ]
+    },
+    {
+      "ru": "Возле вокзала есть банк?",
+      "en": [
+        "Is there a bank near the station?",
+        "Is there a bank near the railway station?",
+        "Is there a bank near the train station?"
+      ]
+    },
+    {
+      "ru": "Мой брат работает в банке.",
+      "en": [
+        "My brother works in a bank.",
+        "My brother works at a bank.",
+        "My brother works for a bank."
+      ]
+    },
+    {
+      "ru": "Она слушала музыку.",
+      "en": [
+        "She was listening to music.",
+        "She listened to music."
+      ]
+    },
+    {
+      "ru": "У тебя на брюках краска.",
+      "en": [
+        "There's paint on your trousers.",
+        "You've got paint on your trousers.",
+        "You have paint on your trousers."
+      ]
+    },
+    {
+      "ru": "Нам нужна вода.",
+      "en": [
+        "We need water.",
+        "We need some water."
+      ]
+    },
+    {
+      "ru": "Мне нужно немного денег.",
+      "en": [
+        "I need some money.",
+        "I need a little money."
+      ]
+    },
+    {
+      "ru": "В деревне нет электричества.",
+      "en": [
+        "There's no electricity in the village.",
+        "There isn't any electricity in the village."
+      ]
+    },
+    {
+      "ru": "У меня нет машины.",
+      "en": [
+        "I don't have a car.",
+        "I haven't got a car."
+      ]
+    },
+    {
+      "ru": "У него мало терпения.",
+      "en": [
+        "He doesn't have much patience.",
+        "He hasn't got much patience.",
+        "He has little patience."
+      ]
+    },
+    {
+      "ru": "Мой сын боится собак.",
+      "en": [
+        "My son is afraid of dogs.",
+        "My son is scared of dogs."
+      ]
+    },
+    {
+      "ru": "Мне нужно подышать свежим воздухом.",
+      "en": [
+        "I need some fresh air.",
+        "I need fresh air.",
+        "I need to get some fresh air."
+      ]
+    },
+    {
+      "ru": "Можно мне стакан воды?",
+      "en": [
+        "Can I have a glass of water?",
+        "Could I have a glass of water?",
+        "May I have a glass of water?"
+      ]
+    },
+    {
+      "ru": "Купи, пожалуйста, пачку риса.",
+      "en": [
+        "Please buy a packet of rice.",
+        "Buy a packet of rice, please.",
+        "Please buy a bag of rice.",
+        "Buy a bag of rice, please."
+      ]
+    },
+    {
+      "ru": "Ты купил апельсины?",
+      "en": [
+        "Did you buy any oranges?",
+        "Did you buy oranges?"
+      ]
+    },
+    {
+      "ru": "Хочешь сока?",
+      "en": [
+        "Would you like some juice?",
+        "Do you want some juice?",
+        "Do you want any juice?",
+        "Would you like any juice?"
+      ]
+    },
+    {
+      "ru": "Мы сделали не очень много фотографий.",
+      "en": [
+        "We didn't take many photos.",
+        "We didn't take many pictures.",
+        "We didn't take very many photos."
+      ]
+    },
+    {
+      "ru": "У меня очень мало свободного времени.",
+      "en": [
+        "I have very little free time.",
+        "I don't have much free time.",
+        "I haven't got much free time."
+      ]
+    },
+    {
+      "ru": "У меня есть несколько вопросов.",
+      "en": [
+        "I have a few questions.",
+        "I've got a few questions.",
+        "I have some questions.",
+        "I've got some questions.",
+        "I have several questions.",
+        "I've got several questions."
+      ]
+    }
+  ]
+}

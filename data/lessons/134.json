@@ -1,0 +1,388 @@
+{
+  "id": 134,
+  "section": "Предлоги",
+  "title": "Verb + preposition 3 about and of",
+  "subtitle": "hear about/of/from, think about/of, dream, complain, remind",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Несколько глаголов могут идти и с <b>about</b>, и с <b>of</b> (иногда с <b>from</b>), и смысл при этом меняется."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Глагол",
+        "Значение",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "hear about",
+          "узнать, услышать новость о",
+          "<b>Did you hear about the accident?</b>"
+        ],
+        [
+          "hear of",
+          "знать о существовании",
+          "<b>I've never heard of this band.</b>"
+        ],
+        [
+          "hear from",
+          "получать весточку от",
+          "<b>Have you heard from Mike?</b>"
+        ],
+        [
+          "think about",
+          "обдумывать, размышлять",
+          "<b>I'll think about your offer.</b>"
+        ],
+        [
+          "think of",
+          "придумать; мнение",
+          "<b>Who thought of this name?</b> <b>What do you think of it?</b>"
+        ],
+        [
+          "dream about",
+          "видеть во сне",
+          "<b>I dreamt about my school.</b>"
+        ],
+        [
+          "dream of/about doing",
+          "мечтать",
+          "<b>She dreams of becoming a pilot.</b>"
+        ],
+        [
+          "complain (to sb) about",
+          "жаловаться на недовольство",
+          "<b>He complained about the room.</b>"
+        ],
+        [
+          "complain of",
+          "жаловаться на боль, симптомы",
+          "<b>She complained of a headache.</b>"
+        ],
+        [
+          "remind sb about",
+          "напомнить, чтобы не забыл",
+          "<b>Remind me about the party.</b>"
+        ],
+        [
+          "remind sb of",
+          "напоминать (похож)",
+          "<b>You remind me of my dad.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Иногда разница минимальна: <b>I often think of/about you.</b>, <b>He's thinking of/about moving.</b>",
+        "<b>I wouldn't dream of it</b> — я бы никогда так не сделал.",
+        "<b>I didn't think much of it</b> — мне не очень понравилось."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Никогда о нём не слышал» — <b>I've never heard of him</b>, а не <b>heard about/from</b>. «Я подумаю» — <b>I'll think about it</b>; «придумать идею» — <b>think of an idea</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "hear about",
+      "forms": "heard, heard",
+      "ru": "слышать о (узнать новость)"
+    },
+    {
+      "en": "hear of",
+      "forms": "heard, heard",
+      "ru": "слышать о (знать о существовании)"
+    },
+    {
+      "en": "hear from",
+      "ru": "получать известия от"
+    },
+    {
+      "en": "think about",
+      "forms": "thought, thought",
+      "ru": "думать о, обдумывать"
+    },
+    {
+      "en": "think of",
+      "forms": "thought, thought",
+      "ru": "придумать; думать о (мнение)"
+    },
+    {
+      "en": "not think much of",
+      "ru": "быть невысокого мнения о"
+    },
+    {
+      "en": "dream about",
+      "forms": "dreamt, dreamt",
+      "ru": "видеть во сне"
+    },
+    {
+      "en": "dream of",
+      "forms": "dreamt, dreamt",
+      "ru": "мечтать о"
+    },
+    {
+      "en": "complain about",
+      "ru": "жаловаться на (что-то)"
+    },
+    {
+      "en": "complain of",
+      "ru": "жаловаться на (боль, болезнь)"
+    },
+    {
+      "en": "remind about",
+      "ru": "напоминать о (чтобы не забыл)"
+    },
+    {
+      "en": "remind of",
+      "ru": "напоминать (быть похожим)"
+    },
+    {
+      "en": "plan",
+      "ru": "план"
+    },
+    {
+      "en": "offer",
+      "ru": "предложение"
+    },
+    {
+      "en": "footballer",
+      "ru": "футболист"
+    },
+    {
+      "en": "receptionist",
+      "ru": "администратор (в гостинице)"
+    },
+    {
+      "en": "pain",
+      "ru": "боль"
+    },
+    {
+      "en": "appointment",
+      "ru": "запись, приём (у врача)"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Ты слышал о новом кафе на нашей улице?",
+      "en": [
+        "Have you heard about the new cafe on our street?",
+        "Did you hear about the new cafe on our street?",
+        "Have you heard about the new cafe in our street?",
+        "Did you hear about the new cafe in our street?",
+        "Have you heard of the new cafe on our street?",
+        "Have you heard of the new cafe in our street?"
+      ]
+    },
+    {
+      "ru": "Я никогда не слышал об этом писателе.",
+      "en": [
+        "I've never heard of this writer.",
+        "I've never heard of that writer.",
+        "I've never heard of this author."
+      ]
+    },
+    {
+      "ru": "От Сары есть новости?",
+      "en": [
+        "Have you heard from Sarah?",
+        "Have you had any news from Sarah?",
+        "Is there any news from Sarah?",
+        "Any news from Sarah?",
+        "Has anyone heard from Sarah?"
+      ]
+    },
+    {
+      "ru": "Я не получал вестей от брата целый месяц.",
+      "en": [
+        "I haven't heard from my brother for a month.",
+        "I haven't heard from my brother for a whole month.",
+        "I haven't heard from my brother in a month.",
+        "I haven't had any news from my brother for a month."
+      ]
+    },
+    {
+      "ru": "Я подумаю об этом и позвоню тебе.",
+      "en": [
+        "I'll think about it and call you.",
+        "I'll think about it and phone you.",
+        "I'll think about it and give you a call.",
+        "I'll think about it and ring you.",
+        "I'll think about it and call you back."
+      ]
+    },
+    {
+      "ru": "Ты думал о моём предложении?",
+      "en": [
+        "Have you thought about my offer?",
+        "Did you think about my offer?",
+        "Have you thought about my suggestion?",
+        "Did you think about my suggestion?",
+        "Have you thought about my proposal?"
+      ]
+    },
+    {
+      "ru": "Я не мог придумать хороший подарок.",
+      "en": [
+        "I couldn't think of a good present.",
+        "I couldn't think of a good gift.",
+        "I couldn't come up with a good present.",
+        "I couldn't come up with a good gift."
+      ]
+    },
+    {
+      "ru": "Кто придумал этот план?",
+      "en": [
+        "Who thought of this plan?",
+        "Who came up with this plan?",
+        "Who thought up this plan?"
+      ]
+    },
+    {
+      "ru": "Что ты думаешь о новом учителе?",
+      "en": [
+        "What do you think of the new teacher?",
+        "What do you think about the new teacher?"
+      ]
+    },
+    {
+      "ru": "Фильм мне не очень понравился.",
+      "en": [
+        "I didn't think much of the film.",
+        "I didn't think much of the movie.",
+        "I didn't like the film much.",
+        "I didn't like the movie much.",
+        "I didn't really like the film.",
+        "I didn't really like the movie.",
+        "I didn't like the film very much.",
+        "I didn't like the movie very much."
+      ]
+    },
+    {
+      "ru": "Мы думаем о переезде в Канаду.",
+      "en": [
+        "We're thinking of moving to Canada.",
+        "We're thinking about moving to Canada."
+      ]
+    },
+    {
+      "ru": "Я часто вспоминаю наш отпуск в Испании.",
+      "en": [
+        "I often think about our holiday in Spain.",
+        "I often think of our holiday in Spain.",
+        "I often remember our holiday in Spain.",
+        "I often think about our vacation in Spain.",
+        "I often think of our vacation in Spain.",
+        "I often remember our vacation in Spain."
+      ]
+    },
+    {
+      "ru": "Мне приснились экзамены прошлой ночью.",
+      "en": [
+        "I dreamt about exams last night.",
+        "I dreamed about exams last night.",
+        "I had a dream about exams last night.",
+        "I dreamt about the exams last night.",
+        "I dreamed about the exams last night.",
+        "Last night I dreamt about exams.",
+        "Last night I dreamed about exams."
+      ]
+    },
+    {
+      "ru": "Он мечтает стать футболистом.",
+      "en": [
+        "He dreams of becoming a footballer.",
+        "He dreams about becoming a footballer.",
+        "He dreams of being a footballer.",
+        "He dreams of becoming a football player.",
+        "He dreams about becoming a football player.",
+        "He dreams of being a football player."
+      ]
+    },
+    {
+      "ru": "Я бы никогда не стал читать твои письма.",
+      "en": [
+        "I wouldn't dream of reading your letters.",
+        "I would never read your letters.",
+        "I would never dream of reading your letters."
+      ]
+    },
+    {
+      "ru": "Мы пожаловались администратору на шум.",
+      "en": [
+        "We complained to the receptionist about the noise.",
+        "We complained to the administrator about the noise.",
+        "We complained about the noise to the receptionist.",
+        "We complained to the manager about the noise."
+      ]
+    },
+    {
+      "ru": "На что ты жалуешься?",
+      "en": [
+        "What are you complaining about?",
+        "What are you complaining of?"
+      ]
+    },
+    {
+      "ru": "Пациент жаловался на боль в спине.",
+      "en": [
+        "The patient was complaining of back pain.",
+        "The patient complained of back pain.",
+        "The patient was complaining of a pain in his back.",
+        "The patient complained of a pain in his back.",
+        "The patient complained of backache.",
+        "The patient was complaining of backache."
+      ]
+    },
+    {
+      "ru": "Напомни мне о встрече с врачом.",
+      "en": [
+        "Remind me about the doctor's appointment.",
+        "Remind me about my appointment with the doctor.",
+        "Remind me about the appointment with the doctor.",
+        "Remind me about my doctor's appointment.",
+        "Remind me about the appointment with my doctor."
+      ]
+    },
+    {
+      "ru": "Спасибо, что напомнил мне о её дне рождения.",
+      "en": [
+        "Thanks for reminding me about her birthday.",
+        "Thank you for reminding me about her birthday."
+      ]
+    },
+    {
+      "ru": "Эта песня напоминает мне о лете.",
+      "en": [
+        "This song reminds me of summer.",
+        "This song reminds me of the summer."
+      ]
+    },
+    {
+      "ru": "Кого тебе напоминает Бен?",
+      "en": [
+        "Who does Ben remind you of?",
+        "Whom does Ben remind you of?"
+      ]
+    },
+    {
+      "ru": "Ты напоминаешь мне мою маму.",
+      "en": [
+        "You remind me of my mother.",
+        "You remind me of my mum.",
+        "You remind me of my mom."
+      ]
+    },
+    {
+      "ru": "(новость) Ты слышала про Ника и Эмму?",
+      "en": [
+        "Did you hear about Nick and Emma?",
+        "Have you heard about Nick and Emma?"
+      ]
+    }
+  ]
+}

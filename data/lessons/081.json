@@ -1,0 +1,328 @@
+{
+  "id": 81,
+  "section": "Артикли и существительные",
+  "title": "-'s (your sister's name) and of ... (the name of the book)",
+  "subtitle": "Притяжательный -'s для людей, of для вещей, today's, a week's",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Для людей и животных принадлежность выражаем через <b>-'s</b>: <b>Anna's phone, my brother's name, the dog's tail</b>. Существительное после -'s можно опустить: <b>It's my sister's</b> (= сумка моей сестры). После длинной группы слов -'s не ставим: <b>the mother of the man we saw yesterday</b>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Форма",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "единственное число + 's",
+          "my sister's room (одна сестра)"
+        ],
+        [
+          "множественное на -s + '",
+          "my sisters' room (несколько сестёр)"
+        ],
+        [
+          "множественное без -s + 's",
+          "children's clothes, the men's room"
+        ],
+        [
+          "несколько владельцев",
+          "Mike and Lisa's children"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "of для вещей"
+    },
+    {
+      "type": "p",
+      "text": "Для предметов и понятий обычно <b>of</b>: <b>the name of this book, the temperature of the water, the top of the page, the end of the month, the back of the car</b>."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Организации и места — можно и так, и так: <b>the government's decision / the decision of the government</b>, <b>the world's population</b>.",
+        "Время: <b>yesterday's newspaper, tomorrow's lesson, today's match</b>.",
+        "Длительность: <b>a week's holiday, two weeks' holiday, five minutes' walk</b>."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русская калька <b>the phone of Anna</b> звучит неестественно — говорите <b>Anna's phone</b>. А вот с вещами наоборот: не <b>the page's top</b>, а <b>the top of the page</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "tail",
+      "ru": "хвост"
+    },
+    {
+      "en": "step on",
+      "ru": "наступать на"
+    },
+    {
+      "en": "clothes",
+      "ru": "одежда"
+    },
+    {
+      "en": "man",
+      "forms": "men",
+      "ru": "мужчина"
+    },
+    {
+      "en": "changing room",
+      "ru": "раздевалка, примерочная"
+    },
+    {
+      "en": "polite",
+      "ru": "вежливый"
+    },
+    {
+      "en": "at the bottom of",
+      "ru": "внизу (чего-либо)"
+    },
+    {
+      "en": "temperature",
+      "ru": "температура"
+    },
+    {
+      "en": "owner",
+      "ru": "владелец, хозяин"
+    },
+    {
+      "en": "at the end of",
+      "ru": "в конце (чего-либо)"
+    },
+    {
+      "en": "seat",
+      "ru": "сиденье, место"
+    },
+    {
+      "en": "decision",
+      "ru": "решение"
+    },
+    {
+      "en": "surprise",
+      "ru": "удивлять"
+    },
+    {
+      "en": "population",
+      "ru": "население"
+    },
+    {
+      "en": "walk",
+      "ru": "ходьба (пешком)"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Телефон Анны не работает.",
+      "en": [
+        "Anna's phone isn't working.",
+        "Anna's phone doesn't work."
+      ]
+    },
+    {
+      "ru": "Как зовут твоего брата?",
+      "en": [
+        "What's your brother's name?",
+        "What's your brother called?"
+      ]
+    },
+    {
+      "ru": "Это не моя сумка. Это сумка моей сестры.",
+      "en": [
+        "This isn't my bag. It's my sister's.",
+        "This isn't my bag. It's my sister's bag.",
+        "That isn't my bag. It's my sister's.",
+        "That isn't my bag. It's my sister's bag.",
+        "It isn't my bag. It's my sister's.",
+        "It isn't my bag. It's my sister's bag."
+      ]
+    },
+    {
+      "ru": "Это мать человека, которого мы вчера видели.",
+      "en": [
+        "That's the mother of the man we saw yesterday.",
+        "This is the mother of the man we saw yesterday.",
+        "That's the mother of the man that we saw yesterday.",
+        "That's the mother of the man who we saw yesterday.",
+        "This is the mother of the man that we saw yesterday.",
+        "This is the mother of the man who we saw yesterday."
+      ]
+    },
+    {
+      "ru": "Не наступи собаке на хвост.",
+      "en": [
+        "Don't step on the dog's tail.",
+        "Don't tread on the dog's tail."
+      ]
+    },
+    {
+      "ru": "(у меня две сестры) Комната моих сестёр очень маленькая.",
+      "en": [
+        "My sisters' room is very small."
+      ]
+    },
+    {
+      "ru": "Дом родителей Кейт очень большой.",
+      "en": [
+        "Kate's parents' house is very big.",
+        "Kate's parents' house is very large."
+      ]
+    },
+    {
+      "ru": "(в магазине) Где детская одежда?",
+      "en": [
+        "Where are the children's clothes?",
+        "Where's the children's clothing?",
+        "Where are the kids' clothes?"
+      ]
+    },
+    {
+      "ru": "Мужская раздевалка вон там.",
+      "en": [
+        "The men's changing room is over there.",
+        "The men's changing rooms are over there.",
+        "The men's locker room is over there."
+      ]
+    },
+    {
+      "ru": "Дети Майка и Лизы очень вежливые.",
+      "en": [
+        "Mike and Lisa's children are very polite.",
+        "Mike and Lisa's kids are very polite."
+      ]
+    },
+    {
+      "ru": "Распишитесь внизу страницы.",
+      "en": [
+        "Sign at the bottom of the page.",
+        "Please sign at the bottom of the page.",
+        "Sign your name at the bottom of the page."
+      ]
+    },
+    {
+      "ru": "Как называется эта книга?",
+      "en": [
+        "What's the name of this book?",
+        "What's the title of this book?",
+        "What is this book called?"
+      ]
+    },
+    {
+      "ru": "Какая температура воды?",
+      "en": [
+        "What's the temperature of the water?",
+        "What's the water temperature?",
+        "What temperature is the water?"
+      ]
+    },
+    {
+      "ru": "Владелец ресторана — итальянец.",
+      "en": [
+        "The owner of the restaurant is Italian.",
+        "The restaurant's owner is Italian.",
+        "The restaurant owner is Italian."
+      ]
+    },
+    {
+      "ru": "В конце месяца я буду в отпуске.",
+      "en": [
+        "I'll be on holiday at the end of the month.",
+        "I'll be on vacation at the end of the month.",
+        "At the end of the month I'll be on holiday.",
+        "At the end of the month I'll be on vacation."
+      ]
+    },
+    {
+      "ru": "Сумки на заднем сиденье машины.",
+      "en": [
+        "The bags are on the back seat of the car.",
+        "The bags are in the back of the car."
+      ]
+    },
+    {
+      "ru": "Решение правительства всех удивило.",
+      "en": [
+        "The government's decision surprised everyone.",
+        "The government's decision surprised everybody.",
+        "The decision of the government surprised everyone.",
+        "The decision of the government surprised everybody."
+      ]
+    },
+    {
+      "ru": "Население мира растёт.",
+      "en": [
+        "The world's population is growing.",
+        "The population of the world is growing."
+      ]
+    },
+    {
+      "ru": "Ты читал вчерашнюю газету?",
+      "en": [
+        "Have you read yesterday's newspaper?",
+        "Did you read yesterday's newspaper?",
+        "Have you read yesterday's paper?",
+        "Did you read yesterday's paper?"
+      ]
+    },
+    {
+      "ru": "Завтрашний урок отменили.",
+      "en": [
+        "Tomorrow's lesson has been cancelled.",
+        "Tomorrow's lesson was cancelled.",
+        "Tomorrow's class has been cancelled.",
+        "Tomorrow's lesson has been canceled.",
+        "Tomorrow's class was cancelled.",
+        "Tomorrow's lesson was canceled.",
+        "Tomorrow's class has been canceled.",
+        "Tomorrow's class was canceled."
+      ]
+    },
+    {
+      "ru": "Сегодняшний матч начинается в восемь.",
+      "en": [
+        "Today's match starts at eight.",
+        "Today's match begins at eight.",
+        "Today's game starts at eight.",
+        "Today's game begins at eight.",
+        "Today's match starts at eight o'clock."
+      ]
+    },
+    {
+      "ru": "У Пола двухнедельный отпуск.",
+      "en": [
+        "Paul has two weeks' holiday.",
+        "Paul has got two weeks' holiday.",
+        "Paul has two weeks' vacation.",
+        "Paul has a two-week holiday.",
+        "Paul has got a two-week holiday.",
+        "Paul has got two weeks' vacation.",
+        "Paul has a two-week vacation."
+      ]
+    },
+    {
+      "ru": "Мой офис в пяти минутах ходьбы от дома.",
+      "en": [
+        "My office is five minutes' walk from my house.",
+        "My office is five minutes' walk from home.",
+        "My office is a five-minute walk from my house.",
+        "My office is a five-minute walk from home."
+      ]
+    },
+    {
+      "ru": "В июне у меня будет недельный отпуск.",
+      "en": [
+        "I'll have a week's holiday in June.",
+        "I'm going to have a week's holiday in June.",
+        "I'll have a week's vacation in June.",
+        "I'm having a week's holiday in June.",
+        "I'll have a one-week holiday in June."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": 105,
+  "section": "Прилагательные и наречия",
+  "title": "Comparative 1 (cheaper, more expensive etc.)",
+  "subtitle": "Сравнительная степень: -er или more",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Короткие прилагательные (один слог) получают <b>-er</b>: <b>cheap → cheaper</b>, <b>old → older</b>. Длинные (три слога и больше) — <b>more</b>: <b>more expensive</b>, <b>more interesting</b>. После сравнения ставится <b>than</b>: <b>Rome is warmer than Berlin.</b>"
+    },
+    {
+      "type": "table",
+      "head": ["Тип", "Пример"],
+      "rows": [
+        ["1 слог", "fast → faster, big → bigger, nice → nicer"],
+        ["2 слога на -y", "easy → easier, happy → happier, heavy → heavier"],
+        ["другие 2 слога, -ful, -ing", "more careful, more boring, more modern"],
+        ["оба варианта", "quieter / more quiet, simpler / more simple, narrower / more narrow"],
+        ["исключения", "good/well → better, bad/badly → worse, far → further / farther"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Наречия на <b>-ly</b> сравниваются через more: <b>more slowly</b>, <b>more carefully</b>. Но <b>fast, hard, late, early</b> — через -er: <b>faster, harder, later, earlier</b>."
+    },
+    {
+      "type": "p",
+      "text": "<b>further</b> может также значить «дополнительный»: <b>further information</b> (= more information)."
+    },
+    {
+      "type": "tip",
+      "text": "Не используйте <b>more</b> и <b>-er</b> одновременно: <b>bigger</b>, а не more bigger. И «лучше/хуже» — это <b>better/worse</b>, а не gooder/badder или more good."
+    }
+  ],
+  "words": [
+    {
+      "en": "than",
+      "ru": "чем"
+    },
+    {
+      "en": "more",
+      "ru": "более"
+    },
+    {
+      "en": "better",
+      "ru": "лучше"
+    },
+    {
+      "en": "worse",
+      "ru": "хуже"
+    },
+    {
+      "en": "further",
+      "ru": "дальше; дальнейший"
+    },
+    {
+      "en": "cheap",
+      "ru": "дешёвый"
+    },
+    {
+      "en": "quiet",
+      "ru": "тихий"
+    },
+    {
+      "en": "simple",
+      "ru": "простой"
+    },
+    {
+      "en": "early",
+      "ru": "рано"
+    },
+    {
+      "en": "information",
+      "ru": "информация"
+    }
+  ],
+  "items": [
+    { "ru": "Этот отель дешевле.", "en": ["This hotel is cheaper."] },
+    { "ru": "Поезд быстрее автобуса.", "en": ["The train is faster than the bus.", "A train is faster than a bus.", "Trains are faster than buses."] },
+    { "ru": "Твоя сумка тяжелее моей.", "en": ["Your bag is heavier than mine."] },
+    { "ru": "Москва больше Парижа?", "en": ["Is Moscow bigger than Paris?", "Is Moscow larger than Paris?"] },
+    { "ru": "Этот вопрос легче.", "en": ["This question is easier."] },
+    { "ru": "Том старше Бена.", "en": ["Tom is older than Ben."] },
+    { "ru": "Сегодня холоднее, чем вчера.", "en": ["It's colder today than yesterday.", "It's colder today than it was yesterday.", "Today is colder than yesterday.", "Today it's colder than yesterday.", "Today it's colder than it was yesterday."] },
+    { "ru": "Ты выглядишь счастливее.", "en": ["You look happier."] },
+    { "ru": "Мне нужна куртка потеплее.", "en": ["I need a warmer jacket."] },
+    { "ru": "Новый телефон дороже.", "en": ["The new phone is more expensive."] },
+    { "ru": "Её работа интереснее моей.", "en": ["Her job is more interesting than mine.", "Her work is more interesting than mine."] },
+    { "ru": "Будь осторожнее!", "en": ["Be more careful!"] },
+    { "ru": "Квартиры в Лондоне дороже, чем в Берлине.", "en": ["Flats in London are more expensive than in Berlin.", "Apartments in London are more expensive than in Berlin.", "Flats in London are more expensive than flats in Berlin.", "Apartments in London are more expensive than apartments in Berlin.", "Flats are more expensive in London than in Berlin.", "Apartments are more expensive in London than in Berlin."] },
+    { "ru": "Здесь тише.", "en": ["It's quieter here.", "It's more quiet here."] },
+    { "ru": "Этот способ проще.", "en": ["This way is simpler.", "This way is more simple.", "This way is easier.", "This method is simpler.", "This method is easier."] },
+    { "ru": "Можешь говорить медленнее?", "en": ["Can you speak more slowly?", "Could you speak more slowly?", "Can you speak slower?", "Could you speak slower?", "Can you talk more slowly?", "Could you talk more slowly?"] },
+    { "ru": "Он водит машину осторожнее, чем ты.", "en": ["He drives more carefully than you.", "He drives more carefully than you do."] },
+    { "ru": "Мы приехали раньше, чем они.", "en": ["We arrived earlier than them.", "We arrived earlier than they did.", "We got there earlier than them.", "We got there earlier than they did.", "We came earlier than they did."] },
+    { "ru": "Тебе нужно работать усерднее.", "en": ["You need to work harder.", "You have to work harder.", "You should work harder.", "You must work harder."] },
+    { "ru": "Сегодня погода хуже, чем вчера.", "en": ["The weather is worse today than yesterday.", "The weather today is worse than yesterday.", "The weather is worse today than it was yesterday.", "Today the weather is worse than yesterday.", "Today the weather is worse than it was yesterday."] },
+    { "ru": "Сегодня мне лучше.", "en": ["I feel better today.", "I'm feeling better today.", "I'm better today."] },
+    { "ru": "Её английский лучше, чем мой.", "en": ["Her English is better than mine."] },
+    { "ru": "Вокзал дальше, чем я думал.", "en": ["The station is further than I thought.", "The station is farther than I thought.", "The station is further away than I thought.", "The station is farther away than I thought."] },
+    { "ru": "За дополнительной информацией звоните нам.", "en": ["For further information, call us.", "For more information, call us.", "Call us for further information.", "Call us for more information.", "For further information, phone us.", "For further information, contact us."] }
+  ]
+}

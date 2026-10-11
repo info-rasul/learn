@@ -1,0 +1,85 @@
+{
+  "id": 100,
+  "section": "Прилагательные и наречия",
+  "title": "Adjectives and adverbs 1 (quick/quickly)",
+  "subtitle": "Прилагательное или наречие: quick или quickly",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Наречие обычно образуется от прилагательного с помощью <b>-ly</b>: <b>slow → slowly</b>, <b>careful → carefully</b>, <b>quiet → quietly</b>. Оно отвечает на вопрос «как?»."
+    },
+    {
+      "type": "table",
+      "head": ["Прилагательное", "Наречие", "Правило"],
+      "rows": [
+        ["easy, happy", "easily, happily", "-y → -ily"],
+        ["terrible, possible", "terribly, possibly", "-le → -ly"],
+        ["basic, dramatic", "basically, dramatically", "-ic → -ically"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Прилагательное</b> описывает существительное: <b>a slow driver</b>, <b>The test was easy</b>. <b>Наречие</b> описывает глагол: <b>He drives slowly</b>, <b>I passed the test easily</b>. Наречие не ставится между глаголом и дополнением: <b>She speaks English fluently</b>."
+    },
+    {
+      "type": "p",
+      "text": "После <b>be, look, feel, sound, smell, taste, seem</b> — прилагательное: <b>You look angry</b>. Но если это действие — наречие: <b>You're looking at me angrily</b>."
+    },
+    {
+      "type": "p",
+      "text": "Наречие может усиливать прилагательное или причастие: <b>surprisingly cheap</b>, <b>terribly sorry</b>, <b>absolutely enormous</b>, <b>seriously injured</b>, <b>badly organised</b>."
+    },
+    {
+      "type": "tip",
+      "text": "По-русски «он хорошо/быстро/тихо» звучит одинаково после любого глагола. В английском проверяйте, что описываете: действие → <b>-ly</b> (<b>drive carefully</b>), человека или вещь → прилагательное (<b>a careful driver</b>, <b>The soup smells terrible</b>)."
+    }
+  ],
+  "words": [
+    { "en": "slowly", "ru": "медленно" },
+    { "en": "slow", "ru": "медленный" },
+    { "en": "quietly", "ru": "тихо" },
+    { "en": "careful", "ru": "осторожный, внимательный" },
+    { "en": "carefully", "ru": "осторожно, внимательно" },
+    { "en": "easily", "ru": "легко" },
+    { "en": "happily", "ru": "радостно, счастливо" },
+    { "en": "fluently", "ru": "бегло (о речи)" },
+    { "en": "angrily", "ru": "сердито" },
+    { "en": "quickly", "ru": "быстро" },
+    { "en": "surprisingly", "ru": "удивительно" },
+    { "en": "terribly", "ru": "ужасно, очень" },
+    { "en": "seriously", "ru": "серьёзно, тяжело" },
+    { "en": "badly", "ru": "плохо" },
+    { "en": "absolutely", "ru": "совершенно, абсолютно" },
+    { "en": "enormous", "ru": "огромный" },
+    { "en": "behave", "ru": "вести себя" },
+    { "en": "basically", "ru": "по сути, в основном" },
+    { "en": "unexpectedly", "ru": "неожиданно" },
+    { "en": "organise", "ru": "организовывать" }
+  ],
+  "items": [
+    { "ru": "Он медленно ехал.", "en": ["He drove slowly.", "He was driving slowly."] },
+    { "ru": "Он медленный водитель.", "en": ["He is a slow driver."] },
+    { "ru": "Пожалуйста, говори тихо.", "en": ["Please speak quietly.", "Please talk quietly.", "Speak quietly, please.", "Talk quietly, please."] },
+    { "ru": "Она тихо вошла в комнату.", "en": ["She came into the room quietly.", "She quietly came into the room.", "She entered the room quietly.", "She quietly entered the room.", "She walked into the room quietly.", "She went into the room quietly.", "She quietly went into the room.", "She quietly walked into the room.", "She walked quietly into the room.", "She came quietly into the room.", "She went quietly into the room."] },
+    { "ru": "Анна — осторожный человек.", "en": ["Anna is a careful person."] },
+    { "ru": "Веди машину осторожно!", "en": ["Drive carefully!"] },
+    { "ru": "Я легко нашёл их дом.", "en": ["I found their house easily.", "I easily found their house."] },
+    { "ru": "Экзамен был лёгким.", "en": ["The exam was easy.", "The test was easy."] },
+    { "ru": "Он счастливо улыбнулся.", "en": ["He smiled happily."] },
+    { "ru": "Ты бегло говоришь по-английски.", "en": ["You speak English fluently.", "You speak fluent English."] },
+    { "ru": "Ты внимательно прочитал письмо?", "en": ["Did you read the letter carefully?", "Have you read the letter carefully?", "Did you read the letter attentively?", "Have you read the letter attentively?", "Did you carefully read the letter?"] },
+    { "ru": "Почему ты так сердито на меня смотришь?", "en": ["Why are you looking at me so angrily?", "Why are you looking so angrily at me?"] },
+    { "ru": "Ты выглядишь сердитым.", "en": ["You look angry."] },
+    { "ru": "Нам нужно действовать быстро.", "en": ["We need to act quickly.", "We have to act quickly.", "We need to act fast.", "We have to act fast.", "We must act quickly."] },
+    { "ru": "Она внимательно слушала учителя.", "en": ["She listened to the teacher carefully.", "She listened carefully to the teacher.", "She listened to the teacher attentively.", "She listened attentively to the teacher."] },
+    { "ru": "Отель был удивительно дешёвым.", "en": ["The hotel was surprisingly cheap."] },
+    { "ru": "Мне ужасно жаль.", "en": ["I'm terribly sorry.", "I'm awfully sorry."] },
+    { "ru": "Он серьёзно пострадал в аварии.", "en": ["He was seriously injured in the accident.", "He was badly injured in the accident.", "He was seriously hurt in the accident.", "He was badly hurt in the accident.", "He got seriously injured in the accident.", "He got badly hurt in the accident."] },
+    { "ru": "Встреча была плохо организована.", "en": ["The meeting was badly organised.", "The meeting was badly organized.", "The meeting was poorly organised.", "The meeting was poorly organized."] },
+    { "ru": "Их дом абсолютно огромный.", "en": ["Their house is absolutely enormous.", "Their house is absolutely huge."] },
+    { "ru": "Дети вели себя плохо.", "en": ["The children behaved badly.", "The kids behaved badly."] },
+    { "ru": "Этот суп ужасно пахнет.", "en": ["This soup smells terrible.", "This soup smells awful.", "This soup smells horrible."] },
+    { "ru": "По сути, это простая идея.", "en": ["Basically, it's a simple idea.", "Basically, this is a simple idea."] },
+    { "ru": "Она неожиданно ушла.", "en": ["She left unexpectedly.", "She unexpectedly left.", "She left suddenly.", "She suddenly left."] }
+  ]
+}

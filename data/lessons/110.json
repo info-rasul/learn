@@ -1,0 +1,76 @@
+{
+  "id": 110,
+  "section": "Прилагательные и наречия",
+  "title": "Word order 2: adverbs with the verb",
+  "subtitle": "Где ставить always, never, also, probably, all, both",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Некоторые наречия ставятся в середину предложения, рядом с глаголом: <b>always, usually, often, sometimes, never, ever, also, just, already, probably, certainly, almost</b>, а также <b>all</b> и <b>both</b>."
+    },
+    {
+      "type": "table",
+      "head": ["Правило", "Пример"],
+      "rows": [
+        ["перед обычным глаголом", "<b>I often walk to work.</b> <b>We all agreed.</b>"],
+        ["после am / is / are / was / were", "<b>She is always busy.</b> <b>They were both late.</b>"],
+        ["после первого вспомогательного глагола", "<b>I have never seen it.</b> <b>You will probably like it.</b>"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "В отрицаниях <b>probably</b> и <b>certainly</b> стоят перед отрицательной формой: <b>He probably won't come</b>, <b>She certainly isn't ready</b>. А <b>usually, always</b> — обычно после неё: <b>I don't usually eat meat</b>."
+    },
+    {
+      "type": "p",
+      "text": "В вопросах наречие идёт после подлежащего: <b>Do you usually walk?</b> <b>Are you always so quiet?</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Не ставьте эти наречия между глаголом и дополнением и после глагола: <b>I always drink tea</b> (не I drink always tea), <b>We all went</b> (не We went all). И «тоже» в середине предложения — <b>also</b>, в конце — <b>too / as well</b>."
+    }
+  ],
+  "words": [
+    { "en": "always", "ru": "всегда" },
+    { "en": "usually", "ru": "обычно" },
+    { "en": "often", "ru": "часто" },
+    { "en": "sometimes", "ru": "иногда" },
+    { "en": "never", "ru": "никогда" },
+    { "en": "almost", "ru": "почти" },
+    { "en": "also", "ru": "тоже, также" },
+    { "en": "probably", "ru": "наверное, вероятно" },
+    { "en": "certainly", "ru": "точно, несомненно" },
+    { "en": "just", "ru": "только что" },
+    { "en": "all", "ru": "все" },
+    { "en": "both", "ru": "оба" },
+    { "en": "eat", "forms": "ate, eaten", "ru": "есть, кушать" },
+    { "en": "have lunch", "ru": "обедать" },
+    { "en": "meat", "ru": "мясо" }
+  ],
+  "items": [
+    { "ru": "Я всегда пью кофе утром.", "en": ["I always drink coffee in the morning.", "I always have coffee in the morning.", "I always drink coffee in the mornings.", "In the morning I always drink coffee."] },
+    { "ru": "Мы обычно ужинаем в семь.", "en": ["We usually have dinner at seven.", "We usually eat dinner at seven.", "We usually have supper at seven.", "We usually have dinner at seven o'clock."] },
+    { "ru": "Он никогда не ест мясо.", "en": ["He never eats meat.", "He doesn't ever eat meat."] },
+    { "ru": "Он иногда работает по субботам.", "en": ["He sometimes works on Saturdays.", "Sometimes he works on Saturdays.", "He works on Saturdays sometimes."] },
+    { "ru": "Я почти всегда хожу на работу пешком.", "en": ["I almost always walk to work.", "I nearly always walk to work."] },
+    { "ru": "Она часто опаздывает.", "en": ["She's often late.", "She often comes late.", "She often arrives late."] },
+    { "ru": "Ты всегда так занят?", "en": ["Are you always so busy?", "Are you always this busy?"] },
+    { "ru": "Где ты обычно обедаешь?", "en": ["Where do you usually have lunch?", "Where do you usually eat lunch?"] },
+    { "ru": "Я обычно не завтракаю.", "en": ["I don't usually have breakfast.", "I usually don't have breakfast.", "I don't usually eat breakfast."] },
+    { "ru": "Я тоже говорю по-испански.", "en": ["I also speak Spanish.", "I speak Spanish too.", "I speak Spanish as well."] },
+    { "ru": "Она тоже устала.", "en": ["She's also tired.", "She's tired too.", "She's tired as well."] },
+    { "ru": "Я, наверное, опоздаю.", "en": ["I'll probably be late.", "I'm probably going to be late."] },
+    { "ru": "Он, наверное, не придёт.", "en": ["He probably won't come.", "He probably isn't coming.", "He's probably not coming."] },
+    { "ru": "Ты, наверное, прав.", "en": ["You're probably right."] },
+    { "ru": "Она точно не согласится.", "en": ["She certainly won't agree.", "She definitely won't agree."] },
+    { "ru": "Я уже видел этот фильм.", "en": ["I've already seen this film.", "I've already seen this movie.", "I've seen this film already.", "I've seen this movie already."] },
+    { "ru": "Я никогда не был в Японии.", "en": ["I've never been to Japan."] },
+    { "ru": "Ты когда-нибудь был в Австралии?", "en": ["Have you ever been to Australia?"] },
+    { "ru": "Я только что пришёл домой.", "en": ["I've just got home.", "I've just come home.", "I just got home.", "I just came home.", "I've just arrived home.", "I've just gotten home."] },
+    { "ru": "Я бы никогда этого не сделал.", "en": ["I would never do that.", "I would never do it.", "I would never do this."] },
+    { "ru": "Мы все устали.", "en": ["We're all tired.", "All of us are tired."] },
+    { "ru": "Мы все пошли в кино.", "en": ["We all went to the cinema.", "All of us went to the cinema.", "We all went to the movies.", "All of us went to the movies."] },
+    { "ru": "Они оба живут в Лондоне.", "en": ["They both live in London.", "Both of them live in London."] },
+    { "ru": "Они оба были очень голодны.", "en": ["They were both very hungry.", "Both of them were very hungry."] }
+  ]
+}

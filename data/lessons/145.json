@@ -1,0 +1,334 @@
+{
+  "id": 145,
+  "section": "Фразовые глаголы",
+  "title": "Phrasal verbs 9 away/back",
+  "subtitle": "away = прочь, back = обратно: give away, pay back, call back…",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "away",
+        "back"
+      ],
+      "rows": [
+        [
+          "прочь из дома: <b>go away</b> — уехать (в отпуск и т.п.)",
+          "домой: <b>be back</b> — вернуться"
+        ],
+        [
+          "прочь от места/человека: <b>walk / run / drive / fly / look away</b>",
+          "обратно: <b>go / come / get / walk back</b>"
+        ],
+        [
+          "<b>take something away</b> — унести, забрать",
+          "<b>give / take / put something back</b> — вернуть, положить обратно"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Другие глаголы с away"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>keep away (from)</b> — держаться подальше.",
+        "<b>give something away</b> — отдать (бесплатно, за ненадобностью).",
+        "<b>put something away</b> — убрать на место; <b>throw something away</b> — выбросить.",
+        "<b>get away</b> — сбежать, удрать; <b>get away with something</b> — сойти с рук."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Другие глаголы с back"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>wave / smile / shout back</b>, <b>hit somebody back</b> — ответить тем же.",
+        "<b>call / phone / ring somebody back</b> — перезвонить; <b>get back to somebody</b> — ответить позже.",
+        "<b>look back (on)</b> — оглядываться на прошлое.",
+        "<b>pay back</b> money / <b>pay somebody back</b> — вернуть долг."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Верни мне книгу» — <b>Give me the book back</b> или <b>Give it back to me</b>, а не <b>Return back</b>: в <b>return</b> «обратно» уже заложено. И местоимение снова в середине: <b>pay it back</b>, <b>put them away</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "go away",
+      "forms": "went, gone",
+      "ru": "уезжать, уходить"
+    },
+    {
+      "en": "drive away",
+      "forms": "drove, driven",
+      "ru": "уехать (на машине)"
+    },
+    {
+      "en": "fly away",
+      "forms": "flew, flown",
+      "ru": "улететь"
+    },
+    {
+      "en": "look away",
+      "ru": "отводить взгляд, отворачиваться"
+    },
+    {
+      "en": "take away",
+      "forms": "took, taken",
+      "ru": "уносить, убирать"
+    },
+    {
+      "en": "get back",
+      "forms": "got, got",
+      "ru": "возвращаться"
+    },
+    {
+      "en": "walk back",
+      "ru": "идти пешком обратно"
+    },
+    {
+      "en": "give back",
+      "forms": "gave, given",
+      "ru": "возвращать, отдавать обратно"
+    },
+    {
+      "en": "put back",
+      "forms": "put, put",
+      "ru": "класть обратно"
+    },
+    {
+      "en": "keep away from",
+      "forms": "kept, kept",
+      "ru": "держаться подальше от"
+    },
+    {
+      "en": "give away",
+      "forms": "gave, given",
+      "ru": "отдавать (даром), раздавать"
+    },
+    {
+      "en": "put away",
+      "forms": "put, put",
+      "ru": "убирать (на место)"
+    },
+    {
+      "en": "get away",
+      "forms": "got, got",
+      "ru": "сбежать, скрыться"
+    },
+    {
+      "en": "get away with",
+      "forms": "got, got",
+      "ru": "сойти с рук"
+    },
+    {
+      "en": "smile back",
+      "ru": "улыбнуться в ответ"
+    },
+    {
+      "en": "call back",
+      "ru": "перезванивать"
+    },
+    {
+      "en": "get back to",
+      "forms": "got, got",
+      "ru": "ответить (позже), связаться"
+    },
+    {
+      "en": "look back on",
+      "ru": "вспоминать (прошлое)"
+    },
+    {
+      "en": "pay back",
+      "forms": "paid, paid",
+      "ru": "возвращать долг"
+    },
+    {
+      "en": "edge",
+      "ru": "край"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мы уезжаем на выходные.",
+      "en": [
+        "We're going away for the weekend.",
+        "We are going away this weekend."
+      ]
+    },
+    {
+      "ru": "Она села в такси и уехала.",
+      "en": [
+        "She got into a taxi and drove away.",
+        "She got in a taxi and drove away.",
+        "She got into a taxi and drove off."
+      ]
+    },
+    {
+      "ru": "Птица улетела, когда я подошёл.",
+      "en": [
+        "The bird flew away when I came closer.",
+        "The bird flew away when I got closer.",
+        "The bird flew away when I approached."
+      ]
+    },
+    {
+      "ru": "Не отворачивайся, когда я с тобой разговариваю.",
+      "en": [
+        "Don't look away when I'm talking to you.",
+        "Don't look away when I'm speaking to you."
+      ]
+    },
+    {
+      "ru": "Официант унёс наши тарелки.",
+      "en": [
+        "The waiter took away our plates.",
+        "The waiter took our plates away."
+      ]
+    },
+    {
+      "ru": "Я вернусь через час.",
+      "en": [
+        "I'll be back in an hour.",
+        "I'll come back in an hour."
+      ]
+    },
+    {
+      "ru": "Во сколько ты вернулся вчера?",
+      "en": [
+        "What time did you get back yesterday?",
+        "What time did you come back yesterday?"
+      ]
+    },
+    {
+      "ru": "После концерта мы пошли пешком обратно в гостиницу.",
+      "en": [
+        "After the concert we walked back to the hotel."
+      ]
+    },
+    {
+      "ru": "Верни мне мой телефон!",
+      "en": [
+        "Give me back my phone!",
+        "Give me my phone back!",
+        "Give my phone back!"
+      ]
+    },
+    {
+      "ru": "Положи ножницы обратно в ящик.",
+      "en": [
+        "Put the scissors back in the drawer.",
+        "Put the scissors back into the drawer."
+      ]
+    },
+    {
+      "ru": "Держись подальше от края.",
+      "en": [
+        "Keep away from the edge.",
+        "Stay away from the edge."
+      ]
+    },
+    {
+      "ru": "Держитесь подальше от моей машины!",
+      "en": [
+        "Keep away from my car!",
+        "Stay away from my car!"
+      ]
+    },
+    {
+      "ru": "Я отдал все свои старые книги.",
+      "en": [
+        "I gave away all my old books.",
+        "I gave all my old books away."
+      ]
+    },
+    {
+      "ru": "(о гитаре) Нет, я её не продал, а отдал другу.",
+      "en": [
+        "No, I didn't sell it, I gave it away to a friend.",
+        "No, I didn't sell it, I gave it to a friend."
+      ]
+    },
+    {
+      "ru": "Убери свои вещи, пожалуйста.",
+      "en": [
+        "Put your things away, please.",
+        "Please put your things away.",
+        "Put away your things, please."
+      ]
+    },
+    {
+      "ru": "Не выбрасывай эту коробку.",
+      "en": [
+        "Don't throw away this box.",
+        "Don't throw this box away."
+      ]
+    },
+    {
+      "ru": "Вор сбежал через окно.",
+      "en": [
+        "The thief got away through the window.",
+        "The thief escaped through the window."
+      ]
+    },
+    {
+      "ru": "Он соврал учителю, и ему это сошло с рук.",
+      "en": [
+        "He lied to the teacher and got away with it."
+      ]
+    },
+    {
+      "ru": "Я улыбнулся ребёнку, и он улыбнулся в ответ.",
+      "en": [
+        "I smiled at the child and he smiled back.",
+        "I smiled at the child and she smiled back.",
+        "I smiled at the baby and he smiled back.",
+        "I smiled at the kid and he smiled back."
+      ]
+    },
+    {
+      "ru": "Я сейчас занят, я перезвоню тебе позже.",
+      "en": [
+        "I'm busy now, I'll call you back later.",
+        "I'm busy now, I'll phone you back later.",
+        "I'm busy right now, I'll call you back later.",
+        "I'm busy at the moment, I'll call you back later."
+      ]
+    },
+    {
+      "ru": "Я отправил им анкету, но они мне так и не ответили.",
+      "en": [
+        "I sent them the form, but they never got back to me."
+      ]
+    },
+    {
+      "ru": "Вспоминая те годы, я понимаю, что был счастлив.",
+      "en": [
+        "Looking back on those years, I realise I was happy.",
+        "Looking back on those years, I realize I was happy."
+      ]
+    },
+    {
+      "ru": "Спасибо за деньги, я верну тебе долг завтра.",
+      "en": [
+        "Thanks for the money, I'll pay you back tomorrow.",
+        "Thank you for the money, I'll pay you back tomorrow.",
+        "Thanks for the money, I'll pay it back tomorrow."
+      ]
+    },
+    {
+      "ru": "Когда ты вернёшь мне деньги?",
+      "en": [
+        "When will you pay me back?",
+        "When are you going to pay me back?",
+        "When will you pay the money back?",
+        "When will you give me the money back?",
+        "When are you going to give me the money back?"
+      ]
+    }
+  ]
+}

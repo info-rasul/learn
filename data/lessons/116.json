@@ -1,0 +1,340 @@
+{
+  "id": 116,
+  "section": "Союзы и предлоги",
+  "title": "as (as I walked ... / as I was ... etc.)",
+  "subtitle": "as = «когда, в то время как» и as = «так как»",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>as</b> может значить «когда, в тот момент как» — два действия происходят одновременно: <b>She smiled as she opened the door.</b> Сочетание <b>just as</b> = «как раз когда»: <b>Just as I sat down, the bell rang.</b>"
+    },
+    {
+      "type": "p",
+      "text": "Если одно действие длится, а другое его прерывает, длинное ставим в Past Continuous: <b>I dropped my keys as I was getting out of the car.</b>"
+    },
+    {
+      "type": "p",
+      "text": "<b>as</b> также описывает постепенное изменение: «по мере того как». <b>As the evening went on, it got colder.</b>"
+    },
+    {
+      "type": "p",
+      "text": "Второе значение: <b>as</b> = «так как, поскольку» (= because / since): <b>As it was Sunday, the bank was closed.</b>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Для периодов жизни и возраста используем <b>when</b>, а не as: <b>When I was a child, I lived in Rome.</b>",
+        "Если одно событие просто следует за другим, тоже лучше <b>when</b>: <b>When the film ended, we went home.</b>",
+        "<b>as</b> = «когда» — только для одновременных действий."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Русское «когда я был маленьким» нельзя переводить как <b>as I was a child</b> — это звучит как «так как я был ребёнком». Для возраста и периодов жизни нужно <b>when</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "as",
+      "ru": "когда, в то время как; так как"
+    },
+    {
+      "en": "just as",
+      "ru": "как раз когда"
+    },
+    {
+      "en": "as time goes on",
+      "ru": "со временем, по мере того как идёт время"
+    },
+    {
+      "en": "ring",
+      "forms": "rang, rung",
+      "ru": "звонить, звенеть"
+    },
+    {
+      "en": "wave",
+      "ru": "махать"
+    },
+    {
+      "en": "slip",
+      "ru": "поскользнуться"
+    },
+    {
+      "en": "sing",
+      "forms": "sang, sung",
+      "ru": "петь"
+    },
+    {
+      "en": "end",
+      "ru": "заканчиваться"
+    },
+    {
+      "en": "past",
+      "ru": "мимо"
+    },
+    {
+      "en": "calm",
+      "ru": "спокойный"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Когда я выходил из дома, зазвонил телефон.",
+      "en": [
+        "As I was leaving the house, the phone rang.",
+        "As I left the house, the phone rang.",
+        "The phone rang as I was leaving the house.",
+        "When I was leaving the house, the phone rang.",
+        "As I was leaving home, the phone rang.",
+        "The phone rang as I left the house."
+      ]
+    },
+    {
+      "ru": "Мы помахали им, когда они уезжали.",
+      "en": [
+        "We waved to them as they left.",
+        "We waved to them as they were leaving.",
+        "We waved at them as they left.",
+        "We waved to them when they left.",
+        "We waved to them when they were leaving.",
+        "We waved at them as they were leaving.",
+        "We waved goodbye to them as they left."
+      ]
+    },
+    {
+      "ru": "Она улыбнулась, когда вошла в комнату.",
+      "en": [
+        "She smiled as she came into the room.",
+        "She smiled as she entered the room.",
+        "She smiled as she walked into the room.",
+        "She smiled when she came into the room.",
+        "She smiled when she entered the room.",
+        "As she came into the room, she smiled."
+      ]
+    },
+    {
+      "ru": "Я порезал палец, когда резал хлеб.",
+      "en": [
+        "I cut my finger as I was cutting the bread.",
+        "I cut my finger while I was cutting the bread.",
+        "I cut my finger when I was cutting the bread.",
+        "I cut my finger while cutting the bread.",
+        "I cut my finger as I was slicing the bread."
+      ]
+    },
+    {
+      "ru": "Том поскользнулся, когда спускался по лестнице.",
+      "en": [
+        "Tom slipped as he was going down the stairs.",
+        "Tom slipped as he was coming down the stairs.",
+        "Tom slipped while he was going down the stairs.",
+        "Tom slipped when he was going down the stairs.",
+        "Tom slipped as he went down the stairs.",
+        "Tom slipped as he was walking down the stairs.",
+        "Tom slipped while going down the stairs."
+      ]
+    },
+    {
+      "ru": "Когда я проходил мимо магазина, я увидел Кейт.",
+      "en": [
+        "As I was walking past the shop, I saw Kate.",
+        "As I walked past the shop, I saw Kate.",
+        "As I was passing the shop, I saw Kate.",
+        "When I was walking past the shop, I saw Kate.",
+        "As I passed the shop, I saw Kate.",
+        "I saw Kate as I was walking past the shop.",
+        "As I was walking past the store, I saw Kate."
+      ]
+    },
+    {
+      "ru": "Она пела, когда работала в саду.",
+      "en": [
+        "She sang as she worked in the garden.",
+        "She sang as she was working in the garden.",
+        "She sang while she worked in the garden.",
+        "She sang while she was working in the garden.",
+        "She was singing as she worked in the garden.",
+        "She was singing while she was working in the garden."
+      ]
+    },
+    {
+      "ru": "Как раз когда я сел, кто-то постучал в дверь.",
+      "en": [
+        "Just as I sat down, somebody knocked on the door.",
+        "Just as I sat down, someone knocked on the door.",
+        "Just as I sat down, somebody knocked at the door.",
+        "Just as I sat down, someone knocked at the door.",
+        "Somebody knocked on the door just as I sat down."
+      ]
+    },
+    {
+      "ru": "Когда я открыл дверь, кошка выбежала на улицу.",
+      "en": [
+        "As I opened the door, the cat ran out.",
+        "When I opened the door, the cat ran out.",
+        "The cat ran out as I opened the door.",
+        "As I opened the door, the cat ran outside.",
+        "As I opened the door, the cat ran out into the street."
+      ]
+    },
+    {
+      "ru": "По мере того как я становился старше, я становился спокойнее.",
+      "en": [
+        "As I got older, I became calmer.",
+        "As I got older, I got calmer.",
+        "As I grew older, I became calmer.",
+        "As I grew older, I got calmer.",
+        "As I got older, I became more calm."
+      ]
+    },
+    {
+      "ru": "По мере того как шло время, она становилась счастливее.",
+      "en": [
+        "As time went on, she became happier.",
+        "As time passed, she became happier.",
+        "As time went on, she got happier.",
+        "As time went by, she became happier.",
+        "As time passed, she got happier."
+      ]
+    },
+    {
+      "ru": "Так как было поздно, мы взяли такси.",
+      "en": [
+        "As it was late, we took a taxi.",
+        "Since it was late, we took a taxi.",
+        "Because it was late, we took a taxi.",
+        "We took a taxi as it was late.",
+        "As it was late, we got a taxi."
+      ]
+    },
+    {
+      "ru": "Так как у меня нет машины, я езжу на работу на автобусе.",
+      "en": [
+        "As I don't have a car, I go to work by bus.",
+        "As I haven't got a car, I go to work by bus.",
+        "Since I don't have a car, I go to work by bus.",
+        "Because I don't have a car, I go to work by bus.",
+        "As I don't have a car, I take the bus to work.",
+        "Since I haven't got a car, I go to work by bus."
+      ]
+    },
+    {
+      "ru": "Так как Анна была больна, она осталась дома.",
+      "en": [
+        "As Anna was ill, she stayed at home.",
+        "As Anna was ill, she stayed home.",
+        "Since Anna was ill, she stayed at home.",
+        "Because Anna was ill, she stayed at home.",
+        "As Anna was sick, she stayed at home.",
+        "Since Anna was ill, she stayed home."
+      ]
+    },
+    {
+      "ru": "Так как сегодня воскресенье, магазины закрыты.",
+      "en": [
+        "As it's Sunday, the shops are closed.",
+        "As it's Sunday, the shops are shut.",
+        "Since it's Sunday, the shops are closed.",
+        "Because it's Sunday, the shops are closed.",
+        "As it's Sunday today, the shops are closed.",
+        "As it's Sunday, the stores are closed."
+      ]
+    },
+    {
+      "ru": "Так как ты занят, я позвоню позже.",
+      "en": [
+        "As you're busy, I'll call later.",
+        "As you're busy, I'll call you later.",
+        "As you're busy, I'll phone later.",
+        "Since you're busy, I'll call later.",
+        "Since you're busy, I'll call you later.",
+        "As you're busy, I'll phone you later.",
+        "As you're busy, I'll call back later."
+      ]
+    },
+    {
+      "ru": "Так как мы пришли рано, нам пришлось подождать.",
+      "en": [
+        "As we were early, we had to wait.",
+        "Since we were early, we had to wait.",
+        "As we arrived early, we had to wait.",
+        "Because we were early, we had to wait.",
+        "As we came early, we had to wait.",
+        "Since we arrived early, we had to wait."
+      ]
+    },
+    {
+      "ru": "Так как погода была хорошая, мы пообедали на улице.",
+      "en": [
+        "As the weather was nice, we had lunch outside.",
+        "As the weather was good, we had lunch outside.",
+        "Since the weather was nice, we had lunch outside.",
+        "As the weather was nice, we ate outside.",
+        "Since the weather was good, we had lunch outside.",
+        "As the weather was nice, we had lunch outdoors."
+      ]
+    },
+    {
+      "ru": "Так как ты знаешь итальянский, ты можешь мне помочь?",
+      "en": [
+        "As you know Italian, can you help me?",
+        "As you speak Italian, can you help me?",
+        "Since you know Italian, can you help me?",
+        "As you know Italian, could you help me?",
+        "Since you speak Italian, can you help me?"
+      ]
+    },
+    {
+      "ru": "Так как он не ответил, я написал ему снова.",
+      "en": [
+        "As he didn't answer, I wrote to him again.",
+        "Since he didn't answer, I wrote to him again.",
+        "As he didn't reply, I wrote to him again.",
+        "As he didn't answer, I wrote him again.",
+        "As he didn't answer, I texted him again.",
+        "Since he didn't reply, I wrote to him again."
+      ]
+    },
+    {
+      "ru": "(в детстве) Когда я был ребёнком, я жил в Риме.",
+      "en": [
+        "When I was a child, I lived in Rome.",
+        "I lived in Rome when I was a child.",
+        "As a child, I lived in Rome.",
+        "I lived in Rome as a child."
+      ]
+    },
+    {
+      "ru": "(в детстве) Когда мы были маленькими, мы много играли на улице.",
+      "en": [
+        "When we were young, we played outside a lot.",
+        "When we were little, we played outside a lot.",
+        "When we were children, we played outside a lot.",
+        "As children, we played outside a lot.",
+        "When we were kids, we played outside a lot.",
+        "When we were small, we played outside a lot."
+      ]
+    },
+    {
+      "ru": "Когда я приехал, все уже ушли.",
+      "en": [
+        "When I arrived, everybody had already left.",
+        "When I arrived, everyone had already left.",
+        "When I arrived, everybody had left.",
+        "When I arrived, everyone had left.",
+        "When I got there, everybody had already left.",
+        "When I came, everyone had already left."
+      ]
+    },
+    {
+      "ru": "Когда фильм закончился, мы пошли домой.",
+      "en": [
+        "When the film ended, we went home.",
+        "When the film finished, we went home.",
+        "When the movie ended, we went home.",
+        "When the movie finished, we went home.",
+        "We went home when the film ended."
+      ]
+    }
+  ]
+}

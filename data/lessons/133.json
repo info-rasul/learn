@@ -1,0 +1,336 @@
+{
+  "id": 133,
+  "section": "Предлоги",
+  "title": "Verb + preposition 2 about/for/of/after",
+  "subtitle": "talk about, discuss, ask for, wait for, look for / look after, care",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>About</b> — «о чём-то»: <b>talk / read / know about</b>. <b>Do something about</b> — что-то предпринять, чтобы исправить ситуацию. Но <b>discuss</b> — без предлога: <b>We discussed the plan.</b> (а вот <b>have a discussion about</b>)."
+    },
+    {
+      "type": "h",
+      "text": "Глаголы с for"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>ask (somebody) for</b> — просить что-то: <b>ask for help</b>. Но <b>ask somebody the way / the time</b> — без for.",
+        "<b>apply (to a company) for a job</b> — подавать заявку на работу.",
+        "<b>look for</b> — искать; <b>search (a place) for</b> — обыскивать место в поисках чего-то.",
+        "<b>leave (a place) for</b> another place — уехать куда-то: <b>She left for work.</b>",
+        "<b>wait for somebody / something (to happen)</b>: <b>We're waiting for the bus to come.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Care и look after"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Выражение",
+        "Значение"
+      ],
+      "rows": [
+        [
+          "<b>take care of</b> = <b>look after</b>",
+          "заботиться, присматривать, взять на себя"
+        ],
+        [
+          "<b>care for somebody</b>",
+          "ухаживать за кем-то"
+        ],
+        [
+          "<b>I don't care for…</b>",
+          "мне не очень нравится…"
+        ],
+        [
+          "<b>care about</b>",
+          "считать важным, беспокоиться о"
+        ],
+        [
+          "<b>I don't care what/where/how…</b>",
+          "мне всё равно, что/где/как… (без about)"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Обсуждать что-то» — <b>discuss something</b>, без <b>about</b>. «Присматривать за ребёнком» — <b>look after</b>, а не <b>look for</b> (это «искать»). «Ждать автобус» — <b>wait for the bus</b>: без for нельзя."
+    }
+  ],
+  "words": [
+    {
+      "en": "talk about",
+      "ru": "говорить о"
+    },
+    {
+      "en": "read about",
+      "forms": "read, read",
+      "ru": "читать о"
+    },
+    {
+      "en": "do something about",
+      "forms": "did, done",
+      "ru": "что-то предпринять"
+    },
+    {
+      "en": "discuss",
+      "ru": "обсуждать (без about)"
+    },
+    {
+      "en": "discussion",
+      "ru": "обсуждение"
+    },
+    {
+      "en": "ask for",
+      "ru": "просить (что-то)"
+    },
+    {
+      "en": "ask",
+      "ru": "спрашивать (ask somebody the way)"
+    },
+    {
+      "en": "passer-by",
+      "forms": "passers-by",
+      "ru": "прохожий"
+    },
+    {
+      "en": "apply for",
+      "ru": "подавать заявку на"
+    },
+    {
+      "en": "search for",
+      "ru": "обыскивать (в поисках)"
+    },
+    {
+      "en": "look for",
+      "ru": "искать"
+    },
+    {
+      "en": "leave for",
+      "forms": "left, left",
+      "ru": "уезжать в"
+    },
+    {
+      "en": "wait for",
+      "ru": "ждать"
+    },
+    {
+      "en": "take care of",
+      "forms": "took, taken",
+      "ru": "заботиться о, позаботиться"
+    },
+    {
+      "en": "look after",
+      "ru": "присматривать за"
+    },
+    {
+      "en": "care for",
+      "ru": "ухаживать за; (в отрицании) любить"
+    },
+    {
+      "en": "care about",
+      "ru": "беспокоиться о, быть небезразличным"
+    },
+    {
+      "en": "care",
+      "ru": "(в отрицании) волновать: I don't care — мне всё равно"
+    },
+    {
+      "en": "spicy",
+      "ru": "острый (о еде)"
+    }
+  ],
+  "items": [
+    {
+      "ru": "О чём вы говорили на встрече?",
+      "en": [
+        "What did you talk about at the meeting?",
+        "What were you talking about at the meeting?"
+      ]
+    },
+    {
+      "ru": "Я читал об этом городе в интернете.",
+      "en": [
+        "I read about this city on the internet.",
+        "I read about this town on the internet.",
+        "I've read about this city on the internet.",
+        "I read about this city online.",
+        "I've read about this city online."
+      ]
+    },
+    {
+      "ru": "Что ты знаешь о Японии?",
+      "en": [
+        "What do you know about Japan?"
+      ]
+    },
+    {
+      "ru": "Шум ужасный, надо что-то с этим сделать.",
+      "en": [
+        "The noise is terrible, we need to do something about it.",
+        "The noise is terrible, we must do something about it.",
+        "The noise is awful, we need to do something about it.",
+        "The noise is terrible, we have to do something about it.",
+        "The noise is terrible, we should do something about it.",
+        "The noise is awful, we have to do something about it."
+      ]
+    },
+    {
+      "ru": "Мы обсудили наш отпуск.",
+      "en": [
+        "We discussed our holiday.",
+        "We discussed our vacation."
+      ]
+    },
+    {
+      "ru": "У нас была долгая дискуссия о деньгах.",
+      "en": [
+        "We had a long discussion about money."
+      ]
+    },
+    {
+      "ru": "Почему ты не попросил помощи?",
+      "en": [
+        "Why didn't you ask for help?"
+      ]
+    },
+    {
+      "ru": "Кейт попросила у меня денег.",
+      "en": [
+        "Kate asked me for some money.",
+        "Kate asked me for money."
+      ]
+    },
+    {
+      "ru": "Я спросил у прохожего дорогу до вокзала.",
+      "en": [
+        "I asked a passer-by the way to the station.",
+        "I asked someone the way to the station.",
+        "I asked a passerby the way to the station.",
+        "I asked a passer-by how to get to the station.",
+        "I asked a passer-by for directions to the station."
+      ]
+    },
+    {
+      "ru": "Джон подал заявку на работу в банке.",
+      "en": [
+        "John applied for a job at a bank.",
+        "John applied for a job in a bank."
+      ]
+    },
+    {
+      "ru": "Полиция обыскала машину в поисках наркотиков.",
+      "en": [
+        "The police searched the car for drugs."
+      ]
+    },
+    {
+      "ru": "Что ты ищешь?",
+      "en": [
+        "What are you looking for?"
+      ]
+    },
+    {
+      "ru": "Завтра мы уезжаем в Рим.",
+      "en": [
+        "We're leaving for Rome tomorrow.",
+        "We leave for Rome tomorrow.",
+        "Tomorrow we're leaving for Rome."
+      ]
+    },
+    {
+      "ru": "Подожди меня у входа.",
+      "en": [
+        "Wait for me at the entrance.",
+        "Wait for me by the entrance."
+      ]
+    },
+    {
+      "ru": "Мы ждём, когда закончится дождь.",
+      "en": [
+        "We're waiting for the rain to stop.",
+        "We are waiting for the rain to end.",
+        "We're waiting until the rain stops."
+      ]
+    },
+    {
+      "ru": "Не волнуйся, я могу о себе позаботиться.",
+      "en": [
+        "Don't worry, I can take care of myself.",
+        "Don't worry, I can look after myself."
+      ]
+    },
+    {
+      "ru": "Я возьму на себя билеты.",
+      "en": [
+        "I'll take care of the tickets.",
+        "I'll deal with the tickets."
+      ]
+    },
+    {
+      "ru": "Кто присмотрит за кошкой, пока нас не будет?",
+      "en": [
+        "Who will look after the cat while we're away?",
+        "Who will take care of the cat while we're away?",
+        "Who's going to look after the cat while we're away?",
+        "Who's going to take care of the cat while we're away?",
+        "Who will look after the cat when we're away?"
+      ]
+    },
+    {
+      "ru": "Бережно обращайся с моим ноутбуком, пожалуйста.",
+      "en": [
+        "Please look after my laptop.",
+        "Look after my laptop, please.",
+        "Please take care of my laptop.",
+        "Please take good care of my laptop.",
+        "Take care of my laptop, please.",
+        "Please be careful with my laptop.",
+        "Be careful with my laptop, please."
+      ]
+    },
+    {
+      "ru": "Медсестра ухаживает за моей бабушкой.",
+      "en": [
+        "A nurse cares for my grandmother.",
+        "A nurse looks after my grandmother.",
+        "A nurse takes care of my grandmother.",
+        "A nurse is caring for my grandmother."
+      ]
+    },
+    {
+      "ru": "Я не очень люблю острую еду.",
+      "en": [
+        "I don't care for spicy food.",
+        "I don't really like spicy food.",
+        "I don't care much for spicy food.",
+        "I don't like spicy food very much.",
+        "I'm not very fond of spicy food.",
+        "I'm not very keen on spicy food."
+      ]
+    },
+    {
+      "ru": "Ему не важны деньги.",
+      "en": [
+        "He doesn't care about money.",
+        "Money isn't important to him."
+      ]
+    },
+    {
+      "ru": "Ты вообще заботишься о своём здоровье?",
+      "en": [
+        "Do you care about your health at all?",
+        "Do you care about your health?"
+      ]
+    },
+    {
+      "ru": "Мне всё равно, что думают люди.",
+      "en": [
+        "I don't care what people think."
+      ]
+    }
+  ]
+}

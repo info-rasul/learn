@@ -1,0 +1,316 @@
+{
+  "id": 70,
+  "section": "Артикли и существительные",
+  "title": "Countable and uncountable 2",
+  "subtitle": "a noise / noise, advice, news, furniture, travel / trip",
+  "theory": [
+    {
+      "type": "h",
+      "text": "Одно слово — два значения"
+    },
+    {
+      "type": "p",
+      "text": "Многие существительные бывают и исчисляемыми, и неисчисляемыми, но с разным смыслом:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Исчисляемое",
+        "Неисчисляемое"
+      ],
+      "rows": [
+        [
+          "a noise — какой-то звук",
+          "noise — шум вообще"
+        ],
+        [
+          "a paper — газета",
+          "paper — бумага"
+        ],
+        [
+          "a hair — один волос",
+          "hair — волосы на голове"
+        ],
+        [
+          "a room — комната",
+          "room — место, пространство"
+        ],
+        [
+          "experiences — случаи, приключения",
+          "experience — опыт"
+        ],
+        [
+          "a good time — хорошо провести время",
+          "time — время"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Напитки обычно неисчисляемы (<b>I like tea</b>), но в кафе говорят <b>a tea, two teas</b> = чашка, две чашки."
+    },
+    {
+      "type": "h",
+      "text": "Всегда неисчисляемые в английском"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>advice, information, news, furniture, luggage, baggage, bread, weather, traffic, work, progress, scenery, luck, damage, permission, accommodation, behaviour</b>",
+        "С ними нет <b>a/an</b> и нет <b>-s</b>: <b>some advice</b>, <b>a piece of advice</b>, <b>a loaf of bread</b>",
+        "<b>news</b> — единственное число: <b>The news is bad.</b>",
+        "<b>travel</b> — путешествия вообще; одна поездка — <b>a trip</b> или <b>a journey</b>"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "В русском «советы, новости, информация, мебель» бывают во множественном числе, поэтому хочется сказать <b>advices, informations, furnitures</b> или <b>the news are</b>. Это ошибки: <b>some advice</b>, <b>information</b>, <b>furniture</b>, <b>the news is</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "advice",
+      "ru": "совет, советы (неисчисляемое)"
+    },
+    {
+      "en": "news",
+      "ru": "новости (неисчисляемое, глагол в ед. ч.)"
+    },
+    {
+      "en": "furniture",
+      "ru": "мебель"
+    },
+    {
+      "en": "information",
+      "ru": "информация"
+    },
+    {
+      "en": "luggage",
+      "ru": "багаж"
+    },
+    {
+      "en": "traffic",
+      "ru": "движение (на дорогах), машины"
+    },
+    {
+      "en": "scenery",
+      "ru": "пейзаж"
+    },
+    {
+      "en": "paper",
+      "ru": "бумага; a paper — газета"
+    },
+    {
+      "en": "hair",
+      "ru": "волосы; a hair — волос"
+    },
+    {
+      "en": "room",
+      "ru": "место (свободное пространство)"
+    },
+    {
+      "en": "experience",
+      "ru": "опыт; an experience — случай, впечатление"
+    },
+    {
+      "en": "noise",
+      "ru": "шум; a noise — звук"
+    },
+    {
+      "en": "pillow",
+      "ru": "подушка"
+    },
+    {
+      "en": "wonderful",
+      "ru": "замечательный"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Ты слышал какой-то звук?",
+      "en": [
+        "Did you hear a noise?",
+        "Did you just hear a noise?"
+      ]
+    },
+    {
+      "ru": "Здесь слишком много шума.",
+      "en": [
+        "There's too much noise here."
+      ]
+    },
+    {
+      "ru": "Я купил газету.",
+      "en": [
+        "I bought a paper.",
+        "I bought a newspaper."
+      ]
+    },
+    {
+      "ru": "Можешь дать мне бумаги?",
+      "en": [
+        "Can you give me some paper?",
+        "Could you give me some paper?"
+      ]
+    },
+    {
+      "ru": "У неё длинные волосы.",
+      "en": [
+        "She has long hair.",
+        "She's got long hair."
+      ]
+    },
+    {
+      "ru": "На моей подушке волос.",
+      "en": [
+        "There's a hair on my pillow."
+      ]
+    },
+    {
+      "ru": "В машине нет места для чемодана.",
+      "en": [
+        "There's no room for the suitcase in the car.",
+        "There isn't room for the suitcase in the car.",
+        "There isn't any room for the suitcase in the car."
+      ]
+    },
+    {
+      "ru": "Я схожу куплю хлеба.",
+      "en": [
+        "I'll go and buy some bread.",
+        "I'm going to buy some bread.",
+        "I'll go and get some bread.",
+        "I'll go and buy bread.",
+        "I'll go buy some bread."
+      ]
+    },
+    {
+      "ru": "У меня большой опыт.",
+      "en": [
+        "I have a lot of experience.",
+        "I've got a lot of experience.",
+        "I have lots of experience.",
+        "I've got lots of experience."
+      ]
+    },
+    {
+      "ru": "В Японии с нами случилось много интересного.",
+      "en": [
+        "We had a lot of interesting experiences in Japan.",
+        "We had many interesting experiences in Japan.",
+        "We had some interesting experiences in Japan."
+      ]
+    },
+    {
+      "ru": "Хорошо вам провести время!",
+      "en": [
+        "Have a good time!",
+        "Have a great time!",
+        "Have a nice time!"
+      ]
+    },
+    {
+      "ru": "Извини, у меня сейчас нет времени.",
+      "en": [
+        "Sorry, I don't have time now.",
+        "Sorry, I haven't got time now.",
+        "Sorry, I have no time now.",
+        "I'm sorry, I don't have time now.",
+        "Sorry, I don't have time right now.",
+        "Sorry, I haven't got time right now."
+      ]
+    },
+    {
+      "ru": "Два кофе, пожалуйста.",
+      "en": [
+        "Two coffees, please."
+      ]
+    },
+    {
+      "ru": "Мне нужен совет.",
+      "en": [
+        "I need some advice.",
+        "I need advice.",
+        "I need a piece of advice."
+      ]
+    },
+    {
+      "ru": "Это хороший совет.",
+      "en": [
+        "That's good advice.",
+        "It's good advice.",
+        "This is good advice.",
+        "That's a good piece of advice."
+      ]
+    },
+    {
+      "ru": "Новости были хорошие.",
+      "en": [
+        "The news was good."
+      ]
+    },
+    {
+      "ru": "Куда ты поставишь всю эту мебель?",
+      "en": [
+        "Where will you put all this furniture?",
+        "Where are you going to put all this furniture?"
+      ]
+    },
+    {
+      "ru": "Нам нужно больше информации.",
+      "en": [
+        "We need more information."
+      ]
+    },
+    {
+      "ru": "Надеюсь, у вас в Италии будет хорошая погода.",
+      "en": [
+        "I hope you have good weather in Italy.",
+        "I hope you'll have good weather in Italy.",
+        "I hope you get good weather in Italy."
+      ]
+    },
+    {
+      "ru": "Сегодня на дорогах было много машин.",
+      "en": [
+        "There was a lot of traffic on the roads today.",
+        "There was a lot of traffic today.",
+        "There was heavy traffic on the roads today.",
+        "There were a lot of cars on the roads today."
+      ]
+    },
+    {
+      "ru": "Мой брат ищет работу.",
+      "en": [
+        "My brother is looking for work.",
+        "My brother is looking for a job."
+      ]
+    },
+    {
+      "ru": "Какой красивый пейзаж!",
+      "en": [
+        "What beautiful scenery!",
+        "What a beautiful view!",
+        "What lovely scenery!",
+        "What a beautiful landscape!"
+      ]
+    },
+    {
+      "ru": "У нас было много багажа.",
+      "en": [
+        "We had a lot of luggage.",
+        "We had a lot of baggage.",
+        "We had lots of luggage.",
+        "We had lots of baggage."
+      ]
+    },
+    {
+      "ru": "Наша поездка в Рим была замечательной.",
+      "en": [
+        "Our trip to Rome was wonderful.",
+        "Our journey to Rome was wonderful.",
+        "Our trip to Rome was great."
+      ]
+    }
+  ]
+}

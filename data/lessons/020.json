@@ -1,0 +1,228 @@
+{
+  "id": 20,
+  "section": "Будущее время",
+  "title": "I'm going to (do)",
+  "subtitle": "Намерения и прогнозы по признакам: I'm going to, I was going to",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>be going to</b> + глагол = «я собираюсь, я уже решил»: <b>I'm going to learn to drive.</b> <b>Are you going to call her?</b> <b>She isn't going to wait.</b>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>I'm doing</b> — уже договорено, есть время и место: <b>I'm meeting Kate at five.</b>",
+        "<b>I'm going to do</b> — решено, но может быть ещё ни с кем не договорено: <b>I'm going to paint the kitchen.</b>",
+        "Часто подходят обе формы, разница небольшая."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Прогноз по тому, что видно сейчас"
+    },
+    {
+      "type": "p",
+      "text": "Если по ситуации <b>уже сейчас</b> понятно, что что-то случится, говорим <b>going to</b>: <b>Look at that sky. It's going to snow.</b> <b>He's driving too fast. He's going to crash.</b>"
+    },
+    {
+      "type": "h",
+      "text": "was / were going to"
+    },
+    {
+      "type": "p",
+      "text": "<b>I was going to ...</b> = «я собирался, но не сделал»: <b>I was going to call you, but I forgot.</b> Также о том, что ожидалось, но не случилось: <b>I thought the test was going to be hard.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русское «я сделаю» часто переводят как <b>I will</b>. Но если решение принято заранее, нужно <b>I'm going to</b>: «Я в субботу помою машину (уже решил)» — <b>I'm going to wash the car on Saturday.</b>"
+    }
+  ],
+  "words": [
+    { "en": "be going to", "ru": "собираться (что-то сделать)" },
+    { "en": "look for", "ru": "искать" },
+    { "en": "be late for", "ru": "опаздывать (куда-то)" },
+    { "en": "run out of", "forms": "ran out of, run out of", "ru": "закончиться (о запасах)" },
+    { "en": "have a baby", "ru": "родить ребёнка" },
+    { "en": "change your mind", "ru": "передумать" },
+    { "en": "wear", "forms": "wore, worn", "ru": "носить, надевать (одежду)" },
+    { "en": "clean", "ru": "мыть, чистить" },
+    { "en": "win", "forms": "won, won", "ru": "выигрывать" },
+    { "en": "sofa", "ru": "диван" },
+    { "en": "wedding", "ru": "свадьба" },
+    { "en": "truth", "ru": "правда" },
+    { "en": "team", "ru": "команда" },
+    { "en": "another", "ru": "другой, ещё один" },
+    { "en": "expensive", "ru": "дорогой" }
+  ],
+  "items": [
+    {
+      "ru": "(уже решил) Я собираюсь продать машину.",
+      "en": [
+        "I'm going to sell my car.",
+        "I'm going to sell the car."
+      ]
+    },
+    {
+      "ru": "Что ты собираешься делать с этими деньгами?",
+      "en": [
+        "What are you going to do with this money?",
+        "What are you going to do with the money?"
+      ]
+    },
+    {
+      "ru": "Она не собирается есть этот суп.",
+      "en": [
+        "She isn't going to eat this soup.",
+        "She isn't going to eat that soup."
+      ]
+    },
+    {
+      "ru": "Мы собираемся купить новый диван.",
+      "en": [
+        "We're going to buy a new sofa.",
+        "We're going to buy a new couch."
+      ]
+    },
+    {
+      "ru": "Ты собираешься пригласить Кейт?",
+      "en": [
+        "Are you going to invite Kate?"
+      ]
+    },
+    {
+      "ru": "Что ты собираешься надеть на свадьбу?",
+      "en": [
+        "What are you going to wear to the wedding?",
+        "What are you going to wear for the wedding?"
+      ]
+    },
+    {
+      "ru": "(уже решил) В субботу я собираюсь помыть окна.",
+      "en": [
+        "I'm going to clean the windows on Saturday.",
+        "I'm going to wash the windows on Saturday.",
+        "On Saturday I'm going to clean the windows."
+      ]
+    },
+    {
+      "ru": "Я собираюсь учить испанский.",
+      "en": [
+        "I'm going to learn Spanish.",
+        "I'm going to study Spanish."
+      ]
+    },
+    {
+      "ru": "(билеты куплены, всё договорено) В пятницу мы едем в Берлин.",
+      "en": [
+        "We're going to Berlin on Friday.",
+        "On Friday we're going to Berlin."
+      ]
+    },
+    {
+      "ru": "(решила, но ещё ничего не сделала) Анна собирается искать другую работу.",
+      "en": [
+        "Anna is going to look for another job.",
+        "Anna is going to look for a new job."
+      ]
+    },
+    {
+      "ru": "Ты собираешься сказать ему правду?",
+      "en": [
+        "Are you going to tell him the truth?"
+      ]
+    },
+    {
+      "ru": "Я не собираюсь его ждать.",
+      "en": [
+        "I'm not going to wait for him."
+      ]
+    },
+    {
+      "ru": "(по небу видно) Сейчас пойдёт снег.",
+      "en": [
+        "It's going to snow.",
+        "It's going to snow soon."
+      ]
+    },
+    {
+      "ru": "(он стоит на краю стула) Он сейчас упадёт!",
+      "en": [
+        "He's going to fall!"
+      ]
+    },
+    {
+      "ru": "(автобус уже ушёл) Я опоздаю на работу.",
+      "en": [
+        "I'm going to be late for work."
+      ]
+    },
+    {
+      "ru": "(на счёте почти ничего нет) У нас скоро закончатся деньги.",
+      "en": [
+        "We're going to run out of money soon.",
+        "We're going to run out of money."
+      ]
+    },
+    {
+      "ru": "(она беременна) У Лауры будет ребёнок.",
+      "en": [
+        "Laura is going to have a baby."
+      ]
+    },
+    {
+      "ru": "(ремонт серьёзный) Это будет стоить очень дорого.",
+      "en": [
+        "It's going to be very expensive.",
+        "It's going to cost a lot of money.",
+        "It's going to cost a lot."
+      ]
+    },
+    {
+      "ru": "(они ведут три — ноль) Наша команда выиграет.",
+      "en": [
+        "Our team is going to win."
+      ]
+    },
+    {
+      "ru": "Я собирался тебе позвонить, но забыл.",
+      "en": [
+        "I was going to call you, but I forgot.",
+        "I was going to phone you, but I forgot.",
+        "I was going to ring you, but I forgot."
+      ]
+    },
+    {
+      "ru": "Мы собирались поехать на поезде, но потом решили лететь.",
+      "en": [
+        "We were going to take the train, but then we decided to fly.",
+        "We were going to take the train, but we decided to fly.",
+        "We were going to go by train, but then we decided to fly.",
+        "We were going to go by train, but we decided to fly.",
+        "We were going to travel by train, but then we decided to fly."
+      ]
+    },
+    {
+      "ru": "Что ты собирался сказать?",
+      "en": [
+        "What were you going to say?"
+      ]
+    },
+    {
+      "ru": "Я думал, что фильм будет скучным (но ошибся).",
+      "en": [
+        "I thought the film was going to be boring.",
+        "I thought the movie was going to be boring.",
+        "I thought that the film was going to be boring.",
+        "I thought that the movie was going to be boring."
+      ]
+    },
+    {
+      "ru": "Кейт собиралась уйти с работы, но передумала.",
+      "en": [
+        "Kate was going to leave her job, but she changed her mind.",
+        "Kate was going to quit her job, but she changed her mind.",
+        "Kate was going to leave her job but changed her mind."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": 8,
+  "section": "Present perfect и прошедшее время",
+  "title": "Present perfect 2 (I have done)",
+  "subtitle": "Опыт (ever/never), период до сейчас, it's the first time",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Present perfect используется, когда мы говорим о периоде, который начался в прошлом и <b>продолжается до сих пор</b>. Самый частый такой период — вся жизнь человека: «бывал ли ты когда-нибудь», «я никогда не…»."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Опыт: <b>Have you ever been to Japan?</b> <b>I've never eaten sushi.</b> <b>Anna has read this book three times.</b>",
+        "<b>been to</b> = побывал, посетил: <b>I've never been to Australia.</b>",
+        "Превосходная степень: <b>It's the best cake I've ever eaten.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Незаконченный период"
+    },
+    {
+      "type": "p",
+      "text": "Со словами <b>recently, lately, so far, since…, for a long time</b> и с <b>today, this week, this year, this morning</b> (если этот период ещё не закончился) тоже нужен present perfect: <b>I've drunk three cups of tea today.</b> <b>I haven't played tennis for a long time.</b>"
+    },
+    {
+      "type": "h",
+      "text": "It's the first time…"
+    },
+    {
+      "type": "p",
+      "text": "После <b>It's the first / second / third time…</b> ставим present perfect: <b>It's the first time I've driven a car.</b> То же самое можно сказать так: <b>I've never driven a car before.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "По-русски «Это первый раз, когда я веду машину» — настоящее время, и хочется сказать <b>It's the first time I drive</b>. Это ошибка: правильно <b>It's the first time I've driven</b>. И не ставьте <b>ever</b> в утвердительное предложение про опыт: <b>I've been to Japan</b>, а не <b>I've ever been</b>."
+    }
+  ],
+  "words": [
+    { "en": "ever", "ru": "когда-нибудь, когда-либо" },
+    { "en": "never", "ru": "никогда" },
+    { "en": "before", "ru": "раньше, прежде" },
+    { "en": "recently", "ru": "в последнее время, недавно" },
+    { "en": "so far", "ru": "пока что, до сих пор" },
+    { "en": "the first time", "ru": "первый раз, впервые" },
+    { "en": "time", "ru": "раз (three times — три раза)" },
+    { "en": "abroad", "ru": "за границей, за границу" },
+    { "en": "try", "ru": "пробовать" },
+    { "en": "ice cream", "ru": "мороженое" },
+    { "en": "delicious", "ru": "очень вкусный" },
+    { "en": "neighbour", "ru": "сосед" },
+    { "en": "move", "ru": "переезжать" },
+    { "en": "drink", "forms": "drank, drunk", "ru": "пить" },
+    { "en": "fly", "forms": "flew, flown", "ru": "летать" },
+    { "en": "chess", "ru": "шахматы" },
+    { "en": "visit", "ru": "посещать" },
+    { "en": "country", "ru": "страна" },
+    { "en": "anywhere", "ru": "куда-нибудь, где-нибудь" },
+    { "en": "word", "ru": "слово" }
+  ],
+  "items": [
+    {
+      "ru": "Ты когда-нибудь был в Японии?",
+      "en": [
+        "Have you ever been to Japan?"
+      ]
+    },
+    {
+      "ru": "Я никогда не ел суши.",
+      "en": [
+        "I've never eaten sushi.",
+        "I've never had sushi.",
+        "I've never tried sushi."
+      ]
+    },
+    {
+      "ru": "Мы никогда не жили за границей.",
+      "en": [
+        "We've never lived abroad."
+      ]
+    },
+    {
+      "ru": "Ты когда-нибудь пробовал итальянское мороженое?",
+      "en": [
+        "Have you ever tried Italian ice cream?",
+        "Have you ever eaten Italian ice cream?",
+        "Have you ever had Italian ice cream?"
+      ]
+    },
+    {
+      "ru": "Я не смотрел этот фильм.",
+      "en": [
+        "I haven't seen this film.",
+        "I haven't seen this movie.",
+        "I haven't watched this film.",
+        "I haven't watched this movie."
+      ]
+    },
+    {
+      "ru": "Анна прочитала эту книгу три раза.",
+      "en": [
+        "Anna has read this book three times.",
+        "Anna has read this book 3 times."
+      ]
+    },
+    {
+      "ru": "Это самый вкусный торт, который я когда-либо ел.",
+      "en": [
+        "It's the most delicious cake I've ever eaten.",
+        "This is the most delicious cake I've ever eaten.",
+        "It's the best cake I've ever eaten.",
+        "This is the best cake I've ever had.",
+        "It's the most delicious cake I've ever had.",
+        "This is the best cake I've ever eaten.",
+        "It's the best cake I've ever had.",
+        "This is the most delicious cake I've ever had."
+      ]
+    },
+    {
+      "ru": "Я ни разу не был в Австралии.",
+      "en": [
+        "I've never been to Australia."
+      ]
+    },
+    {
+      "ru": "Ты что-нибудь слышал о Нике в последнее время?",
+      "en": [
+        "Have you heard anything from Nick recently?",
+        "Have you heard anything about Nick recently?",
+        "Have you heard anything from Nick lately?",
+        "Have you heard from Nick recently?",
+        "Have you heard anything about Nick lately?"
+      ]
+    },
+    {
+      "ru": "В последнее время я мало спал.",
+      "en": [
+        "I haven't slept much recently.",
+        "I haven't slept much lately.",
+        "I haven't been sleeping much recently.",
+        "I haven't been sleeping much lately."
+      ]
+    },
+    {
+      "ru": "Пока что я выучил двадцать новых слов.",
+      "en": [
+        "I've learnt twenty new words so far.",
+        "I've learned twenty new words so far.",
+        "So far I've learnt twenty new words.",
+        "I've learnt 20 new words so far.",
+        "I've learned 20 new words so far.",
+        "So far I've learned twenty new words."
+      ]
+    },
+    {
+      "ru": "С тех пор как мы переехали, я не видел соседей.",
+      "en": [
+        "I haven't seen the neighbours since we moved.",
+        "I haven't seen our neighbours since we moved.",
+        "I haven't seen the neighbors since we moved.",
+        "I haven't seen our neighbors since we moved."
+      ]
+    },
+    {
+      "ru": "Я давно не играл в теннис.",
+      "en": [
+        "I haven't played tennis for a long time.",
+        "I haven't played tennis for ages.",
+        "I haven't played tennis in a long time."
+      ]
+    },
+    {
+      "ru": "Сегодня я выпил три чашки чая.",
+      "en": [
+        "I've drunk three cups of tea today.",
+        "I've had three cups of tea today.",
+        "Today I've drunk three cups of tea.",
+        "Today I've had three cups of tea.",
+        "I've had 3 cups of tea today."
+      ]
+    },
+    {
+      "ru": "Ты ездил куда-нибудь в этом году?",
+      "en": [
+        "Have you been anywhere this year?",
+        "Have you travelled anywhere this year?",
+        "Have you traveled anywhere this year?"
+      ]
+    },
+    {
+      "ru": "(сейчас ещё утро) Ты сегодня завтракал?",
+      "en": [
+        "Have you had breakfast this morning?",
+        "Have you had breakfast today?"
+      ]
+    },
+    {
+      "ru": "На этой неделе Майк опоздал три раза.",
+      "en": [
+        "Mike has been late three times this week.",
+        "This week Mike has been late three times.",
+        "Mike has been late 3 times this week."
+      ]
+    },
+    {
+      "ru": "Это первый раз, когда я веду машину.",
+      "en": [
+        "It's the first time I've driven a car.",
+        "This is the first time I've driven a car."
+      ]
+    },
+    {
+      "ru": "Это первый раз, когда Кейт летит на самолёте.",
+      "en": [
+        "It's the first time Kate has flown.",
+        "This is the first time Kate has flown.",
+        "It's the first time Kate has been on a plane.",
+        "It's the first time Kate has flown on a plane.",
+        "This is the first time Kate has been on a plane."
+      ]
+    },
+    {
+      "ru": "Он никогда раньше не играл в шахматы.",
+      "en": [
+        "He has never played chess before.",
+        "He hasn't played chess before."
+      ]
+    },
+    {
+      "ru": "Это второй раз, когда ты теряешь ключи.",
+      "en": [
+        "It's the second time you've lost your keys.",
+        "This is the second time you've lost your keys."
+      ]
+    },
+    {
+      "ru": "Пол звонит сегодня уже в третий раз.",
+      "en": [
+        "It's the third time Paul has called today.",
+        "This is the third time Paul has called today.",
+        "It's the third time Paul has phoned today.",
+        "This is the third time Paul has phoned today.",
+        "It's the third time today Paul has called."
+      ]
+    },
+    {
+      "ru": "Я никогда раньше не видел снега.",
+      "en": [
+        "I've never seen snow before."
+      ]
+    },
+    {
+      "ru": "Сколько стран ты посетил?",
+      "en": [
+        "How many countries have you visited?",
+        "How many countries have you been to?"
+      ]
+    }
+  ]
+}

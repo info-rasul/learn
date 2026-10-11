@@ -1,0 +1,61 @@
+{
+  "id": 25,
+  "section": "Будущее время",
+  "title": "when I do and when I've done, if and when",
+  "subtitle": "После when, if, until, as soon as — настоящее, а не will",
+  "theory": [
+    { "type": "p", "text": "В придаточных времени о будущем английский использует <b>настоящее время</b>, хотя по-русски мы говорим будущее: «Я позвоню, когда приеду» — <b>I'll call you when I arrive</b> (не when I will arrive)." },
+    { "type": "list", "items": [
+      "То же после <b>while, before, after, as soon as, until / till</b>:",
+      "<b>I'll wait until you're ready.</b> — Я подожду, пока ты не будешь готов.",
+      "<b>Call me as soon as you know.</b> — Позвони, как только узнаешь.",
+      "<b>What will you do while I'm at work?</b>"
+    ] },
+    { "type": "h", "text": "when I've done" },
+    { "type": "p", "text": "Present perfect после <b>when / after / until / as soon as</b> показывает, что одно действие <b>закончится раньше</b> другого: <b>When I've written this email, I'll make dinner.</b> Если действия одновременны, perfect не нужен: <b>When I see Kate, I'll tell her.</b> Часто подходят оба: <b>after I finish = after I've finished</b>." },
+    { "type": "h", "text": "if или when" },
+    { "type": "p", "text": "После <b>if</b> тоже настоящее: <b>If it rains, we'll stay in.</b> <b>if</b> — может случиться, а может и нет. <b>when</b> — точно случится. <b>If I see Tom, I'll tell him</b> (может, увижу) — <b>When I see Tom, I'll tell him</b> (точно увижу)." },
+    { "type": "tip", "text": "Самая частая ошибка: «when I will come», «if it will rain». После <b>when, if, until, as soon as, before, after</b> в значении будущего — только настоящее или present perfect." }
+  ],
+  "words": [
+    { "en": "if", "ru": "если" },
+    { "en": "as soon as", "ru": "как только" },
+    { "en": "text", "ru": "написать сообщение" },
+    { "en": "go for a walk", "forms": "went, gone", "ru": "пойти погулять" },
+    { "en": "borrow", "ru": "брать на время, одалживать (у кого-то)" },
+    { "en": "ask", "ru": "спрашивать" },
+    { "en": "miss", "ru": "опоздать (на транспорт), пропустить" },
+    { "en": "grow up", "forms": "grew up, grown up", "ru": "вырасти" },
+    { "en": "news", "ru": "новости" },
+    { "en": "milk", "ru": "молоко" },
+    { "en": "angry", "ru": "сердитый" },
+    { "en": "without", "ru": "без" },
+    { "en": "myself", "ru": "сам, себя" }
+  ],
+  "items": [
+    { "ru": "Я напишу тебе, когда приеду в Рим.", "en": ["I'll text you when I arrive in Rome.", "I'll text you when I get to Rome.", "I'll message you when I arrive in Rome.", "I'll write to you when I arrive in Rome.", "I'll write to you when I get to Rome.", "When I arrive in Rome, I'll text you.", "When I get to Rome, I'll text you."] },
+    { "ru": "Мы пойдём гулять, когда закончится дождь.", "en": ["We'll go for a walk when the rain stops.", "We'll go for a walk when it stops raining."] },
+    { "ru": "Когда снова будешь в Лондоне, позвони мне.", "en": ["When you're in London again, call me.", "When you're in London again, phone me.", "Call me when you're in London again.", "When you're in London again, give me a call."] },
+    { "ru": "Не забудь выключить свет, когда будешь уходить.", "en": ["Don't forget to turn off the light when you leave.", "Don't forget to switch off the light when you leave.", "Don't forget to turn the light off when you leave.", "Don't forget to turn off the light when you go.", "Don't forget to switch the light off when you leave."] },
+    { "ru": "Пока ты будешь в магазине, я приготовлю ужин.", "en": ["While you're at the shop, I'll cook dinner.", "While you're at the shop, I'll make dinner.", "I'll cook dinner while you're at the shop.", "While you're at the shops, I'll cook dinner.", "While you're at the store, I'll cook dinner."] },
+    { "ru": "Перед тем как уйти, выпей чаю.", "en": ["Before you go, have some tea.", "Have some tea before you go.", "Before you leave, have some tea.", "Before you go, have a cup of tea.", "Before you go, drink some tea."] },
+    { "ru": "Сиди в машине, пока я не вернусь.", "en": ["Stay in the car until I come back.", "Stay in the car until I get back.", "Stay in the car till I come back.", "Wait in the car until I come back."] },
+    { "ru": "Как только я узнаю новости, я тебе скажу.", "en": ["As soon as I hear the news, I'll tell you.", "I'll tell you as soon as I hear the news.", "As soon as I know the news, I'll tell you.", "As soon as I get the news, I'll tell you.", "I'll tell you as soon as I get the news."] },
+    { "ru": "Тебе станет лучше, после того как ты поспишь.", "en": ["You'll feel better after you've slept.", "You'll feel better after you sleep.", "You'll feel better after you've had some sleep."] },
+    { "ru": "Можно взять книгу, когда ты её дочитаешь?", "en": ["Can I borrow the book when you've finished it?", "Can I borrow the book when you finish it?", "Can I have the book when you've finished it?", "Could I borrow the book when you've finished it?"] },
+    { "ru": "(сначала поговорю) Когда я поговорю с Майком, мы сможем пойти.", "en": ["When I've talked to Mike, we can go.", "When I've spoken to Mike, we can go.", "We can go when I've talked to Mike.", "We can go when I've spoken to Mike."] },
+    { "ru": "(во время разговора) Когда я буду говорить с Майком, я спрошу его о машине.", "en": ["When I talk to Mike, I'll ask him about the car.", "When I speak to Mike, I'll ask him about the car.", "I'll ask Mike about the car when I talk to him."] },
+    { "ru": "Я помогу тебе, как только закончу обед.", "en": ["I'll help you as soon as I've finished lunch.", "I'll help you as soon as I finish lunch.", "As soon as I've finished lunch, I'll help you.", "As soon as I finish lunch, I'll help you."] },
+    { "ru": "Ничего не говори, пока Джон не уйдёт.", "en": ["Don't say anything until John has gone.", "Don't say anything until John has left.", "Don't say anything until John leaves.", "Don't say anything until John goes."] },
+    { "ru": "Если завтра будет дождь, мы останемся дома.", "en": ["If it rains tomorrow, we'll stay at home.", "If it rains tomorrow, we'll stay home.", "We'll stay at home if it rains tomorrow.", "If it's raining tomorrow, we'll stay at home."] },
+    { "ru": "Если ты не поторопишься, ты опоздаешь на поезд.", "en": ["If you don't hurry, you'll miss the train.", "If you don't hurry, you'll be late for the train.", "You'll miss the train if you don't hurry."] },
+    { "ru": "Я рассержусь, если ты опять опоздаешь.", "en": ["I'll be angry if you're late again.", "If you're late again, I'll be angry."] },
+    { "ru": "Начинайте без меня, если я опоздаю.", "en": ["Start without me if I'm late.", "If I'm late, start without me."] },
+    { "ru": "Если Кейт не позвонит до шести, я сам ей позвоню.", "en": ["If Kate doesn't call by six, I'll call her myself.", "If Kate doesn't phone by six, I'll phone her myself.", "If Kate doesn't call before six, I'll call her myself."] },
+    { "ru": "(может быть, пойду) Если я пойду в магазин, я куплю молоко.", "en": ["If I go to the shop, I'll buy some milk.", "If I go to the shop, I'll buy milk.", "If I go to the shop, I'll get some milk.", "If I go shopping, I'll buy some milk.", "If I go to the store, I'll buy some milk."] },
+    { "ru": "(точно пойду) Когда я пойду в магазин, я куплю молоко.", "en": ["When I go to the shop, I'll buy some milk.", "When I go to the shop, I'll buy milk.", "When I go to the shop, I'll get some milk.", "When I go shopping, I'll buy some milk.", "When I go to the store, I'll buy some milk."] },
+    { "ru": "Кем ты хочешь стать, когда вырастешь?", "en": ["What do you want to be when you grow up?", "What do you want to become when you grow up?"] },
+    { "ru": "Если завтра ты будешь свободен, давай встретимся.", "en": ["If you're free tomorrow, let's meet.", "If you're free tomorrow, let's meet up.", "Let's meet tomorrow if you're free."] },
+    { "ru": "Мы не начнём, пока все не придут.", "en": ["We won't start until everybody arrives.", "We won't start until everyone arrives.", "We won't start until everyone has arrived.", "We won't start until everybody has arrived.", "We won't start till everyone arrives."] }
+  ]
+}

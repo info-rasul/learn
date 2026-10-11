@@ -1,0 +1,348 @@
+{
+  "id": 31,
+  "section": "Модальные глаголы",
+  "title": "have to and must",
+  "subtitle": "Обязанность: have to и must, mustn't и don't have to",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>have to</b> = «приходится, нужно, обязан»: <b>I have to get up at six.</b> <b>She has to work on Saturdays.</b> Это обычный глагол, поэтому в вопросах и отрицаниях нужен <b>do/does/did</b>: <b>Do you have to wear a uniform?</b> <b>He doesn't have to pay.</b> <b>Did you have to wait?</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Время",
+        "Форма",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "Настоящее",
+          "have/has to",
+          "<b>I have to go.</b>"
+        ],
+        [
+          "Прошедшее",
+          "had to",
+          "<b>We had to run.</b>"
+        ],
+        [
+          "Будущее",
+          "will have to / be going to have to",
+          "<b>You'll have to wait.</b>"
+        ],
+        [
+          "Возможность",
+          "might/may have to",
+          "<b>We might have to leave.</b>"
+        ],
+        [
+          "Present perfect",
+          "have had to",
+          "<b>I've never had to cook.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "must или have to?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Своё мнение, совет, напоминание себе — можно оба: <b>I must call Mum.</b> / <b>I have to call Mum.</b> <b>You must see this film!</b>",
+        "Внешний факт, правила работы, расписание — обычно <b>have to</b>: <b>I have to start work at eight.</b>",
+        "Письменные правила и инструкции — <b>must</b>: <b>Passengers must show their tickets.</b>",
+        "О прошлом — только <b>had to</b>: <b>I had to leave early.</b> (не «must»)."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "mustn't ≠ don't have to"
+    },
+    {
+      "type": "p",
+      "text": "<b>You mustn't tell anyone.</b> — нельзя, запрещено. <b>You don't have to tell anyone.</b> — не обязательно, но можно. В разговоре вместо <b>have to</b> часто говорят <b>have got to</b>: <b>I've got to go.</b> = <b>I have to go.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русское «не должен» бывает и «нельзя», и «не обязательно». Спросите себя: запрещено (<b>mustn't</b>) или просто не нужно (<b>don't have to</b>)? И не говорите «I mustn't» о прошлом — для прошлого есть только <b>had to / didn't have to</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "have to",
+      "ru": "приходиться, быть вынужденным"
+    },
+    {
+      "en": "don't have to",
+      "ru": "не нужно, не обязательно"
+    },
+    {
+      "en": "must",
+      "ru": "должен, надо (обязательно)"
+    },
+    {
+      "en": "mustn't",
+      "ru": "нельзя"
+    },
+    {
+      "en": "have got to",
+      "ru": "надо, нужно"
+    },
+    {
+      "en": "visa",
+      "ru": "виза"
+    },
+    {
+      "en": "cancel",
+      "ru": "отменять"
+    },
+    {
+      "en": "travel",
+      "ru": "ездить, путешествовать"
+    },
+    {
+      "en": "passenger",
+      "ru": "пассажир"
+    },
+    {
+      "en": "uniform",
+      "ru": "форма (одежда)"
+    },
+    {
+      "en": "weekend",
+      "ru": "выходные"
+    },
+    {
+      "en": "Saturday",
+      "ru": "суббота"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Мне приходится вставать в шесть каждый день.",
+      "en": [
+        "I have to get up at six every day.",
+        "I have to get up at 6 every day.",
+        "I've got to get up at six every day.",
+        "Every day I have to get up at six."
+      ]
+    },
+    {
+      "ru": "Ей приходится работать по выходным.",
+      "en": [
+        "She has to work at weekends.",
+        "She has to work on weekends.",
+        "She has to work at the weekend.",
+        "She has to work at the weekends."
+      ]
+    },
+    {
+      "ru": "Тебе приходится рано вставать?",
+      "en": [
+        "Do you have to get up early?",
+        "Have you got to get up early?"
+      ]
+    },
+    {
+      "ru": "Тому не нужно работать по субботам.",
+      "en": [
+        "Tom doesn't have to work on Saturdays.",
+        "Tom doesn't need to work on Saturdays.",
+        "Tom hasn't got to work on Saturdays."
+      ]
+    },
+    {
+      "ru": "Что мне нужно сделать, чтобы получить визу?",
+      "en": [
+        "What do I have to do to get a visa?",
+        "What do I need to do to get a visa?",
+        "What have I got to do to get a visa?"
+      ]
+    },
+    {
+      "ru": "Вчера мне пришлось ждать час.",
+      "en": [
+        "I had to wait for an hour yesterday.",
+        "Yesterday I had to wait for an hour.",
+        "I had to wait an hour yesterday.",
+        "Yesterday I had to wait an hour."
+      ]
+    },
+    {
+      "ru": "Вам пришлось долго ждать?",
+      "en": [
+        "Did you have to wait long?",
+        "Did you have to wait a long time?",
+        "Did you have to wait for a long time?"
+      ]
+    },
+    {
+      "ru": "Ему пришлось продать машину?",
+      "en": [
+        "Did he have to sell his car?",
+        "Did he have to sell the car?"
+      ]
+    },
+    {
+      "ru": "Мне придётся купить новый ноутбук.",
+      "en": [
+        "I'll have to buy a new laptop.",
+        "I'm going to have to buy a new laptop.",
+        "I'll have to get a new laptop."
+      ]
+    },
+    {
+      "ru": "Нам, возможно, придётся отменить поездку.",
+      "en": [
+        "We might have to cancel the trip.",
+        "We may have to cancel the trip.",
+        "We might have to cancel our trip.",
+        "We may have to cancel our trip."
+      ]
+    },
+    {
+      "ru": "Мне никогда не приходилось работать по ночам.",
+      "en": [
+        "I've never had to work at night.",
+        "I've never had to work nights."
+      ]
+    },
+    {
+      "ru": "Уже поздно, так что мне надо идти.",
+      "en": [
+        "It's late, so I must go.",
+        "It's late, so I have to go.",
+        "It's late, so I've got to go.",
+        "It's late, I must go.",
+        "It's late, I have to go.",
+        "It's late, I've got to go.",
+        "It's late, so I have to leave.",
+        "It's late, so I must leave.",
+        "It's already late, so I have to go.",
+        "It's already late, so I must go.",
+        "It's late, so I need to go."
+      ]
+    },
+    {
+      "ru": "Мне обязательно надо позвонить маме.",
+      "en": [
+        "I must call my mum.",
+        "I must phone my mum.",
+        "I have to call my mum.",
+        "I have to phone my mum.",
+        "I must call my mom.",
+        "I have to call my mom.",
+        "I must phone my mom.",
+        "I have to phone my mom.",
+        "I've got to call my mum.",
+        "I've got to phone my mum.",
+        "I must call my mother.",
+        "I have to call my mother."
+      ]
+    },
+    {
+      "ru": "Ты обязательно должен посмотреть этот фильм!",
+      "en": [
+        "You must see this film!",
+        "You have to see this film!",
+        "You must see this movie!",
+        "You have to see this movie!",
+        "You must watch this film!",
+        "You have to watch this film!",
+        "You must watch this movie!",
+        "You have to watch this movie!"
+      ]
+    },
+    {
+      "ru": "(такой график) Мне приходится работать с девяти до пяти.",
+      "en": [
+        "I have to work from nine to five.",
+        "I have to work from 9 to 5.",
+        "I have to work from nine till five.",
+        "I have to work from nine until five."
+      ]
+    },
+    {
+      "ru": "Лоре приходится много ездить по работе.",
+      "en": [
+        "Laura has to travel a lot for her job.",
+        "Laura has to travel a lot for work.",
+        "Laura has to travel a lot for her work."
+      ]
+    },
+    {
+      "ru": "(объявление) Все пассажиры должны показать билеты.",
+      "en": [
+        "All passengers must show their tickets.",
+        "All passengers must show tickets.",
+        "Every passenger must show their ticket."
+      ]
+    },
+    {
+      "ru": "Вчера мне пришлось уйти рано.",
+      "en": [
+        "I had to leave early yesterday.",
+        "Yesterday I had to leave early."
+      ]
+    },
+    {
+      "ru": "Тебе не обязательно мне помогать.",
+      "en": [
+        "You don't have to help me.",
+        "You haven't got to help me.",
+        "You don't need to help me.",
+        "You needn't help me."
+      ]
+    },
+    {
+      "ru": "Об этом нельзя никому рассказывать.",
+      "en": [
+        "You mustn't tell anyone about this.",
+        "You mustn't tell anybody about this.",
+        "You mustn't tell anyone about it.",
+        "You mustn't tell anybody about it.",
+        "You can't tell anyone about this.",
+        "You can't tell anybody about this.",
+        "You can't tell anyone about it.",
+        "You aren't allowed to tell anyone about this."
+      ]
+    },
+    {
+      "ru": "Мне нельзя опаздывать на работу.",
+      "en": [
+        "I mustn't be late for work.",
+        "I can't be late for work."
+      ]
+    },
+    {
+      "ru": "Ей не нужно носить форму.",
+      "en": [
+        "She doesn't have to wear a uniform.",
+        "She hasn't got to wear a uniform.",
+        "She doesn't need to wear a uniform."
+      ]
+    },
+    {
+      "ru": "Сегодня мне надо сходить в банк.",
+      "en": [
+        "I've got to go to the bank today.",
+        "I have to go to the bank today.",
+        "Today I've got to go to the bank.",
+        "Today I have to go to the bank.",
+        "I must go to the bank today.",
+        "Today I must go to the bank."
+      ]
+    },
+    {
+      "ru": "Когда тебе нужно уезжать?",
+      "en": [
+        "When do you have to leave?",
+        "When have you got to leave?",
+        "When do you have to go?",
+        "When have you got to go?"
+      ]
+    }
+  ]
+}

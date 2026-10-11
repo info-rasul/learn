@@ -1,0 +1,114 @@
+{
+  "id": 109,
+  "section": "Прилагательные и наречия",
+  "title": "Word order 1: verb + object; place and time",
+  "subtitle": "Глагол + дополнение вместе; сначала место, потом время",
+  "theory": [
+    {
+      "type": "p",
+      "text": "В английском глагол и его дополнение обычно стоят рядом — между ними ничего не вставляют: <b>I like Italian food very much</b> (не I like very much Italian food). <b>She speaks English well</b> (не speaks well English)."
+    },
+    {
+      "type": "table",
+      "head": ["Неправильно", "Правильно"],
+      "rows": [
+        ["He read quickly the letter.", "<b>He read the letter quickly.</b> / <b>He quickly read the letter.</b>"],
+        ["I lost again my keys.", "<b>I lost my keys again.</b>"],
+        ["Do you know well Paul?", "<b>Do you know Paul well?</b>"]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Место и время"
+    },
+    {
+      "type": "p",
+      "text": "Обычный порядок: глагол (+ дополнение) → <b>где / куда</b> → <b>когда</b>: <b>We go to Italy every summer.</b> <b>I left my bag at work yesterday.</b> Время можно также вынести в начало: <b>Every summer we go to Italy.</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русский порядок свободный: «я каждый день хожу в спортзал», «вчера я забыл дома телефон». В английском не ставьте время между глаголом и местом: <b>I go to the gym every day</b>, <b>I left my phone at home yesterday</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "very much",
+      "ru": "очень (в конце фразы)"
+    },
+    {
+      "en": "well",
+      "ru": "хорошо"
+    },
+    {
+      "en": "slowly",
+      "ru": "медленно"
+    },
+    {
+      "en": "carefully",
+      "ru": "внимательно, осторожно"
+    },
+    {
+      "en": "again",
+      "ru": "снова, опять"
+    },
+    {
+      "en": "every day",
+      "ru": "каждый день"
+    },
+    {
+      "en": "all day",
+      "ru": "весь день"
+    },
+    {
+      "en": "last night",
+      "ru": "вчера вечером"
+    },
+    {
+      "en": "outside",
+      "ru": "у, возле (снаружи)"
+    },
+    {
+      "en": "leave",
+      "forms": "left, left",
+      "ru": "оставить, забыть (где-то)"
+    },
+    {
+      "en": "contract",
+      "ru": "договор, контракт"
+    },
+    {
+      "en": "gym",
+      "ru": "спортзал"
+    },
+    {
+      "en": "Russian",
+      "ru": "русский язык"
+    }
+  ],
+  "items": [
+    { "ru": "Мне очень нравится итальянская еда.", "en": ["I like Italian food very much.", "I really like Italian food.", "I love Italian food.", "I like Italian food a lot."] },
+    { "ru": "Анна очень хорошо говорит по-английски.", "en": ["Anna speaks English very well.", "Anna speaks very good English."] },
+    { "ru": "Ты хорошо говоришь по-русски?", "en": ["Do you speak Russian well?"] },
+    { "ru": "Я не очень люблю спорт.", "en": ["I don't like sport very much.", "I don't like sports very much.", "I don't really like sport.", "I don't really like sports."] },
+    { "ru": "Ты хорошо знаешь Пола?", "en": ["Do you know Paul well?"] },
+    { "ru": "Он быстро прочитал письмо.", "en": ["He read the letter quickly.", "He quickly read the letter."] },
+    { "ru": "Она медленно открыла дверь.", "en": ["She opened the door slowly.", "She slowly opened the door."] },
+    { "ru": "Она внимательно прочитала договор.", "en": ["She read the contract carefully.", "She carefully read the contract."] },
+    { "ru": "Пол легко сдал тест.", "en": ["Paul passed the test easily.", "Paul easily passed the test."] },
+    { "ru": "Я снова потерял ключи.", "en": ["I lost my keys again.", "I've lost my keys again."] },
+    { "ru": "Мы встретили старого друга на вокзале.", "en": ["We met an old friend at the station.", "We met an old friend at the train station.", "We met an old friend at the railway station.", "We met an old friend of ours at the station."] },
+    { "ru": "Он каждый день ходит в спортзал.", "en": ["He goes to the gym every day.", "Every day he goes to the gym."] },
+    { "ru": "Мы каждое лето ездим в Испанию.", "en": ["We go to Spain every summer.", "Every summer we go to Spain."] },
+    { "ru": "Я каждое утро проверяю почту.", "en": ["I check my email every morning.", "Every morning I check my email.", "I check my emails every morning.", "Every morning I check my emails.", "I check my mail every morning.", "Every morning I check my mail."] },
+    { "ru": "Сегодня утром я был в банке.", "en": ["I was at the bank this morning.", "I went to the bank this morning.", "This morning I was at the bank."] },
+    { "ru": "Она пришла домой поздно вечером.", "en": ["She came home late in the evening.", "She got home late in the evening.", "She came home late at night.", "She got home late at night."] },
+    { "ru": "Мы приехали в Рим в субботу.", "en": ["We arrived in Rome on Saturday.", "We got to Rome on Saturday.", "On Saturday we arrived in Rome.", "We came to Rome on Saturday."] },
+    { "ru": "Вчера я забыл телефон дома.", "en": ["I left my phone at home yesterday.", "Yesterday I left my phone at home.", "I forgot my phone at home yesterday.", "Yesterday I forgot my phone at home."] },
+    { "ru": "Дети каждый вечер играют в саду.", "en": ["The children play in the garden every evening.", "Every evening the children play in the garden."] },
+    { "ru": "Они живут в Берлине с 2015 года.", "en": ["They have lived in Berlin since 2015.", "They've been living in Berlin since 2015.", "Since 2015 they have lived in Berlin."] },
+    { "ru": "Я буду в офисе весь день.", "en": ["I'll be in the office all day.", "I'll be at the office all day.", "I'll be in the office the whole day.", "I'll be at the office the whole day."] },
+    { "ru": "Давай встретимся у кинотеатра в семь.", "en": ["Let's meet outside the cinema at seven.", "Let's meet in front of the cinema at seven.", "Let's meet at the cinema at seven.", "Let's meet by the cinema at seven.", "Let's meet near the cinema at seven.", "Let's meet outside the movie theater at seven.", "Let's meet in front of the movie theater at seven.", "Let's meet at the movie theater at seven.", "Let's meet outside the cinema at seven o'clock."] },
+    { "ru": "В прошлом году мы провели неделю во Франции.", "en": ["We spent a week in France last year.", "Last year we spent a week in France."] },
+    { "ru": "Вчера вечером он оставил сумку в автобусе.", "en": ["He left his bag on the bus last night.", "Last night he left his bag on the bus.", "He left his bag on the bus yesterday evening.", "Yesterday evening he left his bag on the bus."] }
+  ]
+}

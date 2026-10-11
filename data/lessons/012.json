@@ -1,0 +1,273 @@
+{
+  "id": 12,
+  "section": "Present perfect и прошедшее время",
+  "title": "For and since, when ... ? and how long ... ?",
+  "subtitle": "for и since; когда? или как долго?; it's two years since…",
+  "theory": [
+    {
+      "type": "table",
+      "head": [
+        "for + период",
+        "since + начальная точка"
+      ],
+      "rows": [
+        [
+          "<b>for ten years, for two weeks, for a month, for ages</b>",
+          "<b>since March, since seven o'clock, since 2019, since I left school</b>"
+        ],
+        [
+          "<b>We've lived here for ten years.</b>",
+          "<b>I've been working here since March.</b>"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>for</b> часто можно опустить: <b>They've been together twenty years.</b> Но в отрицаниях лучше оставить: <b>We haven't had a holiday for five years.</b>",
+        "В отрицаниях вместо <b>for</b> можно сказать <b>in</b>: <b>We haven't had a holiday in five years.</b>",
+        "С <b>all</b> предлог <b>for</b> не нужен: <b>all day, all my life</b> — <b>We've been working all day.</b>"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "When? и How long?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "When … ? + past simple",
+        "How long … ? + present perfect"
+      ],
+      "rows": [
+        [
+          "<b>When did you meet?</b> — <b>We met ten years ago.</b>",
+          "<b>How long have you known Paul?</b> — <b>For ten years.</b>"
+        ],
+        [
+          "<b>When did Mary arrive?</b>",
+          "<b>How long has Mary been in Paris?</b>"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "It's … since"
+    },
+    {
+      "type": "p",
+      "text": "«Прошло два года с тех пор, как…» = <b>It's two years since…</b> или <b>It's been two years since…</b>, а после since — past simple: <b>It's been two years since I last saw Nick.</b> Вопрос: <b>How long has it been since you moved?</b>"
+    },
+    {
+      "type": "tip",
+      "text": "Русское «уже три дня», «с понедельника» в обоих случаях без предлога или с «с», поэтому <b>for</b> и <b>since</b> путают: <b>since three days</b> — ошибка. Если отвечает на вопрос «сколько времени?» — <b>for</b>; если «с какого момента?» — <b>since</b>."
+    }
+  ],
+  "words": [
+    { "en": "since", "ru": "с тех пор как (since he left university)" },
+    { "en": "it's been ... since", "ru": "прошло (столько-то времени) с тех пор, как" },
+    { "en": "ago", "ru": "назад (ten years ago)" },
+    { "en": "last", "ru": "в последний раз (since I last saw him)" },
+    { "en": "together", "ru": "вместе" },
+    { "en": "life", "ru": "жизнь" },
+    { "en": "university", "ru": "университет" },
+    { "en": "lunchtime", "ru": "обеденное время, обед" },
+    { "en": "month", "ru": "месяц" },
+    { "en": "March", "ru": "март" },
+    { "en": "o'clock", "ru": "час (seven o'clock — семь часов)" },
+    { "en": "anything", "ru": "ничего (в отрицаниях); что-нибудь" }
+  ],
+  "items": [
+    {
+      "ru": "Мы живём здесь десять лет.",
+      "en": [
+        "We've lived here for ten years.",
+        "We've been living here for ten years.",
+        "We've lived here ten years.",
+        "We've lived here for 10 years."
+      ]
+    },
+    {
+      "ru": "Я работаю здесь с марта.",
+      "en": [
+        "I've been working here since March.",
+        "I've worked here since March."
+      ]
+    },
+    {
+      "ru": "Я не видел Кейт две недели.",
+      "en": [
+        "I haven't seen Kate for two weeks.",
+        "I haven't seen Kate in two weeks.",
+        "I haven't seen Kate for a fortnight.",
+        "I haven't seen Kate for 2 weeks."
+      ]
+    },
+    {
+      "ru": "Мы ждём с семи часов.",
+      "en": [
+        "We've been waiting since seven o'clock.",
+        "We've been waiting since seven.",
+        "We've been waiting since 7 o'clock."
+      ]
+    },
+    {
+      "ru": "Дэн ищет работу с тех пор, как окончил университет.",
+      "en": [
+        "Dan has been looking for a job since he left university.",
+        "Dan has been looking for a job since he finished university.",
+        "Dan has been looking for work since he left university.",
+        "Dan has been looking for a job since he graduated."
+      ]
+    },
+    {
+      "ru": "Она здесь с обеда.",
+      "en": [
+        "She's been here since lunchtime.",
+        "She's been here since lunch."
+      ]
+    },
+    {
+      "ru": "Они вместе уже двадцать лет.",
+      "en": [
+        "They've been together for twenty years.",
+        "They've been together twenty years.",
+        "They've been together for 20 years."
+      ]
+    },
+    {
+      "ru": "У нас не было отпуска пять лет.",
+      "en": [
+        "We haven't had a holiday for five years.",
+        "We haven't had a holiday in five years.",
+        "We haven't had a vacation for five years.",
+        "We haven't had a holiday for 5 years.",
+        "We haven't had a vacation in five years."
+      ]
+    },
+    {
+      "ru": "Он не звонил мне целый месяц.",
+      "en": [
+        "He hasn't called me for a month.",
+        "He hasn't called me in a month.",
+        "He hasn't phoned me for a month.",
+        "He hasn't called me for a whole month."
+      ]
+    },
+    {
+      "ru": "Анна прожила в Лондоне всю жизнь.",
+      "en": [
+        "Anna has lived in London all her life.",
+        "Anna has lived in London her whole life."
+      ]
+    },
+    {
+      "ru": "Мы работаем весь день.",
+      "en": [
+        "We've been working all day."
+      ]
+    },
+    {
+      "ru": "Когда ты начал учить английский?",
+      "en": [
+        "When did you start learning English?",
+        "When did you start to learn English?",
+        "When did you begin learning English?",
+        "When did you start studying English?"
+      ]
+    },
+    {
+      "ru": "Как давно ты учишь итальянский?",
+      "en": [
+        "How long have you been learning Italian?",
+        "How long have you been studying Italian?"
+      ]
+    },
+    {
+      "ru": "Когда вы познакомились?",
+      "en": [
+        "When did you meet?",
+        "When did you first meet?"
+      ]
+    },
+    {
+      "ru": "Как давно ты знаешь Пола?",
+      "en": [
+        "How long have you known Paul?"
+      ]
+    },
+    {
+      "ru": "Когда приехала Мэри?",
+      "en": [
+        "When did Mary arrive?",
+        "When did Mary come?"
+      ]
+    },
+    {
+      "ru": "Как долго Мэри в Париже?",
+      "en": [
+        "How long has Mary been in Paris?"
+      ]
+    },
+    {
+      "ru": "Мы познакомились десять лет назад.",
+      "en": [
+        "We met ten years ago.",
+        "We first met ten years ago.",
+        "We met 10 years ago."
+      ]
+    },
+    {
+      "ru": "Прошло два года с тех пор, как я в последний раз видел Ника.",
+      "en": [
+        "It's been two years since I last saw Nick.",
+        "It's two years since I last saw Nick.",
+        "It's been two years since I saw Nick.",
+        "It's been 2 years since I last saw Nick."
+      ]
+    },
+    {
+      "ru": "Прошла целая вечность с тех пор, как мы ходили в театр.",
+      "en": [
+        "It's been ages since we went to the theatre.",
+        "It's ages since we went to the theatre.",
+        "It's been ages since we last went to the theatre.",
+        "It's been ages since we went to the theater."
+      ]
+    },
+    {
+      "ru": "Сколько времени прошло с тех пор, как ты переехал?",
+      "en": [
+        "How long has it been since you moved?",
+        "How long is it since you moved?"
+      ]
+    },
+    {
+      "ru": "Прошло три месяца с тех пор, как она уехала.",
+      "en": [
+        "It's been three months since she left.",
+        "It's three months since she left.",
+        "It's been 3 months since she left."
+      ]
+    },
+    {
+      "ru": "Я ничего не ел с утра.",
+      "en": [
+        "I haven't eaten anything since the morning.",
+        "I haven't eaten anything since this morning.",
+        "I haven't eaten since this morning.",
+        "I haven't eaten since the morning."
+      ]
+    },
+    {
+      "ru": "Снег пошёл два часа назад.",
+      "en": [
+        "It started snowing two hours ago.",
+        "It started to snow two hours ago.",
+        "It began snowing two hours ago.",
+        "It started snowing 2 hours ago.",
+        "It began to snow two hours ago."
+      ]
+    }
+  ]
+}

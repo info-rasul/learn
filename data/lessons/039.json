@@ -1,0 +1,307 @@
+{
+  "id": 39,
+  "section": "If и wish",
+  "title": "if I knew ... I wish I knew ...",
+  "subtitle": "Нереальное настоящее: if I knew, I wish I had, if I were you",
+  "theory": [
+    {
+      "type": "p",
+      "text": "Когда мы представляем себе ситуацию, которой нет сейчас, ставим <b>if + прошедшее</b>, хотя смысл — настоящий: <b>I'd write to Emma if I knew her address.</b> (но я не знаю его). <b>If I had more time, I'd do more sport.</b> (но времени нет)."
+    },
+    {
+      "type": "h",
+      "text": "I wish… — «жаль, что не…», «вот бы…»"
+    },
+    {
+      "type": "p",
+      "text": "После <b>wish</b> тоже ставим прошедшее, говоря о сожалении про настоящее: <b>I wish I knew the answer.</b> (жаль, что не знаю). <b>I wish I could swim.</b> (жаль, что не умею). <b>I wish there weren't so many cars.</b>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>I'm glad I work here.</b> — я работаю здесь, и это хорошо.",
+        "<b>I wish I worked here.</b> — я здесь не работаю, а жаль."
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Правило",
+        "Правильно",
+        "Неправильно"
+      ],
+      "rows": [
+        [
+          "После if/wish можно were вместо was",
+          "<b>If I were you…</b> / <b>I wish it were Saturday.</b>",
+          "—"
+        ],
+        [
+          "would не ставят после if",
+          "<b>If I were taller, I'd play basketball.</b>",
+          "If I would be taller…"
+        ],
+        [
+          "would не ставят после wish для состояния",
+          "<b>I wish I had a bigger flat.</b>",
+          "I wish I would have…"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>could</b> бывает «смог бы» и «мог, умел бы»: <b>She could find a better job</b> (смогла бы) <b>if she spoke English.</b> <b>I wish I could go with you.</b> (жаль, что не могу)."
+    },
+    {
+      "type": "tip",
+      "text": "«Жаль, что я не знаю» хочется перевести как «It's a pity I don't know» — это возможно, но в этом уроке тренируем <b>I wish I knew</b>. Отрицание в русском превращается в утверждение в английском: «жаль, что нет машины» → <b>I wish I had a car</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "wish",
+      "ru": "жаль, что; хотелось бы"
+    },
+    {
+      "en": "if I were you",
+      "ru": "на твоём месте"
+    },
+    {
+      "en": "address",
+      "ru": "адрес"
+    },
+    {
+      "en": "sport",
+      "ru": "спорт"
+    },
+    {
+      "en": "tall",
+      "ru": "высокий (о человеке)"
+    },
+    {
+      "en": "basketball",
+      "ru": "баскетбол"
+    },
+    {
+      "en": "windy",
+      "ru": "ветреный"
+    },
+    {
+      "en": "a month off",
+      "ru": "месяц отпуска"
+    },
+    {
+      "en": "speak",
+      "forms": "spoke, spoken",
+      "ru": "говорить (на языке)"
+    },
+    {
+      "en": "easy",
+      "ru": "лёгкий, простой"
+    },
+    {
+      "en": "swim",
+      "forms": "swam, swum",
+      "ru": "плавать"
+    },
+    {
+      "en": "French",
+      "ru": "французский язык"
+    },
+    {
+      "en": "flat",
+      "ru": "квартира"
+    },
+    {
+      "en": "close",
+      "ru": "близкий, близко"
+    },
+    {
+      "en": "glad",
+      "ru": "рад"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Я бы написал Эмме, если бы знал её адрес.",
+      "en": [
+        "I'd write to Emma if I knew her address.",
+        "If I knew Emma's address, I'd write to her.",
+        "I'd write to Emma if I knew her email address."
+      ]
+    },
+    {
+      "ru": "Если бы у меня было больше времени, я бы больше занимался спортом.",
+      "en": [
+        "If I had more time, I'd do more sport.",
+        "If I had more time, I'd play more sport.",
+        "If I had more time, I'd do more exercise.",
+        "If I had more time, I'd exercise more."
+      ]
+    },
+    {
+      "ru": "Если бы ты был на моём месте, что бы ты сделал?",
+      "en": [
+        "If you were me, what would you do?",
+        "What would you do if you were me?",
+        "If you were in my place, what would you do?",
+        "If you were in my position, what would you do?"
+      ]
+    },
+    {
+      "ru": "На твоём месте я бы не покупал эту машину.",
+      "en": [
+        "If I were you, I wouldn't buy this car.",
+        "If I was you, I wouldn't buy this car.",
+        "I wouldn't buy this car if I were you.",
+        "If I were you, I wouldn't buy that car.",
+        "I wouldn't buy that car if I were you."
+      ]
+    },
+    {
+      "ru": "Если бы я был выше, я бы играл в баскетбол.",
+      "en": [
+        "If I were taller, I'd play basketball.",
+        "If I was taller, I'd play basketball."
+      ]
+    },
+    {
+      "ru": "Мы бы сели на улице, если бы не было так ветрено.",
+      "en": [
+        "We'd sit outside if it weren't so windy.",
+        "We'd sit outside if it wasn't so windy."
+      ]
+    },
+    {
+      "ru": "Куда бы ты поехал, если бы у тебя был месяц отпуска?",
+      "en": [
+        "Where would you go if you had a month off?",
+        "Where would you go if you had a month's holiday?",
+        "Where would you go if you had a month of holiday?",
+        "Where would you go if you had a month's vacation?"
+      ]
+    },
+    {
+      "ru": "Если бы Майк не работал так много, он бы не уставал так.",
+      "en": [
+        "If Mike didn't work so much, he wouldn't be so tired.",
+        "If Mike didn't work so hard, he wouldn't be so tired."
+      ]
+    },
+    {
+      "ru": "Я бы пришёл, если бы мог.",
+      "en": [
+        "I'd come if I could."
+      ]
+    },
+    {
+      "ru": "Она могла бы найти работу получше, если бы говорила по-английски.",
+      "en": [
+        "She could find a better job if she spoke English.",
+        "She could get a better job if she spoke English.",
+        "She could find a better job if she could speak English.",
+        "She could get a better job if she could speak English."
+      ]
+    },
+    {
+      "ru": "Было бы проще, если бы Лиза умела водить.",
+      "en": [
+        "It would be easier if Lisa could drive."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не знаю ответа.",
+      "en": [
+        "I wish I knew the answer."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не умею плавать.",
+      "en": [
+        "I wish I could swim."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не говорю по-французски.",
+      "en": [
+        "I wish I spoke French.",
+        "I wish I could speak French."
+      ]
+    },
+    {
+      "ru": "Жаль, что у меня нет квартиры побольше.",
+      "en": [
+        "I wish I had a bigger flat.",
+        "I wish I had a bigger apartment."
+      ]
+    },
+    {
+      "ru": "Жаль, что на дорогах так много машин.",
+      "en": [
+        "I wish there weren't so many cars on the roads.",
+        "I wish there wasn't so much traffic on the roads.",
+        "I wish there weren't so many cars on the road."
+      ]
+    },
+    {
+      "ru": "Жаль, что мне завтра надо рано вставать.",
+      "en": [
+        "I wish I didn't have to get up early tomorrow."
+      ]
+    },
+    {
+      "ru": "Жаль, что ты не живёшь ближе.",
+      "en": [
+        "I wish you lived closer.",
+        "I wish you lived nearer."
+      ]
+    },
+    {
+      "ru": "Я рад, что работаю здесь.",
+      "en": [
+        "I'm glad I work here.",
+        "I'm glad that I work here."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не работаю в этой компании.",
+      "en": [
+        "I wish I worked for this company.",
+        "I wish I worked at this company.",
+        "I wish I worked for that company."
+      ]
+    },
+    {
+      "ru": "Жаль, что сегодня не суббота.",
+      "en": [
+        "I wish it were Saturday today.",
+        "I wish it was Saturday today.",
+        "I wish today were Saturday.",
+        "I wish today was Saturday."
+      ]
+    },
+    {
+      "ru": "Жаль, что моей сестры сейчас здесь нет.",
+      "en": [
+        "I wish my sister were here now.",
+        "I wish my sister was here now."
+      ]
+    },
+    {
+      "ru": "Жаль, что я не могу пойти с тобой.",
+      "en": [
+        "I wish I could go with you.",
+        "I wish I could come with you."
+      ]
+    },
+    {
+      "ru": "Тебе никогда не хочется жить у моря?",
+      "en": [
+        "Do you ever wish you lived by the sea?",
+        "Do you ever wish you lived near the sea?",
+        "Don't you ever wish you lived by the sea?",
+        "Don't you ever wish you lived near the sea?"
+      ]
+    }
+  ]
+}

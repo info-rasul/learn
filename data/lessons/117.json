@@ -1,0 +1,291 @@
+{
+  "id": 117,
+  "section": "Союзы и предлоги",
+  "title": "like and as",
+  "subtitle": "like = «похож на, как», as = «в качестве» и «как» перед предложением",
+  "theory": [
+    {
+      "type": "p",
+      "text": "<b>like</b> — предлог «как, подобно, похож на». После него идёт существительное или местоимение: <b>He runs like the wind.</b> <b>Like me, Ben hates coffee.</b> Также like = «например»: <b>cities like Paris</b> (= <b>such as Paris</b>)."
+    },
+    {
+      "type": "p",
+      "text": "<b>as</b> + подлежащее + глагол = «как»: <b>Do it as I showed you.</b> Устойчивые выражения: <b>as usual</b>, <b>as always</b>, <b>as you know</b>, <b>as I said</b>, <b>as expected</b>."
+    },
+    {
+      "type": "p",
+      "text": "<b>as</b> + существительное = «в качестве, будучи кем-то» (это реальная роль или функция): <b>She works as a nurse.</b> <b>We used the sofa as a bed.</b> <b>As a child, I lived in Canada.</b>"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Смысл",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "like a teacher",
+          "похож на учителя, но не учитель",
+          "He talks like a teacher."
+        ],
+        [
+          "as a teacher",
+          "действительно учитель, в роли учителя",
+          "He works as a teacher."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "<b>be known as</b> — «быть известным как»: <b>He is known as a good cook.</b>",
+        "В разговорной речи like иногда ставят перед предложением (<b>like I said</b>), но нейтральный вариант — <b>as</b>."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "«Я работаю учителем» — это <b>I work as a teacher</b>, а не like a teacher (так говорят о том, кто только похож на учителя). Профессия и роль всегда с <b>as</b>."
+    }
+  ],
+  "words": [
+    {
+      "en": "like",
+      "ru": "как, подобно (+ существительное)"
+    },
+    {
+      "en": "as",
+      "ru": "в качестве, как (в роли); как (+ предложение)"
+    },
+    {
+      "en": "such as",
+      "ru": "такой как, например"
+    },
+    {
+      "en": "as usual",
+      "ru": "как обычно"
+    },
+    {
+      "en": "as always",
+      "ru": "как всегда"
+    },
+    {
+      "en": "be known as",
+      "ru": "быть известным как"
+    },
+    {
+      "en": "fruit",
+      "ru": "фрукты"
+    },
+    {
+      "en": "waiter",
+      "ru": "официант"
+    },
+    {
+      "en": "translator",
+      "ru": "переводчик"
+    },
+    {
+      "en": "alarm clock",
+      "ru": "будильник"
+    },
+    {
+      "en": "parent",
+      "ru": "родитель"
+    }
+  ],
+  "items": [
+    {
+      "ru": "Твой дом похож на дворец.",
+      "en": [
+        "Your house is like a palace.",
+        "Your house looks like a palace.",
+        "Your home is like a palace."
+      ]
+    },
+    {
+      "ru": "Он плавает как рыба.",
+      "en": [
+        "He swims like a fish."
+      ]
+    },
+    {
+      "ru": "Не веди себя как ребёнок.",
+      "en": [
+        "Don't behave like a child.",
+        "Don't act like a child.",
+        "Don't act like a kid."
+      ]
+    },
+    {
+      "ru": "Эта комната выглядит как офис.",
+      "en": [
+        "This room looks like an office.",
+        "This room is like an office."
+      ]
+    },
+    {
+      "ru": "Пахнет как кофе.",
+      "en": [
+        "It smells like coffee.",
+        "It smells of coffee.",
+        "That smells like coffee."
+      ]
+    },
+    {
+      "ru": "Как и я, Пол любит джаз.",
+      "en": [
+        "Like me, Paul loves jazz.",
+        "Like me, Paul likes jazz.",
+        "Paul loves jazz, like me.",
+        "Paul likes jazz, like me."
+      ]
+    },
+    {
+      "ru": "Я люблю фрукты, например яблоки и бананы.",
+      "en": [
+        "I like fruit such as apples and bananas.",
+        "I like fruit like apples and bananas.",
+        "I love fruit such as apples and bananas.",
+        "I like fruit, for example apples and bananas.",
+        "I love fruit like apples and bananas.",
+        "I like fruits such as apples and bananas.",
+        "I like fruits like apples and bananas."
+      ]
+    },
+    {
+      "ru": "Мы посетили такие города, как Париж и Рим.",
+      "en": [
+        "We visited cities like Paris and Rome.",
+        "We visited cities such as Paris and Rome."
+      ]
+    },
+    {
+      "ru": "Сделай это так, как я тебе показал.",
+      "en": [
+        "Do it as I showed you.",
+        "Do it the way I showed you.",
+        "Do it like I showed you."
+      ]
+    },
+    {
+      "ru": "Как я и ожидал, он опоздал.",
+      "en": [
+        "As I expected, he was late.",
+        "As expected, he was late.",
+        "He was late, as I expected."
+      ]
+    },
+    {
+      "ru": "Как обычно, Майк пришёл последним.",
+      "en": [
+        "As usual, Mike arrived last.",
+        "As usual, Mike came last.",
+        "Mike arrived last, as usual.",
+        "As usual, Mike was the last to arrive.",
+        "As usual, Mike was the last to come.",
+        "Mike came last, as usual."
+      ]
+    },
+    {
+      "ru": "Как ты знаешь, я переезжаю в Берлин.",
+      "en": [
+        "As you know, I'm moving to Berlin.",
+        "As you know, I'm going to move to Berlin."
+      ]
+    },
+    {
+      "ru": "Как я тебе говорил, магазин закрыт.",
+      "en": [
+        "As I told you, the shop is closed.",
+        "As I said, the shop is closed.",
+        "As I told you, the store is closed.",
+        "As I've told you, the shop is closed."
+      ]
+    },
+    {
+      "ru": "Как всегда, Лиза была права.",
+      "en": [
+        "As always, Lisa was right.",
+        "Lisa was right, as always."
+      ]
+    },
+    {
+      "ru": "Я работаю официантом.",
+      "en": [
+        "I work as a waiter.",
+        "I'm working as a waiter."
+      ]
+    },
+    {
+      "ru": "Она работала гидом в Италии.",
+      "en": [
+        "She worked as a guide in Italy.",
+        "She worked as a tour guide in Italy."
+      ]
+    },
+    {
+      "ru": "Ты когда-нибудь работал переводчиком?",
+      "en": [
+        "Have you ever worked as a translator?",
+        "Have you ever worked as an interpreter?"
+      ]
+    },
+    {
+      "ru": "Мы использовали коробку в качестве стола.",
+      "en": [
+        "We used a box as a table.",
+        "We used the box as a table."
+      ]
+    },
+    {
+      "ru": "Я использую телефон как будильник.",
+      "en": [
+        "I use my phone as an alarm clock.",
+        "I use my phone as an alarm.",
+        "I use the phone as an alarm clock.",
+        "I use my phone as my alarm clock."
+      ]
+    },
+    {
+      "ru": "Как родитель, я тебя понимаю.",
+      "en": [
+        "As a parent, I understand you.",
+        "As a parent, I can understand you."
+      ]
+    },
+    {
+      "ru": "В детстве я жил в Канаде.",
+      "en": [
+        "As a child, I lived in Canada.",
+        "When I was a child, I lived in Canada.",
+        "I lived in Canada as a child."
+      ]
+    },
+    {
+      "ru": "Её знают как лучшего врача в городе.",
+      "en": [
+        "She is known as the best doctor in town.",
+        "She is known as the best doctor in the city."
+      ]
+    },
+    {
+      "ru": "(она действительно его начальница) Как его начальница, она должна ему помочь.",
+      "en": [
+        "As his boss, she should help him.",
+        "As his boss, she must help him.",
+        "As his boss, she has to help him.",
+        "As his boss, she ought to help him."
+      ]
+    },
+    {
+      "ru": "(она не его начальница) Она ведёт себя как его начальница.",
+      "en": [
+        "She behaves like his boss.",
+        "She acts like his boss.",
+        "She behaves like she's his boss.",
+        "She acts like she's his boss."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Грамматика Мёрфи — по методу «Полиглот»",
+  "short_name": "Мёрфи",
+  "description": "145 уроков английской грамматики по книге Мёрфи с тренировкой по методу «Полиглот».",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6fa",
+  "theme_color": "#c8102e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
