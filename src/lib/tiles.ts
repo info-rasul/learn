@@ -40,19 +40,35 @@ export function tileWord(word: string, isFirst: boolean): string {
   return isFirst && !keepsCase(word) ? word.charAt(0).toLowerCase() + word.slice(1) : word;
 }
 
-/** Words of the reference answer plus a few distractors taken from other phrases of the same lesson. */
+/** Proper names that appear mid-sentence with a capital letter anywhere in the lesson. */
+function lessonNames(items: LessonItem[]): Set<string> {
+  const names = new Set<string>();
+  items.forEach((item) =>
+    splitWords(item.en[0]).forEach((w, i) => {
+      if (i > 0 && /^[A-Z]/.test(w) && w !== 'I') names.add(w);
+    }),
+  );
+  return names;
+}
+
+/**
+ * Polyglot-style bank: every word of the reference answer is always on screen,
+ * plus a few distractors from other phrases of the same lesson.
+ */
 export function buildTiles(items: LessonItem[], index: number): Tile[] {
-  const words = splitWords(items[index].en[0]).map((w, i) => tileWord(w, i === 0));
+  const names = lessonNames(items);
+  const tile = (w: string, isFirst: boolean) => (names.has(w) ? w : tileWord(w, isFirst));
+  const words = splitWords(items[index].en[0]).map((w, i) => tile(w, i === 0));
   const used = new Set(words.map((w) => w.toLowerCase()));
   const pool = new Set<string>();
   items.forEach((item, j) => {
     if (j === index) return;
     splitWords(item.en[0]).forEach((w, i) => {
-      const t = tileWord(w, i === 0);
+      const t = tile(w, i === 0);
       if (!used.has(t.toLowerCase())) pool.add(t);
     });
   });
-  const extraCount = Math.min(4, Math.max(2, Math.ceil(words.length / 2)));
+  const extraCount = Math.min(6, Math.max(2, Math.ceil(words.length / 2)));
   const extras = shuffle([...pool]).slice(0, extraCount);
   return shuffle([...words, ...extras]).map((word, id) => ({ id, word }));
 }

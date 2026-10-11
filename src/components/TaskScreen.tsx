@@ -2,8 +2,7 @@ import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import type { Lesson } from '../types';
 import { useUserData } from '../lib/userData';
-import { buildSteps } from '../lib/steps';
-import { joinTiles } from '../lib/tiles';
+import { buildTiles, joinTiles, splitWords, type Tile } from '../lib/tiles';
 import { closestAnswer, isCorrect, normalize, sameAnswer } from '../lib/check';
 import { speak } from '../lib/speech';
 import { listen, listenAvailable } from '../lib/listen';
@@ -56,8 +55,9 @@ export default function TaskScreen(props: Props) {
   const { settings, updateSettings } = useUserData();
   const item = lesson.items[index];
   const mode = settings.mode;
-  const [steps] = useState(() => buildSteps(lesson.items, index));
-  const [picked, setPicked] = useState<string[]>([]);
+  const [tiles] = useState(() => buildTiles(lesson.items, index));
+  const answerLen = splitWords(item.en[0]).length;
+  const [picked, setPicked] = useState<Tile[]>([]);
   const [input, setInput] = useState('');
   const [status, setStatus] = useState<Status>('answer');
   const [answer, setAnswer] = useState('');
@@ -71,6 +71,7 @@ export default function TaskScreen(props: Props) {
 
   const closest = closestAnswer(answer, item.en);
   const hint = findVerb(item.en[0]);
+  const remaining = tiles.filter((t) => !picked.some((p) => p.id === t.id));
 
   function check(text: string) {
     if (status !== 'answer' || !normalize(text)) return;
@@ -85,12 +86,12 @@ export default function TaskScreen(props: Props) {
     if (status !== 'answer') onNext();
   }
 
-  function pick(word: string) {
+  function pick(tile: Tile) {
     if (status !== 'answer') return;
-    const nextPicked = [...picked, word];
+    const nextPicked = [...picked, tile];
     setPicked(nextPicked);
-    if (nextPicked.length === steps.answer.length) check(joinTiles(nextPicked));
-    else if (settings.autoSpeak) speak(word, settings.speechRate);
+    if (nextPicked.length === answerLen) check(joinTiles(nextPicked.map((t) => t.word)));
+    else if (settings.autoSpeak) speak(tile.word, settings.speechRate);
   }
 
   function undo() {
@@ -162,8 +163,7 @@ export default function TaskScreen(props: Props) {
     return () => window.removeEventListener('keydown', onKey);
   });
 
-  const shown = status === 'correct' ? closest : status === 'wrong' ? answer : joinTiles(picked);
-  const stepOptions = steps.options[picked.length] ?? [];
+  const shown = status === 'correct' ? closest : status === 'wrong' ? answer : joinTiles(picked.map((t) => t.word));
 
   const menuItems: MenuItem[] = [
     {
@@ -269,10 +269,10 @@ export default function TaskScreen(props: Props) {
             </div>
           )}
           {status === 'answer' && !listening && mode === 'tiles' && (
-            <div className="word-grid">
-              {stepOptions.map((word) => (
-                <button type="button" key={word} className="word-option" onClick={() => pick(word)}>
-                  {word}
+            <div className={`word-grid${remaining.length > 10 ? ' dense' : ''}`}>
+              {remaining.map((tile) => (
+                <button type="button" key={tile.id} className="word-option" onClick={() => pick(tile)}>
+                  {tile.word}
                 </button>
               ))}
             </div>
